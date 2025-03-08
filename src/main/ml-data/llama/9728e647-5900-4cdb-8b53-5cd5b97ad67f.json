@@ -1,0 +1,15 @@
+{
+  "envelope" : {
+    "instance" : {
+      "id" : 6,
+      "name" : "Maria",
+      "type" : "llama",
+      "birthDate" : "2003-05-26",
+      "farm" : 1,
+      "geometry" : {
+        "coordinates" : [ -121.975900905956, 37.3772244530017 ],
+        "type" : "Point"
+      }
+    }
+  }
+}

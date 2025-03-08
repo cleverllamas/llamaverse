@@ -1,0 +1,15 @@
+{
+  "envelope" : {
+    "instance" : {
+      "id" : 20,
+      "name" : "Jenny",
+      "type" : "llama",
+      "birthDate" : "2000-08-11",
+      "farm" : 1,
+      "geometry" : {
+        "coordinates" : [ -121.97588624138, 37.3763562775842 ],
+        "type" : "Point"
+      }
+    }
+  }
+}

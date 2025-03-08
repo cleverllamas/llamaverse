@@ -1,0 +1,15 @@
+{
+  "envelope" : {
+    "instance" : {
+      "id" : 14,
+      "name" : "Ruby",
+      "type" : "llama",
+      "birthDate" : "2000-06-04",
+      "farm" : 2,
+      "geometry" : {
+        "coordinates" : [ -121.973371266458, 37.3754939188988 ],
+        "type" : "Point"
+      }
+    }
+  }
+}

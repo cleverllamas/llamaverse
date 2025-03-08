@@ -1,0 +1,15 @@
+{
+  "envelope" : {
+    "instance" : {
+      "id" : 3,
+      "name" : "Winnie",
+      "type" : "llama",
+      "birthDate" : "1998-11-22",
+      "farm" : 3,
+      "geometry" : {
+        "coordinates" : [ -121.973459253919, 37.3773409858482 ],
+        "type" : "Point"
+      }
+    }
+  }
+}
