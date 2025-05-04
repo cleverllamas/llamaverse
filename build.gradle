@@ -1,4 +1,44 @@
 plugins {
-  id "net.saliman.properties" version "1.5.2"
-  id "com.marklogic.ml-gradle" version "5.0.0"
+    id("maven-publish")
+}
+
+group = "com.cleverllamas"
+version = "1.0.0"
+
+configurations {
+    bundle
+}
+
+task bundleJar(type: Jar) {
+    from("src/main/ml-config") {
+        into("llamaverse/ml-config")
+    }
+    from("src/main/ml-data") {
+        into("llamaverse/ml-data")
+    }
+    destinationDirectory = file("build/libs")
+    archiveBaseName = "llamaverse"
+}
+
+artifacts {
+    bundle bundleJar
+}
+
+publishing {
+    repositories {
+        maven {
+            name = "GitHubPackages"
+            url = uri("https://maven.pkg.github.com/cleverllamas/llamaverse")
+            credentials {
+                username = project.findProperty("ghpUsername")
+                password = project.findProperty("ghpPassword")
+            }
+        }
+    }
+    publications {
+        mainBundle(MavenPublication) {
+            artifactId "llamaverse"
+            artifact bundleJar
+        }
+    }
 }
