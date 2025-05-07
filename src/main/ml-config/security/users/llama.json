@@ -1,8 +1,0 @@
-{
-    "user-name": "cl-llama",
-    "description": "Llamaverse Inhabitant",
-    "password": "llama",
-    "role": [
-        "cl-llamaverse-reader"
-    ]
-}

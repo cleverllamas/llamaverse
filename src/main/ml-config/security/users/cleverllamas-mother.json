@@ -1,0 +1,9 @@
+{
+    "user-name": "cleverllamas-mother",
+    "description": "Clever Llamas Llamaverse Creator",
+    "password": "llama",
+    "role": [
+        "cleverllamas-llamaverse-reader",
+        "cleverllamas-llamaverse-writer"
+    ]
+}

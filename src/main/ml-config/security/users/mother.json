@@ -1,9 +1,0 @@
-{
-    "user-name": "cl-mother",
-    "description": "Llamaverse Creator",
-    "password": "llama",
-    "role": [
-        "cl-llamaverse-reader",
-        "cl-llamaverse-writer"
-    ]
-}

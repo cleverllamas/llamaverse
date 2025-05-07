@@ -1,13 +1,13 @@
 {
-    "role-name": "cl-llamaverse-writer",
-    "description": "Create the Llamaverse",
+    "role-name": "cleverllamas-llamaverse-writer",
+    "description": "Create the Clever Llamas Llamaverse",
     "permission": [
         {
-            "role-name": "cl-llamaverse-writer",
+            "role-name": "cleverllamas-llamaverse-writer",
             "capability": "update"
         },
         {
-            "role-name": "cl-llamaverse-reader",
+            "role-name": "cleverllamas-llamaverse-reader",
             "capability": "read"
         }
     ],
@@ -28,12 +28,12 @@
             "kind": "execute"
         },
         {
-            "privilege-name": "cl-llamaverse",
-            "action": "/cl-llamaverse/",
+            "privilege-name": "cleverllamas-llamaverse",
+            "action": "/cleverllamas/llamaverse/",
             "kind": "uri"
         }
     ],
     "collection": [
-        "/cl-llamaverse"
+        "/cleverllamas/llamaverse"
     ]
 }
