@@ -1,0 +1,14 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "secret-powers"
+    },
+    "instance": {
+      "secret-powers": {
+        "id": "9f3076f1-fddb-48e2-a2ea-2a11081d70b0",
+        "name": "Leaf Dancer",
+        "description": "Performs enchanted dances that make leaves swirl, squirrels applaud, and acorns roll in rhythm."
+      }
+    }
+  }
+}

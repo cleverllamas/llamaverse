@@ -1,0 +1,34 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "llamas"
+    },
+    "instance": {
+      "llamas": {
+        "id": "a7f7886c-9843-4ddc-b76b-126b8b817fbf",
+        "name": "Jaime",
+        "heightCm": 162,
+        "weightKg": 130,
+        "eyeColor": "Green",
+        "hairColor": "Auburn",
+        "breed": "Huacaya",
+        "placeOfBirth": "Arequipa, Peru",
+        "interests": [
+          "gardening",
+          "meditation",
+          "baking"
+        ],
+        "medicalCondition": null,
+        "relatedTo": {
+          "id": "c7e16d34-60db-4fd7-90f2-e6999c0518cf",
+          "relationship": "sister"
+        },
+        "description": "Jaime is a green-eyed llama with auburn hair, standing 162 cm tall. Originally from Arequipa, Peru, Jaime enjoys gardening, meditation, and baking. Known for their curious and calm personality, Jaime is a gentle soul among llamas.",
+        "secretPower": {
+          "name": "Featherlight Step",
+          "id": "68a274e5-eb4d-4d0d-a557-98fb4409be13"
+        }
+      }
+    }
+  }
+}

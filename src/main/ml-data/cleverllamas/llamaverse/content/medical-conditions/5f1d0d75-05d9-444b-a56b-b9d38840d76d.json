@@ -1,0 +1,17 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "medical-conditions"
+    },
+    "instance": {
+      "medical-conditions": {
+        "id": "5f1d0d75-05d9-444b-a56b-b9d38840d76d",
+        "name": "Chronic Sinusitis",
+        "description": "Chronic sinusitis is long-term inflammation of the sinuses lasting over 12 weeks, causing congestion, facial pain, and a reduced sense of smell.",
+        "references": [
+          "https://www.nhs.uk/conditions/sinusitis-sinus-infection/"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "llamas"
+    },
+    "instance": {
+      "llamas": {
+        "id": "f77e62b9-a955-4cd2-9478-18d74aea4265",
+        "name": "Debbie",
+        "heightCm": 156,
+        "weightKg": 169,
+        "eyeColor": "Blue",
+        "hairColor": "Gray",
+        "breed": "Huacaya",
+        "placeOfBirth": "Arequipa, Peru",
+        "interests": [
+          "knitting",
+          "reading",
+          "wood carving"
+        ],
+        "medicalCondition": {
+          "name": "seasonal allergies",
+          "id": "4c0cde2d-5a2d-4e70-9b21-4647e095ce86"
+        },
+        "relatedTo": {
+          "id": "edad9d92-768c-4030-84f3-bfb027c2f4f4",
+          "relationship": "uncle"
+        },
+        "description": "Debbie is a blue-eyed llama with gray hair, standing 156 cm tall. Originally from Arequipa, Peru, Debbie enjoys knitting, reading, and wood carving. Known for their curious and calm personality, Debbie is a gentle soul among llamas.",
+        "secretPower": {
+          "name": "Bellower of Truths",
+          "id": "83cacf15-577a-44f6-a0da-41ee696d8dbc"
+        }
+      }
+    }
+  }
+}

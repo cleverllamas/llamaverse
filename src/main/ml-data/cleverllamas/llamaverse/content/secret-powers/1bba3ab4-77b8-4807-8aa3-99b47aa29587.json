@@ -1,0 +1,14 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "secret-powers"
+    },
+    "instance": {
+      "secret-powers": {
+        "id": "1bba3ab4-77b8-4807-8aa3-99b47aa29587",
+        "name": "Potion Sniffer",
+        "description": "Can sniff out any magical concoction, from ancient elixirs to freshly brewed llama lattes."
+      }
+    }
+  }
+}
