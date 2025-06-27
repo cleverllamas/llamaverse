@@ -1,0 +1,25 @@
+{
+  "id": "4d067472-11f4-4696-8d94-f411c0d32e20",
+  "name": "Cory",
+  "heightCm": 173,
+  "weightKg": 131,
+  "eyeColor": "Amber",
+  "hairColor": "Gray",
+  "breed": "Huacaya",
+  "placeOfBirth": "Santiago, Chile",
+  "interests": [
+    "wood carving",
+    "painting",
+    "reading"
+  ],
+  "medicalCondition": null,
+  "relatedTo": {
+    "id": "47063877-0841-4adc-8a77-32703130aa68",
+    "relationship": "cousin"
+  },
+  "description": "Cory is a amber-eyed llama with gray hair, standing 173 cm tall. Originally from Santiago, Chile, Cory enjoys wood carving, painting, and reading. Known for their curious and calm personality, Cory is a gentle soul among llamas.",
+  "secretPower": {
+    "name": "Beard of the Bards",
+    "id": "47612997-7860-4497-b6b3-0ab6d0e54786"
+  }
+}

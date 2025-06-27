@@ -1,0 +1,14 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "secret-powers"
+    },
+    "instance": {
+      "secret-powers": {
+        "id": "6eadcacc-c43c-491d-97a4-75ccc6c4f6b3",
+        "name": "Lichen Listener",
+        "description": "Can hear ancient wisdom from moss and lichen. A master of slow, contemplative conversation."
+      }
+    }
+  }
+}

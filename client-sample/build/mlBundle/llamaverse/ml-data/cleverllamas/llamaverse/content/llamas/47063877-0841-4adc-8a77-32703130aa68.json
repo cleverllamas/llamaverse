@@ -1,0 +1,37 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "llamas"
+    },
+    "instance": {
+      "llamas": {
+        "id": "47063877-0841-4adc-8a77-32703130aa68",
+        "name": "Tim",
+        "heightCm": 177,
+        "weightKg": 144,
+        "eyeColor": "Gray",
+        "hairColor": "White",
+        "breed": "Huacaya",
+        "placeOfBirth": "Santiago, Chile",
+        "interests": [
+          "gardening",
+          "baking",
+          "painting"
+        ],
+        "medicalCondition": {
+          "name": "chronic sinusitis",
+          "id": "5f1d0d75-05d9-444b-a56b-b9d38840d76d"
+        },
+        "relatedTo": {
+          "id": "4d067472-11f4-4696-8d94-f411c0d32e20",
+          "relationship": "aunt"
+        },
+        "description": "Tim is a gray-eyed llama with white hair, standing 177 cm tall. Originally from Santiago, Chile, Tim enjoys gardening, baking, and painting. Known for their curious and calm personality, Tim is a gentle soul among llamas.",
+        "secretPower": {
+          "name": "Lichen Listener",
+          "id": "6eadcacc-c43c-491d-97a4-75ccc6c4f6b3"
+        }
+      }
+    }
+  }
+}

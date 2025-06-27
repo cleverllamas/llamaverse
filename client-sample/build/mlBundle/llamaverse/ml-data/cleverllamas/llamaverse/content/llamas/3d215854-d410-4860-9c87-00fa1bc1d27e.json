@@ -1,0 +1,34 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "llamas"
+    },
+    "instance": {
+      "llamas": {
+        "id": "3d215854-d410-4860-9c87-00fa1bc1d27e",
+        "name": "Cameron",
+        "heightCm": 179,
+        "weightKg": 151,
+        "eyeColor": "Amber",
+        "hairColor": "Brown",
+        "breed": "Huacaya",
+        "placeOfBirth": "Quito, Ecuador",
+        "interests": [
+          "reading",
+          "baking",
+          "wood carving"
+        ],
+        "medicalCondition": null,
+        "relatedTo": {
+          "id": "a57cfd3f-b4b6-47f5-9227-81ddae645f41",
+          "relationship": "aunt"
+        },
+        "description": "Cameron is a amber-eyed llama with brown hair, standing 179 cm tall. Originally from Quito, Ecuador, Cameron enjoys reading, baking, and wood carving. Known for their curious and calm personality, Cameron is a gentle soul among llamas.",
+        "secretPower": {
+          "name": "Sunbeam Soaker",
+          "id": "5012a9ae-bf5e-4f78-baae-fb6951b427d2"
+        }
+      }
+    }
+  }
+}
