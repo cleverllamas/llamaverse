@@ -1,0 +1,28 @@
+{
+  "id": "98c6c5c3-7c3e-4405-8b00-be34ab550a4a",
+  "name": "Angela",
+  "heightCm": 167,
+  "weightKg": 155,
+  "eyeColor": "Blue",
+  "hairColor": "Black",
+  "breed": "Huacaya",
+  "placeOfBirth": "Cusco, Peru",
+  "interests": [
+    "reading",
+    "yoga",
+    "knitting"
+  ],
+  "medicalCondition": {
+    "name": "anxiety",
+    "id": "78fd8a1d-1d85-4d0d-a121-f5bc1495a09b"
+  },
+  "relatedTo": {
+    "id": "1024fa02-cd67-44f2-8d8c-0c5f16ccb7d1",
+    "relationship": "second cousin"
+  },
+  "description": "Angela is a blue-eyed llama with black hair, standing 167 cm tall. Originally from Cusco, Peru, Angela enjoys reading, yoga, and knitting. Known for their curious and calm personality, Angela is a gentle soul among llamas.",
+  "secretPower": {
+    "name": "Leaf Dancer",
+    "id": "9f3076f1-fddb-48e2-a2ea-2a11081d70b0"
+  }
+}

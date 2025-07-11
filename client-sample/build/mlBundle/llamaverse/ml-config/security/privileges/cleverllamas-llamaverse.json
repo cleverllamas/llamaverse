@@ -1,8 +1,0 @@
-{
-    "privilege-name":"cleverllamas-llamaverse",
-    "action":"/cleverllamas/llamaverse/",
-    "kind":"uri",
-    "role":[
-        "cleverllamas-llamaverse-writer"
-    ]
-}

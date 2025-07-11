@@ -1,0 +1,28 @@
+{
+  "id": "a57cfd3f-b4b6-47f5-9227-81ddae645f41",
+  "name": "James",
+  "heightCm": 184,
+  "weightKg": 162,
+  "eyeColor": "Brown",
+  "hairColor": "Brown",
+  "breed": "Huacaya",
+  "placeOfBirth": "Santiago, Chile",
+  "interests": [
+    "gardening",
+    "wood carving",
+    "playing chess"
+  ],
+  "medicalCondition": {
+    "name": "acid reflux",
+    "id": "512c052f-b831-49d1-b35d-fecd5d8245cb"
+  },
+  "relatedTo": {
+    "id": "3d215854-d410-4860-9c87-00fa1bc1d27e",
+    "relationship": "third cousin twice removed"
+  },
+  "description": "James is a brown-eyed llama with brown hair, standing 184 cm tall. Originally from Santiago, Chile, James enjoys gardening, wood carving, and playing chess. Known for their curious and calm personality, James is a gentle soul among llamas.",
+  "secretPower": {
+    "name": "Fog Walker",
+    "id": "d8839ba6-2b77-4bcc-9927-b86cdfecb9fb"
+  }
+}
