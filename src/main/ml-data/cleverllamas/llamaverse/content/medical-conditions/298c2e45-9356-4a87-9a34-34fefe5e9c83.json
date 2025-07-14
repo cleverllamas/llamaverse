@@ -1,0 +1,17 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "medical-conditions"
+    },
+    "instance": {
+      "medical-conditions": {
+        "id": "298c2e45-9356-4a87-9a34-34fefe5e9c83",
+        "name": "Hypertension",
+        "description": "Hypertension, or high blood pressure, increases the risk of heart disease and stroke. It often has no symptoms and is diagnosed through routine checks.",
+        "references": [
+          "https://www.nhs.uk/conditions/high-blood-pressure-hypertension/"
+        ]
+      }
+    }
+  }
+}

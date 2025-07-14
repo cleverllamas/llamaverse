@@ -1,0 +1,28 @@
+{
+  "id": "81b4631f-0ddb-45dd-aa6f-4cf3ac09b259",
+  "name": "Teresa",
+  "heightCm": 169,
+  "weightKg": 182,
+  "eyeColor": "Amber",
+  "hairColor": "Brown",
+  "breed": "Huacaya",
+  "placeOfBirth": "Quito, Ecuador",
+  "interests": [
+    "baking",
+    "birdwatching",
+    "meditation"
+  ],
+  "medicalCondition": {
+    "name": "hypertension",
+    "id": "298c2e45-9356-4a87-9a34-34fefe5e9c83"
+  },
+  "relatedTo": {
+    "id": "2308d164-b3e2-4244-9e0c-fdd556a2b875",
+    "relationship": "sister"
+  },
+  "description": "Teresa is a amber-eyed llama with brown hair, standing 169 cm tall. Originally from Quito, Ecuador, Teresa enjoys baking, birdwatching, and meditation. Known for their curious and calm personality, Teresa is a gentle soul among llamas.",
+  "secretPower": {
+    "name": "Camel Whisperer",
+    "id": "01b3e8c0-3d5f-4f83-b672-97dfbe5ae40b"
+  }
+}

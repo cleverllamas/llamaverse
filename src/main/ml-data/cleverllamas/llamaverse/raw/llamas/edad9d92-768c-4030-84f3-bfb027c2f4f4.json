@@ -1,0 +1,25 @@
+{
+  "id": "edad9d92-768c-4030-84f3-bfb027c2f4f4",
+  "name": "Tina",
+  "heightCm": 173,
+  "weightKg": 139,
+  "eyeColor": "Amber",
+  "hairColor": "White",
+  "breed": "Huacaya",
+  "placeOfBirth": "Quito, Ecuador",
+  "interests": [
+    "baking",
+    "reading",
+    "writing poetry"
+  ],
+  "medicalCondition": null,
+  "relatedTo": {
+    "id": "f77e62b9-a955-4cd2-9478-18d74aea4265",
+    "relationship": "cousin"
+  },
+  "description": "Tina is a amber-eyed llama with white hair, standing 173 cm tall. Originally from Quito, Ecuador, Tina enjoys baking, reading, and writing poetry. Known for their curious and calm personality, Tina is a gentle soul among llamas.",
+  "secretPower": {
+    "name": "Cactus Hugger",
+    "id": "a770334d-de81-4b46-8a3f-a0e47d0c0b8e"
+  }
+}

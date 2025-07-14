@@ -1,0 +1,14 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "secret-powers"
+    },
+    "instance": {
+      "secret-powers": {
+        "id": "f6236908-9c0e-416e-a591-a1bd3986dc05",
+        "name": "Snake Charmer",
+        "description": "Able to calm even the sassiest serpents with a simple hum and a sway. Legend says this llama once convinced a cobra to dance the conga."
+      }
+    }
+  }
+}

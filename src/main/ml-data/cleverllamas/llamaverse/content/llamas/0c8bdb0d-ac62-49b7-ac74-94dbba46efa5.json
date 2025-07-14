@@ -1,0 +1,34 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "llamas"
+    },
+    "instance": {
+      "llamas": {
+        "id": "0c8bdb0d-ac62-49b7-ac74-94dbba46efa5",
+        "name": "Aaron",
+        "heightCm": 180,
+        "weightKg": 138,
+        "eyeColor": "Amber",
+        "hairColor": "Blonde",
+        "breed": "Huacaya",
+        "placeOfBirth": "Cusco, Peru",
+        "interests": [
+          "playing chess",
+          "birdwatching",
+          "writing poetry"
+        ],
+        "medicalCondition": null,
+        "relatedTo": {
+          "id": "a6c69bb3-fa75-4327-bed6-1f0623ae2c6c",
+          "relationship": "father"
+        },
+        "description": "Aaron is a amber-eyed llama with blonde hair, standing 180 cm tall. Originally from Cusco, Peru, Aaron enjoys playing chess, birdwatching, and writing poetry. Known for their curious and calm personality, Aaron is a gentle soul among llamas.",
+        "secretPower": {
+          "name": "Snake Charmer",
+          "id": "f6236908-9c0e-416e-a591-a1bd3986dc05"
+        }
+      }
+    }
+  }
+}

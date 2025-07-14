@@ -1,0 +1,17 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "medical-conditions"
+    },
+    "instance": {
+      "medical-conditions": {
+        "id": "512c052f-b831-49d1-b35d-fecd5d8245cb",
+        "name": "Acid Reflux",
+        "description": "Acid reflux happens when stomach acid moves up into the esophagus, leading to heartburn. Chronic cases are known as gastro-oesophageal reflux disease (GORD).",
+        "references": [
+          "https://111.wales.nhs.uk/heartburnandreflux/"
+        ]
+      }
+    }
+  }
+}

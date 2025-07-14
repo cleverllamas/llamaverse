@@ -1,0 +1,25 @@
+{
+  "id": "3508c445-6dd2-4868-8a75-e6528eb194f6",
+  "name": "Jeanette",
+  "heightCm": 170,
+  "weightKg": 150,
+  "eyeColor": "Green",
+  "hairColor": "Black",
+  "breed": "Huacaya",
+  "placeOfBirth": "La Paz, Bolivia",
+  "interests": [
+    "writing poetry",
+    "baking",
+    "birdwatching"
+  ],
+  "medicalCondition": null,
+  "relatedTo": {
+    "id": "3496742f-0c74-4ccb-9770-82b5bb6ea9d8",
+    "relationship": "uncle"
+  },
+  "description": "Jeanette is a green-eyed llama with black hair, standing 170 cm tall. Originally from La Paz, Bolivia, Jeanette enjoys writing poetry, baking, and birdwatching. Known for their curious and calm personality, Jeanette is a gentle soul among llamas.",
+  "secretPower": {
+    "name": "Wind Whisperer",
+    "id": "01f5441b-5875-49dc-a4c5-4fb324fc2b02"
+  }
+}
