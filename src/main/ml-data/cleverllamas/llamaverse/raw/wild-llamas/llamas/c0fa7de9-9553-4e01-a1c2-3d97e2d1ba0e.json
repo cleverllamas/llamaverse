@@ -1,0 +1,15 @@
+{
+  "id": "c0fa7de9-9553-4e01-a1c2-3d97e2d1ba0e",
+  "name": "Jacqueline",
+  "heightCm": 190,
+  "weightKg": 182,
+  "eyeColor": "Blue",
+  "hairColor": "Silver",
+  "breed": "Suri",
+  "placeOfBirth": "Mejiaport, Uruguay",
+  "description": "Jacqueline is a blue-eyed llama with silver hair, standing 190 cm tall. Originally from Mejiaport, Uruguay, Jacqueline enjoys cooking, knitting, hiking. Known for their mischievous and shy personality, Jacqueline is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "2ad4fc40-4dc3-4522-ad01-d724c8ad5a5c",
+    "relationship": "father"
+  }
+}

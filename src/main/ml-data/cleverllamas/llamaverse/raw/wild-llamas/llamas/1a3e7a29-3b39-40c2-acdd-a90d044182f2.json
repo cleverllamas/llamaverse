@@ -1,0 +1,15 @@
+{
+  "id": "1a3e7a29-3b39-40c2-acdd-a90d044182f2",
+  "name": "Amanda",
+  "heightCm": 163,
+  "weightKg": 138,
+  "eyeColor": "Green",
+  "hairColor": "Brown",
+  "breed": "Hybrid",
+  "placeOfBirth": "Romeroton, Brunei Darussalam",
+  "description": "Amanda is a green-eyed llama with brown hair, standing 163 cm tall. Originally from Romeroton, Brunei Darussalam, Amanda enjoys knitting, reading, dancing. Known for their calm and curious personality, Amanda is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "302ee5f6-ae2e-4897-98f5-2c9471489d6c",
+    "relationship": "brother"
+  }
+}

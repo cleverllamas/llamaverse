@@ -1,0 +1,15 @@
+{
+  "id": "9c3c146e-3907-49a3-b01d-b500a01f99da",
+  "name": "Amanda",
+  "heightCm": 113,
+  "weightKg": 198,
+  "eyeColor": "Amber",
+  "hairColor": "Brown",
+  "breed": "Suri",
+  "placeOfBirth": "Thomasmouth, Christmas Island",
+  "description": "Amanda is a amber-eyed llama with brown hair, standing 113 cm tall. Originally from Thomasmouth, Christmas Island, Amanda enjoys wood carving, hiking, cooking. Known for their shy and curious personality, Amanda is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "85a23d16-3b74-49fb-994e-0af43e1f7013",
+    "relationship": "uncle"
+  }
+}

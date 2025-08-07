@@ -1,0 +1,15 @@
+{
+  "id": "1149d763-623f-4406-a969-3e73762e87ab",
+  "name": "John",
+  "heightCm": 150,
+  "weightKg": 149,
+  "eyeColor": "Blue",
+  "hairColor": "White",
+  "breed": "Huacaya",
+  "placeOfBirth": "North Jessicaton, New Zealand",
+  "description": "John is a blue-eyed llama with white hair, standing 150 cm tall. Originally from North Jessicaton, New Zealand, John enjoys wood carving, painting, gardening. Known for their gentle and playful personality, John is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "d9af3805-d87d-473b-b01f-67bc8628e3df",
+    "relationship": "15th cousin 9th removed"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "c35f1005-ea75-42da-a1cf-200ff5306d3a",
+  "name": "Lisa",
+  "heightCm": 186,
+  "weightKg": 138,
+  "eyeColor": "Green",
+  "hairColor": "Red",
+  "breed": "Huacaya",
+  "placeOfBirth": "Edwardsborough, Qatar",
+  "description": "Lisa is a green-eyed llama with red hair, standing 186 cm tall. Originally from Edwardsborough, Qatar, Lisa enjoys gardening, knitting, reading. Known for their gentle and playful personality, Lisa is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "c5c74481-b2ea-448a-bf06-f6afe21bb84d",
+    "relationship": "sister"
+  }
+}

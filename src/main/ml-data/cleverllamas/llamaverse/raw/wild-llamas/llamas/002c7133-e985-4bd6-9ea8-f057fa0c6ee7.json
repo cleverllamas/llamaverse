@@ -1,0 +1,15 @@
+{
+  "id": "002c7133-e985-4bd6-9ea8-f057fa0c6ee7",
+  "name": "Melissa",
+  "heightCm": 144,
+  "weightKg": 155,
+  "eyeColor": "Amber",
+  "hairColor": "Gray",
+  "breed": "Suri",
+  "placeOfBirth": "Bobbychester, Andorra",
+  "description": "Melissa is a amber-eyed llama with gray hair, standing 144 cm tall. Originally from Bobbychester, Andorra, Melissa enjoys reading, dancing, cooking. Known for their energetic and gentle personality, Melissa is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "c3e43f9f-9de1-4e17-a0d7-505a534b2828",
+    "relationship": "second cousin"
+  }
+}

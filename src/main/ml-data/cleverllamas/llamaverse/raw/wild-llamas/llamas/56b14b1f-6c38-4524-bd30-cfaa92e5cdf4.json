@@ -1,0 +1,15 @@
+{
+  "id": "56b14b1f-6c38-4524-bd30-cfaa92e5cdf4",
+  "name": "Austin",
+  "heightCm": 175,
+  "weightKg": 135,
+  "eyeColor": "Brown",
+  "hairColor": "Silver",
+  "breed": "Hybrid",
+  "placeOfBirth": "Hortonmouth, Cocos (Keeling) Islands",
+  "description": "Austin is a brown-eyed llama with silver hair, standing 175 cm tall. Originally from Hortonmouth, Cocos (Keeling) Islands, Austin enjoys dancing, knitting, gardening. Known for their friendly and energetic personality, Austin is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "7854f26b-3b30-49b4-aae9-6dcb29330511",
+    "relationship": "uncle"
+  }
+}

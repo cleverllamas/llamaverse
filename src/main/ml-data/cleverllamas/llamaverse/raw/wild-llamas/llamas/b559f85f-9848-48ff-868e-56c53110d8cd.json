@@ -1,0 +1,15 @@
+{
+  "id": "b559f85f-9848-48ff-868e-56c53110d8cd",
+  "name": "Katherine",
+  "heightCm": 169,
+  "weightKg": 181,
+  "eyeColor": "Gray",
+  "hairColor": "Gray",
+  "breed": "Huacaya",
+  "placeOfBirth": "Port Cynthiaville, Cayman Islands",
+  "description": "Katherine is a gray-eyed llama with gray hair, standing 169 cm tall. Originally from Port Cynthiaville, Cayman Islands, Katherine enjoys cooking, dancing, knitting. Known for their energetic and curious personality, Katherine is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "efd5b2b7-5fa8-4ce1-8834-d22335158b22",
+    "relationship": "aunt"
+  }
+}

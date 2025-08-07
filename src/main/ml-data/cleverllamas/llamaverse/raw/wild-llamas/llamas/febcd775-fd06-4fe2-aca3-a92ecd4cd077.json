@@ -1,0 +1,15 @@
+{
+  "id": "febcd775-fd06-4fe2-aca3-a92ecd4cd077",
+  "name": "Anthony",
+  "heightCm": 183,
+  "weightKg": 179,
+  "eyeColor": "Gray",
+  "hairColor": "Brown",
+  "breed": "Hybrid",
+  "placeOfBirth": "South Timothyport, Gibraltar",
+  "description": "Anthony is a gray-eyed llama with brown hair, standing 183 cm tall. Originally from South Timothyport, Gibraltar, Anthony enjoys hiking, cooking, wood carving. Known for their friendly and friendly personality, Anthony is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "fdc61343-6d59-4844-8d23-1a7bf536eb84",
+    "relationship": "mother"
+  }
+}

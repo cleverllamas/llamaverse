@@ -1,0 +1,15 @@
+{
+  "id": "acb573ee-2924-4276-91ae-eb374be31018",
+  "name": "Daniel",
+  "heightCm": 124,
+  "weightKg": 156,
+  "eyeColor": "Green",
+  "hairColor": "Brown",
+  "breed": "Hybrid",
+  "placeOfBirth": "North Bonnie, Czech Republic",
+  "description": "Daniel is a green-eyed llama with brown hair, standing 124 cm tall. Originally from North Bonnie, Czech Republic, Daniel enjoys knitting, reading, singing. Known for their gentle and energetic personality, Daniel is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "b5bb5416-ce76-4cb6-b1cb-fc46859314cf",
+    "relationship": "15th cousin 9th removed"
+  }
+}

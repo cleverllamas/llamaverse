@@ -1,0 +1,15 @@
+{
+  "id": "c233ee0a-8589-4872-bf77-5d0f78ccf9cf",
+  "name": "Jessica",
+  "heightCm": 136,
+  "weightKg": 149,
+  "eyeColor": "Green",
+  "hairColor": "Gray",
+  "breed": "Huacaya",
+  "placeOfBirth": "Christinaport, Cayman Islands",
+  "description": "Jessica is a green-eyed llama with gray hair, standing 136 cm tall. Originally from Christinaport, Cayman Islands, Jessica enjoys painting, knitting, reading. Known for their calm and gentle personality, Jessica is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "704cc4be-6000-4835-9c56-169b9f65f47d",
+    "relationship": "brother"
+  }
+}

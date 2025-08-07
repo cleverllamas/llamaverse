@@ -1,0 +1,15 @@
+{
+  "id": "4adf4c0d-c0cf-4262-ad5c-aecc45bf655a",
+  "name": "Heather",
+  "heightCm": 124,
+  "weightKg": 177,
+  "eyeColor": "Blue",
+  "hairColor": "Red",
+  "breed": "Suri",
+  "placeOfBirth": "Morrisonmouth, Lao People's Democratic Republic",
+  "description": "Heather is a blue-eyed llama with red hair, standing 124 cm tall. Originally from Morrisonmouth, Lao People's Democratic Republic, Heather enjoys painting, reading, cooking. Known for their playful and shy personality, Heather is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "e3f48f8f-ea2b-4382-8313-02430bf34a45",
+    "relationship": "second cousin"
+  }
+}

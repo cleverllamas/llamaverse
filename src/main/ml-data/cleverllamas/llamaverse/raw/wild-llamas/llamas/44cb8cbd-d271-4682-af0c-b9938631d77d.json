@@ -1,0 +1,15 @@
+{
+  "id": "44cb8cbd-d271-4682-af0c-b9938631d77d",
+  "name": "Michael",
+  "heightCm": 190,
+  "weightKg": 191,
+  "eyeColor": "Hazel",
+  "hairColor": "White",
+  "breed": "Hybrid",
+  "placeOfBirth": "New Natasha, Kiribati",
+  "description": "Michael is a hazel-eyed llama with white hair, standing 190 cm tall. Originally from New Natasha, Kiribati, Michael enjoys painting, dancing, wood carving. Known for their calm and curious personality, Michael is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "3b524031-38a8-40bf-a8f5-4429cec11154",
+    "relationship": "4th cousin once removed"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "899154ad-5c54-434d-b6bd-b488827b8753",
+  "name": "Brittany",
+  "heightCm": 126,
+  "weightKg": 170,
+  "eyeColor": "Hazel",
+  "hairColor": "Red",
+  "breed": "Suri",
+  "placeOfBirth": "West Bobbyside, Oman",
+  "description": "Brittany is a hazel-eyed llama with red hair, standing 126 cm tall. Originally from West Bobbyside, Oman, Brittany enjoys gardening, hiking, wood carving. Known for their playful and energetic personality, Brittany is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "16be3b39-2a60-43ed-9b2d-a99bad042fbe",
+    "relationship": "mother"
+  }
+}

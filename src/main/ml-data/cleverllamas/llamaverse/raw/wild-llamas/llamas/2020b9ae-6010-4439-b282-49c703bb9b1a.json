@@ -1,0 +1,15 @@
+{
+  "id": "2020b9ae-6010-4439-b282-49c703bb9b1a",
+  "name": "Richard",
+  "heightCm": 126,
+  "weightKg": 134,
+  "eyeColor": "Blue",
+  "hairColor": "White",
+  "breed": "Suri",
+  "placeOfBirth": "New Monicamouth, Dominica",
+  "description": "Richard is a blue-eyed llama with white hair, standing 126 cm tall. Originally from New Monicamouth, Dominica, Richard enjoys knitting, painting, cooking. Known for their energetic and shy personality, Richard is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "17f94412-9d7a-4770-a83e-64979eb02d25",
+    "relationship": "father"
+  }
+}

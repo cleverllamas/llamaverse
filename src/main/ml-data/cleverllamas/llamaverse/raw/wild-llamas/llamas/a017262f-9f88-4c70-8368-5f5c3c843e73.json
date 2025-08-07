@@ -1,0 +1,15 @@
+{
+  "id": "a017262f-9f88-4c70-8368-5f5c3c843e73",
+  "name": "Rachael",
+  "heightCm": 156,
+  "weightKg": 174,
+  "eyeColor": "Hazel",
+  "hairColor": "White",
+  "breed": "Huacaya",
+  "placeOfBirth": "Anthonyport, Monaco",
+  "description": "Rachael is a hazel-eyed llama with white hair, standing 156 cm tall. Originally from Anthonyport, Monaco, Rachael enjoys gardening, painting, wood carving. Known for their gentle and playful personality, Rachael is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "371e273b-0eae-4148-aa57-485218285057",
+    "relationship": "brother"
+  }
+}

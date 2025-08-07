@@ -1,0 +1,15 @@
+{
+  "id": "f387b4b5-0a26-45cd-b155-94c44a1e1590",
+  "name": "Ellen",
+  "heightCm": 143,
+  "weightKg": 197,
+  "eyeColor": "Brown",
+  "hairColor": "Brown",
+  "breed": "Huacaya",
+  "placeOfBirth": "East Michele, Thailand",
+  "description": "Ellen is a brown-eyed llama with brown hair, standing 143 cm tall. Originally from East Michele, Thailand, Ellen enjoys dancing, reading, singing. Known for their energetic and energetic personality, Ellen is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "1809bc6b-4759-4c4c-b616-5b8585041e40",
+    "relationship": "third cousin twice removed"
+  }
+}

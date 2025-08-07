@@ -1,0 +1,15 @@
+{
+  "id": "f8e7777c-4d4d-4c25-b278-17cb0d200b89",
+  "name": "Anna",
+  "heightCm": 163,
+  "weightKg": 145,
+  "eyeColor": "Gray",
+  "hairColor": "Brown",
+  "breed": "Hybrid",
+  "placeOfBirth": "Lake Miguel, Angola",
+  "description": "Anna is a gray-eyed llama with brown hair, standing 163 cm tall. Originally from Lake Miguel, Angola, Anna enjoys gardening, dancing, knitting. Known for their curious and shy personality, Anna is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "937a9b27-4333-44a2-985b-e2fcc1130aec",
+    "relationship": "aunt"
+  }
+}

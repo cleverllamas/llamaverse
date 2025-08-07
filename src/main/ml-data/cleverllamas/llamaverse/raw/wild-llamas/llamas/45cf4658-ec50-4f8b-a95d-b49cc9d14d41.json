@@ -1,0 +1,15 @@
+{
+  "id": "45cf4658-ec50-4f8b-a95d-b49cc9d14d41",
+  "name": "Jennifer",
+  "heightCm": 132,
+  "weightKg": 189,
+  "eyeColor": "Green",
+  "hairColor": "Gray",
+  "breed": "Hybrid",
+  "placeOfBirth": "Cassandrabury, Svalbard & Jan Mayen Islands",
+  "description": "Jennifer is a green-eyed llama with gray hair, standing 132 cm tall. Originally from Cassandrabury, Svalbard & Jan Mayen Islands, Jennifer enjoys gardening, dancing, hiking. Known for their energetic and gentle personality, Jennifer is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "c0d8be54-976d-47b6-a6a9-8fee3dbf55b4",
+    "relationship": "4th cousin once removed"
+  }
+}

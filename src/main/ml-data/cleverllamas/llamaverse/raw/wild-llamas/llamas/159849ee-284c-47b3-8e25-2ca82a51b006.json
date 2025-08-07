@@ -1,0 +1,15 @@
+{
+  "id": "159849ee-284c-47b3-8e25-2ca82a51b006",
+  "name": "Christopher",
+  "heightCm": 164,
+  "weightKg": 186,
+  "eyeColor": "Hazel",
+  "hairColor": "Black",
+  "breed": "Hybrid",
+  "placeOfBirth": "Kylefort, Lithuania",
+  "description": "Christopher is a hazel-eyed llama with black hair, standing 164 cm tall. Originally from Kylefort, Lithuania, Christopher enjoys gardening, cooking, knitting. Known for their energetic and calm personality, Christopher is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "b6863f7e-0dbd-43a1-80f3-c9b0b829fd1b",
+    "relationship": "grandparent"
+  }
+}

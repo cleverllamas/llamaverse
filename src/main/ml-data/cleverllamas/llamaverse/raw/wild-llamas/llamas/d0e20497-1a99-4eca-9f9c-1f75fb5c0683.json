@@ -1,0 +1,15 @@
+{
+  "id": "d0e20497-1a99-4eca-9f9c-1f75fb5c0683",
+  "name": "David",
+  "heightCm": 171,
+  "weightKg": 151,
+  "eyeColor": "Amber",
+  "hairColor": "Black",
+  "breed": "Suri",
+  "placeOfBirth": "Lake Kristinahaven, Romania",
+  "description": "David is a amber-eyed llama with black hair, standing 171 cm tall. Originally from Lake Kristinahaven, Romania, David enjoys gardening, cooking, knitting. Known for their playful and playful personality, David is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "c4abed1c-f18b-4db5-b872-2847dbb05b85",
+    "relationship": "mother"
+  }
+}

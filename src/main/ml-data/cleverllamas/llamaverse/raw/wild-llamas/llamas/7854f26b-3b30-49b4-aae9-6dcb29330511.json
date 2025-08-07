@@ -1,0 +1,15 @@
+{
+  "id": "7854f26b-3b30-49b4-aae9-6dcb29330511",
+  "name": "Lisa",
+  "heightCm": 171,
+  "weightKg": 151,
+  "eyeColor": "Blue",
+  "hairColor": "Red",
+  "breed": "Hybrid",
+  "placeOfBirth": "Port Mark, Colombia",
+  "description": "Lisa is a blue-eyed llama with red hair, standing 171 cm tall. Originally from Port Mark, Colombia, Lisa enjoys wood carving, gardening, knitting. Known for their friendly and energetic personality, Lisa is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "92ada88a-860b-4ee9-8d08-9e3fcb091c03",
+    "relationship": "15th cousin 9th removed"
+  }
+}

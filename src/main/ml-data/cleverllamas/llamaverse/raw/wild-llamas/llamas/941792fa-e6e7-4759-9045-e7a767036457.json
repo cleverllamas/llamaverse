@@ -1,0 +1,15 @@
+{
+  "id": "941792fa-e6e7-4759-9045-e7a767036457",
+  "name": "William",
+  "heightCm": 112,
+  "weightKg": 191,
+  "eyeColor": "Brown",
+  "hairColor": "Brown",
+  "breed": "Huacaya",
+  "placeOfBirth": "Tylerview, Greenland",
+  "description": "William is a brown-eyed llama with brown hair, standing 112 cm tall. Originally from Tylerview, Greenland, William enjoys gardening, cooking, hiking. Known for their calm and mischievous personality, William is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "5b576541-d7df-4896-bbf2-e3f7a1e29fb3",
+    "relationship": "uncle"
+  }
+}

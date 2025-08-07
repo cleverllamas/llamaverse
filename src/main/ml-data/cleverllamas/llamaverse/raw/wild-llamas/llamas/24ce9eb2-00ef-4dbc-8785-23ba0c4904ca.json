@@ -1,0 +1,15 @@
+{
+  "id": "24ce9eb2-00ef-4dbc-8785-23ba0c4904ca",
+  "name": "Victoria",
+  "heightCm": 172,
+  "weightKg": 147,
+  "eyeColor": "Amber",
+  "hairColor": "Blonde",
+  "breed": "Huacaya",
+  "placeOfBirth": "Port Matthewfurt, Micronesia",
+  "description": "Victoria is a amber-eyed llama with blonde hair, standing 172 cm tall. Originally from Port Matthewfurt, Micronesia, Victoria enjoys dancing, wood carving, gardening. Known for their gentle and calm personality, Victoria is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "696b0b9c-6f0c-467e-b50b-26e88045623a",
+    "relationship": "15th cousin 9th removed"
+  }
+}

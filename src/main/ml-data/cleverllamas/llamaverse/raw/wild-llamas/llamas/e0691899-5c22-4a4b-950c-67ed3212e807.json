@@ -1,0 +1,15 @@
+{
+  "id": "e0691899-5c22-4a4b-950c-67ed3212e807",
+  "name": "Michelle",
+  "heightCm": 136,
+  "weightKg": 139,
+  "eyeColor": "Hazel",
+  "hairColor": "Red",
+  "breed": "Suri",
+  "placeOfBirth": "Hubbardhaven, Maldives",
+  "description": "Michelle is a hazel-eyed llama with red hair, standing 136 cm tall. Originally from Hubbardhaven, Maldives, Michelle enjoys painting, knitting, wood carving. Known for their gentle and energetic personality, Michelle is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "007229e2-ee25-47c1-b18a-2e0c0ec0dbcd",
+    "relationship": "father"
+  }
+}

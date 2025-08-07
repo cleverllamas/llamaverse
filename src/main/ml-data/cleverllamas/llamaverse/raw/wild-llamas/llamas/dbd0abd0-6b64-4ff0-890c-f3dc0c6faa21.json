@@ -1,0 +1,15 @@
+{
+  "id": "dbd0abd0-6b64-4ff0-890c-f3dc0c6faa21",
+  "name": "Caitlin",
+  "heightCm": 167,
+  "weightKg": 193,
+  "eyeColor": "Green",
+  "hairColor": "White",
+  "breed": "Huacaya",
+  "placeOfBirth": "Lake Rodney, Cuba",
+  "description": "Caitlin is a green-eyed llama with white hair, standing 167 cm tall. Originally from Lake Rodney, Cuba, Caitlin enjoys dancing, singing, reading. Known for their playful and curious personality, Caitlin is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "e2cccda1-5f8e-4ba4-ba3c-cf8b6fda603b",
+    "relationship": "uncle"
+  }
+}

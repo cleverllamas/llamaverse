@@ -1,0 +1,15 @@
+{
+  "id": "4cf6f1cc-3c26-4dc6-ab51-f2d93cc9f5b4",
+  "name": "Kara",
+  "heightCm": 179,
+  "weightKg": 147,
+  "eyeColor": "Brown",
+  "hairColor": "White",
+  "breed": "Suri",
+  "placeOfBirth": "North Justin, Nepal",
+  "description": "Kara is a brown-eyed llama with white hair, standing 179 cm tall. Originally from North Justin, Nepal, Kara enjoys knitting, painting, gardening. Known for their curious and mischievous personality, Kara is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "c39c5c9c-a9ac-43a5-a728-13d7672e925e",
+    "relationship": "4th cousin once removed"
+  }
+}

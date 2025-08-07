@@ -1,0 +1,15 @@
+{
+  "id": "a308f516-deb7-4749-9260-a4806b172e6b",
+  "name": "Adam",
+  "heightCm": 158,
+  "weightKg": 136,
+  "eyeColor": "Brown",
+  "hairColor": "Red",
+  "breed": "Hybrid",
+  "placeOfBirth": "Lake Kristina, Tajikistan",
+  "description": "Adam is a brown-eyed llama with red hair, standing 158 cm tall. Originally from Lake Kristina, Tajikistan, Adam enjoys knitting, gardening, cooking. Known for their gentle and gentle personality, Adam is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "b7eaf467-a2c8-454e-80db-670ed7056a3b",
+    "relationship": "mother"
+  }
+}

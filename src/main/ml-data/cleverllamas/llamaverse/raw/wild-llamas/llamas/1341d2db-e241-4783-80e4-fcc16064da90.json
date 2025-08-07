@@ -1,0 +1,15 @@
+{
+  "id": "1341d2db-e241-4783-80e4-fcc16064da90",
+  "name": "Jennifer",
+  "heightCm": 142,
+  "weightKg": 178,
+  "eyeColor": "Hazel",
+  "hairColor": "White",
+  "breed": "Hybrid",
+  "placeOfBirth": "Lake Julia, Martinique",
+  "description": "Jennifer is a hazel-eyed llama with white hair, standing 142 cm tall. Originally from Lake Julia, Martinique, Jennifer enjoys hiking, gardening, singing. Known for their calm and playful personality, Jennifer is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "de4ce848-5822-4061-b02c-57f5d92d04fe",
+    "relationship": "great uncle"
+  }
+}

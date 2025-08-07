@@ -1,0 +1,15 @@
+{
+  "id": "cb24c039-7dac-4eab-8796-5b5e050f236e",
+  "name": "Michael",
+  "heightCm": 125,
+  "weightKg": 145,
+  "eyeColor": "Hazel",
+  "hairColor": "Silver",
+  "breed": "Huacaya",
+  "placeOfBirth": "North Jennifer, Luxembourg",
+  "description": "Michael is a hazel-eyed llama with silver hair, standing 125 cm tall. Originally from North Jennifer, Luxembourg, Michael enjoys wood carving, gardening, painting. Known for their shy and gentle personality, Michael is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "13640321-9c4c-4c7c-8831-b914c6a551c7",
+    "relationship": "mother"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "9eef1ecf-159d-4d58-bf60-ed98b847fc61",
+  "name": "Natasha",
+  "heightCm": 194,
+  "weightKg": 143,
+  "eyeColor": "Green",
+  "hairColor": "Gray",
+  "breed": "Suri",
+  "placeOfBirth": "Whitemouth, Tuvalu",
+  "description": "Natasha is a green-eyed llama with gray hair, standing 194 cm tall. Originally from Whitemouth, Tuvalu, Natasha enjoys wood carving, reading, singing. Known for their energetic and gentle personality, Natasha is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "4405ec01-8456-4ea8-96fd-d30003081a09",
+    "relationship": "4th cousin once removed"
+  }
+}

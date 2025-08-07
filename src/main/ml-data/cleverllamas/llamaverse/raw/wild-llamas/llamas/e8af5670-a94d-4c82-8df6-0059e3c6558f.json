@@ -1,0 +1,15 @@
+{
+  "id": "e8af5670-a94d-4c82-8df6-0059e3c6558f",
+  "name": "Russell",
+  "heightCm": 156,
+  "weightKg": 193,
+  "eyeColor": "Hazel",
+  "hairColor": "Red",
+  "breed": "Huacaya",
+  "placeOfBirth": "New Mariofort, Mozambique",
+  "description": "Russell is a hazel-eyed llama with red hair, standing 156 cm tall. Originally from New Mariofort, Mozambique, Russell enjoys reading, knitting, cooking. Known for their calm and playful personality, Russell is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "e07c9137-eec7-4973-9897-3b35a8cd4d24",
+    "relationship": "brother"
+  }
+}

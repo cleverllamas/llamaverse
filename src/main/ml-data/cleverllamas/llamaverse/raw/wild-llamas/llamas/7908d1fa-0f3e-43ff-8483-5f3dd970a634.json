@@ -1,0 +1,15 @@
+{
+  "id": "7908d1fa-0f3e-43ff-8483-5f3dd970a634",
+  "name": "Timothy",
+  "heightCm": 146,
+  "weightKg": 195,
+  "eyeColor": "Brown",
+  "hairColor": "White",
+  "breed": "Suri",
+  "placeOfBirth": "Angelaland, Czech Republic",
+  "description": "Timothy is a brown-eyed llama with white hair, standing 146 cm tall. Originally from Angelaland, Czech Republic, Timothy enjoys hiking, knitting, wood carving. Known for their gentle and friendly personality, Timothy is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "44777930-707f-42e3-a36c-6b79bc90a8d3",
+    "relationship": "uncle"
+  }
+}

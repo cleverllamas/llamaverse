@@ -1,0 +1,15 @@
+{
+  "id": "51c54b41-b859-4f12-9989-e245938668d5",
+  "name": "Laura",
+  "heightCm": 114,
+  "weightKg": 191,
+  "eyeColor": "Blue",
+  "hairColor": "Blonde",
+  "breed": "Hybrid",
+  "placeOfBirth": "New Ericton, Mauritania",
+  "description": "Laura is a blue-eyed llama with blonde hair, standing 114 cm tall. Originally from New Ericton, Mauritania, Laura enjoys cooking, dancing, wood carving. Known for their playful and calm personality, Laura is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "7d9b8bd9-54e0-48cb-afb1-e284022d1503",
+    "relationship": "mother"
+  }
+}

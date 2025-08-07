@@ -1,0 +1,15 @@
+{
+  "id": "e91a2291-519d-45a6-af41-7c8d4d142382",
+  "name": "Whitney",
+  "heightCm": 191,
+  "weightKg": 146,
+  "eyeColor": "Gray",
+  "hairColor": "Blonde",
+  "breed": "Hybrid",
+  "placeOfBirth": "Shellytown, Benin",
+  "description": "Whitney is a gray-eyed llama with blonde hair, standing 191 cm tall. Originally from Shellytown, Benin, Whitney enjoys hiking, singing, gardening. Known for their shy and playful personality, Whitney is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "ea9ee370-0fa8-4ad5-927b-53abfdc573d0",
+    "relationship": "father"
+  }
+}

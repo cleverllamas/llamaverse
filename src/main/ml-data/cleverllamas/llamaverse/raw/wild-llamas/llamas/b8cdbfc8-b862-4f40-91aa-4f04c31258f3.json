@@ -1,0 +1,15 @@
+{
+  "id": "b8cdbfc8-b862-4f40-91aa-4f04c31258f3",
+  "name": "Megan",
+  "heightCm": 170,
+  "weightKg": 184,
+  "eyeColor": "Amber",
+  "hairColor": "Gray",
+  "breed": "Huacaya",
+  "placeOfBirth": "South Evanbury, Azerbaijan",
+  "description": "Megan is a amber-eyed llama with gray hair, standing 170 cm tall. Originally from South Evanbury, Azerbaijan, Megan enjoys dancing, singing, reading. Known for their gentle and playful personality, Megan is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "713a97a4-3474-4169-aab9-14023f6c8e3c",
+    "relationship": "brother"
+  }
+}

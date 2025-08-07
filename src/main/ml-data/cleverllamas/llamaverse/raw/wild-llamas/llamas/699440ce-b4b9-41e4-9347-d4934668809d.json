@@ -1,0 +1,15 @@
+{
+  "id": "699440ce-b4b9-41e4-9347-d4934668809d",
+  "name": "Douglas",
+  "heightCm": 145,
+  "weightKg": 185,
+  "eyeColor": "Gray",
+  "hairColor": "White",
+  "breed": "Huacaya",
+  "placeOfBirth": "North Curtisport, Panama",
+  "description": "Douglas is a gray-eyed llama with white hair, standing 145 cm tall. Originally from North Curtisport, Panama, Douglas enjoys singing, reading, painting. Known for their shy and energetic personality, Douglas is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "fbe6e3c6-ff7c-4e1a-abf0-44cb66be97c6",
+    "relationship": "15th cousin 9th removed"
+  }
+}

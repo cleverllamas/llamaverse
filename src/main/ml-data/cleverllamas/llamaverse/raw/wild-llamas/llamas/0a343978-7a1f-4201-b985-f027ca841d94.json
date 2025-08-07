@@ -1,0 +1,15 @@
+{
+  "id": "0a343978-7a1f-4201-b985-f027ca841d94",
+  "name": "Rachel",
+  "heightCm": 185,
+  "weightKg": 134,
+  "eyeColor": "Blue",
+  "hairColor": "Black",
+  "breed": "Hybrid",
+  "placeOfBirth": "New Debraport, Bosnia and Herzegovina",
+  "description": "Rachel is a blue-eyed llama with black hair, standing 185 cm tall. Originally from New Debraport, Bosnia and Herzegovina, Rachel enjoys knitting, dancing, reading. Known for their calm and friendly personality, Rachel is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "e097dc7d-8223-4c24-824f-5448a1418eb2",
+    "relationship": "mother"
+  }
+}

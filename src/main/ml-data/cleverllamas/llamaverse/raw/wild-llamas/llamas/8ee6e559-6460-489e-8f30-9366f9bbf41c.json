@@ -1,0 +1,15 @@
+{
+  "id": "8ee6e559-6460-489e-8f30-9366f9bbf41c",
+  "name": "Aaron",
+  "heightCm": 127,
+  "weightKg": 186,
+  "eyeColor": "Brown",
+  "hairColor": "White",
+  "breed": "Suri",
+  "placeOfBirth": "Port Jacobstad, Zimbabwe",
+  "description": "Aaron is a brown-eyed llama with white hair, standing 127 cm tall. Originally from Port Jacobstad, Zimbabwe, Aaron enjoys cooking, hiking, dancing. Known for their energetic and calm personality, Aaron is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "c081f43f-330f-4ab4-bc47-3b804012e567",
+    "relationship": "father"
+  }
+}

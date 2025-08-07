@@ -1,0 +1,15 @@
+{
+  "id": "71597f80-2493-457c-9921-ea0256e2f4e5",
+  "name": "Donald",
+  "heightCm": 111,
+  "weightKg": 165,
+  "eyeColor": "Hazel",
+  "hairColor": "Black",
+  "breed": "Hybrid",
+  "placeOfBirth": "Smithshire, Slovakia (Slovak Republic)",
+  "description": "Donald is a hazel-eyed llama with black hair, standing 111 cm tall. Originally from Smithshire, Slovakia (Slovak Republic), Donald enjoys knitting, painting, dancing. Known for their calm and calm personality, Donald is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "899154ad-5c54-434d-b6bd-b488827b8753",
+    "relationship": "15th cousin 9th removed"
+  }
+}

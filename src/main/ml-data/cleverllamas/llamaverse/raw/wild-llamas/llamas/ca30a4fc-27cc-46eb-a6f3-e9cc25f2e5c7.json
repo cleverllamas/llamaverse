@@ -1,0 +1,15 @@
+{
+  "id": "ca30a4fc-27cc-46eb-a6f3-e9cc25f2e5c7",
+  "name": "Molly",
+  "heightCm": 194,
+  "weightKg": 191,
+  "eyeColor": "Blue",
+  "hairColor": "Brown",
+  "breed": "Hybrid",
+  "placeOfBirth": "North Lisa, Bolivia",
+  "description": "Molly is a blue-eyed llama with brown hair, standing 194 cm tall. Originally from North Lisa, Bolivia, Molly enjoys knitting, gardening, painting. Known for their playful and calm personality, Molly is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "d8ded9db-19a0-41be-af11-6f1bef622ed5",
+    "relationship": "mother"
+  }
+}

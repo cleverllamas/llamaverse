@@ -1,0 +1,15 @@
+{
+  "id": "bf757554-0497-4e77-a2a8-afba9588fba3",
+  "name": "Regina",
+  "heightCm": 194,
+  "weightKg": 185,
+  "eyeColor": "Brown",
+  "hairColor": "Red",
+  "breed": "Suri",
+  "placeOfBirth": "West Danielview, Pakistan",
+  "description": "Regina is a brown-eyed llama with red hair, standing 194 cm tall. Originally from West Danielview, Pakistan, Regina enjoys reading, hiking, dancing. Known for their playful and calm personality, Regina is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "c175c872-014b-4e10-9364-87082788261e",
+    "relationship": "mother"
+  }
+}

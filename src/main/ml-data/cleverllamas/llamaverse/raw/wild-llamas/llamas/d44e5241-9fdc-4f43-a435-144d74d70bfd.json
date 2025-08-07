@@ -1,0 +1,15 @@
+{
+  "id": "d44e5241-9fdc-4f43-a435-144d74d70bfd",
+  "name": "Alexander",
+  "heightCm": 125,
+  "weightKg": 159,
+  "eyeColor": "Blue",
+  "hairColor": "Red",
+  "breed": "Huacaya",
+  "placeOfBirth": "Gonzalezberg, Portugal",
+  "description": "Alexander is a blue-eyed llama with red hair, standing 125 cm tall. Originally from Gonzalezberg, Portugal, Alexander enjoys cooking, reading, singing. Known for their gentle and friendly personality, Alexander is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "8a4c5120-95d1-44d9-bb91-63f27ab8c9a3",
+    "relationship": "sister"
+  }
+}

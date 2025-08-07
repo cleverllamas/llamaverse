@@ -1,0 +1,15 @@
+{
+  "id": "38a3ece4-5375-4e43-ae7b-dfd5920f113f",
+  "name": "Justin",
+  "heightCm": 157,
+  "weightKg": 190,
+  "eyeColor": "Amber",
+  "hairColor": "Black",
+  "breed": "Huacaya",
+  "placeOfBirth": "East Jeffreyfurt, Burkina Faso",
+  "description": "Justin is a amber-eyed llama with black hair, standing 157 cm tall. Originally from East Jeffreyfurt, Burkina Faso, Justin enjoys reading, singing, cooking. Known for their calm and energetic personality, Justin is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "32771ae0-6472-4d55-9c7d-d401d3f6b2f4",
+    "relationship": "4th cousin once removed"
+  }
+}

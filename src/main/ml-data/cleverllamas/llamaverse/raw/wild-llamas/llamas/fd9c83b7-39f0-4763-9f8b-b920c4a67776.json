@@ -1,0 +1,15 @@
+{
+  "id": "fd9c83b7-39f0-4763-9f8b-b920c4a67776",
+  "name": "Matthew",
+  "heightCm": 152,
+  "weightKg": 174,
+  "eyeColor": "Green",
+  "hairColor": "White",
+  "breed": "Suri",
+  "placeOfBirth": "North Jonathanville, Romania",
+  "description": "Matthew is a green-eyed llama with white hair, standing 152 cm tall. Originally from North Jonathanville, Romania, Matthew enjoys painting, knitting, dancing. Known for their friendly and mischievous personality, Matthew is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "937a9b27-4333-44a2-985b-e2fcc1130aec",
+    "relationship": "brother"
+  }
+}

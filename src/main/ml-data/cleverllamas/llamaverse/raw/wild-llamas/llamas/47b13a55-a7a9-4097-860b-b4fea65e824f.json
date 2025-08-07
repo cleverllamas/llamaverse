@@ -1,0 +1,15 @@
+{
+  "id": "47b13a55-a7a9-4097-860b-b4fea65e824f",
+  "name": "Patrick",
+  "heightCm": 194,
+  "weightKg": 160,
+  "eyeColor": "Green",
+  "hairColor": "Blonde",
+  "breed": "Huacaya",
+  "placeOfBirth": "Jenniferbury, Bosnia and Herzegovina",
+  "description": "Patrick is a green-eyed llama with blonde hair, standing 194 cm tall. Originally from Jenniferbury, Bosnia and Herzegovina, Patrick enjoys cooking, hiking, wood carving. Known for their playful and curious personality, Patrick is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "879866ed-d466-4069-b6c8-77d827e23adf",
+    "relationship": "third cousin twice removed"
+  }
+}

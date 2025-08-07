@@ -1,0 +1,15 @@
+{
+  "id": "7ad66a2c-a6a5-4415-b792-87cd54ba3a97",
+  "name": "Joseph",
+  "heightCm": 102,
+  "weightKg": 133,
+  "eyeColor": "Blue",
+  "hairColor": "Red",
+  "breed": "Huacaya",
+  "placeOfBirth": "Adrianchester, Belarus",
+  "description": "Joseph is a blue-eyed llama with red hair, standing 102 cm tall. Originally from Adrianchester, Belarus, Joseph enjoys wood carving, gardening, hiking. Known for their shy and mischievous personality, Joseph is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "74b61aac-4e78-4423-80e0-68bc74ea3dd6",
+    "relationship": "great uncle"
+  }
+}

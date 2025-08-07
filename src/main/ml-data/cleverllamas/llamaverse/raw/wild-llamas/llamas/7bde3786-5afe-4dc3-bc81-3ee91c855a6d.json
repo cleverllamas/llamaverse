@@ -1,0 +1,15 @@
+{
+  "id": "7bde3786-5afe-4dc3-bc81-3ee91c855a6d",
+  "name": "Evan",
+  "heightCm": 174,
+  "weightKg": 167,
+  "eyeColor": "Blue",
+  "hairColor": "Gray",
+  "breed": "Suri",
+  "placeOfBirth": "West Michael, Sao Tome and Principe",
+  "description": "Evan is a blue-eyed llama with gray hair, standing 174 cm tall. Originally from West Michael, Sao Tome and Principe, Evan enjoys reading, wood carving, cooking. Known for their shy and calm personality, Evan is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "ae8a263e-88af-40e6-a3a2-26033059cafa",
+    "relationship": "father"
+  }
+}

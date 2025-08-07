@@ -1,0 +1,15 @@
+{
+  "id": "b40f773e-f334-463d-b9b7-383f94feb3dc",
+  "name": "Katherine",
+  "heightCm": 155,
+  "weightKg": 149,
+  "eyeColor": "Amber",
+  "hairColor": "White",
+  "breed": "Hybrid",
+  "placeOfBirth": "Port Jeremy, Korea",
+  "description": "Katherine is a amber-eyed llama with white hair, standing 155 cm tall. Originally from Port Jeremy, Korea, Katherine enjoys singing, gardening, painting. Known for their playful and shy personality, Katherine is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "c1368831-1984-4b3d-9980-cc62b94e6cf6",
+    "relationship": "third cousin twice removed"
+  }
+}

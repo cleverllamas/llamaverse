@@ -1,0 +1,15 @@
+{
+  "id": "61494f5d-e331-46e3-9525-83ab840fe136",
+  "name": "Emily",
+  "heightCm": 122,
+  "weightKg": 174,
+  "eyeColor": "Gray",
+  "hairColor": "Red",
+  "breed": "Huacaya",
+  "placeOfBirth": "North Crystal, Bahrain",
+  "description": "Emily is a gray-eyed llama with red hair, standing 122 cm tall. Originally from North Crystal, Bahrain, Emily enjoys reading, wood carving, singing. Known for their calm and shy personality, Emily is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "f1e3f5b6-3689-4d08-bdfd-40e96e66777c",
+    "relationship": "second cousin"
+  }
+}

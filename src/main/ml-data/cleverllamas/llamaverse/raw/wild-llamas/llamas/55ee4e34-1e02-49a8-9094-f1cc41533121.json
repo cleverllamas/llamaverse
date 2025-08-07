@@ -1,0 +1,15 @@
+{
+  "id": "55ee4e34-1e02-49a8-9094-f1cc41533121",
+  "name": "David",
+  "heightCm": 102,
+  "weightKg": 173,
+  "eyeColor": "Amber",
+  "hairColor": "White",
+  "breed": "Suri",
+  "placeOfBirth": "Lisaburgh, Iraq",
+  "description": "David is a amber-eyed llama with white hair, standing 102 cm tall. Originally from Lisaburgh, Iraq, David enjoys wood carving, singing, dancing. Known for their mischievous and calm personality, David is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "9cac8353-ccf2-46c9-8711-35c6b624188e",
+    "relationship": "great uncle"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "6b5b4d01-9b4c-44d4-860c-5d94ff36010f",
+  "name": "Carlos",
+  "heightCm": 175,
+  "weightKg": 165,
+  "eyeColor": "Amber",
+  "hairColor": "White",
+  "breed": "Hybrid",
+  "placeOfBirth": "Lake Christopher, Dominica",
+  "description": "Carlos is a amber-eyed llama with white hair, standing 175 cm tall. Originally from Lake Christopher, Dominica, Carlos enjoys singing, painting, gardening. Known for their friendly and gentle personality, Carlos is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "b788b083-a584-4314-910a-9bd7dfb16025",
+    "relationship": "aunt"
+  }
+}

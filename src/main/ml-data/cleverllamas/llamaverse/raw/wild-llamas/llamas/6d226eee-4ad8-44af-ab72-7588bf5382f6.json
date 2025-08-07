@@ -1,0 +1,15 @@
+{
+  "id": "6d226eee-4ad8-44af-ab72-7588bf5382f6",
+  "name": "Zachary",
+  "heightCm": 108,
+  "weightKg": 164,
+  "eyeColor": "Hazel",
+  "hairColor": "Silver",
+  "breed": "Suri",
+  "placeOfBirth": "Port Rebecca, French Southern Territories",
+  "description": "Zachary is a hazel-eyed llama with silver hair, standing 108 cm tall. Originally from Port Rebecca, French Southern Territories, Zachary enjoys singing, dancing, knitting. Known for their friendly and curious personality, Zachary is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "7dbb873a-2629-490a-8382-0023247380d1",
+    "relationship": "aunt"
+  }
+}

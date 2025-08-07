@@ -1,0 +1,15 @@
+{
+  "id": "59bfb81f-8078-493d-ba74-8468d4bc09b4",
+  "name": "Charles",
+  "heightCm": 139,
+  "weightKg": 177,
+  "eyeColor": "Amber",
+  "hairColor": "White",
+  "breed": "Hybrid",
+  "placeOfBirth": "South Nicholas, Lesotho",
+  "description": "Charles is a amber-eyed llama with white hair, standing 139 cm tall. Originally from South Nicholas, Lesotho, Charles enjoys wood carving, cooking, singing. Known for their friendly and mischievous personality, Charles is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "1ec02182-ed21-4c08-914d-edf1284b093e",
+    "relationship": "cousin"
+  }
+}

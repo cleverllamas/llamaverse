@@ -1,0 +1,15 @@
+{
+  "id": "5c63669e-ddcc-4c9a-87bc-bf00bcdc9c2f",
+  "name": "Yvonne",
+  "heightCm": 193,
+  "weightKg": 145,
+  "eyeColor": "Gray",
+  "hairColor": "White",
+  "breed": "Suri",
+  "placeOfBirth": "South Adrian, Haiti",
+  "description": "Yvonne is a gray-eyed llama with white hair, standing 193 cm tall. Originally from South Adrian, Haiti, Yvonne enjoys painting, cooking, gardening. Known for their shy and friendly personality, Yvonne is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "5e9a894f-d720-4d75-8da0-2701d4e3e86f",
+    "relationship": "third cousin twice removed"
+  }
+}

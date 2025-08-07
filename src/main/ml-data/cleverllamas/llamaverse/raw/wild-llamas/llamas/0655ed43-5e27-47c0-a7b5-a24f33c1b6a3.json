@@ -1,0 +1,15 @@
+{
+  "id": "0655ed43-5e27-47c0-a7b5-a24f33c1b6a3",
+  "name": "Richard",
+  "heightCm": 172,
+  "weightKg": 136,
+  "eyeColor": "Green",
+  "hairColor": "Red",
+  "breed": "Hybrid",
+  "placeOfBirth": "Lake David, Monaco",
+  "description": "Richard is a green-eyed llama with red hair, standing 172 cm tall. Originally from Lake David, Monaco, Richard enjoys singing, painting, hiking. Known for their shy and playful personality, Richard is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "b855eca8-bd83-4e3b-8569-4d17cd969ba9",
+    "relationship": "second cousin"
+  }
+}

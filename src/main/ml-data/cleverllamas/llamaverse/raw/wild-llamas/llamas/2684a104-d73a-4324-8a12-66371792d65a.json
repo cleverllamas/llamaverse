@@ -1,0 +1,15 @@
+{
+  "id": "2684a104-d73a-4324-8a12-66371792d65a",
+  "name": "Philip",
+  "heightCm": 125,
+  "weightKg": 188,
+  "eyeColor": "Brown",
+  "hairColor": "Blonde",
+  "breed": "Hybrid",
+  "placeOfBirth": "Riversland, New Zealand",
+  "description": "Philip is a brown-eyed llama with blonde hair, standing 125 cm tall. Originally from Riversland, New Zealand, Philip enjoys painting, knitting, singing. Known for their curious and curious personality, Philip is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "530f49e0-8787-403d-8aed-d8a1efc418d0",
+    "relationship": "brother"
+  }
+}

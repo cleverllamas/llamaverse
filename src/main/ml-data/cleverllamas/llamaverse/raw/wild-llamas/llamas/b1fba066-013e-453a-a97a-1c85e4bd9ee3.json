@@ -1,0 +1,15 @@
+{
+  "id": "b1fba066-013e-453a-a97a-1c85e4bd9ee3",
+  "name": "Brian",
+  "heightCm": 182,
+  "weightKg": 143,
+  "eyeColor": "Brown",
+  "hairColor": "Black",
+  "breed": "Hybrid",
+  "placeOfBirth": "Kristinetown, Oman",
+  "description": "Brian is a brown-eyed llama with black hair, standing 182 cm tall. Originally from Kristinetown, Oman, Brian enjoys reading, dancing, knitting. Known for their mischievous and calm personality, Brian is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "dc5c30d6-d2ba-499a-b1b7-f678f2de09ed",
+    "relationship": "father"
+  }
+}

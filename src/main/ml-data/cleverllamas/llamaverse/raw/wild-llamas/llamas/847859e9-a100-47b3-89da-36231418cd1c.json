@@ -1,0 +1,15 @@
+{
+  "id": "847859e9-a100-47b3-89da-36231418cd1c",
+  "name": "Carla",
+  "heightCm": 144,
+  "weightKg": 138,
+  "eyeColor": "Blue",
+  "hairColor": "White",
+  "breed": "Suri",
+  "placeOfBirth": "Sheilastad, Guadeloupe",
+  "description": "Carla is a blue-eyed llama with white hair, standing 144 cm tall. Originally from Sheilastad, Guadeloupe, Carla enjoys dancing, wood carving, singing. Known for their mischievous and friendly personality, Carla is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "037d4e41-f595-4c72-bf3c-31f9d1d8ec30",
+    "relationship": "15th cousin 9th removed"
+  }
+}

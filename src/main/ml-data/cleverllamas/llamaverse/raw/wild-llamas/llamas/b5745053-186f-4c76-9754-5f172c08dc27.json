@@ -1,0 +1,15 @@
+{
+  "id": "b5745053-186f-4c76-9754-5f172c08dc27",
+  "name": "Rachel",
+  "heightCm": 192,
+  "weightKg": 170,
+  "eyeColor": "Brown",
+  "hairColor": "Blonde",
+  "breed": "Suri",
+  "placeOfBirth": "Reyesberg, Trinidad and Tobago",
+  "description": "Rachel is a brown-eyed llama with blonde hair, standing 192 cm tall. Originally from Reyesberg, Trinidad and Tobago, Rachel enjoys knitting, painting, wood carving. Known for their calm and mischievous personality, Rachel is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "c172c521-6159-4285-bafe-2d06ad95350c",
+    "relationship": "second cousin"
+  }
+}

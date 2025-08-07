@@ -1,0 +1,15 @@
+{
+  "id": "85d5077c-30b1-41f8-b17b-e9011338dcf3",
+  "name": "James",
+  "heightCm": 160,
+  "weightKg": 162,
+  "eyeColor": "Amber",
+  "hairColor": "Brown",
+  "breed": "Hybrid",
+  "placeOfBirth": "Taylorland, Nepal",
+  "description": "James is a amber-eyed llama with brown hair, standing 160 cm tall. Originally from Taylorland, Nepal, James enjoys singing, knitting, dancing. Known for their playful and mischievous personality, James is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "b97cf671-0c43-43a3-b7c6-2e07f1592179",
+    "relationship": "4th cousin once removed"
+  }
+}

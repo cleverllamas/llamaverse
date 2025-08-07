@@ -1,0 +1,15 @@
+{
+  "id": "6bbfc5b0-51ad-4a62-98e5-3e57fb89f8ea",
+  "name": "Kristine",
+  "heightCm": 100,
+  "weightKg": 155,
+  "eyeColor": "Hazel",
+  "hairColor": "Red",
+  "breed": "Hybrid",
+  "placeOfBirth": "New Johnfort, Cape Verde",
+  "description": "Kristine is a hazel-eyed llama with red hair, standing 100 cm tall. Originally from New Johnfort, Cape Verde, Kristine enjoys wood carving, hiking, reading. Known for their curious and energetic personality, Kristine is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "5ce83072-c43e-4390-beef-4c93771bd987",
+    "relationship": "brother"
+  }
+}

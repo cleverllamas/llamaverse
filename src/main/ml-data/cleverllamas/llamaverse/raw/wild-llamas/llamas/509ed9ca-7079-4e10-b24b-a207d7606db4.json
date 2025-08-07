@@ -1,0 +1,15 @@
+{
+  "id": "509ed9ca-7079-4e10-b24b-a207d7606db4",
+  "name": "Ryan",
+  "heightCm": 109,
+  "weightKg": 155,
+  "eyeColor": "Amber",
+  "hairColor": "Blonde",
+  "breed": "Suri",
+  "placeOfBirth": "Lesterborough, Venezuela",
+  "description": "Ryan is a amber-eyed llama with blonde hair, standing 109 cm tall. Originally from Lesterborough, Venezuela, Ryan enjoys gardening, painting, knitting. Known for their playful and playful personality, Ryan is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "58fc1645-17d2-4732-aded-1e88f637f967",
+    "relationship": "15th cousin 9th removed"
+  }
+}

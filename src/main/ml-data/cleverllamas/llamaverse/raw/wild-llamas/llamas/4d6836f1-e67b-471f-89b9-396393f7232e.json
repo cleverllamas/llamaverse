@@ -1,0 +1,15 @@
+{
+  "id": "4d6836f1-e67b-471f-89b9-396393f7232e",
+  "name": "Justin",
+  "heightCm": 104,
+  "weightKg": 175,
+  "eyeColor": "Green",
+  "hairColor": "White",
+  "breed": "Huacaya",
+  "placeOfBirth": "Dianeshire, South Africa",
+  "description": "Justin is a green-eyed llama with white hair, standing 104 cm tall. Originally from Dianeshire, South Africa, Justin enjoys gardening, knitting, dancing. Known for their energetic and calm personality, Justin is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "bca03d9d-d330-4e7c-a6cb-1ea644e0ef48",
+    "relationship": "sister"
+  }
+}

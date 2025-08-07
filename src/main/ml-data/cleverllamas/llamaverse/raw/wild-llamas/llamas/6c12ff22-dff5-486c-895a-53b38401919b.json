@@ -1,0 +1,15 @@
+{
+  "id": "6c12ff22-dff5-486c-895a-53b38401919b",
+  "name": "Sarah",
+  "heightCm": 131,
+  "weightKg": 157,
+  "eyeColor": "Hazel",
+  "hairColor": "Brown",
+  "breed": "Huacaya",
+  "placeOfBirth": "Perezberg, Turkmenistan",
+  "description": "Sarah is a hazel-eyed llama with brown hair, standing 131 cm tall. Originally from Perezberg, Turkmenistan, Sarah enjoys painting, gardening, dancing. Known for their shy and mischievous personality, Sarah is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "95501f90-0194-48d2-977d-b76c0c097afb",
+    "relationship": "15th cousin 9th removed"
+  }
+}

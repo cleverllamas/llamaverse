@@ -1,0 +1,15 @@
+{
+  "id": "89e69166-f1aa-41c4-853d-9345943b707a",
+  "name": "Darrell",
+  "heightCm": 165,
+  "weightKg": 133,
+  "eyeColor": "Blue",
+  "hairColor": "Blonde",
+  "breed": "Huacaya",
+  "placeOfBirth": "North Tonyburgh, Niue",
+  "description": "Darrell is a blue-eyed llama with blonde hair, standing 165 cm tall. Originally from North Tonyburgh, Niue, Darrell enjoys knitting, singing, reading. Known for their gentle and shy personality, Darrell is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "4c3cea55-08aa-4468-b6ff-a94add58fa40",
+    "relationship": "uncle"
+  }
+}

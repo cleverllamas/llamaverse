@@ -1,0 +1,15 @@
+{
+  "id": "b76d03e0-ee4c-4dc1-af47-3446070b3b8a",
+  "name": "Karen",
+  "heightCm": 193,
+  "weightKg": 166,
+  "eyeColor": "Brown",
+  "hairColor": "Silver",
+  "breed": "Suri",
+  "placeOfBirth": "Lake Jenniferfurt, Palestinian Territory",
+  "description": "Karen is a brown-eyed llama with silver hair, standing 193 cm tall. Originally from Lake Jenniferfurt, Palestinian Territory, Karen enjoys wood carving, hiking, singing. Known for their playful and mischievous personality, Karen is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "a56edf2d-d234-44b0-bc0f-21aecff3a04e",
+    "relationship": "cousin"
+  }
+}

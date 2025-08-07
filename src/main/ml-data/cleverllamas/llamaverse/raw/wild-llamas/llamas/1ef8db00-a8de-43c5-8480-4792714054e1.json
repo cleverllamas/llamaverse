@@ -1,0 +1,15 @@
+{
+  "id": "1ef8db00-a8de-43c5-8480-4792714054e1",
+  "name": "Lori",
+  "heightCm": 136,
+  "weightKg": 131,
+  "eyeColor": "Hazel",
+  "hairColor": "Blonde",
+  "breed": "Suri",
+  "placeOfBirth": "Jonesville, Togo",
+  "description": "Lori is a hazel-eyed llama with blonde hair, standing 136 cm tall. Originally from Jonesville, Togo, Lori enjoys wood carving, hiking, painting. Known for their friendly and shy personality, Lori is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "0087ad24-a720-4d82-b513-79ae5feebcc6",
+    "relationship": "third cousin twice removed"
+  }
+}

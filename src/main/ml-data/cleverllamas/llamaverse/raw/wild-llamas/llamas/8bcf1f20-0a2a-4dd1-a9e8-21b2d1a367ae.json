@@ -1,0 +1,15 @@
+{
+  "id": "8bcf1f20-0a2a-4dd1-a9e8-21b2d1a367ae",
+  "name": "Michelle",
+  "heightCm": 122,
+  "weightKg": 191,
+  "eyeColor": "Gray",
+  "hairColor": "Brown",
+  "breed": "Suri",
+  "placeOfBirth": "Nortonchester, Niue",
+  "description": "Michelle is a gray-eyed llama with brown hair, standing 122 cm tall. Originally from Nortonchester, Niue, Michelle enjoys knitting, painting, hiking. Known for their mischievous and playful personality, Michelle is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "48953ce7-39dd-40fe-b6dc-eedef04f63b8",
+    "relationship": "4th cousin once removed"
+  }
+}

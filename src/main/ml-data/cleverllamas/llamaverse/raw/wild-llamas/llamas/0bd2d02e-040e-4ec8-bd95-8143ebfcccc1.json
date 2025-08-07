@@ -1,0 +1,15 @@
+{
+  "id": "0bd2d02e-040e-4ec8-bd95-8143ebfcccc1",
+  "name": "Matthew",
+  "heightCm": 198,
+  "weightKg": 183,
+  "eyeColor": "Amber",
+  "hairColor": "Gray",
+  "breed": "Huacaya",
+  "placeOfBirth": "Patriciafort, Kiribati",
+  "description": "Matthew is a amber-eyed llama with gray hair, standing 198 cm tall. Originally from Patriciafort, Kiribati, Matthew enjoys cooking, reading, wood carving. Known for their playful and playful personality, Matthew is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "8f3b973d-9639-4200-981d-5133db872ed5",
+    "relationship": "second cousin"
+  }
+}

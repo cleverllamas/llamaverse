@@ -1,0 +1,15 @@
+{
+  "id": "d9c62da9-1cd3-4157-949e-dea5b57f56aa",
+  "name": "Patrick",
+  "heightCm": 172,
+  "weightKg": 182,
+  "eyeColor": "Brown",
+  "hairColor": "Red",
+  "breed": "Hybrid",
+  "placeOfBirth": "Angelaborough, Morocco",
+  "description": "Patrick is a brown-eyed llama with red hair, standing 172 cm tall. Originally from Angelaborough, Morocco, Patrick enjoys hiking, painting, knitting. Known for their mischievous and gentle personality, Patrick is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "c2ae9206-1be1-452b-9029-84dd67a2f1be",
+    "relationship": "grandparent"
+  }
+}

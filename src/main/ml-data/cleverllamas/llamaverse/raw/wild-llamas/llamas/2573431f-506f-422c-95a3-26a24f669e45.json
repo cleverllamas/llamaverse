@@ -1,0 +1,15 @@
+{
+  "id": "2573431f-506f-422c-95a3-26a24f669e45",
+  "name": "Michael",
+  "heightCm": 107,
+  "weightKg": 179,
+  "eyeColor": "Amber",
+  "hairColor": "Black",
+  "breed": "Huacaya",
+  "placeOfBirth": "New Amandabury, Bosnia and Herzegovina",
+  "description": "Michael is a amber-eyed llama with black hair, standing 107 cm tall. Originally from New Amandabury, Bosnia and Herzegovina, Michael enjoys dancing, wood carving, knitting. Known for their curious and gentle personality, Michael is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "99f84b0b-80e3-42f6-9072-a7b658bb929a",
+    "relationship": "second cousin"
+  }
+}

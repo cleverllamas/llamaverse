@@ -1,0 +1,15 @@
+{
+  "id": "3007b197-ad1a-4924-8cb6-d973fb1fa9f0",
+  "name": "John",
+  "heightCm": 126,
+  "weightKg": 198,
+  "eyeColor": "Green",
+  "hairColor": "Gray",
+  "breed": "Hybrid",
+  "placeOfBirth": "Port Sherryburgh, Lebanon",
+  "description": "John is a green-eyed llama with gray hair, standing 126 cm tall. Originally from Port Sherryburgh, Lebanon, John enjoys dancing, gardening, reading. Known for their energetic and gentle personality, John is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "b56682e6-2818-4d3d-af8d-1ef62d121e32",
+    "relationship": "cousin"
+  }
+}

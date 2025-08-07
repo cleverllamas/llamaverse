@@ -1,0 +1,15 @@
+{
+  "id": "c6ce696b-9113-476b-9fa9-6fc90892160d",
+  "name": "Xavier",
+  "heightCm": 159,
+  "weightKg": 181,
+  "eyeColor": "Green",
+  "hairColor": "Blonde",
+  "breed": "Suri",
+  "placeOfBirth": "South John, Lithuania",
+  "description": "Xavier is a green-eyed llama with blonde hair, standing 159 cm tall. Originally from South John, Lithuania, Xavier enjoys gardening, singing, painting. Known for their friendly and shy personality, Xavier is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "c8e3dc7e-dee1-43e4-8fcd-70a4d9d4ed54",
+    "relationship": "grandparent"
+  }
+}

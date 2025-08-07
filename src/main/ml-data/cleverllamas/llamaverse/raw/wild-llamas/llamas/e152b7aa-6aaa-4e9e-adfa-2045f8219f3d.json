@@ -1,0 +1,15 @@
+{
+  "id": "e152b7aa-6aaa-4e9e-adfa-2045f8219f3d",
+  "name": "Charlotte",
+  "heightCm": 148,
+  "weightKg": 177,
+  "eyeColor": "Blue",
+  "hairColor": "Black",
+  "breed": "Suri",
+  "placeOfBirth": "Tanyaborough, Czech Republic",
+  "description": "Charlotte is a blue-eyed llama with black hair, standing 148 cm tall. Originally from Tanyaborough, Czech Republic, Charlotte enjoys painting, knitting, wood carving. Known for their curious and energetic personality, Charlotte is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "9952084e-9f4c-4990-acec-9c5e0f10b9b0",
+    "relationship": "4th cousin once removed"
+  }
+}

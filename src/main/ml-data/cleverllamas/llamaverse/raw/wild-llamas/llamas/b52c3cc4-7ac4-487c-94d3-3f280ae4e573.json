@@ -1,0 +1,15 @@
+{
+  "id": "b52c3cc4-7ac4-487c-94d3-3f280ae4e573",
+  "name": "Erica",
+  "heightCm": 145,
+  "weightKg": 138,
+  "eyeColor": "Gray",
+  "hairColor": "Silver",
+  "breed": "Hybrid",
+  "placeOfBirth": "Judithshire, Peru",
+  "description": "Erica is a gray-eyed llama with silver hair, standing 145 cm tall. Originally from Judithshire, Peru, Erica enjoys gardening, hiking, reading. Known for their playful and playful personality, Erica is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "6389d773-0fb9-41c2-8baf-3e9de9ff2fd0",
+    "relationship": "father"
+  }
+}

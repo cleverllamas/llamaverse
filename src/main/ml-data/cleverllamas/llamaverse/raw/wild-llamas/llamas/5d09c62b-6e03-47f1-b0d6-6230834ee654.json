@@ -1,0 +1,15 @@
+{
+  "id": "5d09c62b-6e03-47f1-b0d6-6230834ee654",
+  "name": "Joshua",
+  "heightCm": 163,
+  "weightKg": 178,
+  "eyeColor": "Blue",
+  "hairColor": "White",
+  "breed": "Hybrid",
+  "placeOfBirth": "Lake Kaitlinport, Turks and Caicos Islands",
+  "description": "Joshua is a blue-eyed llama with white hair, standing 163 cm tall. Originally from Lake Kaitlinport, Turks and Caicos Islands, Joshua enjoys singing, hiking, dancing. Known for their mischievous and mischievous personality, Joshua is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "74043c09-588d-4206-87d1-848bf2e0266b",
+    "relationship": "sister"
+  }
+}

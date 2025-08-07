@@ -1,0 +1,15 @@
+{
+  "id": "9ae64ee5-55e2-4492-b7f2-cac088bf9f92",
+  "name": "Brandy",
+  "heightCm": 156,
+  "weightKg": 160,
+  "eyeColor": "Blue",
+  "hairColor": "Silver",
+  "breed": "Hybrid",
+  "placeOfBirth": "New Jason, Cyprus",
+  "description": "Brandy is a blue-eyed llama with silver hair, standing 156 cm tall. Originally from New Jason, Cyprus, Brandy enjoys reading, gardening, dancing. Known for their friendly and mischievous personality, Brandy is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "96eb9ab1-c913-4a7d-944b-8466f9886df6",
+    "relationship": "third cousin twice removed"
+  }
+}

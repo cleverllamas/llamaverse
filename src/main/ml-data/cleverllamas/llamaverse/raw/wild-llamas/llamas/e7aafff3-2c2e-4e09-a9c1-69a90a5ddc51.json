@@ -1,0 +1,15 @@
+{
+  "id": "e7aafff3-2c2e-4e09-a9c1-69a90a5ddc51",
+  "name": "Anna",
+  "heightCm": 146,
+  "weightKg": 168,
+  "eyeColor": "Gray",
+  "hairColor": "Blonde",
+  "breed": "Hybrid",
+  "placeOfBirth": "Hamiltonside, Mexico",
+  "description": "Anna is a gray-eyed llama with blonde hair, standing 146 cm tall. Originally from Hamiltonside, Mexico, Anna enjoys cooking, reading, hiking. Known for their calm and gentle personality, Anna is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "7908d1fa-0f3e-43ff-8483-5f3dd970a634",
+    "relationship": "father"
+  }
+}

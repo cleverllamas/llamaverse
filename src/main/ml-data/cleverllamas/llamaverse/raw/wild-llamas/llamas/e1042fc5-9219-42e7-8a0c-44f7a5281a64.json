@@ -1,0 +1,15 @@
+{
+  "id": "e1042fc5-9219-42e7-8a0c-44f7a5281a64",
+  "name": "Carrie",
+  "heightCm": 188,
+  "weightKg": 184,
+  "eyeColor": "Green",
+  "hairColor": "Gray",
+  "breed": "Hybrid",
+  "placeOfBirth": "Alvarezshire, Congo",
+  "description": "Carrie is a green-eyed llama with gray hair, standing 188 cm tall. Originally from Alvarezshire, Congo, Carrie enjoys reading, gardening, singing. Known for their curious and gentle personality, Carrie is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "e034ae78-5343-42c1-b4ef-6f351780e244",
+    "relationship": "third cousin twice removed"
+  }
+}

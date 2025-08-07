@@ -1,0 +1,15 @@
+{
+  "id": "902bc400-0d77-4b14-bd44-5acb903b6598",
+  "name": "Angela",
+  "heightCm": 193,
+  "weightKg": 151,
+  "eyeColor": "Green",
+  "hairColor": "Red",
+  "breed": "Hybrid",
+  "placeOfBirth": "Pearsonstad, Tonga",
+  "description": "Angela is a green-eyed llama with red hair, standing 193 cm tall. Originally from Pearsonstad, Tonga, Angela enjoys gardening, hiking, wood carving. Known for their friendly and gentle personality, Angela is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "55554b8f-67f4-4125-8545-d8b930cfdb80",
+    "relationship": "uncle"
+  }
+}

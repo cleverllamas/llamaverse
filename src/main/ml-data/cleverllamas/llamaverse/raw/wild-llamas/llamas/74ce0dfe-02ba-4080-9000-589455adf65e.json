@@ -1,0 +1,15 @@
+{
+  "id": "74ce0dfe-02ba-4080-9000-589455adf65e",
+  "name": "Shelby",
+  "heightCm": 117,
+  "weightKg": 186,
+  "eyeColor": "Hazel",
+  "hairColor": "Silver",
+  "breed": "Hybrid",
+  "placeOfBirth": "Port Teresa, Brunei Darussalam",
+  "description": "Shelby is a hazel-eyed llama with silver hair, standing 117 cm tall. Originally from Port Teresa, Brunei Darussalam, Shelby enjoys singing, reading, painting. Known for their friendly and energetic personality, Shelby is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "028545bf-c0eb-4078-829f-ba5592b6f0ad",
+    "relationship": "brother"
+  }
+}

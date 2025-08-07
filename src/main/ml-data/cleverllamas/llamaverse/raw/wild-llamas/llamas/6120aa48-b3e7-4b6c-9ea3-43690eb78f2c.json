@@ -1,0 +1,15 @@
+{
+  "id": "6120aa48-b3e7-4b6c-9ea3-43690eb78f2c",
+  "name": "Gregg",
+  "heightCm": 125,
+  "weightKg": 171,
+  "eyeColor": "Hazel",
+  "hairColor": "Black",
+  "breed": "Huacaya",
+  "placeOfBirth": "Kristenborough, Cocos (Keeling) Islands",
+  "description": "Gregg is a hazel-eyed llama with black hair, standing 125 cm tall. Originally from Kristenborough, Cocos (Keeling) Islands, Gregg enjoys dancing, singing, painting. Known for their calm and mischievous personality, Gregg is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "70803261-6b44-47bc-bd3a-78c42c053806",
+    "relationship": "third cousin twice removed"
+  }
+}

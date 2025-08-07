@@ -1,0 +1,15 @@
+{
+  "id": "dea85a64-4201-4301-8637-68d28b62ed79",
+  "name": "John",
+  "heightCm": 146,
+  "weightKg": 139,
+  "eyeColor": "Brown",
+  "hairColor": "Red",
+  "breed": "Hybrid",
+  "placeOfBirth": "Lake Dianeburgh, Zimbabwe",
+  "description": "John is a brown-eyed llama with red hair, standing 146 cm tall. Originally from Lake Dianeburgh, Zimbabwe, John enjoys knitting, singing, painting. Known for their mischievous and shy personality, John is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "5c3f1431-d56d-458e-865e-9b90009f7e04",
+    "relationship": "great uncle"
+  }
+}

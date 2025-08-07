@@ -1,0 +1,15 @@
+{
+  "id": "019653d9-e191-4e09-a03d-d9f6d395ab3e",
+  "name": "Brian",
+  "heightCm": 135,
+  "weightKg": 143,
+  "eyeColor": "Brown",
+  "hairColor": "Blonde",
+  "breed": "Suri",
+  "placeOfBirth": "East Susanside, Myanmar",
+  "description": "Brian is a brown-eyed llama with blonde hair, standing 135 cm tall. Originally from East Susanside, Myanmar, Brian enjoys hiking, reading, knitting. Known for their playful and playful personality, Brian is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "8f59b2be-dee9-4040-b9fb-995e6a2a7f79",
+    "relationship": "15th cousin 9th removed"
+  }
+}

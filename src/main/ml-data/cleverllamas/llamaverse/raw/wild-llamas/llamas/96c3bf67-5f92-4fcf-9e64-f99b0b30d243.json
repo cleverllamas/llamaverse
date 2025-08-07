@@ -1,0 +1,15 @@
+{
+  "id": "96c3bf67-5f92-4fcf-9e64-f99b0b30d243",
+  "name": "Jose",
+  "heightCm": 189,
+  "weightKg": 143,
+  "eyeColor": "Green",
+  "hairColor": "Red",
+  "breed": "Suri",
+  "placeOfBirth": "Terriburgh, Cambodia",
+  "description": "Jose is a green-eyed llama with red hair, standing 189 cm tall. Originally from Terriburgh, Cambodia, Jose enjoys cooking, gardening, wood carving. Known for their gentle and mischievous personality, Jose is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "918e57e7-4f3f-47a9-8b65-2c1dd39f55b4",
+    "relationship": "sister"
+  }
+}

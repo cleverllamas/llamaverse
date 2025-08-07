@@ -1,0 +1,15 @@
+{
+  "id": "6bbbc3a0-b819-453a-9492-aae41da04556",
+  "name": "Matthew",
+  "heightCm": 175,
+  "weightKg": 154,
+  "eyeColor": "Hazel",
+  "hairColor": "Black",
+  "breed": "Huacaya",
+  "placeOfBirth": "West Loriside, Malta",
+  "description": "Matthew is a hazel-eyed llama with black hair, standing 175 cm tall. Originally from West Loriside, Malta, Matthew enjoys singing, gardening, dancing. Known for their mischievous and curious personality, Matthew is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "55554b8f-67f4-4125-8545-d8b930cfdb80",
+    "relationship": "great uncle"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "a53afd40-7a24-4a49-89f0-14af4f2dd399",
+  "name": "Eric",
+  "heightCm": 158,
+  "weightKg": 189,
+  "eyeColor": "Green",
+  "hairColor": "Brown",
+  "breed": "Huacaya",
+  "placeOfBirth": "Jaredfort, Madagascar",
+  "description": "Eric is a green-eyed llama with brown hair, standing 158 cm tall. Originally from Jaredfort, Madagascar, Eric enjoys cooking, dancing, knitting. Known for their calm and calm personality, Eric is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "57777675-98e0-40be-9eb8-9d359aa31bba",
+    "relationship": "cousin"
+  }
+}

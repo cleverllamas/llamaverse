@@ -1,0 +1,15 @@
+{
+  "id": "12d3c81b-8e9e-4bd1-a873-3221e1f4dd5b",
+  "name": "Elizabeth",
+  "heightCm": 139,
+  "weightKg": 135,
+  "eyeColor": "Amber",
+  "hairColor": "Black",
+  "breed": "Suri",
+  "placeOfBirth": "Taylorborough, British Virgin Islands",
+  "description": "Elizabeth is a amber-eyed llama with black hair, standing 139 cm tall. Originally from Taylorborough, British Virgin Islands, Elizabeth enjoys painting, cooking, reading. Known for their shy and shy personality, Elizabeth is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "663a7639-42d5-4db4-829c-0cb00e963a59",
+    "relationship": "aunt"
+  }
+}

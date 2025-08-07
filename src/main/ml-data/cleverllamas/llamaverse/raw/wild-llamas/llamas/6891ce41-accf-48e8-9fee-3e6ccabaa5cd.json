@@ -1,0 +1,15 @@
+{
+  "id": "6891ce41-accf-48e8-9fee-3e6ccabaa5cd",
+  "name": "Susan",
+  "heightCm": 110,
+  "weightKg": 200,
+  "eyeColor": "Brown",
+  "hairColor": "Brown",
+  "breed": "Huacaya",
+  "placeOfBirth": "Rachelberg, Wallis and Futuna",
+  "description": "Susan is a brown-eyed llama with brown hair, standing 110 cm tall. Originally from Rachelberg, Wallis and Futuna, Susan enjoys knitting, painting, reading. Known for their energetic and friendly personality, Susan is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "b8514851-faeb-49c1-9ec9-4bde32544377",
+    "relationship": "grandparent"
+  }
+}

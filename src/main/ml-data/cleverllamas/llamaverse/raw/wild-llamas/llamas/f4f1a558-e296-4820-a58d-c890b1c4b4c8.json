@@ -1,0 +1,15 @@
+{
+  "id": "f4f1a558-e296-4820-a58d-c890b1c4b4c8",
+  "name": "Johnathan",
+  "heightCm": 196,
+  "weightKg": 167,
+  "eyeColor": "Brown",
+  "hairColor": "Red",
+  "breed": "Suri",
+  "placeOfBirth": "North Sandra, Mongolia",
+  "description": "Johnathan is a brown-eyed llama with red hair, standing 196 cm tall. Originally from North Sandra, Mongolia, Johnathan enjoys dancing, knitting, singing. Known for their calm and curious personality, Johnathan is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "a13b4103-c3f0-44c5-97e2-6d40d5a6ae06",
+    "relationship": "cousin"
+  }
+}

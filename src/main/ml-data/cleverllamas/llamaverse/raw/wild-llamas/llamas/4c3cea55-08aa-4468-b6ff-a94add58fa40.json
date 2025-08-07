@@ -1,0 +1,15 @@
+{
+  "id": "4c3cea55-08aa-4468-b6ff-a94add58fa40",
+  "name": "Heather",
+  "heightCm": 177,
+  "weightKg": 200,
+  "eyeColor": "Hazel",
+  "hairColor": "Silver",
+  "breed": "Huacaya",
+  "placeOfBirth": "Port Victoria, Cyprus",
+  "description": "Heather is a hazel-eyed llama with silver hair, standing 177 cm tall. Originally from Port Victoria, Cyprus, Heather enjoys hiking, wood carving, cooking. Known for their calm and friendly personality, Heather is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "18ee673a-f10e-4ec0-b57c-4c1e5d635c5c",
+    "relationship": "4th cousin once removed"
+  }
+}

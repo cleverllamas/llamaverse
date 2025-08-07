@@ -1,0 +1,15 @@
+{
+  "id": "ee51496f-7612-40b3-a91c-c66d7cc9a6fa",
+  "name": "Katherine",
+  "heightCm": 155,
+  "weightKg": 172,
+  "eyeColor": "Green",
+  "hairColor": "Blonde",
+  "breed": "Suri",
+  "placeOfBirth": "Hubbardview, Cambodia",
+  "description": "Katherine is a green-eyed llama with blonde hair, standing 155 cm tall. Originally from Hubbardview, Cambodia, Katherine enjoys wood carving, dancing, gardening. Known for their energetic and playful personality, Katherine is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "b559f85f-9848-48ff-868e-56c53110d8cd",
+    "relationship": "cousin"
+  }
+}

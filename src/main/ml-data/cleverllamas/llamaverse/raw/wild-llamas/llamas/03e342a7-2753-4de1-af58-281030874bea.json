@@ -1,0 +1,15 @@
+{
+  "id": "03e342a7-2753-4de1-af58-281030874bea",
+  "name": "Carol",
+  "heightCm": 149,
+  "weightKg": 140,
+  "eyeColor": "Gray",
+  "hairColor": "White",
+  "breed": "Hybrid",
+  "placeOfBirth": "East Linda, Czech Republic",
+  "description": "Carol is a gray-eyed llama with white hair, standing 149 cm tall. Originally from East Linda, Czech Republic, Carol enjoys cooking, singing, hiking. Known for their shy and shy personality, Carol is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "b68fe2ff-9e19-43a3-ba3c-e19e996f2ffd",
+    "relationship": "father"
+  }
+}

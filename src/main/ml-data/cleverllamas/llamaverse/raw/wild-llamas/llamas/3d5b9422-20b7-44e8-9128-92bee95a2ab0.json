@@ -1,0 +1,15 @@
+{
+  "id": "3d5b9422-20b7-44e8-9128-92bee95a2ab0",
+  "name": "Mark",
+  "heightCm": 163,
+  "weightKg": 162,
+  "eyeColor": "Green",
+  "hairColor": "Brown",
+  "breed": "Suri",
+  "placeOfBirth": "Port Jennifermouth, Bahamas",
+  "description": "Mark is a green-eyed llama with brown hair, standing 163 cm tall. Originally from Port Jennifermouth, Bahamas, Mark enjoys gardening, reading, dancing. Known for their energetic and shy personality, Mark is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "94ff0336-2f91-4e7c-95cc-7f04bab23412",
+    "relationship": "grandparent"
+  }
+}

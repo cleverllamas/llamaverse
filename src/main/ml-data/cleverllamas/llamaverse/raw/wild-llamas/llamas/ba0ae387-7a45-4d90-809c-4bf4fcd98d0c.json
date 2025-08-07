@@ -1,0 +1,15 @@
+{
+  "id": "ba0ae387-7a45-4d90-809c-4bf4fcd98d0c",
+  "name": "Steven",
+  "heightCm": 126,
+  "weightKg": 185,
+  "eyeColor": "Amber",
+  "hairColor": "White",
+  "breed": "Suri",
+  "placeOfBirth": "Matthewfort, Bouvet Island (Bouvetoya)",
+  "description": "Steven is a amber-eyed llama with white hair, standing 126 cm tall. Originally from Matthewfort, Bouvet Island (Bouvetoya), Steven enjoys knitting, dancing, hiking. Known for their curious and energetic personality, Steven is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "c721efdd-07d3-4989-9717-45efeab96c36",
+    "relationship": "second cousin"
+  }
+}

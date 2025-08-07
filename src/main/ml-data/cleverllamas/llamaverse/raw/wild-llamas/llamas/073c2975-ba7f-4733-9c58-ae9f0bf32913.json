@@ -1,0 +1,15 @@
+{
+  "id": "073c2975-ba7f-4733-9c58-ae9f0bf32913",
+  "name": "David",
+  "heightCm": 133,
+  "weightKg": 141,
+  "eyeColor": "Amber",
+  "hairColor": "Blonde",
+  "breed": "Suri",
+  "placeOfBirth": "Blackborough, French Guiana",
+  "description": "David is a amber-eyed llama with blonde hair, standing 133 cm tall. Originally from Blackborough, French Guiana, David enjoys singing, knitting, cooking. Known for their energetic and mischievous personality, David is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "b0f4e4db-4202-40db-b33a-a86fb7a2f674",
+    "relationship": "15th cousin 9th removed"
+  }
+}

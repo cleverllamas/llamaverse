@@ -1,0 +1,15 @@
+{
+  "id": "271aebc9-5943-4702-9724-261dd3524e03",
+  "name": "Matthew",
+  "heightCm": 132,
+  "weightKg": 165,
+  "eyeColor": "Blue",
+  "hairColor": "Blonde",
+  "breed": "Hybrid",
+  "placeOfBirth": "Ashleyview, Bolivia",
+  "description": "Matthew is a blue-eyed llama with blonde hair, standing 132 cm tall. Originally from Ashleyview, Bolivia, Matthew enjoys gardening, reading, wood carving. Known for their gentle and curious personality, Matthew is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "8c8be1a5-e510-42ab-90aa-7cc8905675f3",
+    "relationship": "mother"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "4c4ae2e6-764a-41fb-bdc8-c0f5574363bf",
+  "name": "Jennifer",
+  "heightCm": 167,
+  "weightKg": 131,
+  "eyeColor": "Green",
+  "hairColor": "White",
+  "breed": "Suri",
+  "placeOfBirth": "Lake Kyle, Armenia",
+  "description": "Jennifer is a green-eyed llama with white hair, standing 167 cm tall. Originally from Lake Kyle, Armenia, Jennifer enjoys reading, singing, hiking. Known for their curious and mischievous personality, Jennifer is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "55eb2e16-fc42-4aef-b1de-5ae4936812cb",
+    "relationship": "cousin"
+  }
+}

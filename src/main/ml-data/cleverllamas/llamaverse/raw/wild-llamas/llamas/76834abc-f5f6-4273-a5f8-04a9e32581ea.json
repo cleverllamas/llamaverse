@@ -1,0 +1,15 @@
+{
+  "id": "76834abc-f5f6-4273-a5f8-04a9e32581ea",
+  "name": "Jennifer",
+  "heightCm": 114,
+  "weightKg": 169,
+  "eyeColor": "Blue",
+  "hairColor": "Black",
+  "breed": "Suri",
+  "placeOfBirth": "Port Benjamin, Swaziland",
+  "description": "Jennifer is a blue-eyed llama with black hair, standing 114 cm tall. Originally from Port Benjamin, Swaziland, Jennifer enjoys hiking, knitting, reading. Known for their gentle and mischievous personality, Jennifer is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "f6c27a66-70fb-429c-aeab-433c6e2e0b4b",
+    "relationship": "second cousin"
+  }
+}

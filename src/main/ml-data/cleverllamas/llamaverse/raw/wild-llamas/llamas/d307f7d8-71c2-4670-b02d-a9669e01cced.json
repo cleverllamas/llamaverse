@@ -1,0 +1,15 @@
+{
+  "id": "d307f7d8-71c2-4670-b02d-a9669e01cced",
+  "name": "Calvin",
+  "heightCm": 128,
+  "weightKg": 175,
+  "eyeColor": "Brown",
+  "hairColor": "Gray",
+  "breed": "Hybrid",
+  "placeOfBirth": "New Erikafort, Vietnam",
+  "description": "Calvin is a brown-eyed llama with gray hair, standing 128 cm tall. Originally from New Erikafort, Vietnam, Calvin enjoys singing, painting, knitting. Known for their gentle and playful personality, Calvin is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "4a1b68c6-526b-48b8-a18e-0936c6459c56",
+    "relationship": "third cousin twice removed"
+  }
+}

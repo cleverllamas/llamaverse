@@ -1,0 +1,15 @@
+{
+  "id": "61d0c514-c52a-45ec-9de4-33cbb3fe2e91",
+  "name": "Steven",
+  "heightCm": 125,
+  "weightKg": 199,
+  "eyeColor": "Green",
+  "hairColor": "Blonde",
+  "breed": "Hybrid",
+  "placeOfBirth": "Matthewfurt, Vanuatu",
+  "description": "Steven is a green-eyed llama with blonde hair, standing 125 cm tall. Originally from Matthewfurt, Vanuatu, Steven enjoys reading, gardening, cooking. Known for their gentle and curious personality, Steven is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "07d95770-8c5b-4c75-8f1b-f675e9cdb85e",
+    "relationship": "brother"
+  }
+}

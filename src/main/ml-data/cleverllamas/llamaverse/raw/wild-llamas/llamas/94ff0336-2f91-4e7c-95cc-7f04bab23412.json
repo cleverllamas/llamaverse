@@ -1,0 +1,15 @@
+{
+  "id": "94ff0336-2f91-4e7c-95cc-7f04bab23412",
+  "name": "Megan",
+  "heightCm": 102,
+  "weightKg": 181,
+  "eyeColor": "Amber",
+  "hairColor": "White",
+  "breed": "Huacaya",
+  "placeOfBirth": "Weberchester, Iceland",
+  "description": "Megan is a amber-eyed llama with white hair, standing 102 cm tall. Originally from Weberchester, Iceland, Megan enjoys singing, knitting, hiking. Known for their shy and gentle personality, Megan is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "fb6a4dde-80a5-4aa8-a548-0006512439ef",
+    "relationship": "great uncle"
+  }
+}

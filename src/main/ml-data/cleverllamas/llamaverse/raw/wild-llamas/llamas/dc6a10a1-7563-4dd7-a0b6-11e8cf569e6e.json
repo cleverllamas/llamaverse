@@ -1,0 +1,15 @@
+{
+  "id": "dc6a10a1-7563-4dd7-a0b6-11e8cf569e6e",
+  "name": "Amy",
+  "heightCm": 170,
+  "weightKg": 146,
+  "eyeColor": "Gray",
+  "hairColor": "Blonde",
+  "breed": "Hybrid",
+  "placeOfBirth": "Yatesview, Heard Island and McDonald Islands",
+  "description": "Amy is a gray-eyed llama with blonde hair, standing 170 cm tall. Originally from Yatesview, Heard Island and McDonald Islands, Amy enjoys reading, painting, singing. Known for their playful and mischievous personality, Amy is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "297372dc-232a-4762-835d-154844f7e1b5",
+    "relationship": "second cousin"
+  }
+}

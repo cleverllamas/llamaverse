@@ -1,0 +1,15 @@
+{
+  "id": "e3bf48f4-5802-47f0-ab47-71693b55ad61",
+  "name": "Lisa",
+  "heightCm": 113,
+  "weightKg": 174,
+  "eyeColor": "Blue",
+  "hairColor": "Black",
+  "breed": "Suri",
+  "placeOfBirth": "West Thomas, Nauru",
+  "description": "Lisa is a blue-eyed llama with black hair, standing 113 cm tall. Originally from West Thomas, Nauru, Lisa enjoys hiking, cooking, painting. Known for their friendly and energetic personality, Lisa is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "549ac300-9d2b-403a-9fdd-5c67cf2d27d5",
+    "relationship": "sister"
+  }
+}

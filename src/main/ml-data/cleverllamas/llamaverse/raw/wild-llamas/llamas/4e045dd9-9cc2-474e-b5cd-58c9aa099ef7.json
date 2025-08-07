@@ -1,0 +1,15 @@
+{
+  "id": "4e045dd9-9cc2-474e-b5cd-58c9aa099ef7",
+  "name": "Kyle",
+  "heightCm": 186,
+  "weightKg": 137,
+  "eyeColor": "Blue",
+  "hairColor": "Silver",
+  "breed": "Suri",
+  "placeOfBirth": "New Kristinastad, Portugal",
+  "description": "Kyle is a blue-eyed llama with silver hair, standing 186 cm tall. Originally from New Kristinastad, Portugal, Kyle enjoys cooking, reading, knitting. Known for their calm and calm personality, Kyle is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "5b576541-d7df-4896-bbf2-e3f7a1e29fb3",
+    "relationship": "second cousin"
+  }
+}

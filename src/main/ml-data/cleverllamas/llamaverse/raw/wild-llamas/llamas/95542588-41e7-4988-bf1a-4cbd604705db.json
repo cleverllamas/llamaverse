@@ -1,0 +1,15 @@
+{
+  "id": "95542588-41e7-4988-bf1a-4cbd604705db",
+  "name": "Samuel",
+  "heightCm": 193,
+  "weightKg": 157,
+  "eyeColor": "Gray",
+  "hairColor": "Gray",
+  "breed": "Huacaya",
+  "placeOfBirth": "Port Johnathan, Seychelles",
+  "description": "Samuel is a gray-eyed llama with gray hair, standing 193 cm tall. Originally from Port Johnathan, Seychelles, Samuel enjoys dancing, knitting, wood carving. Known for their curious and mischievous personality, Samuel is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "c4c41b35-6701-4c5d-afff-d3a3055b048e",
+    "relationship": "uncle"
+  }
+}

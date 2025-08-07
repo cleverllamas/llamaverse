@@ -1,0 +1,15 @@
+{
+  "id": "cc9d42f7-3522-4f02-980b-9e0d3f380769",
+  "name": "Alice",
+  "heightCm": 163,
+  "weightKg": 137,
+  "eyeColor": "Amber",
+  "hairColor": "Blonde",
+  "breed": "Suri",
+  "placeOfBirth": "East Casey, Tunisia",
+  "description": "Alice is a amber-eyed llama with blonde hair, standing 163 cm tall. Originally from East Casey, Tunisia, Alice enjoys knitting, singing, gardening. Known for their gentle and shy personality, Alice is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "c489b80e-fcde-479b-abd1-c56f781ad2af",
+    "relationship": "cousin"
+  }
+}

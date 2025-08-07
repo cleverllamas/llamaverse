@@ -1,0 +1,15 @@
+{
+  "id": "b889403b-9efe-4187-99b8-287c2ebfd11a",
+  "name": "Christopher",
+  "heightCm": 150,
+  "weightKg": 173,
+  "eyeColor": "Amber",
+  "hairColor": "Gray",
+  "breed": "Huacaya",
+  "placeOfBirth": "Juliamouth, Brazil",
+  "description": "Christopher is a amber-eyed llama with gray hair, standing 150 cm tall. Originally from Juliamouth, Brazil, Christopher enjoys gardening, singing, dancing. Known for their shy and shy personality, Christopher is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "38c2e4b5-c094-4094-b020-224ec6c9b61c",
+    "relationship": "15th cousin 9th removed"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "46ec7207-983d-4c69-8e55-bdea0f5232ab",
+  "name": "Charles",
+  "heightCm": 181,
+  "weightKg": 150,
+  "eyeColor": "Blue",
+  "hairColor": "Blonde",
+  "breed": "Hybrid",
+  "placeOfBirth": "East Brookeville, Cambodia",
+  "description": "Charles is a blue-eyed llama with blonde hair, standing 181 cm tall. Originally from East Brookeville, Cambodia, Charles enjoys singing, reading, cooking. Known for their shy and friendly personality, Charles is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "ec38ce5f-7c9c-4dfd-9048-ef74e80827a2",
+    "relationship": "father"
+  }
+}

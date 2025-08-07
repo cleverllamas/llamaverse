@@ -1,0 +1,15 @@
+{
+  "id": "30181243-49ff-4cce-b8bb-c03fc8ec7b0a",
+  "name": "Trevor",
+  "heightCm": 118,
+  "weightKg": 199,
+  "eyeColor": "Hazel",
+  "hairColor": "White",
+  "breed": "Huacaya",
+  "placeOfBirth": "Dianaland, Mongolia",
+  "description": "Trevor is a hazel-eyed llama with white hair, standing 118 cm tall. Originally from Dianaland, Mongolia, Trevor enjoys wood carving, reading, knitting. Known for their calm and gentle personality, Trevor is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "acf8ad5f-71ec-4efb-bfdf-f2789cbf7c7e",
+    "relationship": "brother"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "80a5a13f-d81e-4c9f-8f75-224347d344aa",
+  "name": "Kellie",
+  "heightCm": 107,
+  "weightKg": 175,
+  "eyeColor": "Hazel",
+  "hairColor": "Red",
+  "breed": "Suri",
+  "placeOfBirth": "North Michellemouth, Hungary",
+  "description": "Kellie is a hazel-eyed llama with red hair, standing 107 cm tall. Originally from North Michellemouth, Hungary, Kellie enjoys reading, dancing, gardening. Known for their energetic and shy personality, Kellie is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "72d7973d-70eb-42f3-b863-3fee1d6d93cc",
+    "relationship": "4th cousin once removed"
+  }
+}

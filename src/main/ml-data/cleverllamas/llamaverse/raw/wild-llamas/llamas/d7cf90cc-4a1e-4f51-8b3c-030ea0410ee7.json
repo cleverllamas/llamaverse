@@ -1,0 +1,15 @@
+{
+  "id": "d7cf90cc-4a1e-4f51-8b3c-030ea0410ee7",
+  "name": "Susan",
+  "heightCm": 152,
+  "weightKg": 152,
+  "eyeColor": "Brown",
+  "hairColor": "Black",
+  "breed": "Hybrid",
+  "placeOfBirth": "North Julieview, Guatemala",
+  "description": "Susan is a brown-eyed llama with black hair, standing 152 cm tall. Originally from North Julieview, Guatemala, Susan enjoys reading, hiking, gardening. Known for their curious and gentle personality, Susan is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "7fa58144-d4fb-494b-8c94-703de70c0f2a",
+    "relationship": "brother"
+  }
+}

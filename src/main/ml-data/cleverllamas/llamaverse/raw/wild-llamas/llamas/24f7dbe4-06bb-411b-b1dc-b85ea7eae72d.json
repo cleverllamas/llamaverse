@@ -1,0 +1,15 @@
+{
+  "id": "24f7dbe4-06bb-411b-b1dc-b85ea7eae72d",
+  "name": "Jason",
+  "heightCm": 178,
+  "weightKg": 200,
+  "eyeColor": "Green",
+  "hairColor": "Brown",
+  "breed": "Huacaya",
+  "placeOfBirth": "Warrenbury, United States Minor Outlying Islands",
+  "description": "Jason is a green-eyed llama with brown hair, standing 178 cm tall. Originally from Warrenbury, United States Minor Outlying Islands, Jason enjoys reading, wood carving, hiking. Known for their curious and friendly personality, Jason is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "bf578486-4bbd-48f3-a057-e8de7ee98eee",
+    "relationship": "aunt"
+  }
+}

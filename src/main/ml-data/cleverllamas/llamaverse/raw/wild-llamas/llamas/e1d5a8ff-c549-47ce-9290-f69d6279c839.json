@@ -1,0 +1,15 @@
+{
+  "id": "e1d5a8ff-c549-47ce-9290-f69d6279c839",
+  "name": "Jessica",
+  "heightCm": 107,
+  "weightKg": 145,
+  "eyeColor": "Hazel",
+  "hairColor": "Black",
+  "breed": "Suri",
+  "placeOfBirth": "West Deanside, Marshall Islands",
+  "description": "Jessica is a hazel-eyed llama with black hair, standing 107 cm tall. Originally from West Deanside, Marshall Islands, Jessica enjoys knitting, cooking, singing. Known for their shy and shy personality, Jessica is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "9f921b35-00a7-4c01-8953-ac08d2369b8c",
+    "relationship": "cousin"
+  }
+}

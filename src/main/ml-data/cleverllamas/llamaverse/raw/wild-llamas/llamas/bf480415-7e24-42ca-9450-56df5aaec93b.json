@@ -1,0 +1,15 @@
+{
+  "id": "bf480415-7e24-42ca-9450-56df5aaec93b",
+  "name": "Christopher",
+  "heightCm": 156,
+  "weightKg": 136,
+  "eyeColor": "Green",
+  "hairColor": "White",
+  "breed": "Huacaya",
+  "placeOfBirth": "Millerland, Anguilla",
+  "description": "Christopher is a green-eyed llama with white hair, standing 156 cm tall. Originally from Millerland, Anguilla, Christopher enjoys knitting, hiking, singing. Known for their friendly and calm personality, Christopher is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "1b0bdbf5-834d-4a90-bba5-078891950b10",
+    "relationship": "grandparent"
+  }
+}

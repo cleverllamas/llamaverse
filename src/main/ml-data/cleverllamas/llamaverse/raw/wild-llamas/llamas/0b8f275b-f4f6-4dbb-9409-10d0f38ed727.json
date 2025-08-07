@@ -1,0 +1,15 @@
+{
+  "id": "0b8f275b-f4f6-4dbb-9409-10d0f38ed727",
+  "name": "Michael",
+  "heightCm": 196,
+  "weightKg": 169,
+  "eyeColor": "Blue",
+  "hairColor": "Silver",
+  "breed": "Huacaya",
+  "placeOfBirth": "West Jacksonstad, Reunion",
+  "description": "Michael is a blue-eyed llama with silver hair, standing 196 cm tall. Originally from West Jacksonstad, Reunion, Michael enjoys reading, wood carving, dancing. Known for their calm and calm personality, Michael is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "fe33c259-221f-4e50-8f78-061d086efab4",
+    "relationship": "third cousin twice removed"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "bc3246f5-97eb-4884-97a2-8c20a48d4bae",
+  "name": "Rita",
+  "heightCm": 147,
+  "weightKg": 144,
+  "eyeColor": "Hazel",
+  "hairColor": "Blonde",
+  "breed": "Huacaya",
+  "placeOfBirth": "Browningchester, Cayman Islands",
+  "description": "Rita is a hazel-eyed llama with blonde hair, standing 147 cm tall. Originally from Browningchester, Cayman Islands, Rita enjoys hiking, painting, singing. Known for their energetic and calm personality, Rita is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "6679414d-9e9c-4379-98a3-58018ffa7569",
+    "relationship": "cousin"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "660825f4-0aea-409e-a788-2afdb09d4b71",
+  "name": "Steve",
+  "heightCm": 193,
+  "weightKg": 199,
+  "eyeColor": "Brown",
+  "hairColor": "Red",
+  "breed": "Hybrid",
+  "placeOfBirth": "West Maryland, Moldova",
+  "description": "Steve is a brown-eyed llama with red hair, standing 193 cm tall. Originally from West Maryland, Moldova, Steve enjoys wood carving, reading, cooking. Known for their calm and energetic personality, Steve is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "eb46700a-ef27-4164-b9e7-5031d5fa65ba",
+    "relationship": "grandparent"
+  }
+}

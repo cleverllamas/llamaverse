@@ -1,0 +1,15 @@
+{
+  "id": "1fb6d5a8-6ea2-48b4-ad22-91dc5fdd565f",
+  "name": "Anna",
+  "heightCm": 155,
+  "weightKg": 160,
+  "eyeColor": "Green",
+  "hairColor": "Gray",
+  "breed": "Huacaya",
+  "placeOfBirth": "Davidbury, Malaysia",
+  "description": "Anna is a green-eyed llama with gray hair, standing 155 cm tall. Originally from Davidbury, Malaysia, Anna enjoys dancing, painting, reading. Known for their shy and shy personality, Anna is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "4c4ae2e6-764a-41fb-bdc8-c0f5574363bf",
+    "relationship": "sister"
+  }
+}

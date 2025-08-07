@@ -1,0 +1,15 @@
+{
+  "id": "e78cc67b-ff7c-45de-9deb-a1363455e2a6",
+  "name": "Danielle",
+  "heightCm": 154,
+  "weightKg": 180,
+  "eyeColor": "Amber",
+  "hairColor": "Red",
+  "breed": "Hybrid",
+  "placeOfBirth": "West Adam, Guadeloupe",
+  "description": "Danielle is a amber-eyed llama with red hair, standing 154 cm tall. Originally from West Adam, Guadeloupe, Danielle enjoys reading, hiking, dancing. Known for their calm and energetic personality, Danielle is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "49b6c697-7e26-4317-8a44-8e9830b30937",
+    "relationship": "second cousin"
+  }
+}

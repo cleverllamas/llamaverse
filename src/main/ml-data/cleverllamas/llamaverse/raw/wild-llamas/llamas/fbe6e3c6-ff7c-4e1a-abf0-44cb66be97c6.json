@@ -1,0 +1,15 @@
+{
+  "id": "fbe6e3c6-ff7c-4e1a-abf0-44cb66be97c6",
+  "name": "Mathew",
+  "heightCm": 159,
+  "weightKg": 184,
+  "eyeColor": "Green",
+  "hairColor": "White",
+  "breed": "Hybrid",
+  "placeOfBirth": "West Kathyfort, Kyrgyz Republic",
+  "description": "Mathew is a green-eyed llama with white hair, standing 159 cm tall. Originally from West Kathyfort, Kyrgyz Republic, Mathew enjoys wood carving, hiking, knitting. Known for their shy and playful personality, Mathew is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "ee5393d9-511a-46c1-a70a-aad0f7027689",
+    "relationship": "father"
+  }
+}

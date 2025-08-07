@@ -1,0 +1,15 @@
+{
+  "id": "82bea7f0-4d8a-438b-bcee-aca53890b066",
+  "name": "Elizabeth",
+  "heightCm": 177,
+  "weightKg": 189,
+  "eyeColor": "Green",
+  "hairColor": "Silver",
+  "breed": "Hybrid",
+  "placeOfBirth": "South Dakotaburgh, British Indian Ocean Territory (Chagos Archipelago)",
+  "description": "Elizabeth is a green-eyed llama with silver hair, standing 177 cm tall. Originally from South Dakotaburgh, British Indian Ocean Territory (Chagos Archipelago), Elizabeth enjoys wood carving, cooking, knitting. Known for their calm and friendly personality, Elizabeth is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "3e879775-c076-44ae-b9ac-c6e15a3f096e",
+    "relationship": "aunt"
+  }
+}

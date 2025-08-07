@@ -1,0 +1,15 @@
+{
+  "id": "ed6025da-202b-4817-99fa-9a92f21b8d51",
+  "name": "Ana",
+  "heightCm": 190,
+  "weightKg": 192,
+  "eyeColor": "Gray",
+  "hairColor": "Silver",
+  "breed": "Huacaya",
+  "placeOfBirth": "Scottport, Nicaragua",
+  "description": "Ana is a gray-eyed llama with silver hair, standing 190 cm tall. Originally from Scottport, Nicaragua, Ana enjoys reading, hiking, knitting. Known for their shy and curious personality, Ana is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "ae632116-dd78-41fc-af6f-76b6ab78fc57",
+    "relationship": "mother"
+  }
+}

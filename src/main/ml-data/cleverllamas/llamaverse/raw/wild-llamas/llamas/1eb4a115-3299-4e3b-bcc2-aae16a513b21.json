@@ -1,0 +1,15 @@
+{
+  "id": "1eb4a115-3299-4e3b-bcc2-aae16a513b21",
+  "name": "Rachel",
+  "heightCm": 192,
+  "weightKg": 175,
+  "eyeColor": "Brown",
+  "hairColor": "White",
+  "breed": "Suri",
+  "placeOfBirth": "West Bradleystad, Thailand",
+  "description": "Rachel is a brown-eyed llama with white hair, standing 192 cm tall. Originally from West Bradleystad, Thailand, Rachel enjoys gardening, reading, cooking. Known for their shy and energetic personality, Rachel is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "d82cdf5b-d11b-4396-a577-000ab6093b5b",
+    "relationship": "aunt"
+  }
+}

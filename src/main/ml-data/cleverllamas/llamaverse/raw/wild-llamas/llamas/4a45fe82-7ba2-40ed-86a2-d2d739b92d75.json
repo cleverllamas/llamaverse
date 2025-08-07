@@ -1,0 +1,15 @@
+{
+  "id": "4a45fe82-7ba2-40ed-86a2-d2d739b92d75",
+  "name": "Kimberly",
+  "heightCm": 124,
+  "weightKg": 148,
+  "eyeColor": "Hazel",
+  "hairColor": "Red",
+  "breed": "Suri",
+  "placeOfBirth": "Jesusport, United Kingdom",
+  "description": "Kimberly is a hazel-eyed llama with red hair, standing 124 cm tall. Originally from Jesusport, United Kingdom, Kimberly enjoys dancing, wood carving, knitting. Known for their calm and mischievous personality, Kimberly is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "e07c9137-eec7-4973-9897-3b35a8cd4d24",
+    "relationship": "grandparent"
+  }
+}

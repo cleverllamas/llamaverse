@@ -1,0 +1,15 @@
+{
+  "id": "b585fac1-ea88-4301-99c3-3a99074b33f9",
+  "name": "Jane",
+  "heightCm": 152,
+  "weightKg": 197,
+  "eyeColor": "Gray",
+  "hairColor": "Blonde",
+  "breed": "Huacaya",
+  "placeOfBirth": "Ramosmouth, Japan",
+  "description": "Jane is a gray-eyed llama with blonde hair, standing 152 cm tall. Originally from Ramosmouth, Japan, Jane enjoys knitting, painting, reading. Known for their playful and friendly personality, Jane is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "154ab803-b214-4c37-8b90-9bfaa47b0912",
+    "relationship": "third cousin twice removed"
+  }
+}

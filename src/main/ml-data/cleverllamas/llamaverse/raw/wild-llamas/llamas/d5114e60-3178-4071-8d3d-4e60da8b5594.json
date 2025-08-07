@@ -1,0 +1,15 @@
+{
+  "id": "d5114e60-3178-4071-8d3d-4e60da8b5594",
+  "name": "Tina",
+  "heightCm": 149,
+  "weightKg": 198,
+  "eyeColor": "Gray",
+  "hairColor": "Gray",
+  "breed": "Hybrid",
+  "placeOfBirth": "North Anafurt, Mayotte",
+  "description": "Tina is a gray-eyed llama with gray hair, standing 149 cm tall. Originally from North Anafurt, Mayotte, Tina enjoys reading, painting, hiking. Known for their calm and shy personality, Tina is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "91bbc6ee-d442-4532-a42d-b7ea111b421f",
+    "relationship": "brother"
+  }
+}

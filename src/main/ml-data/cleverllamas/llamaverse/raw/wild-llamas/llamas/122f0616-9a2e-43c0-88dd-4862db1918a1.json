@@ -1,0 +1,15 @@
+{
+  "id": "122f0616-9a2e-43c0-88dd-4862db1918a1",
+  "name": "Tracy",
+  "heightCm": 195,
+  "weightKg": 137,
+  "eyeColor": "Amber",
+  "hairColor": "Brown",
+  "breed": "Suri",
+  "placeOfBirth": "East Jeremyfort, Tuvalu",
+  "description": "Tracy is a amber-eyed llama with brown hair, standing 195 cm tall. Originally from East Jeremyfort, Tuvalu, Tracy enjoys knitting, dancing, gardening. Known for their gentle and mischievous personality, Tracy is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "f8e76aa2-d130-4414-9aa5-f26e8d3bce99",
+    "relationship": "uncle"
+  }
+}

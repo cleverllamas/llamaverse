@@ -1,0 +1,15 @@
+{
+  "id": "e05671e8-c909-435c-8a1f-85b7e99b5ce9",
+  "name": "Carly",
+  "heightCm": 126,
+  "weightKg": 130,
+  "eyeColor": "Hazel",
+  "hairColor": "White",
+  "breed": "Huacaya",
+  "placeOfBirth": "Kellymouth, Montenegro",
+  "description": "Carly is a hazel-eyed llama with white hair, standing 126 cm tall. Originally from Kellymouth, Montenegro, Carly enjoys knitting, hiking, painting. Known for their gentle and playful personality, Carly is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "262cb814-ed18-423c-b45a-e29f72a62ad9",
+    "relationship": "mother"
+  }
+}

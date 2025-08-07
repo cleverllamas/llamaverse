@@ -1,0 +1,15 @@
+{
+  "id": "3ab40a72-4914-4a67-9b6a-57061e18c150",
+  "name": "Kayla",
+  "heightCm": 189,
+  "weightKg": 163,
+  "eyeColor": "Blue",
+  "hairColor": "Black",
+  "breed": "Hybrid",
+  "placeOfBirth": "Lake Tiffanyborough, Bahrain",
+  "description": "Kayla is a blue-eyed llama with black hair, standing 189 cm tall. Originally from Lake Tiffanyborough, Bahrain, Kayla enjoys reading, cooking, wood carving. Known for their friendly and friendly personality, Kayla is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "8823c8c2-30c8-4297-8d4b-b1899ac84d6d",
+    "relationship": "third cousin twice removed"
+  }
+}

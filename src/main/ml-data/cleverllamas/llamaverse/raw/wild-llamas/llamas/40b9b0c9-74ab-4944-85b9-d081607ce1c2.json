@@ -1,0 +1,15 @@
+{
+  "id": "40b9b0c9-74ab-4944-85b9-d081607ce1c2",
+  "name": "Rebecca",
+  "heightCm": 148,
+  "weightKg": 145,
+  "eyeColor": "Green",
+  "hairColor": "Blonde",
+  "breed": "Huacaya",
+  "placeOfBirth": "Port Ashley, Finland",
+  "description": "Rebecca is a green-eyed llama with blonde hair, standing 148 cm tall. Originally from Port Ashley, Finland, Rebecca enjoys knitting, gardening, dancing. Known for their playful and shy personality, Rebecca is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "eb7d0939-ca23-4a60-a240-265f4513e124",
+    "relationship": "15th cousin 9th removed"
+  }
+}

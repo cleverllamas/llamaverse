@@ -1,0 +1,15 @@
+{
+  "id": "817ca411-6b4f-4667-af46-9ee964e9d816",
+  "name": "Candice",
+  "heightCm": 102,
+  "weightKg": 186,
+  "eyeColor": "Hazel",
+  "hairColor": "Brown",
+  "breed": "Hybrid",
+  "placeOfBirth": "Taylorburgh, Angola",
+  "description": "Candice is a hazel-eyed llama with brown hair, standing 102 cm tall. Originally from Taylorburgh, Angola, Candice enjoys cooking, painting, wood carving. Known for their calm and playful personality, Candice is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "3893eb13-a3b4-4da5-b58a-518ac3ec5d37",
+    "relationship": "cousin"
+  }
+}

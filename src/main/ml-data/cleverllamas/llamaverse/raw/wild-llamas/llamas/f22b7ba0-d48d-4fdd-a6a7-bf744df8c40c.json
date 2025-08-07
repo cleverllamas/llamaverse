@@ -1,0 +1,15 @@
+{
+  "id": "f22b7ba0-d48d-4fdd-a6a7-bf744df8c40c",
+  "name": "Laurie",
+  "heightCm": 187,
+  "weightKg": 189,
+  "eyeColor": "Amber",
+  "hairColor": "Gray",
+  "breed": "Huacaya",
+  "placeOfBirth": "East Glendatown, Taiwan",
+  "description": "Laurie is a amber-eyed llama with gray hair, standing 187 cm tall. Originally from East Glendatown, Taiwan, Laurie enjoys dancing, hiking, cooking. Known for their gentle and shy personality, Laurie is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "85823831-0287-431f-81e6-9397b54be73f",
+    "relationship": "cousin"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "f62281a7-d765-4d13-aef6-7e7d8485ed71",
+  "name": "Fernando",
+  "heightCm": 162,
+  "weightKg": 184,
+  "eyeColor": "Hazel",
+  "hairColor": "Red",
+  "breed": "Suri",
+  "placeOfBirth": "Francesside, El Salvador",
+  "description": "Fernando is a hazel-eyed llama with red hair, standing 162 cm tall. Originally from Francesside, El Salvador, Fernando enjoys reading, gardening, singing. Known for their mischievous and energetic personality, Fernando is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "1d7f5727-2664-4a27-8394-53e233f61b72",
+    "relationship": "great uncle"
+  }
+}

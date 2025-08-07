@@ -1,0 +1,15 @@
+{
+  "id": "6c89b40d-9c20-4784-ab80-872271da6c20",
+  "name": "Katrina",
+  "heightCm": 184,
+  "weightKg": 155,
+  "eyeColor": "Blue",
+  "hairColor": "Red",
+  "breed": "Hybrid",
+  "placeOfBirth": "Lake Mikeport, Bouvet Island (Bouvetoya)",
+  "description": "Katrina is a blue-eyed llama with red hair, standing 184 cm tall. Originally from Lake Mikeport, Bouvet Island (Bouvetoya), Katrina enjoys cooking, singing, knitting. Known for their mischievous and playful personality, Katrina is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "1d7f5727-2664-4a27-8394-53e233f61b72",
+    "relationship": "mother"
+  }
+}

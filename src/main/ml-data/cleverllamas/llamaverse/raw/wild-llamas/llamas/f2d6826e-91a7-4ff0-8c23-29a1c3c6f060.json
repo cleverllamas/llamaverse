@@ -1,0 +1,15 @@
+{
+  "id": "f2d6826e-91a7-4ff0-8c23-29a1c3c6f060",
+  "name": "Amy",
+  "heightCm": 102,
+  "weightKg": 189,
+  "eyeColor": "Green",
+  "hairColor": "Black",
+  "breed": "Huacaya",
+  "placeOfBirth": "Lewisstad, Morocco",
+  "description": "Amy is a green-eyed llama with black hair, standing 102 cm tall. Originally from Lewisstad, Morocco, Amy enjoys singing, cooking, reading. Known for their mischievous and mischievous personality, Amy is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "d03e6e69-2d5e-439c-96d0-5bc1623a0bea",
+    "relationship": "uncle"
+  }
+}

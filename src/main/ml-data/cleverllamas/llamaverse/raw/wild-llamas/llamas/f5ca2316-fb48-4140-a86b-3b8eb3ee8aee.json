@@ -1,0 +1,15 @@
+{
+  "id": "f5ca2316-fb48-4140-a86b-3b8eb3ee8aee",
+  "name": "Justin",
+  "heightCm": 179,
+  "weightKg": 188,
+  "eyeColor": "Gray",
+  "hairColor": "Red",
+  "breed": "Hybrid",
+  "placeOfBirth": "Moranhaven, Tonga",
+  "description": "Justin is a gray-eyed llama with red hair, standing 179 cm tall. Originally from Moranhaven, Tonga, Justin enjoys knitting, reading, wood carving. Known for their gentle and friendly personality, Justin is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "13f21097-9f58-44bd-9f42-c5b24564e96a",
+    "relationship": "father"
+  }
+}

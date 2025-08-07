@@ -1,0 +1,15 @@
+{
+  "id": "2e6ef9a7-65cf-433d-9547-d768b8b3eea5",
+  "name": "Jacob",
+  "heightCm": 147,
+  "weightKg": 141,
+  "eyeColor": "Blue",
+  "hairColor": "Red",
+  "breed": "Suri",
+  "placeOfBirth": "Maryton, Czech Republic",
+  "description": "Jacob is a blue-eyed llama with red hair, standing 147 cm tall. Originally from Maryton, Czech Republic, Jacob enjoys knitting, hiking, gardening. Known for their curious and mischievous personality, Jacob is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "e8344690-566c-4345-a7cd-fb93c15e359e",
+    "relationship": "father"
+  }
+}

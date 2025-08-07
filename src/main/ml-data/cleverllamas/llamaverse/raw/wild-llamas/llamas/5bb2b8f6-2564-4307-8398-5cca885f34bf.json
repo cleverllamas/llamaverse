@@ -1,0 +1,15 @@
+{
+  "id": "5bb2b8f6-2564-4307-8398-5cca885f34bf",
+  "name": "Melanie",
+  "heightCm": 120,
+  "weightKg": 167,
+  "eyeColor": "Amber",
+  "hairColor": "Brown",
+  "breed": "Huacaya",
+  "placeOfBirth": "North Davidland, Guadeloupe",
+  "description": "Melanie is a amber-eyed llama with brown hair, standing 120 cm tall. Originally from North Davidland, Guadeloupe, Melanie enjoys wood carving, reading, knitting. Known for their energetic and curious personality, Melanie is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "096fff1c-9938-45fa-929e-3fb8cce7ace7",
+    "relationship": "4th cousin once removed"
+  }
+}

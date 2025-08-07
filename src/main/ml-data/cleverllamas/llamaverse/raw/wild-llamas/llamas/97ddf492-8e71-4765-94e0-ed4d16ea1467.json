@@ -1,0 +1,15 @@
+{
+  "id": "97ddf492-8e71-4765-94e0-ed4d16ea1467",
+  "name": "John",
+  "heightCm": 102,
+  "weightKg": 197,
+  "eyeColor": "Green",
+  "hairColor": "Silver",
+  "breed": "Huacaya",
+  "placeOfBirth": "North Brittneybury, Djibouti",
+  "description": "John is a green-eyed llama with silver hair, standing 102 cm tall. Originally from North Brittneybury, Djibouti, John enjoys gardening, knitting, dancing. Known for their calm and shy personality, John is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "f79905e1-5148-4a30-babb-f85f98959df8",
+    "relationship": "sister"
+  }
+}

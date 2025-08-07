@@ -1,0 +1,15 @@
+{
+  "id": "fdaf9340-fdbf-4a2d-83a6-8f6783d055a4",
+  "name": "Justin",
+  "heightCm": 106,
+  "weightKg": 147,
+  "eyeColor": "Gray",
+  "hairColor": "Red",
+  "breed": "Huacaya",
+  "placeOfBirth": "East Andrew, Western Sahara",
+  "description": "Justin is a gray-eyed llama with red hair, standing 106 cm tall. Originally from East Andrew, Western Sahara, Justin enjoys hiking, dancing, gardening. Known for their gentle and playful personality, Justin is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "ee78cad4-48f8-40ae-ba99-989c1fd62c91",
+    "relationship": "great uncle"
+  }
+}

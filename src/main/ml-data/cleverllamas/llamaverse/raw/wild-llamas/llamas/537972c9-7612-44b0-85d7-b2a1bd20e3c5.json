@@ -1,0 +1,15 @@
+{
+  "id": "537972c9-7612-44b0-85d7-b2a1bd20e3c5",
+  "name": "Jeremiah",
+  "heightCm": 188,
+  "weightKg": 182,
+  "eyeColor": "Hazel",
+  "hairColor": "Blonde",
+  "breed": "Huacaya",
+  "placeOfBirth": "Lake Cynthiaburgh, Netherlands Antilles",
+  "description": "Jeremiah is a hazel-eyed llama with blonde hair, standing 188 cm tall. Originally from Lake Cynthiaburgh, Netherlands Antilles, Jeremiah enjoys cooking, painting, gardening. Known for their playful and friendly personality, Jeremiah is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "db624732-41ed-4e8a-b241-bb07ccf8ba48",
+    "relationship": "aunt"
+  }
+}

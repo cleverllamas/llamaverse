@@ -1,0 +1,15 @@
+{
+  "id": "2d8e7d78-3a2b-4812-b032-7c3eb0c26667",
+  "name": "William",
+  "heightCm": 102,
+  "weightKg": 183,
+  "eyeColor": "Hazel",
+  "hairColor": "Silver",
+  "breed": "Hybrid",
+  "placeOfBirth": "Goodport, Congo",
+  "description": "William is a hazel-eyed llama with silver hair, standing 102 cm tall. Originally from Goodport, Congo, William enjoys knitting, singing, dancing. Known for their playful and curious personality, William is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "6ce04fcd-d4a9-4a3b-8d50-7bc9a0e71255",
+    "relationship": "third cousin twice removed"
+  }
+}

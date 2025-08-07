@@ -1,0 +1,15 @@
+{
+  "id": "31689e68-dc39-42d9-be14-55d23a086a25",
+  "name": "Beth",
+  "heightCm": 132,
+  "weightKg": 163,
+  "eyeColor": "Green",
+  "hairColor": "Black",
+  "breed": "Hybrid",
+  "placeOfBirth": "Michelleborough, Monaco",
+  "description": "Beth is a green-eyed llama with black hair, standing 132 cm tall. Originally from Michelleborough, Monaco, Beth enjoys hiking, painting, dancing. Known for their calm and mischievous personality, Beth is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "6c8ca8e3-7a3c-48fe-a4ac-1d08a3668b13",
+    "relationship": "great uncle"
+  }
+}

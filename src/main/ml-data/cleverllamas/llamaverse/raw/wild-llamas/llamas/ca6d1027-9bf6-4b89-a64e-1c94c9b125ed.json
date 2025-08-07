@@ -1,0 +1,15 @@
+{
+  "id": "ca6d1027-9bf6-4b89-a64e-1c94c9b125ed",
+  "name": "William",
+  "heightCm": 131,
+  "weightKg": 185,
+  "eyeColor": "Blue",
+  "hairColor": "White",
+  "breed": "Hybrid",
+  "placeOfBirth": "Lake Lauriefurt, Mexico",
+  "description": "William is a blue-eyed llama with white hair, standing 131 cm tall. Originally from Lake Lauriefurt, Mexico, William enjoys cooking, dancing, hiking. Known for their playful and playful personality, William is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "3bb63c23-d911-4807-9e87-3a168824464b",
+    "relationship": "sister"
+  }
+}

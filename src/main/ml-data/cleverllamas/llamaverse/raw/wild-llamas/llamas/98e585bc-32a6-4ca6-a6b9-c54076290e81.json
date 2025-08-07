@@ -1,0 +1,15 @@
+{
+  "id": "98e585bc-32a6-4ca6-a6b9-c54076290e81",
+  "name": "Sarah",
+  "heightCm": 176,
+  "weightKg": 171,
+  "eyeColor": "Amber",
+  "hairColor": "Blonde",
+  "breed": "Suri",
+  "placeOfBirth": "East Leslieland, Turkmenistan",
+  "description": "Sarah is a amber-eyed llama with blonde hair, standing 176 cm tall. Originally from East Leslieland, Turkmenistan, Sarah enjoys reading, painting, knitting. Known for their energetic and curious personality, Sarah is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "41b130ca-6bc1-4b8f-8599-1775647f163d",
+    "relationship": "uncle"
+  }
+}

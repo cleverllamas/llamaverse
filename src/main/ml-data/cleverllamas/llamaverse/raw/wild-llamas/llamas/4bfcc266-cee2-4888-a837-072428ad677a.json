@@ -1,0 +1,15 @@
+{
+  "id": "4bfcc266-cee2-4888-a837-072428ad677a",
+  "name": "Stephanie",
+  "heightCm": 117,
+  "weightKg": 187,
+  "eyeColor": "Hazel",
+  "hairColor": "Black",
+  "breed": "Huacaya",
+  "placeOfBirth": "Lake Tracitown, United Arab Emirates",
+  "description": "Stephanie is a hazel-eyed llama with black hair, standing 117 cm tall. Originally from Lake Tracitown, United Arab Emirates, Stephanie enjoys wood carving, gardening, hiking. Known for their calm and calm personality, Stephanie is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "49ba8239-26b9-447a-ac59-661d4890919e",
+    "relationship": "uncle"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "45c32aa0-3266-465c-82ec-6d8c9c89f8ab",
+  "name": "Elizabeth",
+  "heightCm": 176,
+  "weightKg": 130,
+  "eyeColor": "Green",
+  "hairColor": "Blonde",
+  "breed": "Huacaya",
+  "placeOfBirth": "Debramouth, Lesotho",
+  "description": "Elizabeth is a green-eyed llama with blonde hair, standing 176 cm tall. Originally from Debramouth, Lesotho, Elizabeth enjoys knitting, reading, wood carving. Known for their friendly and energetic personality, Elizabeth is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "077f91d1-3571-42ed-8d1c-15f5e4497802",
+    "relationship": "second cousin"
+  }
+}

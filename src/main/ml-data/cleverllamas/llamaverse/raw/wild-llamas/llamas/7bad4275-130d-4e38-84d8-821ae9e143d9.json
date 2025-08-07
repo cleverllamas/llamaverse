@@ -1,0 +1,15 @@
+{
+  "id": "7bad4275-130d-4e38-84d8-821ae9e143d9",
+  "name": "Amber",
+  "heightCm": 145,
+  "weightKg": 173,
+  "eyeColor": "Blue",
+  "hairColor": "Brown",
+  "breed": "Hybrid",
+  "placeOfBirth": "East Jerry, Palestinian Territory",
+  "description": "Amber is a blue-eyed llama with brown hair, standing 145 cm tall. Originally from East Jerry, Palestinian Territory, Amber enjoys reading, cooking, knitting. Known for their curious and curious personality, Amber is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "f9960aa1-9349-49e4-9762-cabf445d14fe",
+    "relationship": "grandparent"
+  }
+}

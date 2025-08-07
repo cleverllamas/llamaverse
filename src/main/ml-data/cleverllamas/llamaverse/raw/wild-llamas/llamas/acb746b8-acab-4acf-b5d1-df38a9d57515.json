@@ -1,0 +1,15 @@
+{
+  "id": "acb746b8-acab-4acf-b5d1-df38a9d57515",
+  "name": "Ann",
+  "heightCm": 116,
+  "weightKg": 170,
+  "eyeColor": "Hazel",
+  "hairColor": "Brown",
+  "breed": "Suri",
+  "placeOfBirth": "Stephanieberg, Korea",
+  "description": "Ann is a hazel-eyed llama with brown hair, standing 116 cm tall. Originally from Stephanieberg, Korea, Ann enjoys gardening, knitting, cooking. Known for their mischievous and energetic personality, Ann is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "014566d5-d9c8-4caa-a5f8-07a929e004f0",
+    "relationship": "sister"
+  }
+}

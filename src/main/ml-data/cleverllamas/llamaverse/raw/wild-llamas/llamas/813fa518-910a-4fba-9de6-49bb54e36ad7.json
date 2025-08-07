@@ -1,0 +1,15 @@
+{
+  "id": "813fa518-910a-4fba-9de6-49bb54e36ad7",
+  "name": "John",
+  "heightCm": 105,
+  "weightKg": 135,
+  "eyeColor": "Green",
+  "hairColor": "White",
+  "breed": "Suri",
+  "placeOfBirth": "Amberstad, Uzbekistan",
+  "description": "John is a green-eyed llama with white hair, standing 105 cm tall. Originally from Amberstad, Uzbekistan, John enjoys gardening, hiking, knitting. Known for their gentle and gentle personality, John is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "7e02ae62-bc9b-41a7-9dd3-55ceb93e9aa7",
+    "relationship": "great uncle"
+  }
+}

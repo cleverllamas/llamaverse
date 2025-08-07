@@ -1,0 +1,15 @@
+{
+  "id": "627346cd-2685-4a96-a076-64ccc642dbf2",
+  "name": "Joseph",
+  "heightCm": 122,
+  "weightKg": 132,
+  "eyeColor": "Hazel",
+  "hairColor": "Blonde",
+  "breed": "Suri",
+  "placeOfBirth": "New Danielmouth, Sudan",
+  "description": "Joseph is a hazel-eyed llama with blonde hair, standing 122 cm tall. Originally from New Danielmouth, Sudan, Joseph enjoys cooking, reading, painting. Known for their shy and playful personality, Joseph is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "520c0f60-a0b8-4702-bd12-bb7a33a12a7e",
+    "relationship": "15th cousin 9th removed"
+  }
+}

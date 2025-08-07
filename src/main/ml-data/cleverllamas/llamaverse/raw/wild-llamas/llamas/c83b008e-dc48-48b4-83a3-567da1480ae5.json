@@ -1,0 +1,15 @@
+{
+  "id": "c83b008e-dc48-48b4-83a3-567da1480ae5",
+  "name": "Michelle",
+  "heightCm": 121,
+  "weightKg": 159,
+  "eyeColor": "Green",
+  "hairColor": "Silver",
+  "breed": "Hybrid",
+  "placeOfBirth": "Adamtown, Pitcairn Islands",
+  "description": "Michelle is a green-eyed llama with silver hair, standing 121 cm tall. Originally from Adamtown, Pitcairn Islands, Michelle enjoys painting, gardening, hiking. Known for their calm and friendly personality, Michelle is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "d80b20ba-fa8e-45be-a631-9cda7a435540",
+    "relationship": "third cousin twice removed"
+  }
+}

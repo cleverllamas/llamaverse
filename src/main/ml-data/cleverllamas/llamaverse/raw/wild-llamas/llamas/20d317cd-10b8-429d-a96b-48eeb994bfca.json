@@ -1,0 +1,15 @@
+{
+  "id": "20d317cd-10b8-429d-a96b-48eeb994bfca",
+  "name": "Linda",
+  "heightCm": 127,
+  "weightKg": 196,
+  "eyeColor": "Hazel",
+  "hairColor": "Black",
+  "breed": "Huacaya",
+  "placeOfBirth": "Vanessaborough, Slovenia",
+  "description": "Linda is a hazel-eyed llama with black hair, standing 127 cm tall. Originally from Vanessaborough, Slovenia, Linda enjoys knitting, reading, cooking. Known for their shy and gentle personality, Linda is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "b3520337-6c01-4d04-a3c5-30ce2afad3c0",
+    "relationship": "father"
+  }
+}

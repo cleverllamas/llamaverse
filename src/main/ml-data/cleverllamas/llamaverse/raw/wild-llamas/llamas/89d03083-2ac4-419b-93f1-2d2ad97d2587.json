@@ -1,0 +1,15 @@
+{
+  "id": "89d03083-2ac4-419b-93f1-2d2ad97d2587",
+  "name": "Russell",
+  "heightCm": 103,
+  "weightKg": 137,
+  "eyeColor": "Green",
+  "hairColor": "Silver",
+  "breed": "Suri",
+  "placeOfBirth": "Port Thomas, Philippines",
+  "description": "Russell is a green-eyed llama with silver hair, standing 103 cm tall. Originally from Port Thomas, Philippines, Russell enjoys singing, painting, cooking. Known for their friendly and playful personality, Russell is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "f3328838-27e3-42e4-8197-8377e43366c6",
+    "relationship": "uncle"
+  }
+}

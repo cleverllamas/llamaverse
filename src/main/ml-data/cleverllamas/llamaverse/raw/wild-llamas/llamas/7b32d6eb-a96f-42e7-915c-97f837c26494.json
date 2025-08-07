@@ -1,0 +1,15 @@
+{
+  "id": "7b32d6eb-a96f-42e7-915c-97f837c26494",
+  "name": "Alicia",
+  "heightCm": 111,
+  "weightKg": 167,
+  "eyeColor": "Brown",
+  "hairColor": "Brown",
+  "breed": "Suri",
+  "placeOfBirth": "South Jay, Libyan Arab Jamahiriya",
+  "description": "Alicia is a brown-eyed llama with brown hair, standing 111 cm tall. Originally from South Jay, Libyan Arab Jamahiriya, Alicia enjoys hiking, dancing, gardening. Known for their energetic and curious personality, Alicia is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "d74fa8e0-4c5d-413f-8ec7-8f932ca57da3",
+    "relationship": "brother"
+  }
+}

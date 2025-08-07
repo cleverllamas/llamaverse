@@ -1,0 +1,15 @@
+{
+  "id": "4ee71621-7ef6-4c53-b15f-162e70d8de62",
+  "name": "Timothy",
+  "heightCm": 163,
+  "weightKg": 192,
+  "eyeColor": "Blue",
+  "hairColor": "Brown",
+  "breed": "Hybrid",
+  "placeOfBirth": "Port Christinamouth, Turkey",
+  "description": "Timothy is a blue-eyed llama with brown hair, standing 163 cm tall. Originally from Port Christinamouth, Turkey, Timothy enjoys knitting, hiking, dancing. Known for their playful and energetic personality, Timothy is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "60370d31-b17d-4d01-9ca6-91fb224e0f15",
+    "relationship": "mother"
+  }
+}

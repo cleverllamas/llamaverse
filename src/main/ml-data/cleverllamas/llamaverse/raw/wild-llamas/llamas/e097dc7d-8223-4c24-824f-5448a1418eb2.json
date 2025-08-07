@@ -1,0 +1,15 @@
+{
+  "id": "e097dc7d-8223-4c24-824f-5448a1418eb2",
+  "name": "Lisa",
+  "heightCm": 137,
+  "weightKg": 153,
+  "eyeColor": "Amber",
+  "hairColor": "Red",
+  "breed": "Suri",
+  "placeOfBirth": "Port Dustin, South Africa",
+  "description": "Lisa is a amber-eyed llama with red hair, standing 137 cm tall. Originally from Port Dustin, South Africa, Lisa enjoys reading, cooking, wood carving. Known for their gentle and friendly personality, Lisa is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "fbe11de1-4afd-49b4-958c-3f7812763a60",
+    "relationship": "sister"
+  }
+}

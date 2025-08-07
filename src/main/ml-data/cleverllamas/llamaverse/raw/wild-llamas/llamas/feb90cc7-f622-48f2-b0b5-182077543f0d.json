@@ -1,0 +1,15 @@
+{
+  "id": "feb90cc7-f622-48f2-b0b5-182077543f0d",
+  "name": "Renee",
+  "heightCm": 161,
+  "weightKg": 188,
+  "eyeColor": "Blue",
+  "hairColor": "Brown",
+  "breed": "Suri",
+  "placeOfBirth": "Oconnellstad, Iran",
+  "description": "Renee is a blue-eyed llama with brown hair, standing 161 cm tall. Originally from Oconnellstad, Iran, Renee enjoys wood carving, hiking, painting. Known for their gentle and curious personality, Renee is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "c530691b-5b01-413e-bbad-a74a3cbb2c31",
+    "relationship": "cousin"
+  }
+}

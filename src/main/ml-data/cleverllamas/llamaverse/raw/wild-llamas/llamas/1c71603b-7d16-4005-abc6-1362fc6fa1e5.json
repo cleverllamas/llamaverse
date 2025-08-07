@@ -1,0 +1,15 @@
+{
+  "id": "1c71603b-7d16-4005-abc6-1362fc6fa1e5",
+  "name": "Christopher",
+  "heightCm": 117,
+  "weightKg": 132,
+  "eyeColor": "Amber",
+  "hairColor": "Brown",
+  "breed": "Huacaya",
+  "placeOfBirth": "Delgadohaven, Argentina",
+  "description": "Christopher is a amber-eyed llama with brown hair, standing 117 cm tall. Originally from Delgadohaven, Argentina, Christopher enjoys hiking, cooking, wood carving. Known for their friendly and friendly personality, Christopher is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "0a838e12-63f2-4241-95bf-f5f1838ccf40",
+    "relationship": "15th cousin 9th removed"
+  }
+}

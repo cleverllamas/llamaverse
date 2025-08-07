@@ -1,0 +1,15 @@
+{
+  "id": "637c9335-754f-44d2-8297-342ea9a337b8",
+  "name": "Melissa",
+  "heightCm": 126,
+  "weightKg": 148,
+  "eyeColor": "Green",
+  "hairColor": "White",
+  "breed": "Huacaya",
+  "placeOfBirth": "North Annafort, Puerto Rico",
+  "description": "Melissa is a green-eyed llama with white hair, standing 126 cm tall. Originally from North Annafort, Puerto Rico, Melissa enjoys painting, cooking, hiking. Known for their calm and curious personality, Melissa is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "704cc4be-6000-4835-9c56-169b9f65f47d",
+    "relationship": "mother"
+  }
+}

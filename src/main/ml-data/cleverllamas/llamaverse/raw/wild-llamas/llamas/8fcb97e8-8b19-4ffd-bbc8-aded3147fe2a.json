@@ -1,0 +1,15 @@
+{
+  "id": "8fcb97e8-8b19-4ffd-bbc8-aded3147fe2a",
+  "name": "Sheryl",
+  "heightCm": 166,
+  "weightKg": 198,
+  "eyeColor": "Amber",
+  "hairColor": "White",
+  "breed": "Suri",
+  "placeOfBirth": "North Jenniferfurt, Nauru",
+  "description": "Sheryl is a amber-eyed llama with white hair, standing 166 cm tall. Originally from North Jenniferfurt, Nauru, Sheryl enjoys gardening, reading, hiking. Known for their mischievous and gentle personality, Sheryl is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "c7625a4f-c5c2-463f-9d8b-b5fd52483144",
+    "relationship": "4th cousin once removed"
+  }
+}

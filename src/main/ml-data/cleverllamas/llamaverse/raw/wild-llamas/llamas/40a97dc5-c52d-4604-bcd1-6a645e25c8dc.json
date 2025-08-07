@@ -1,0 +1,15 @@
+{
+  "id": "40a97dc5-c52d-4604-bcd1-6a645e25c8dc",
+  "name": "Brandon",
+  "heightCm": 159,
+  "weightKg": 177,
+  "eyeColor": "Gray",
+  "hairColor": "White",
+  "breed": "Suri",
+  "placeOfBirth": "Sextonbury, Peru",
+  "description": "Brandon is a gray-eyed llama with white hair, standing 159 cm tall. Originally from Sextonbury, Peru, Brandon enjoys knitting, hiking, gardening. Known for their curious and shy personality, Brandon is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "b163ebfb-3d99-4e61-a7ea-f51162473133",
+    "relationship": "cousin"
+  }
+}

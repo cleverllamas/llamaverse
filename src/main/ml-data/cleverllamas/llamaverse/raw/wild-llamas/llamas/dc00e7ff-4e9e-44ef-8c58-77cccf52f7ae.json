@@ -1,0 +1,15 @@
+{
+  "id": "dc00e7ff-4e9e-44ef-8c58-77cccf52f7ae",
+  "name": "Katrina",
+  "heightCm": 171,
+  "weightKg": 173,
+  "eyeColor": "Green",
+  "hairColor": "Red",
+  "breed": "Hybrid",
+  "placeOfBirth": "West Philip, Martinique",
+  "description": "Katrina is a green-eyed llama with red hair, standing 171 cm tall. Originally from West Philip, Martinique, Katrina enjoys wood carving, singing, gardening. Known for their curious and mischievous personality, Katrina is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "ebd91d2d-a830-41dc-a585-c8eed82d8727",
+    "relationship": "grandparent"
+  }
+}

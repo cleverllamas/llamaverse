@@ -1,0 +1,15 @@
+{
+  "id": "7357c9f6-037f-491e-b1af-94f617155106",
+  "name": "Kimberly",
+  "heightCm": 149,
+  "weightKg": 153,
+  "eyeColor": "Amber",
+  "hairColor": "Blonde",
+  "breed": "Huacaya",
+  "placeOfBirth": "Lake Victoria, Saint Barthelemy",
+  "description": "Kimberly is a amber-eyed llama with blonde hair, standing 149 cm tall. Originally from Lake Victoria, Saint Barthelemy, Kimberly enjoys wood carving, gardening, hiking. Known for their friendly and mischievous personality, Kimberly is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "00cf82a3-4937-40c6-80fe-6ae0f1100364",
+    "relationship": "great uncle"
+  }
+}

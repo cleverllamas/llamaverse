@@ -1,0 +1,15 @@
+{
+  "id": "c9382ff8-f68e-4e63-9951-823b1b959654",
+  "name": "Veronica",
+  "heightCm": 122,
+  "weightKg": 186,
+  "eyeColor": "Gray",
+  "hairColor": "Black",
+  "breed": "Huacaya",
+  "placeOfBirth": "Barnesland, Bahamas",
+  "description": "Veronica is a gray-eyed llama with black hair, standing 122 cm tall. Originally from Barnesland, Bahamas, Veronica enjoys dancing, cooking, hiking. Known for their playful and mischievous personality, Veronica is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "9cceb441-e42b-47f4-b734-8775cee203b6",
+    "relationship": "uncle"
+  }
+}

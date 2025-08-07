@@ -1,0 +1,15 @@
+{
+  "id": "e0bb767d-5579-443a-a538-8232200c9848",
+  "name": "Dawn",
+  "heightCm": 199,
+  "weightKg": 147,
+  "eyeColor": "Brown",
+  "hairColor": "Silver",
+  "breed": "Huacaya",
+  "placeOfBirth": "South Joshuaburgh, Ireland",
+  "description": "Dawn is a brown-eyed llama with silver hair, standing 199 cm tall. Originally from South Joshuaburgh, Ireland, Dawn enjoys wood carving, dancing, knitting. Known for their friendly and energetic personality, Dawn is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "85823831-0287-431f-81e6-9397b54be73f",
+    "relationship": "father"
+  }
+}

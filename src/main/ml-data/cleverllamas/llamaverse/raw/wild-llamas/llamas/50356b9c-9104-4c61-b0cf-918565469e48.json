@@ -1,0 +1,15 @@
+{
+  "id": "50356b9c-9104-4c61-b0cf-918565469e48",
+  "name": "Rachel",
+  "heightCm": 125,
+  "weightKg": 193,
+  "eyeColor": "Gray",
+  "hairColor": "Gray",
+  "breed": "Huacaya",
+  "placeOfBirth": "Lynchstad, Lebanon",
+  "description": "Rachel is a gray-eyed llama with gray hair, standing 125 cm tall. Originally from Lynchstad, Lebanon, Rachel enjoys gardening, hiking, singing. Known for their mischievous and shy personality, Rachel is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "8f2ec0a8-3dde-450f-a7ca-c8aaad656247",
+    "relationship": "grandparent"
+  }
+}

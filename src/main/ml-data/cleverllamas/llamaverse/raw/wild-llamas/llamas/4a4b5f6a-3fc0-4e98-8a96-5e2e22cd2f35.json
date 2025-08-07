@@ -1,0 +1,15 @@
+{
+  "id": "4a4b5f6a-3fc0-4e98-8a96-5e2e22cd2f35",
+  "name": "Karen",
+  "heightCm": 182,
+  "weightKg": 166,
+  "eyeColor": "Brown",
+  "hairColor": "Gray",
+  "breed": "Huacaya",
+  "placeOfBirth": "New Thomas, Belize",
+  "description": "Karen is a brown-eyed llama with gray hair, standing 182 cm tall. Originally from New Thomas, Belize, Karen enjoys reading, cooking, singing. Known for their calm and mischievous personality, Karen is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "0e7dfc8e-7034-4ad8-92a0-1ec368337569",
+    "relationship": "sister"
+  }
+}

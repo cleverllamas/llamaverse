@@ -1,0 +1,15 @@
+{
+  "id": "4c1f9cf7-df00-40f5-bc7a-fe8285cf7ef0",
+  "name": "Jennifer",
+  "heightCm": 121,
+  "weightKg": 195,
+  "eyeColor": "Green",
+  "hairColor": "Brown",
+  "breed": "Hybrid",
+  "placeOfBirth": "Stacyhaven, New Zealand",
+  "description": "Jennifer is a green-eyed llama with brown hair, standing 121 cm tall. Originally from Stacyhaven, New Zealand, Jennifer enjoys cooking, dancing, knitting. Known for their mischievous and curious personality, Jennifer is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "4711662e-f6b0-452a-98d5-690a65b0036e",
+    "relationship": "great uncle"
+  }
+}

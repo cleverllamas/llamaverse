@@ -1,0 +1,15 @@
+{
+  "id": "0a3d6008-9a23-4664-8952-7d9a678fee05",
+  "name": "Kelly",
+  "heightCm": 144,
+  "weightKg": 136,
+  "eyeColor": "Brown",
+  "hairColor": "Blonde",
+  "breed": "Huacaya",
+  "placeOfBirth": "Andersonport, Spain",
+  "description": "Kelly is a brown-eyed llama with blonde hair, standing 144 cm tall. Originally from Andersonport, Spain, Kelly enjoys singing, cooking, hiking. Known for their calm and gentle personality, Kelly is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "be0af537-f3c5-4640-98e1-4d9562b89aa2",
+    "relationship": "uncle"
+  }
+}

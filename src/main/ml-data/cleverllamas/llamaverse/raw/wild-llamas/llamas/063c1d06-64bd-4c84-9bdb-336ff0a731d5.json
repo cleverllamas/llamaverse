@@ -1,0 +1,15 @@
+{
+  "id": "063c1d06-64bd-4c84-9bdb-336ff0a731d5",
+  "name": "Mario",
+  "heightCm": 123,
+  "weightKg": 153,
+  "eyeColor": "Hazel",
+  "hairColor": "White",
+  "breed": "Suri",
+  "placeOfBirth": "Alvarezshire, Iran",
+  "description": "Mario is a hazel-eyed llama with white hair, standing 123 cm tall. Originally from Alvarezshire, Iran, Mario enjoys hiking, cooking, knitting. Known for their curious and curious personality, Mario is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "2907708f-5108-4c42-9c51-12875f796aa7",
+    "relationship": "15th cousin 9th removed"
+  }
+}

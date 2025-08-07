@@ -1,0 +1,15 @@
+{
+  "id": "660f2109-6b12-40f6-bff6-31f58fe593de",
+  "name": "Elizabeth",
+  "heightCm": 190,
+  "weightKg": 182,
+  "eyeColor": "Gray",
+  "hairColor": "Black",
+  "breed": "Hybrid",
+  "placeOfBirth": "Jacobston, Venezuela",
+  "description": "Elizabeth is a gray-eyed llama with black hair, standing 190 cm tall. Originally from Jacobston, Venezuela, Elizabeth enjoys singing, hiking, painting. Known for their energetic and friendly personality, Elizabeth is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "98254ed8-dba0-4db0-8084-3cf9b65b72a8",
+    "relationship": "uncle"
+  }
+}

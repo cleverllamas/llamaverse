@@ -1,0 +1,15 @@
+{
+  "id": "f0b0be32-9f9d-486d-b5c1-a889a488d5f3",
+  "name": "Nina",
+  "heightCm": 156,
+  "weightKg": 178,
+  "eyeColor": "Hazel",
+  "hairColor": "Gray",
+  "breed": "Hybrid",
+  "placeOfBirth": "Johnland, Bermuda",
+  "description": "Nina is a hazel-eyed llama with gray hair, standing 156 cm tall. Originally from Johnland, Bermuda, Nina enjoys wood carving, singing, cooking. Known for their calm and shy personality, Nina is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "42f896c6-0952-482b-8045-6a0da2c9743c",
+    "relationship": "brother"
+  }
+}

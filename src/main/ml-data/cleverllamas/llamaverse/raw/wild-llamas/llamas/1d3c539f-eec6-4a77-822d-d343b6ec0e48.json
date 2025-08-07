@@ -1,0 +1,15 @@
+{
+  "id": "1d3c539f-eec6-4a77-822d-d343b6ec0e48",
+  "name": "John",
+  "heightCm": 116,
+  "weightKg": 165,
+  "eyeColor": "Gray",
+  "hairColor": "Black",
+  "breed": "Huacaya",
+  "placeOfBirth": "Brianmouth, Equatorial Guinea",
+  "description": "John is a gray-eyed llama with black hair, standing 116 cm tall. Originally from Brianmouth, Equatorial Guinea, John enjoys wood carving, cooking, knitting. Known for their mischievous and friendly personality, John is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "dceaa826-2347-4faa-aa1a-f86515cbe853",
+    "relationship": "third cousin twice removed"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "9d4f1dcd-79b6-4f58-802b-6a92f394f798",
+  "name": "Jennifer",
+  "heightCm": 193,
+  "weightKg": 179,
+  "eyeColor": "Blue",
+  "hairColor": "Silver",
+  "breed": "Huacaya",
+  "placeOfBirth": "Mooreshire, Finland",
+  "description": "Jennifer is a blue-eyed llama with silver hair, standing 193 cm tall. Originally from Mooreshire, Finland, Jennifer enjoys cooking, dancing, painting. Known for their calm and gentle personality, Jennifer is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "66aa89b3-86e5-4e7c-befb-670033b456bf",
+    "relationship": "brother"
+  }
+}

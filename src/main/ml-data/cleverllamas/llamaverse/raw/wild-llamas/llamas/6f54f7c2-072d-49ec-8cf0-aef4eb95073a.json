@@ -1,0 +1,15 @@
+{
+  "id": "6f54f7c2-072d-49ec-8cf0-aef4eb95073a",
+  "name": "William",
+  "heightCm": 174,
+  "weightKg": 193,
+  "eyeColor": "Amber",
+  "hairColor": "Gray",
+  "breed": "Suri",
+  "placeOfBirth": "Cardenaschester, Cote d'Ivoire",
+  "description": "William is a amber-eyed llama with gray hair, standing 174 cm tall. Originally from Cardenaschester, Cote d'Ivoire, William enjoys dancing, hiking, singing. Known for their energetic and shy personality, William is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "f8b76d9c-0886-42b9-9b1d-9b79a4c02783",
+    "relationship": "mother"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "10a9e15c-d13d-498f-b369-3fb427f59a57",
+  "name": "Christina",
+  "heightCm": 106,
+  "weightKg": 193,
+  "eyeColor": "Hazel",
+  "hairColor": "Red",
+  "breed": "Huacaya",
+  "placeOfBirth": "Coopershire, Somalia",
+  "description": "Christina is a hazel-eyed llama with red hair, standing 106 cm tall. Originally from Coopershire, Somalia, Christina enjoys dancing, reading, knitting. Known for their friendly and gentle personality, Christina is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "8f8c0f92-660e-48f1-b2ff-6b466f093284",
+    "relationship": "grandparent"
+  }
+}

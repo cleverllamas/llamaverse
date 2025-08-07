@@ -1,0 +1,15 @@
+{
+  "id": "24822b2b-c15e-42cb-bbe1-d3439c4f9455",
+  "name": "Amy",
+  "heightCm": 186,
+  "weightKg": 179,
+  "eyeColor": "Hazel",
+  "hairColor": "Blonde",
+  "breed": "Huacaya",
+  "placeOfBirth": "Port Jasonhaven, Eritrea",
+  "description": "Amy is a hazel-eyed llama with blonde hair, standing 186 cm tall. Originally from Port Jasonhaven, Eritrea, Amy enjoys gardening, hiking, wood carving. Known for their playful and calm personality, Amy is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "8f760bda-f1f4-4a74-8df9-851c1508e99f",
+    "relationship": "4th cousin once removed"
+  }
+}

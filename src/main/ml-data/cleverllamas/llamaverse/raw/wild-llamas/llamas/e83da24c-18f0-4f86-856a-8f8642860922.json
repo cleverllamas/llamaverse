@@ -1,0 +1,15 @@
+{
+  "id": "e83da24c-18f0-4f86-856a-8f8642860922",
+  "name": "Levi",
+  "heightCm": 147,
+  "weightKg": 177,
+  "eyeColor": "Brown",
+  "hairColor": "Silver",
+  "breed": "Hybrid",
+  "placeOfBirth": "Castroview, Finland",
+  "description": "Levi is a brown-eyed llama with silver hair, standing 147 cm tall. Originally from Castroview, Finland, Levi enjoys hiking, wood carving, cooking. Known for their playful and playful personality, Levi is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "b8689645-011e-454a-a091-be4328da94f5",
+    "relationship": "father"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "7006a8e8-0987-4e2f-ba68-050ccec6297c",
+  "name": "Michelle",
+  "heightCm": 180,
+  "weightKg": 190,
+  "eyeColor": "Green",
+  "hairColor": "Blonde",
+  "breed": "Suri",
+  "placeOfBirth": "Ericfurt, Uganda",
+  "description": "Michelle is a green-eyed llama with blonde hair, standing 180 cm tall. Originally from Ericfurt, Uganda, Michelle enjoys dancing, knitting, wood carving. Known for their gentle and energetic personality, Michelle is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "271aebc9-5943-4702-9724-261dd3524e03",
+    "relationship": "third cousin twice removed"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "769d7ac0-512f-48de-a159-0bf6ee85345b",
+  "name": "Drew",
+  "heightCm": 121,
+  "weightKg": 162,
+  "eyeColor": "Brown",
+  "hairColor": "White",
+  "breed": "Suri",
+  "placeOfBirth": "Bennettberg, Cambodia",
+  "description": "Drew is a brown-eyed llama with white hair, standing 121 cm tall. Originally from Bennettberg, Cambodia, Drew enjoys hiking, gardening, wood carving. Known for their playful and shy personality, Drew is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "0960d0bf-2bb6-44bd-a53e-61e14122ba78",
+    "relationship": "4th cousin once removed"
+  }
+}

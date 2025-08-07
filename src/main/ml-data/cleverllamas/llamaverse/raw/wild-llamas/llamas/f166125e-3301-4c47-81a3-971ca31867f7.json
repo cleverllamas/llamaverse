@@ -1,0 +1,15 @@
+{
+  "id": "f166125e-3301-4c47-81a3-971ca31867f7",
+  "name": "Timothy",
+  "heightCm": 126,
+  "weightKg": 139,
+  "eyeColor": "Amber",
+  "hairColor": "Gray",
+  "breed": "Huacaya",
+  "placeOfBirth": "West Patriciachester, Sweden",
+  "description": "Timothy is a amber-eyed llama with gray hair, standing 126 cm tall. Originally from West Patriciachester, Sweden, Timothy enjoys hiking, wood carving, singing. Known for their energetic and mischievous personality, Timothy is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "035ef433-606d-4284-a807-5e596c8bf970",
+    "relationship": "4th cousin once removed"
+  }
+}

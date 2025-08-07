@@ -1,0 +1,15 @@
+{
+  "id": "14023b01-ef2b-4218-b35c-0eb21a5325e1",
+  "name": "Heather",
+  "heightCm": 114,
+  "weightKg": 161,
+  "eyeColor": "Amber",
+  "hairColor": "Silver",
+  "breed": "Hybrid",
+  "placeOfBirth": "Lake Aaronborough, Belize",
+  "description": "Heather is a amber-eyed llama with silver hair, standing 114 cm tall. Originally from Lake Aaronborough, Belize, Heather enjoys cooking, knitting, singing. Known for their gentle and gentle personality, Heather is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "1ec02182-ed21-4c08-914d-edf1284b093e",
+    "relationship": "uncle"
+  }
+}

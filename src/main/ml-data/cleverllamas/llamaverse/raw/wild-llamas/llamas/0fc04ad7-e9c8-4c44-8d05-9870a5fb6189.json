@@ -1,0 +1,15 @@
+{
+  "id": "0fc04ad7-e9c8-4c44-8d05-9870a5fb6189",
+  "name": "Lisa",
+  "heightCm": 148,
+  "weightKg": 151,
+  "eyeColor": "Amber",
+  "hairColor": "Black",
+  "breed": "Suri",
+  "placeOfBirth": "Port Carlaland, Japan",
+  "description": "Lisa is a amber-eyed llama with black hair, standing 148 cm tall. Originally from Port Carlaland, Japan, Lisa enjoys knitting, gardening, hiking. Known for their shy and playful personality, Lisa is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "3089dde1-86da-4382-bc75-ce68f25332e6",
+    "relationship": "father"
+  }
+}

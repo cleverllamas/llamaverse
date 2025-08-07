@@ -1,0 +1,15 @@
+{
+  "id": "e9f5fe72-7120-4a96-82a1-4d6b0ba9378c",
+  "name": "Charles",
+  "heightCm": 139,
+  "weightKg": 189,
+  "eyeColor": "Gray",
+  "hairColor": "Black",
+  "breed": "Suri",
+  "placeOfBirth": "Carlsonmouth, Oman",
+  "description": "Charles is a gray-eyed llama with black hair, standing 139 cm tall. Originally from Carlsonmouth, Oman, Charles enjoys gardening, cooking, wood carving. Known for their energetic and gentle personality, Charles is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "00a0fe3a-da61-493c-990e-af7719db0d18",
+    "relationship": "uncle"
+  }
+}

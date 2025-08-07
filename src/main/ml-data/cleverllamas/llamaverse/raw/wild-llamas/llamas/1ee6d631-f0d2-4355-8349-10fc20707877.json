@@ -1,0 +1,15 @@
+{
+  "id": "1ee6d631-f0d2-4355-8349-10fc20707877",
+  "name": "Andres",
+  "heightCm": 200,
+  "weightKg": 169,
+  "eyeColor": "Gray",
+  "hairColor": "Black",
+  "breed": "Hybrid",
+  "placeOfBirth": "West Pennyfurt, Korea",
+  "description": "Andres is a gray-eyed llama with black hair, standing 200 cm tall. Originally from West Pennyfurt, Korea, Andres enjoys painting, hiking, cooking. Known for their gentle and energetic personality, Andres is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "95fa22ea-0314-4f94-b4df-6d64956fbd9a",
+    "relationship": "brother"
+  }
+}

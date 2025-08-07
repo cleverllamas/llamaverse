@@ -1,0 +1,15 @@
+{
+  "id": "4fb7917f-cc84-4383-b0cb-e799e094ccf1",
+  "name": "Wendy",
+  "heightCm": 122,
+  "weightKg": 185,
+  "eyeColor": "Brown",
+  "hairColor": "Silver",
+  "breed": "Huacaya",
+  "placeOfBirth": "Dawsonport, Pakistan",
+  "description": "Wendy is a brown-eyed llama with silver hair, standing 122 cm tall. Originally from Dawsonport, Pakistan, Wendy enjoys wood carving, cooking, singing. Known for their energetic and curious personality, Wendy is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "9f906464-4da9-48d2-8912-bb45780924da",
+    "relationship": "mother"
+  }
+}

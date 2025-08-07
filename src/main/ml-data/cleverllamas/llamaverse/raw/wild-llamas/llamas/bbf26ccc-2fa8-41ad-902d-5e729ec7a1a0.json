@@ -1,0 +1,15 @@
+{
+  "id": "bbf26ccc-2fa8-41ad-902d-5e729ec7a1a0",
+  "name": "Kathleen",
+  "heightCm": 200,
+  "weightKg": 194,
+  "eyeColor": "Green",
+  "hairColor": "Red",
+  "breed": "Suri",
+  "placeOfBirth": "Ianchester, Equatorial Guinea",
+  "description": "Kathleen is a green-eyed llama with red hair, standing 200 cm tall. Originally from Ianchester, Equatorial Guinea, Kathleen enjoys cooking, dancing, reading. Known for their friendly and gentle personality, Kathleen is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "bc44b94b-ff76-424c-a6ff-819b8ea58d5a",
+    "relationship": "uncle"
+  }
+}

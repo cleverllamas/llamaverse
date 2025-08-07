@@ -1,0 +1,15 @@
+{
+  "id": "cd64565c-d773-41b3-8d72-677f47fa5e7f",
+  "name": "Phillip",
+  "heightCm": 121,
+  "weightKg": 167,
+  "eyeColor": "Amber",
+  "hairColor": "Black",
+  "breed": "Suri",
+  "placeOfBirth": "North Cassidy, Chile",
+  "description": "Phillip is a amber-eyed llama with black hair, standing 121 cm tall. Originally from North Cassidy, Chile, Phillip enjoys wood carving, singing, reading. Known for their gentle and curious personality, Phillip is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "4a3930c6-8919-40a8-a9ef-0b959e389968",
+    "relationship": "aunt"
+  }
+}

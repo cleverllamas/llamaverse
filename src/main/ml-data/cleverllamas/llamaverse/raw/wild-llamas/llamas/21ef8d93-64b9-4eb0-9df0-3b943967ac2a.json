@@ -1,0 +1,15 @@
+{
+  "id": "21ef8d93-64b9-4eb0-9df0-3b943967ac2a",
+  "name": "Julie",
+  "heightCm": 130,
+  "weightKg": 141,
+  "eyeColor": "Brown",
+  "hairColor": "Black",
+  "breed": "Hybrid",
+  "placeOfBirth": "South Abigailburgh, Brazil",
+  "description": "Julie is a brown-eyed llama with black hair, standing 130 cm tall. Originally from South Abigailburgh, Brazil, Julie enjoys gardening, dancing, wood carving. Known for their friendly and playful personality, Julie is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "0d9d18c1-8ded-4ad3-bdbc-d4a386af8973",
+    "relationship": "grandparent"
+  }
+}

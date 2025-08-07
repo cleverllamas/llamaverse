@@ -1,0 +1,15 @@
+{
+  "id": "d67c5233-e225-4107-81a0-37e6c2ac9ee1",
+  "name": "Aaron",
+  "heightCm": 160,
+  "weightKg": 168,
+  "eyeColor": "Gray",
+  "hairColor": "Silver",
+  "breed": "Hybrid",
+  "placeOfBirth": "Elizabethmouth, Latvia",
+  "description": "Aaron is a gray-eyed llama with silver hair, standing 160 cm tall. Originally from Elizabethmouth, Latvia, Aaron enjoys gardening, singing, reading. Known for their gentle and shy personality, Aaron is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "3ea4a600-fd20-4346-b708-e4c6ac229e21",
+    "relationship": "sister"
+  }
+}

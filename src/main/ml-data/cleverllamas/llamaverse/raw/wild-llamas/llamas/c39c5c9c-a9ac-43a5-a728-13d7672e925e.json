@@ -1,0 +1,15 @@
+{
+  "id": "c39c5c9c-a9ac-43a5-a728-13d7672e925e",
+  "name": "Cheryl",
+  "heightCm": 157,
+  "weightKg": 165,
+  "eyeColor": "Amber",
+  "hairColor": "Gray",
+  "breed": "Hybrid",
+  "placeOfBirth": "West Jon, Suriname",
+  "description": "Cheryl is a amber-eyed llama with gray hair, standing 157 cm tall. Originally from West Jon, Suriname, Cheryl enjoys dancing, knitting, hiking. Known for their playful and curious personality, Cheryl is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "d86f6f3e-e542-494c-b9b8-594e1d1c09b8",
+    "relationship": "great uncle"
+  }
+}

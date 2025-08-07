@@ -1,0 +1,15 @@
+{
+  "id": "65885e61-60e9-4254-9088-3f9e782eaadd",
+  "name": "Nicholas",
+  "heightCm": 129,
+  "weightKg": 183,
+  "eyeColor": "Gray",
+  "hairColor": "Blonde",
+  "breed": "Suri",
+  "placeOfBirth": "Williammouth, Western Sahara",
+  "description": "Nicholas is a gray-eyed llama with blonde hair, standing 129 cm tall. Originally from Williammouth, Western Sahara, Nicholas enjoys painting, gardening, cooking. Known for their playful and curious personality, Nicholas is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "9567e364-04de-4bec-879b-50f34cf7adb4",
+    "relationship": "cousin"
+  }
+}

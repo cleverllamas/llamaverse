@@ -1,0 +1,15 @@
+{
+  "id": "dd4d12c1-4c3e-4ba0-9086-91106459cc04",
+  "name": "Jennifer",
+  "heightCm": 142,
+  "weightKg": 152,
+  "eyeColor": "Brown",
+  "hairColor": "Gray",
+  "breed": "Huacaya",
+  "placeOfBirth": "Lewisside, Rwanda",
+  "description": "Jennifer is a brown-eyed llama with gray hair, standing 142 cm tall. Originally from Lewisside, Rwanda, Jennifer enjoys gardening, knitting, reading. Known for their shy and shy personality, Jennifer is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "f32fe9e0-3529-4f8c-a015-8bea25d5a0e2",
+    "relationship": "cousin"
+  }
+}

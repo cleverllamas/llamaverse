@@ -1,0 +1,15 @@
+{
+  "id": "4e3b37de-197b-44b1-aa9c-be6dd86f5ee5",
+  "name": "Anthony",
+  "heightCm": 144,
+  "weightKg": 188,
+  "eyeColor": "Hazel",
+  "hairColor": "Red",
+  "breed": "Huacaya",
+  "placeOfBirth": "Lisaborough, Bulgaria",
+  "description": "Anthony is a hazel-eyed llama with red hair, standing 144 cm tall. Originally from Lisaborough, Bulgaria, Anthony enjoys cooking, hiking, wood carving. Known for their calm and mischievous personality, Anthony is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "be0af537-f3c5-4640-98e1-4d9562b89aa2",
+    "relationship": "brother"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "8de11314-63ff-4ff1-b815-2ab7775c412c",
+  "name": "Danielle",
+  "heightCm": 174,
+  "weightKg": 183,
+  "eyeColor": "Hazel",
+  "hairColor": "Blonde",
+  "breed": "Hybrid",
+  "placeOfBirth": "Grahamburgh, Saint Barthelemy",
+  "description": "Danielle is a hazel-eyed llama with blonde hair, standing 174 cm tall. Originally from Grahamburgh, Saint Barthelemy, Danielle enjoys dancing, hiking, reading. Known for their friendly and friendly personality, Danielle is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "f1c14e59-ff74-4c25-aee7-0e464ba1dd22",
+    "relationship": "mother"
+  }
+}

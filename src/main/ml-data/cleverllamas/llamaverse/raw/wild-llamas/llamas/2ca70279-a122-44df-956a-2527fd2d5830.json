@@ -1,0 +1,15 @@
+{
+  "id": "2ca70279-a122-44df-956a-2527fd2d5830",
+  "name": "Michelle",
+  "heightCm": 171,
+  "weightKg": 157,
+  "eyeColor": "Green",
+  "hairColor": "Black",
+  "breed": "Huacaya",
+  "placeOfBirth": "Robertville, Martinique",
+  "description": "Michelle is a green-eyed llama with black hair, standing 171 cm tall. Originally from Robertville, Martinique, Michelle enjoys gardening, dancing, wood carving. Known for their shy and playful personality, Michelle is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "6113520e-a11a-4219-8ec2-3ff57c780d11",
+    "relationship": "15th cousin 9th removed"
+  }
+}

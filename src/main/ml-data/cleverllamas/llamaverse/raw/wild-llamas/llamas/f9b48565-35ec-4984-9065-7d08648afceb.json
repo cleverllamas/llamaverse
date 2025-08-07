@@ -1,0 +1,15 @@
+{
+  "id": "f9b48565-35ec-4984-9065-7d08648afceb",
+  "name": "James",
+  "heightCm": 186,
+  "weightKg": 151,
+  "eyeColor": "Hazel",
+  "hairColor": "Silver",
+  "breed": "Hybrid",
+  "placeOfBirth": "Robertburgh, Chad",
+  "description": "James is a hazel-eyed llama with silver hair, standing 186 cm tall. Originally from Robertburgh, Chad, James enjoys singing, knitting, wood carving. Known for their mischievous and curious personality, James is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "4d12fc5a-c877-4b97-b9ed-0b161b2de1df",
+    "relationship": "second cousin"
+  }
+}

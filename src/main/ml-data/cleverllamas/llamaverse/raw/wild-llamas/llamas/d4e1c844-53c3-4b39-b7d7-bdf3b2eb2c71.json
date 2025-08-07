@@ -1,0 +1,15 @@
+{
+  "id": "d4e1c844-53c3-4b39-b7d7-bdf3b2eb2c71",
+  "name": "Hannah",
+  "heightCm": 197,
+  "weightKg": 151,
+  "eyeColor": "Amber",
+  "hairColor": "Gray",
+  "breed": "Huacaya",
+  "placeOfBirth": "Brentton, Iraq",
+  "description": "Hannah is a amber-eyed llama with gray hair, standing 197 cm tall. Originally from Brentton, Iraq, Hannah enjoys cooking, hiking, knitting. Known for their mischievous and shy personality, Hannah is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "5e29422a-8303-4d9d-b0a8-027e6c968fb8",
+    "relationship": "third cousin twice removed"
+  }
+}

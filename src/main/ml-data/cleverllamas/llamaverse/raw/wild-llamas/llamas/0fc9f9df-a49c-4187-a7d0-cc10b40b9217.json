@@ -1,0 +1,15 @@
+{
+  "id": "0fc9f9df-a49c-4187-a7d0-cc10b40b9217",
+  "name": "Mary",
+  "heightCm": 167,
+  "weightKg": 193,
+  "eyeColor": "Blue",
+  "hairColor": "Black",
+  "breed": "Hybrid",
+  "placeOfBirth": "Meganmouth, Eritrea",
+  "description": "Mary is a blue-eyed llama with black hair, standing 167 cm tall. Originally from Meganmouth, Eritrea, Mary enjoys dancing, painting, gardening. Known for their calm and friendly personality, Mary is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "02482754-edb6-4057-9002-13be9bc5fa06",
+    "relationship": "4th cousin once removed"
+  }
+}

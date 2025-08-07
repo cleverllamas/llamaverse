@@ -1,0 +1,15 @@
+{
+  "id": "27c39be6-0149-4035-9013-11977af42297",
+  "name": "Jacob",
+  "heightCm": 200,
+  "weightKg": 160,
+  "eyeColor": "Blue",
+  "hairColor": "Black",
+  "breed": "Huacaya",
+  "placeOfBirth": "New Jennifer, Monaco",
+  "description": "Jacob is a blue-eyed llama with black hair, standing 200 cm tall. Originally from New Jennifer, Monaco, Jacob enjoys wood carving, dancing, reading. Known for their shy and energetic personality, Jacob is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "53ba54bd-b63c-43ee-80e2-b83ecf522b14",
+    "relationship": "father"
+  }
+}

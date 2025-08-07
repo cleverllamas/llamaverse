@@ -1,0 +1,15 @@
+{
+  "id": "2dabae18-40ea-4add-a178-3782d1250b5e",
+  "name": "Lisa",
+  "heightCm": 142,
+  "weightKg": 174,
+  "eyeColor": "Gray",
+  "hairColor": "Silver",
+  "breed": "Huacaya",
+  "placeOfBirth": "New Jamesland, Russian Federation",
+  "description": "Lisa is a gray-eyed llama with silver hair, standing 142 cm tall. Originally from New Jamesland, Russian Federation, Lisa enjoys painting, gardening, cooking. Known for their curious and mischievous personality, Lisa is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "62425420-8de4-4f3a-945a-df933344efdd",
+    "relationship": "grandparent"
+  }
+}

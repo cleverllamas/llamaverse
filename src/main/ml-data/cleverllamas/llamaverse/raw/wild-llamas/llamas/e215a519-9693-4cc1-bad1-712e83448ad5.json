@@ -1,0 +1,15 @@
+{
+  "id": "e215a519-9693-4cc1-bad1-712e83448ad5",
+  "name": "Jennifer",
+  "heightCm": 134,
+  "weightKg": 194,
+  "eyeColor": "Brown",
+  "hairColor": "Brown",
+  "breed": "Huacaya",
+  "placeOfBirth": "Mcbridechester, Sao Tome and Principe",
+  "description": "Jennifer is a brown-eyed llama with brown hair, standing 134 cm tall. Originally from Mcbridechester, Sao Tome and Principe, Jennifer enjoys wood carving, gardening, dancing. Known for their playful and mischievous personality, Jennifer is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "158bee5a-99d5-4782-bdea-3e6aa8a63913",
+    "relationship": "mother"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "c64779e3-bed2-4b77-8ba5-241f8e56a4a2",
+  "name": "Jasmine",
+  "heightCm": 137,
+  "weightKg": 159,
+  "eyeColor": "Amber",
+  "hairColor": "Red",
+  "breed": "Hybrid",
+  "placeOfBirth": "New Elizabeth, Slovenia",
+  "description": "Jasmine is a amber-eyed llama with red hair, standing 137 cm tall. Originally from New Elizabeth, Slovenia, Jasmine enjoys knitting, painting, gardening. Known for their curious and energetic personality, Jasmine is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "56633496-b433-4528-b33d-66157bb220cd",
+    "relationship": "grandparent"
+  }
+}

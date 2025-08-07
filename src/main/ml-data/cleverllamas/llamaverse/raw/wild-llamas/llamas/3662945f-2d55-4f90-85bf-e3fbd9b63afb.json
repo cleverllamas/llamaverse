@@ -1,0 +1,15 @@
+{
+  "id": "3662945f-2d55-4f90-85bf-e3fbd9b63afb",
+  "name": "Michael",
+  "heightCm": 176,
+  "weightKg": 147,
+  "eyeColor": "Blue",
+  "hairColor": "Red",
+  "breed": "Huacaya",
+  "placeOfBirth": "West Richardland, Chile",
+  "description": "Michael is a blue-eyed llama with red hair, standing 176 cm tall. Originally from West Richardland, Chile, Michael enjoys reading, painting, wood carving. Known for their gentle and playful personality, Michael is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "36c0d42a-2877-478d-9d69-ad5ae6164dfb",
+    "relationship": "father"
+  }
+}

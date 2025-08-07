@@ -1,0 +1,15 @@
+{
+  "id": "923be26e-4efc-458f-b7cb-aac5d2c67eca",
+  "name": "Christian",
+  "heightCm": 153,
+  "weightKg": 199,
+  "eyeColor": "Green",
+  "hairColor": "Blonde",
+  "breed": "Huacaya",
+  "placeOfBirth": "Lake Troy, Switzerland",
+  "description": "Christian is a green-eyed llama with blonde hair, standing 153 cm tall. Originally from Lake Troy, Switzerland, Christian enjoys singing, wood carving, cooking. Known for their curious and gentle personality, Christian is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "e952a983-d2ce-48cd-bad4-3512c70e1ced",
+    "relationship": "sister"
+  }
+}

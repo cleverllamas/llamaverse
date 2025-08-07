@@ -1,0 +1,15 @@
+{
+  "id": "b97cf671-0c43-43a3-b7c6-2e07f1592179",
+  "name": "William",
+  "heightCm": 103,
+  "weightKg": 183,
+  "eyeColor": "Hazel",
+  "hairColor": "Blonde",
+  "breed": "Hybrid",
+  "placeOfBirth": "Blakeville, Dominica",
+  "description": "William is a hazel-eyed llama with blonde hair, standing 103 cm tall. Originally from Blakeville, Dominica, William enjoys gardening, wood carving, singing. Known for their mischievous and mischievous personality, William is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "783c9fb1-14aa-4169-b258-7652aa4598d7",
+    "relationship": "cousin"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "f9023853-9ad2-413d-b953-f7b7cedc7694",
+  "name": "Elizabeth",
+  "heightCm": 139,
+  "weightKg": 185,
+  "eyeColor": "Blue",
+  "hairColor": "Gray",
+  "breed": "Hybrid",
+  "placeOfBirth": "North Marioberg, San Marino",
+  "description": "Elizabeth is a blue-eyed llama with gray hair, standing 139 cm tall. Originally from North Marioberg, San Marino, Elizabeth enjoys knitting, painting, cooking. Known for their shy and gentle personality, Elizabeth is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "0542567a-1d8b-4341-93c5-07d39220cb22",
+    "relationship": "great uncle"
+  }
+}

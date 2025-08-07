@@ -1,0 +1,15 @@
+{
+  "id": "e751965d-ee9f-430d-92bb-555c504d965d",
+  "name": "Miranda",
+  "heightCm": 149,
+  "weightKg": 160,
+  "eyeColor": "Gray",
+  "hairColor": "Silver",
+  "breed": "Hybrid",
+  "placeOfBirth": "Robertfort, Saint Pierre and Miquelon",
+  "description": "Miranda is a gray-eyed llama with silver hair, standing 149 cm tall. Originally from Robertfort, Saint Pierre and Miquelon, Miranda enjoys hiking, painting, dancing. Known for their playful and calm personality, Miranda is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "fc36d8a4-e440-424e-9063-0dbe384d5762",
+    "relationship": "third cousin twice removed"
+  }
+}

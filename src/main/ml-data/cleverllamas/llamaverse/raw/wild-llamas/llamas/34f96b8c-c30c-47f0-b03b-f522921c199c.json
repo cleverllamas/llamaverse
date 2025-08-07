@@ -1,0 +1,15 @@
+{
+  "id": "34f96b8c-c30c-47f0-b03b-f522921c199c",
+  "name": "Rachael",
+  "heightCm": 145,
+  "weightKg": 134,
+  "eyeColor": "Gray",
+  "hairColor": "Brown",
+  "breed": "Suri",
+  "placeOfBirth": "Patriciaton, Saint Vincent and the Grenadines",
+  "description": "Rachael is a gray-eyed llama with brown hair, standing 145 cm tall. Originally from Patriciaton, Saint Vincent and the Grenadines, Rachael enjoys dancing, gardening, singing. Known for their calm and energetic personality, Rachael is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "c73bf024-e79f-47a9-85ca-e44e9d8b7f77",
+    "relationship": "father"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "6067b676-402d-4c96-a3f3-d1148511025e",
+  "name": "Diana",
+  "heightCm": 125,
+  "weightKg": 193,
+  "eyeColor": "Hazel",
+  "hairColor": "Black",
+  "breed": "Suri",
+  "placeOfBirth": "East Kennethtown, Dominican Republic",
+  "description": "Diana is a hazel-eyed llama with black hair, standing 125 cm tall. Originally from East Kennethtown, Dominican Republic, Diana enjoys cooking, hiking, singing. Known for their calm and shy personality, Diana is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "a65f5736-cc3e-4d59-981e-2b482a9a8056",
+    "relationship": "grandparent"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "8a44f1ad-0379-4694-ae1d-4bee42ebcec1",
+  "name": "Jeffrey",
+  "heightCm": 150,
+  "weightKg": 144,
+  "eyeColor": "Green",
+  "hairColor": "Black",
+  "breed": "Suri",
+  "placeOfBirth": "Taylortown, Cote d'Ivoire",
+  "description": "Jeffrey is a green-eyed llama with black hair, standing 150 cm tall. Originally from Taylortown, Cote d'Ivoire, Jeffrey enjoys reading, cooking, hiking. Known for their curious and playful personality, Jeffrey is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "40d275ba-2f3f-4566-85af-cc63774b00a4",
+    "relationship": "aunt"
+  }
+}

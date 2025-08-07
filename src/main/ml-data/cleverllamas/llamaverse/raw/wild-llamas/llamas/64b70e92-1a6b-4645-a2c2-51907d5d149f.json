@@ -1,0 +1,15 @@
+{
+  "id": "64b70e92-1a6b-4645-a2c2-51907d5d149f",
+  "name": "Stephanie",
+  "heightCm": 193,
+  "weightKg": 141,
+  "eyeColor": "Blue",
+  "hairColor": "Red",
+  "breed": "Huacaya",
+  "placeOfBirth": "Haileyshire, Syrian Arab Republic",
+  "description": "Stephanie is a blue-eyed llama with red hair, standing 193 cm tall. Originally from Haileyshire, Syrian Arab Republic, Stephanie enjoys wood carving, gardening, cooking. Known for their gentle and curious personality, Stephanie is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "7046233e-5420-40a6-ac14-e1e3b74340e8",
+    "relationship": "mother"
+  }
+}

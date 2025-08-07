@@ -1,0 +1,15 @@
+{
+  "id": "6a55daf9-4f21-46fe-a328-6f5fe17d4bd9",
+  "name": "Suzanne",
+  "heightCm": 140,
+  "weightKg": 167,
+  "eyeColor": "Blue",
+  "hairColor": "Blonde",
+  "breed": "Suri",
+  "placeOfBirth": "New April, Fiji",
+  "description": "Suzanne is a blue-eyed llama with blonde hair, standing 140 cm tall. Originally from New April, Fiji, Suzanne enjoys hiking, wood carving, singing. Known for their gentle and shy personality, Suzanne is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "82162b40-6906-4b5b-890d-af240cec3681",
+    "relationship": "uncle"
+  }
+}

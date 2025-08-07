@@ -1,0 +1,15 @@
+{
+  "id": "f5c059a4-df46-41ad-a149-c96a2b922171",
+  "name": "Zachary",
+  "heightCm": 150,
+  "weightKg": 169,
+  "eyeColor": "Gray",
+  "hairColor": "Blonde",
+  "breed": "Huacaya",
+  "placeOfBirth": "Hodgeton, Fiji",
+  "description": "Zachary is a gray-eyed llama with blonde hair, standing 150 cm tall. Originally from Hodgeton, Fiji, Zachary enjoys wood carving, dancing, singing. Known for their energetic and gentle personality, Zachary is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "271aebc9-5943-4702-9724-261dd3524e03",
+    "relationship": "aunt"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "f5a8847c-2b3a-4e74-87d1-54e0eb496283",
+  "name": "Leslie",
+  "heightCm": 183,
+  "weightKg": 185,
+  "eyeColor": "Blue",
+  "hairColor": "Brown",
+  "breed": "Huacaya",
+  "placeOfBirth": "North Melissa, Libyan Arab Jamahiriya",
+  "description": "Leslie is a blue-eyed llama with brown hair, standing 183 cm tall. Originally from North Melissa, Libyan Arab Jamahiriya, Leslie enjoys cooking, painting, knitting. Known for their curious and friendly personality, Leslie is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "a83fc375-9920-46cd-b1ee-9aa45e8e682a",
+    "relationship": "brother"
+  }
+}

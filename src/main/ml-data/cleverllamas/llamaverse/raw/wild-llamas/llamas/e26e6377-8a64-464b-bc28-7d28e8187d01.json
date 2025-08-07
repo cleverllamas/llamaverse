@@ -1,0 +1,15 @@
+{
+  "id": "e26e6377-8a64-464b-bc28-7d28e8187d01",
+  "name": "Jennifer",
+  "heightCm": 113,
+  "weightKg": 137,
+  "eyeColor": "Blue",
+  "hairColor": "Black",
+  "breed": "Hybrid",
+  "placeOfBirth": "Bennettside, Bermuda",
+  "description": "Jennifer is a blue-eyed llama with black hair, standing 113 cm tall. Originally from Bennettside, Bermuda, Jennifer enjoys wood carving, hiking, dancing. Known for their friendly and curious personality, Jennifer is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "4c7e9aa3-a33b-4c96-a395-22d9e559f5a8",
+    "relationship": "father"
+  }
+}

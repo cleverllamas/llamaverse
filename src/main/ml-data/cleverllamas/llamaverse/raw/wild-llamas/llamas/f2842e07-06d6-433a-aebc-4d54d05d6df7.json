@@ -1,0 +1,15 @@
+{
+  "id": "f2842e07-06d6-433a-aebc-4d54d05d6df7",
+  "name": "Ruben",
+  "heightCm": 200,
+  "weightKg": 130,
+  "eyeColor": "Green",
+  "hairColor": "Blonde",
+  "breed": "Huacaya",
+  "placeOfBirth": "Weaverside, Poland",
+  "description": "Ruben is a green-eyed llama with blonde hair, standing 200 cm tall. Originally from Weaverside, Poland, Ruben enjoys wood carving, dancing, cooking. Known for their gentle and curious personality, Ruben is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "ea9ee370-0fa8-4ad5-927b-53abfdc573d0",
+    "relationship": "father"
+  }
+}

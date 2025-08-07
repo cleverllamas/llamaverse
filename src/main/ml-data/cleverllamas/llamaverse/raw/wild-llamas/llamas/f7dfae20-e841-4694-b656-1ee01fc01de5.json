@@ -1,0 +1,15 @@
+{
+  "id": "f7dfae20-e841-4694-b656-1ee01fc01de5",
+  "name": "Brandon",
+  "heightCm": 143,
+  "weightKg": 150,
+  "eyeColor": "Gray",
+  "hairColor": "Red",
+  "breed": "Suri",
+  "placeOfBirth": "South Stephaniestad, Djibouti",
+  "description": "Brandon is a gray-eyed llama with red hair, standing 143 cm tall. Originally from South Stephaniestad, Djibouti, Brandon enjoys gardening, painting, singing. Known for their playful and calm personality, Brandon is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "ab609dea-7ff6-4c30-926a-2354bbcf0a22",
+    "relationship": "cousin"
+  }
+}

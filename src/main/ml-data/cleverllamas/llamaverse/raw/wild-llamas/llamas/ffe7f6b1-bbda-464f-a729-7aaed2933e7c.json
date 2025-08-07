@@ -1,0 +1,15 @@
+{
+  "id": "ffe7f6b1-bbda-464f-a729-7aaed2933e7c",
+  "name": "Cassidy",
+  "heightCm": 127,
+  "weightKg": 192,
+  "eyeColor": "Brown",
+  "hairColor": "Silver",
+  "breed": "Huacaya",
+  "placeOfBirth": "South Maria, Nepal",
+  "description": "Cassidy is a brown-eyed llama with silver hair, standing 127 cm tall. Originally from South Maria, Nepal, Cassidy enjoys wood carving, gardening, hiking. Known for their friendly and energetic personality, Cassidy is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "54f83465-7eb4-4f77-991d-3f378fbba7c3",
+    "relationship": "grandparent"
+  }
+}

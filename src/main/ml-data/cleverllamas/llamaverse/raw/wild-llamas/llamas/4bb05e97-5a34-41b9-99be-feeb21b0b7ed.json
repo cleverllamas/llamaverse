@@ -1,0 +1,15 @@
+{
+  "id": "4bb05e97-5a34-41b9-99be-feeb21b0b7ed",
+  "name": "Edwin",
+  "heightCm": 135,
+  "weightKg": 173,
+  "eyeColor": "Amber",
+  "hairColor": "Silver",
+  "breed": "Huacaya",
+  "placeOfBirth": "Maureenside, Isle of Man",
+  "description": "Edwin is a amber-eyed llama with silver hair, standing 135 cm tall. Originally from Maureenside, Isle of Man, Edwin enjoys singing, wood carving, hiking. Known for their shy and friendly personality, Edwin is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "4166ca68-411f-4785-9555-928ebfae29f0",
+    "relationship": "second cousin"
+  }
+}

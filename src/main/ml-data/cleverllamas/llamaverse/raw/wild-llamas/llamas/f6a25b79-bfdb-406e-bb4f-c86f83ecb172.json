@@ -1,0 +1,15 @@
+{
+  "id": "f6a25b79-bfdb-406e-bb4f-c86f83ecb172",
+  "name": "Michael",
+  "heightCm": 128,
+  "weightKg": 144,
+  "eyeColor": "Gray",
+  "hairColor": "Black",
+  "breed": "Suri",
+  "placeOfBirth": "East Tyler, Cook Islands",
+  "description": "Michael is a gray-eyed llama with black hair, standing 128 cm tall. Originally from East Tyler, Cook Islands, Michael enjoys singing, reading, dancing. Known for their playful and curious personality, Michael is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "6e1a95f6-1fc0-438d-b148-3abd20e18d87",
+    "relationship": "aunt"
+  }
+}

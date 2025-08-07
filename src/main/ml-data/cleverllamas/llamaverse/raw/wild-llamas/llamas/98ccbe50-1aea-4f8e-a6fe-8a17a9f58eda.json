@@ -1,0 +1,15 @@
+{
+  "id": "98ccbe50-1aea-4f8e-a6fe-8a17a9f58eda",
+  "name": "Ryan",
+  "heightCm": 128,
+  "weightKg": 145,
+  "eyeColor": "Brown",
+  "hairColor": "Brown",
+  "breed": "Hybrid",
+  "placeOfBirth": "Smithstad, Sierra Leone",
+  "description": "Ryan is a brown-eyed llama with brown hair, standing 128 cm tall. Originally from Smithstad, Sierra Leone, Ryan enjoys hiking, cooking, gardening. Known for their gentle and playful personality, Ryan is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "915fd063-192e-4c0c-a2c2-b59ce819596b",
+    "relationship": "mother"
+  }
+}

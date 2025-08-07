@@ -1,0 +1,15 @@
+{
+  "id": "42b8b857-1df0-484b-9d64-ed02e045e2c1",
+  "name": "Samuel",
+  "heightCm": 109,
+  "weightKg": 164,
+  "eyeColor": "Blue",
+  "hairColor": "White",
+  "breed": "Suri",
+  "placeOfBirth": "Hansenmouth, Comoros",
+  "description": "Samuel is a blue-eyed llama with white hair, standing 109 cm tall. Originally from Hansenmouth, Comoros, Samuel enjoys painting, wood carving, cooking. Known for their curious and calm personality, Samuel is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "1323671b-d653-46ee-9678-2dff1d923328",
+    "relationship": "third cousin twice removed"
+  }
+}

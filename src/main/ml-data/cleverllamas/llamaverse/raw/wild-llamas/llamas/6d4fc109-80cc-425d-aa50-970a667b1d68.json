@@ -1,0 +1,15 @@
+{
+  "id": "6d4fc109-80cc-425d-aa50-970a667b1d68",
+  "name": "Carla",
+  "heightCm": 121,
+  "weightKg": 164,
+  "eyeColor": "Amber",
+  "hairColor": "Silver",
+  "breed": "Hybrid",
+  "placeOfBirth": "Fosterberg, Poland",
+  "description": "Carla is a amber-eyed llama with silver hair, standing 121 cm tall. Originally from Fosterberg, Poland, Carla enjoys hiking, painting, cooking. Known for their energetic and calm personality, Carla is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "59df34a1-779d-4f2e-9d99-12ef809db888",
+    "relationship": "aunt"
+  }
+}

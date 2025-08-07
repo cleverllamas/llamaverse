@@ -1,0 +1,15 @@
+{
+  "id": "082927a2-38c9-4e1e-84da-c8807806ade4",
+  "name": "Joshua",
+  "heightCm": 104,
+  "weightKg": 137,
+  "eyeColor": "Green",
+  "hairColor": "Brown",
+  "breed": "Hybrid",
+  "placeOfBirth": "Murphyfort, Mali",
+  "description": "Joshua is a green-eyed llama with brown hair, standing 104 cm tall. Originally from Murphyfort, Mali, Joshua enjoys hiking, cooking, reading. Known for their curious and mischievous personality, Joshua is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "0fd004db-398d-46d2-98b6-6040378d1c52",
+    "relationship": "father"
+  }
+}

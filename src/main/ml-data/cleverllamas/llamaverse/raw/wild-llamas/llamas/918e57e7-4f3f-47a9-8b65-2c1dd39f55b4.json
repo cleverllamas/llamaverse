@@ -1,0 +1,15 @@
+{
+  "id": "918e57e7-4f3f-47a9-8b65-2c1dd39f55b4",
+  "name": "Jerry",
+  "heightCm": 180,
+  "weightKg": 147,
+  "eyeColor": "Blue",
+  "hairColor": "White",
+  "breed": "Hybrid",
+  "placeOfBirth": "Mariaberg, Luxembourg",
+  "description": "Jerry is a blue-eyed llama with white hair, standing 180 cm tall. Originally from Mariaberg, Luxembourg, Jerry enjoys hiking, wood carving, reading. Known for their friendly and mischievous personality, Jerry is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "e53bc8d0-d20f-49b8-9cbc-ae67835a03eb",
+    "relationship": "third cousin twice removed"
+  }
+}

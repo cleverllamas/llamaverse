@@ -1,0 +1,15 @@
+{
+  "id": "d633e1c1-dfc0-4a16-ad75-a68caf5526ee",
+  "name": "Patricia",
+  "heightCm": 119,
+  "weightKg": 134,
+  "eyeColor": "Brown",
+  "hairColor": "Gray",
+  "breed": "Suri",
+  "placeOfBirth": "Steeletown, Guernsey",
+  "description": "Patricia is a brown-eyed llama with gray hair, standing 119 cm tall. Originally from Steeletown, Guernsey, Patricia enjoys singing, painting, knitting. Known for their mischievous and calm personality, Patricia is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "45bc78bf-f87e-41c2-b468-6828ce6e1b48",
+    "relationship": "third cousin twice removed"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "1fba26db-2c45-46e0-84d3-74262a026ffa",
+  "name": "Richard",
+  "heightCm": 137,
+  "weightKg": 173,
+  "eyeColor": "Hazel",
+  "hairColor": "Black",
+  "breed": "Suri",
+  "placeOfBirth": "East Richardton, Timor-Leste",
+  "description": "Richard is a hazel-eyed llama with black hair, standing 137 cm tall. Originally from East Richardton, Timor-Leste, Richard enjoys painting, reading, wood carving. Known for their curious and shy personality, Richard is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "22613cd8-af19-415d-bcdf-c0e47a1fb3cf",
+    "relationship": "second cousin"
+  }
+}

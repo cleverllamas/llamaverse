@@ -1,0 +1,15 @@
+{
+  "id": "d1bec5d7-f4cd-4cfe-a015-96b9bcbd3dee",
+  "name": "Victoria",
+  "heightCm": 100,
+  "weightKg": 135,
+  "eyeColor": "Brown",
+  "hairColor": "Red",
+  "breed": "Huacaya",
+  "placeOfBirth": "North Robertamouth, Tanzania",
+  "description": "Victoria is a brown-eyed llama with red hair, standing 100 cm tall. Originally from North Robertamouth, Tanzania, Victoria enjoys cooking, wood carving, knitting. Known for their calm and curious personality, Victoria is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "95501f90-0194-48d2-977d-b76c0c097afb",
+    "relationship": "second cousin"
+  }
+}

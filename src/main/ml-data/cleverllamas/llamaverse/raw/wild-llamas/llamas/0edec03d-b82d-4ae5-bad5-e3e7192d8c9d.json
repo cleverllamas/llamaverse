@@ -1,0 +1,15 @@
+{
+  "id": "0edec03d-b82d-4ae5-bad5-e3e7192d8c9d",
+  "name": "Glen",
+  "heightCm": 189,
+  "weightKg": 139,
+  "eyeColor": "Brown",
+  "hairColor": "Silver",
+  "breed": "Hybrid",
+  "placeOfBirth": "Jenniferchester, South Africa",
+  "description": "Glen is a brown-eyed llama with silver hair, standing 189 cm tall. Originally from Jenniferchester, South Africa, Glen enjoys wood carving, knitting, painting. Known for their calm and energetic personality, Glen is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "234217a0-b270-42a7-952c-7e122acb5f7e",
+    "relationship": "grandparent"
+  }
+}

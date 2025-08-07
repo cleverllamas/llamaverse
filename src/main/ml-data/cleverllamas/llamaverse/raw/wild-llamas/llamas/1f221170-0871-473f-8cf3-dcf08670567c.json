@@ -1,0 +1,15 @@
+{
+  "id": "1f221170-0871-473f-8cf3-dcf08670567c",
+  "name": "Kellie",
+  "heightCm": 101,
+  "weightKg": 166,
+  "eyeColor": "Hazel",
+  "hairColor": "Brown",
+  "breed": "Hybrid",
+  "placeOfBirth": "East Josephmouth, Taiwan",
+  "description": "Kellie is a hazel-eyed llama with brown hair, standing 101 cm tall. Originally from East Josephmouth, Taiwan, Kellie enjoys painting, gardening, singing. Known for their playful and friendly personality, Kellie is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "54b7ba57-cb73-4c5f-9314-6f4869f9fb68",
+    "relationship": "sister"
+  }
+}

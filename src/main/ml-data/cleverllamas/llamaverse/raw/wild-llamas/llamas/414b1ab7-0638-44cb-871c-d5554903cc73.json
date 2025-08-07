@@ -1,0 +1,15 @@
+{
+  "id": "414b1ab7-0638-44cb-871c-d5554903cc73",
+  "name": "Bryan",
+  "heightCm": 132,
+  "weightKg": 156,
+  "eyeColor": "Blue",
+  "hairColor": "Brown",
+  "breed": "Suri",
+  "placeOfBirth": "Elizabethton, Madagascar",
+  "description": "Bryan is a blue-eyed llama with brown hair, standing 132 cm tall. Originally from Elizabethton, Madagascar, Bryan enjoys singing, cooking, reading. Known for their playful and friendly personality, Bryan is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "b338fbd0-3317-4064-b7f6-fa4620bd1bc1",
+    "relationship": "great uncle"
+  }
+}

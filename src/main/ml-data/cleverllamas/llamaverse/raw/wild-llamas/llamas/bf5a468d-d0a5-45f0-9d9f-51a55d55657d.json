@@ -1,0 +1,15 @@
+{
+  "id": "bf5a468d-d0a5-45f0-9d9f-51a55d55657d",
+  "name": "Diane",
+  "heightCm": 129,
+  "weightKg": 161,
+  "eyeColor": "Gray",
+  "hairColor": "White",
+  "breed": "Hybrid",
+  "placeOfBirth": "Angelamouth, India",
+  "description": "Diane is a gray-eyed llama with white hair, standing 129 cm tall. Originally from Angelamouth, India, Diane enjoys hiking, wood carving, cooking. Known for their gentle and friendly personality, Diane is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "8cfcac61-9954-49fe-8c16-e69721ec1b02",
+    "relationship": "father"
+  }
+}

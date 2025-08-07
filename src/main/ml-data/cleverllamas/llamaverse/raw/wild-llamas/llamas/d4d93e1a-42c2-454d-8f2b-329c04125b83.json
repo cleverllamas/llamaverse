@@ -1,0 +1,15 @@
+{
+  "id": "d4d93e1a-42c2-454d-8f2b-329c04125b83",
+  "name": "Laurie",
+  "heightCm": 123,
+  "weightKg": 135,
+  "eyeColor": "Amber",
+  "hairColor": "Blonde",
+  "breed": "Suri",
+  "placeOfBirth": "Joshuaberg, Jordan",
+  "description": "Laurie is a amber-eyed llama with blonde hair, standing 123 cm tall. Originally from Joshuaberg, Jordan, Laurie enjoys reading, cooking, gardening. Known for their gentle and curious personality, Laurie is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "452446b1-7058-4c96-ab0f-631abcad2a89",
+    "relationship": "15th cousin 9th removed"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "8bc7f44f-84d1-4ab5-9aa3-1dc85bd5190d",
+  "name": "Andrew",
+  "heightCm": 188,
+  "weightKg": 166,
+  "eyeColor": "Gray",
+  "hairColor": "Black",
+  "breed": "Huacaya",
+  "placeOfBirth": "Andersonfort, Canada",
+  "description": "Andrew is a gray-eyed llama with black hair, standing 188 cm tall. Originally from Andersonfort, Canada, Andrew enjoys hiking, gardening, reading. Known for their calm and energetic personality, Andrew is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "6741971f-757d-472b-b710-5f0de8fc3d48",
+    "relationship": "uncle"
+  }
+}

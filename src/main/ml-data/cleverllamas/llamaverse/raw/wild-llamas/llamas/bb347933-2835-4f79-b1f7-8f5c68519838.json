@@ -1,0 +1,15 @@
+{
+  "id": "bb347933-2835-4f79-b1f7-8f5c68519838",
+  "name": "Christopher",
+  "heightCm": 118,
+  "weightKg": 192,
+  "eyeColor": "Amber",
+  "hairColor": "Silver",
+  "breed": "Hybrid",
+  "placeOfBirth": "North William, Australia",
+  "description": "Christopher is a amber-eyed llama with silver hair, standing 118 cm tall. Originally from North William, Australia, Christopher enjoys hiking, painting, wood carving. Known for their gentle and gentle personality, Christopher is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "1d497bd3-3e0e-4e40-bc5c-b40eb7312983",
+    "relationship": "cousin"
+  }
+}

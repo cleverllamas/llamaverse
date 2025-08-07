@@ -1,0 +1,15 @@
+{
+  "id": "bd35f26d-00ac-49d3-b524-ee36b90b178b",
+  "name": "Judith",
+  "heightCm": 128,
+  "weightKg": 154,
+  "eyeColor": "Blue",
+  "hairColor": "Black",
+  "breed": "Hybrid",
+  "placeOfBirth": "North Sarahtown, Andorra",
+  "description": "Judith is a blue-eyed llama with black hair, standing 128 cm tall. Originally from North Sarahtown, Andorra, Judith enjoys hiking, dancing, reading. Known for their friendly and mischievous personality, Judith is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "5cf0c755-f24f-4b6b-b664-d7d0d251d756",
+    "relationship": "uncle"
+  }
+}

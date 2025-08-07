@@ -1,0 +1,15 @@
+{
+  "id": "dae7f63c-3856-498b-ab77-1053adb691a0",
+  "name": "Dwayne",
+  "heightCm": 116,
+  "weightKg": 167,
+  "eyeColor": "Green",
+  "hairColor": "Black",
+  "breed": "Suri",
+  "placeOfBirth": "West Cynthia, United States Virgin Islands",
+  "description": "Dwayne is a green-eyed llama with black hair, standing 116 cm tall. Originally from West Cynthia, United States Virgin Islands, Dwayne enjoys reading, knitting, wood carving. Known for their mischievous and calm personality, Dwayne is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "c6934945-4422-41ba-8853-1ee11aa2a4a5",
+    "relationship": "father"
+  }
+}

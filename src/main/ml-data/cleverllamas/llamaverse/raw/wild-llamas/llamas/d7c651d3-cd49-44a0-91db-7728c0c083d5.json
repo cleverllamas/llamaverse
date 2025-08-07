@@ -1,0 +1,15 @@
+{
+  "id": "d7c651d3-cd49-44a0-91db-7728c0c083d5",
+  "name": "Stephen",
+  "heightCm": 138,
+  "weightKg": 152,
+  "eyeColor": "Blue",
+  "hairColor": "Black",
+  "breed": "Huacaya",
+  "placeOfBirth": "Larafurt, Equatorial Guinea",
+  "description": "Stephen is a blue-eyed llama with black hair, standing 138 cm tall. Originally from Larafurt, Equatorial Guinea, Stephen enjoys gardening, painting, reading. Known for their shy and calm personality, Stephen is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "8f99c659-63f5-49ac-8ebf-6b846d980174",
+    "relationship": "mother"
+  }
+}

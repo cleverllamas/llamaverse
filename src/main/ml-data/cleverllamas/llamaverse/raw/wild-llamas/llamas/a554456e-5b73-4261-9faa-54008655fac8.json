@@ -1,0 +1,15 @@
+{
+  "id": "a554456e-5b73-4261-9faa-54008655fac8",
+  "name": "Sara",
+  "heightCm": 122,
+  "weightKg": 138,
+  "eyeColor": "Gray",
+  "hairColor": "Brown",
+  "breed": "Huacaya",
+  "placeOfBirth": "Jacobsontown, Algeria",
+  "description": "Sara is a gray-eyed llama with brown hair, standing 122 cm tall. Originally from Jacobsontown, Algeria, Sara enjoys hiking, gardening, cooking. Known for their playful and friendly personality, Sara is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "f110d372-8d4b-45b0-a55c-004108fa4c03",
+    "relationship": "second cousin"
+  }
+}

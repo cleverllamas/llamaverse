@@ -1,0 +1,15 @@
+{
+  "id": "f5e53bc7-f190-4450-954c-f812dc4eee08",
+  "name": "Heather",
+  "heightCm": 166,
+  "weightKg": 194,
+  "eyeColor": "Blue",
+  "hairColor": "Red",
+  "breed": "Huacaya",
+  "placeOfBirth": "Lake Miguel, Bahamas",
+  "description": "Heather is a blue-eyed llama with red hair, standing 166 cm tall. Originally from Lake Miguel, Bahamas, Heather enjoys knitting, hiking, painting. Known for their calm and friendly personality, Heather is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "01b388ac-b3a8-43ec-90a1-7d32da04f3e0",
+    "relationship": "mother"
+  }
+}

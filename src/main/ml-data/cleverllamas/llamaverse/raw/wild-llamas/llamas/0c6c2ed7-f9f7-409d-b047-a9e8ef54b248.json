@@ -1,0 +1,15 @@
+{
+  "id": "0c6c2ed7-f9f7-409d-b047-a9e8ef54b248",
+  "name": "Ashley",
+  "heightCm": 192,
+  "weightKg": 139,
+  "eyeColor": "Hazel",
+  "hairColor": "Gray",
+  "breed": "Huacaya",
+  "placeOfBirth": "North Paulaberg, Tuvalu",
+  "description": "Ashley is a hazel-eyed llama with gray hair, standing 192 cm tall. Originally from North Paulaberg, Tuvalu, Ashley enjoys wood carving, painting, singing. Known for their mischievous and curious personality, Ashley is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "b57c0d14-57a9-4969-a3f8-ff19d3833419",
+    "relationship": "sister"
+  }
+}

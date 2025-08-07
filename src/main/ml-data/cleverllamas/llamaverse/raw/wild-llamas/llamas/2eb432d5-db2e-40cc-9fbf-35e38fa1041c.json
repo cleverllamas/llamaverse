@@ -1,0 +1,15 @@
+{
+  "id": "2eb432d5-db2e-40cc-9fbf-35e38fa1041c",
+  "name": "Jerry",
+  "heightCm": 125,
+  "weightKg": 188,
+  "eyeColor": "Brown",
+  "hairColor": "Silver",
+  "breed": "Hybrid",
+  "placeOfBirth": "Harmonfort, Japan",
+  "description": "Jerry is a brown-eyed llama with silver hair, standing 125 cm tall. Originally from Harmonfort, Japan, Jerry enjoys gardening, painting, knitting. Known for their curious and shy personality, Jerry is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "47669760-4c3f-4fc1-94ce-7e25b8889dab",
+    "relationship": "brother"
+  }
+}

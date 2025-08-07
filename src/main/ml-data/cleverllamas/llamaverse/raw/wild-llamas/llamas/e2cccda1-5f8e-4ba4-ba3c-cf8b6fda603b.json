@@ -1,0 +1,15 @@
+{
+  "id": "e2cccda1-5f8e-4ba4-ba3c-cf8b6fda603b",
+  "name": "Tanya",
+  "heightCm": 193,
+  "weightKg": 167,
+  "eyeColor": "Hazel",
+  "hairColor": "Silver",
+  "breed": "Hybrid",
+  "placeOfBirth": "Santiagotown, Mozambique",
+  "description": "Tanya is a hazel-eyed llama with silver hair, standing 193 cm tall. Originally from Santiagotown, Mozambique, Tanya enjoys cooking, wood carving, hiking. Known for their energetic and energetic personality, Tanya is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "12d3c81b-8e9e-4bd1-a873-3221e1f4dd5b",
+    "relationship": "second cousin"
+  }
+}

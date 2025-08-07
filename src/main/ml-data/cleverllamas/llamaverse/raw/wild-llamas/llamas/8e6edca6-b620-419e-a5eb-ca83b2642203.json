@@ -1,0 +1,15 @@
+{
+  "id": "8e6edca6-b620-419e-a5eb-ca83b2642203",
+  "name": "Gary",
+  "heightCm": 107,
+  "weightKg": 160,
+  "eyeColor": "Blue",
+  "hairColor": "Gray",
+  "breed": "Huacaya",
+  "placeOfBirth": "South Jenniferport, Japan",
+  "description": "Gary is a blue-eyed llama with gray hair, standing 107 cm tall. Originally from South Jenniferport, Japan, Gary enjoys wood carving, cooking, singing. Known for their energetic and playful personality, Gary is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "4d66a286-0777-47ed-b8f5-3aa91341736b",
+    "relationship": "4th cousin once removed"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "9cac8353-ccf2-46c9-8711-35c6b624188e",
+  "name": "James",
+  "heightCm": 144,
+  "weightKg": 164,
+  "eyeColor": "Blue",
+  "hairColor": "Black",
+  "breed": "Hybrid",
+  "placeOfBirth": "Williamsfurt, Timor-Leste",
+  "description": "James is a blue-eyed llama with black hair, standing 144 cm tall. Originally from Williamsfurt, Timor-Leste, James enjoys hiking, dancing, cooking. Known for their shy and gentle personality, James is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "2ca70279-a122-44df-956a-2527fd2d5830",
+    "relationship": "third cousin twice removed"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "ef8ba462-1370-45e6-8e37-306044d60298",
+  "name": "Calvin",
+  "heightCm": 199,
+  "weightKg": 186,
+  "eyeColor": "Gray",
+  "hairColor": "Black",
+  "breed": "Huacaya",
+  "placeOfBirth": "Lewisview, Liberia",
+  "description": "Calvin is a gray-eyed llama with black hair, standing 199 cm tall. Originally from Lewisview, Liberia, Calvin enjoys hiking, singing, wood carving. Known for their shy and playful personality, Calvin is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "7d25ed26-7748-42b9-8ac8-95e68a00be9a",
+    "relationship": "aunt"
+  }
+}

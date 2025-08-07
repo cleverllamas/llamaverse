@@ -1,0 +1,15 @@
+{
+  "id": "654ceb5e-6a12-46f0-83cf-bfb5eb8aca2d",
+  "name": "Kelly",
+  "heightCm": 161,
+  "weightKg": 157,
+  "eyeColor": "Amber",
+  "hairColor": "Blonde",
+  "breed": "Huacaya",
+  "placeOfBirth": "Lake Robert, Tuvalu",
+  "description": "Kelly is a amber-eyed llama with blonde hair, standing 161 cm tall. Originally from Lake Robert, Tuvalu, Kelly enjoys dancing, gardening, hiking. Known for their calm and shy personality, Kelly is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "f8d8325e-4c46-4fc3-ab32-b172bee9f97d",
+    "relationship": "mother"
+  }
+}

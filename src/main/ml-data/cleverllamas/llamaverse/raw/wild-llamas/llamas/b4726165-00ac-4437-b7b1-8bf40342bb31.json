@@ -1,0 +1,15 @@
+{
+  "id": "b4726165-00ac-4437-b7b1-8bf40342bb31",
+  "name": "Jason",
+  "heightCm": 131,
+  "weightKg": 192,
+  "eyeColor": "Gray",
+  "hairColor": "Brown",
+  "breed": "Huacaya",
+  "placeOfBirth": "New Tiffany, Netherlands Antilles",
+  "description": "Jason is a gray-eyed llama with brown hair, standing 131 cm tall. Originally from New Tiffany, Netherlands Antilles, Jason enjoys gardening, knitting, reading. Known for their energetic and curious personality, Jason is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "a6d8b3c5-d1ad-4110-8da5-176fab7dd24f",
+    "relationship": "aunt"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "ae03fade-afa1-49e1-9a69-61564dc17231",
+  "name": "Carol",
+  "heightCm": 139,
+  "weightKg": 184,
+  "eyeColor": "Hazel",
+  "hairColor": "Black",
+  "breed": "Suri",
+  "placeOfBirth": "Lake Jessicamouth, Montserrat",
+  "description": "Carol is a hazel-eyed llama with black hair, standing 139 cm tall. Originally from Lake Jessicamouth, Montserrat, Carol enjoys singing, reading, gardening. Known for their calm and mischievous personality, Carol is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "8bded387-8149-4353-a804-fec34eb285cd",
+    "relationship": "second cousin"
+  }
+}

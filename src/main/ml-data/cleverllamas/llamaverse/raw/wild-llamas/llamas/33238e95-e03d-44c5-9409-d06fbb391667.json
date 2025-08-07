@@ -1,0 +1,15 @@
+{
+  "id": "33238e95-e03d-44c5-9409-d06fbb391667",
+  "name": "Leslie",
+  "heightCm": 158,
+  "weightKg": 160,
+  "eyeColor": "Gray",
+  "hairColor": "Blonde",
+  "breed": "Huacaya",
+  "placeOfBirth": "Yvetteshire, Singapore",
+  "description": "Leslie is a gray-eyed llama with blonde hair, standing 158 cm tall. Originally from Yvetteshire, Singapore, Leslie enjoys reading, gardening, singing. Known for their shy and friendly personality, Leslie is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "301e600a-c505-42d1-a5e1-1c731d9c0bcb",
+    "relationship": "third cousin twice removed"
+  }
+}

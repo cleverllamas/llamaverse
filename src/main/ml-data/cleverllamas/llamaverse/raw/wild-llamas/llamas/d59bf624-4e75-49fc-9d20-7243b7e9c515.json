@@ -1,0 +1,15 @@
+{
+  "id": "d59bf624-4e75-49fc-9d20-7243b7e9c515",
+  "name": "Christopher",
+  "heightCm": 129,
+  "weightKg": 194,
+  "eyeColor": "Brown",
+  "hairColor": "White",
+  "breed": "Hybrid",
+  "placeOfBirth": "Port Wandaside, Namibia",
+  "description": "Christopher is a brown-eyed llama with white hair, standing 129 cm tall. Originally from Port Wandaside, Namibia, Christopher enjoys knitting, hiking, reading. Known for their gentle and gentle personality, Christopher is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "b559f85f-9848-48ff-868e-56c53110d8cd",
+    "relationship": "uncle"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "fbe11de1-4afd-49b4-958c-3f7812763a60",
+  "name": "Brian",
+  "heightCm": 104,
+  "weightKg": 175,
+  "eyeColor": "Hazel",
+  "hairColor": "Brown",
+  "breed": "Suri",
+  "placeOfBirth": "Lake Jeremyburgh, Guadeloupe",
+  "description": "Brian is a hazel-eyed llama with brown hair, standing 104 cm tall. Originally from Lake Jeremyburgh, Guadeloupe, Brian enjoys wood carving, singing, gardening. Known for their gentle and calm personality, Brian is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "509ed9ca-7079-4e10-b24b-a207d7606db4",
+    "relationship": "brother"
+  }
+}

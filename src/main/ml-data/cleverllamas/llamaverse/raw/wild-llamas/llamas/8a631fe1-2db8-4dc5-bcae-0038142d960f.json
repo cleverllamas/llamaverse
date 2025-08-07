@@ -1,0 +1,15 @@
+{
+  "id": "8a631fe1-2db8-4dc5-bcae-0038142d960f",
+  "name": "Ashley",
+  "heightCm": 198,
+  "weightKg": 179,
+  "eyeColor": "Blue",
+  "hairColor": "Brown",
+  "breed": "Huacaya",
+  "placeOfBirth": "Tylermouth, Cape Verde",
+  "description": "Ashley is a blue-eyed llama with brown hair, standing 198 cm tall. Originally from Tylermouth, Cape Verde, Ashley enjoys cooking, dancing, gardening. Known for their gentle and playful personality, Ashley is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "0300e2ed-06db-427d-9435-b162fa47c9e6",
+    "relationship": "aunt"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "f985d744-8932-4578-9e61-a36890047475",
+  "name": "Joshua",
+  "heightCm": 134,
+  "weightKg": 198,
+  "eyeColor": "Green",
+  "hairColor": "White",
+  "breed": "Hybrid",
+  "placeOfBirth": "Frenchtown, Argentina",
+  "description": "Joshua is a green-eyed llama with white hair, standing 134 cm tall. Originally from Frenchtown, Argentina, Joshua enjoys wood carving, singing, cooking. Known for their curious and mischievous personality, Joshua is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "3b4f9611-2889-4241-a2a7-2b97c23e2572",
+    "relationship": "brother"
+  }
+}

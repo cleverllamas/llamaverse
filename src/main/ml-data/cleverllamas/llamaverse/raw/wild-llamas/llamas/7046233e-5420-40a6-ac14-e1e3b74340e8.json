@@ -1,0 +1,15 @@
+{
+  "id": "7046233e-5420-40a6-ac14-e1e3b74340e8",
+  "name": "Sydney",
+  "heightCm": 104,
+  "weightKg": 150,
+  "eyeColor": "Hazel",
+  "hairColor": "Silver",
+  "breed": "Suri",
+  "placeOfBirth": "North Bonnie, Christmas Island",
+  "description": "Sydney is a hazel-eyed llama with silver hair, standing 104 cm tall. Originally from North Bonnie, Christmas Island, Sydney enjoys cooking, dancing, hiking. Known for their curious and mischievous personality, Sydney is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "5c82ff79-61c6-44b4-9665-6c0099c6a0b2",
+    "relationship": "cousin"
+  }
+}

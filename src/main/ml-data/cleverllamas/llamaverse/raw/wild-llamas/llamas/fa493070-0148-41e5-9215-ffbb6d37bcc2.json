@@ -1,0 +1,15 @@
+{
+  "id": "fa493070-0148-41e5-9215-ffbb6d37bcc2",
+  "name": "David",
+  "heightCm": 159,
+  "weightKg": 184,
+  "eyeColor": "Green",
+  "hairColor": "Brown",
+  "breed": "Suri",
+  "placeOfBirth": "West Davidport, Norfolk Island",
+  "description": "David is a green-eyed llama with brown hair, standing 159 cm tall. Originally from West Davidport, Norfolk Island, David enjoys painting, hiking, gardening. Known for their curious and calm personality, David is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "4e14e7fd-8bf2-417c-beb4-ed9720e34aae",
+    "relationship": "third cousin twice removed"
+  }
+}

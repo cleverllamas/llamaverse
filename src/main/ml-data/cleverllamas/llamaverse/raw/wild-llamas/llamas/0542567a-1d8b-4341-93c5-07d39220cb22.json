@@ -1,0 +1,15 @@
+{
+  "id": "0542567a-1d8b-4341-93c5-07d39220cb22",
+  "name": "Antonio",
+  "heightCm": 148,
+  "weightKg": 130,
+  "eyeColor": "Brown",
+  "hairColor": "Silver",
+  "breed": "Suri",
+  "placeOfBirth": "Port Haroldtown, Peru",
+  "description": "Antonio is a brown-eyed llama with silver hair, standing 148 cm tall. Originally from Port Haroldtown, Peru, Antonio enjoys hiking, painting, gardening. Known for their playful and mischievous personality, Antonio is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "7ee7e9fe-da7b-405d-a174-3ca7e8fe5661",
+    "relationship": "uncle"
+  }
+}

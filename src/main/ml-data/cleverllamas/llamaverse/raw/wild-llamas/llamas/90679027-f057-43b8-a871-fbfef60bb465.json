@@ -1,0 +1,15 @@
+{
+  "id": "90679027-f057-43b8-a871-fbfef60bb465",
+  "name": "David",
+  "heightCm": 118,
+  "weightKg": 187,
+  "eyeColor": "Green",
+  "hairColor": "Black",
+  "breed": "Hybrid",
+  "placeOfBirth": "Cynthiaview, San Marino",
+  "description": "David is a green-eyed llama with black hair, standing 118 cm tall. Originally from Cynthiaview, San Marino, David enjoys wood carving, singing, cooking. Known for their energetic and gentle personality, David is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "e8344690-566c-4345-a7cd-fb93c15e359e",
+    "relationship": "second cousin"
+  }
+}

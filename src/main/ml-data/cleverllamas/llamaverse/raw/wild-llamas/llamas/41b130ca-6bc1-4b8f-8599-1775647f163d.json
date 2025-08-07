@@ -1,0 +1,15 @@
+{
+  "id": "41b130ca-6bc1-4b8f-8599-1775647f163d",
+  "name": "Daniel",
+  "heightCm": 172,
+  "weightKg": 192,
+  "eyeColor": "Blue",
+  "hairColor": "Red",
+  "breed": "Huacaya",
+  "placeOfBirth": "New Taylormouth, San Marino",
+  "description": "Daniel is a blue-eyed llama with red hair, standing 172 cm tall. Originally from New Taylormouth, San Marino, Daniel enjoys gardening, knitting, dancing. Known for their calm and mischievous personality, Daniel is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "216c03ca-0000-4452-9750-34209fb6accf",
+    "relationship": "great uncle"
+  }
+}

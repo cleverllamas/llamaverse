@@ -1,0 +1,15 @@
+{
+  "id": "57f88bf3-e4ae-419b-9abc-e86f2e6c3392",
+  "name": "Karl",
+  "heightCm": 176,
+  "weightKg": 147,
+  "eyeColor": "Blue",
+  "hairColor": "Blonde",
+  "breed": "Suri",
+  "placeOfBirth": "Parkshaven, Mozambique",
+  "description": "Karl is a blue-eyed llama with blonde hair, standing 176 cm tall. Originally from Parkshaven, Mozambique, Karl enjoys hiking, painting, cooking. Known for their shy and friendly personality, Karl is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "b239d144-780c-42de-82da-71054ff7b632",
+    "relationship": "great uncle"
+  }
+}

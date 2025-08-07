@@ -1,0 +1,15 @@
+{
+  "id": "a78eb964-4eb8-4714-9b7a-e4c1b175e7be",
+  "name": "Courtney",
+  "heightCm": 147,
+  "weightKg": 172,
+  "eyeColor": "Hazel",
+  "hairColor": "Gray",
+  "breed": "Suri",
+  "placeOfBirth": "Lake Maxwell, Australia",
+  "description": "Courtney is a hazel-eyed llama with gray hair, standing 147 cm tall. Originally from Lake Maxwell, Australia, Courtney enjoys wood carving, dancing, hiking. Known for their friendly and energetic personality, Courtney is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "b3520337-6c01-4d04-a3c5-30ce2afad3c0",
+    "relationship": "4th cousin once removed"
+  }
+}

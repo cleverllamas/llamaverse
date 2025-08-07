@@ -1,0 +1,15 @@
+{
+  "id": "32bbe607-78c0-48c5-8548-c273ead0acce",
+  "name": "Anthony",
+  "heightCm": 100,
+  "weightKg": 130,
+  "eyeColor": "Blue",
+  "hairColor": "White",
+  "breed": "Hybrid",
+  "placeOfBirth": "Jennifermouth, South Africa",
+  "description": "Anthony is a blue-eyed llama with white hair, standing 100 cm tall. Originally from Jennifermouth, South Africa, Anthony enjoys gardening, wood carving, painting. Known for their friendly and friendly personality, Anthony is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "0fb5f679-3717-4bc5-a46b-99bf55aa003e",
+    "relationship": "great uncle"
+  }
+}

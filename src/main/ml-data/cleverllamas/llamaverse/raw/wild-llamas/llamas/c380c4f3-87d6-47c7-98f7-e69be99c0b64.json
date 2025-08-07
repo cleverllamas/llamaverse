@@ -1,0 +1,15 @@
+{
+  "id": "c380c4f3-87d6-47c7-98f7-e69be99c0b64",
+  "name": "Deborah",
+  "heightCm": 174,
+  "weightKg": 199,
+  "eyeColor": "Hazel",
+  "hairColor": "Black",
+  "breed": "Suri",
+  "placeOfBirth": "Laurenville, Algeria",
+  "description": "Deborah is a hazel-eyed llama with black hair, standing 174 cm tall. Originally from Laurenville, Algeria, Deborah enjoys hiking, wood carving, cooking. Known for their calm and energetic personality, Deborah is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "df069837-36f8-42d7-aa24-9e06c4ef45c7",
+    "relationship": "cousin"
+  }
+}

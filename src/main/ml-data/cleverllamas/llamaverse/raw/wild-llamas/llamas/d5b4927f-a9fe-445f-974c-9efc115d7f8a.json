@@ -1,0 +1,15 @@
+{
+  "id": "d5b4927f-a9fe-445f-974c-9efc115d7f8a",
+  "name": "Carla",
+  "heightCm": 156,
+  "weightKg": 193,
+  "eyeColor": "Brown",
+  "hairColor": "Black",
+  "breed": "Suri",
+  "placeOfBirth": "Rebeccaville, Uruguay",
+  "description": "Carla is a brown-eyed llama with black hair, standing 156 cm tall. Originally from Rebeccaville, Uruguay, Carla enjoys dancing, reading, singing. Known for their shy and curious personality, Carla is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "128ded1d-7935-4596-92e4-a1025b8fb23c",
+    "relationship": "great uncle"
+  }
+}

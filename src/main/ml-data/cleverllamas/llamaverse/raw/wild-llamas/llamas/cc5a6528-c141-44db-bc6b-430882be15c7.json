@@ -1,0 +1,15 @@
+{
+  "id": "cc5a6528-c141-44db-bc6b-430882be15c7",
+  "name": "Julie",
+  "heightCm": 154,
+  "weightKg": 167,
+  "eyeColor": "Blue",
+  "hairColor": "Brown",
+  "breed": "Hybrid",
+  "placeOfBirth": "East Rubenchester, Burkina Faso",
+  "description": "Julie is a blue-eyed llama with brown hair, standing 154 cm tall. Originally from East Rubenchester, Burkina Faso, Julie enjoys singing, dancing, gardening. Known for their curious and shy personality, Julie is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "62b13b9c-4e35-4bb7-8cd9-aa56d1016313",
+    "relationship": "father"
+  }
+}

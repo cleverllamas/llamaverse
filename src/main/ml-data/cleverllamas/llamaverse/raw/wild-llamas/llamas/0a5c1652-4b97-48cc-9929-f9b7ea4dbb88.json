@@ -1,0 +1,15 @@
+{
+  "id": "0a5c1652-4b97-48cc-9929-f9b7ea4dbb88",
+  "name": "Charles",
+  "heightCm": 158,
+  "weightKg": 149,
+  "eyeColor": "Brown",
+  "hairColor": "Red",
+  "breed": "Hybrid",
+  "placeOfBirth": "Port Lori, Anguilla",
+  "description": "Charles is a brown-eyed llama with red hair, standing 158 cm tall. Originally from Port Lori, Anguilla, Charles enjoys wood carving, hiking, cooking. Known for their playful and playful personality, Charles is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "e7456248-9dad-43c4-9009-f634c81e7a6f",
+    "relationship": "mother"
+  }
+}

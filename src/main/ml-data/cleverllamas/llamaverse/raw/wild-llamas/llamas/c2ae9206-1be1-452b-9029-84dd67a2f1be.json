@@ -1,0 +1,15 @@
+{
+  "id": "c2ae9206-1be1-452b-9029-84dd67a2f1be",
+  "name": "Brian",
+  "heightCm": 160,
+  "weightKg": 144,
+  "eyeColor": "Amber",
+  "hairColor": "Red",
+  "breed": "Huacaya",
+  "placeOfBirth": "East Shaun, Switzerland",
+  "description": "Brian is a amber-eyed llama with red hair, standing 160 cm tall. Originally from East Shaun, Switzerland, Brian enjoys wood carving, singing, gardening. Known for their shy and playful personality, Brian is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "9d4f1dcd-79b6-4f58-802b-6a92f394f798",
+    "relationship": "sister"
+  }
+}

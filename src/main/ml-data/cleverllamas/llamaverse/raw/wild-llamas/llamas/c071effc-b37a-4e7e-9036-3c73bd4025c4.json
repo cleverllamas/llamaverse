@@ -1,0 +1,15 @@
+{
+  "id": "c071effc-b37a-4e7e-9036-3c73bd4025c4",
+  "name": "Jerry",
+  "heightCm": 102,
+  "weightKg": 158,
+  "eyeColor": "Blue",
+  "hairColor": "Blonde",
+  "breed": "Suri",
+  "placeOfBirth": "New Mitchell, Estonia",
+  "description": "Jerry is a blue-eyed llama with blonde hair, standing 102 cm tall. Originally from New Mitchell, Estonia, Jerry enjoys painting, dancing, wood carving. Known for their friendly and shy personality, Jerry is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "c24d5d26-6b54-40a7-9bc1-dbb59c7c4da6",
+    "relationship": "grandparent"
+  }
+}

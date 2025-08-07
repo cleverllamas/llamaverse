@@ -1,0 +1,15 @@
+{
+  "id": "70630122-ea63-4ccf-b416-f99624478315",
+  "name": "Edward",
+  "heightCm": 186,
+  "weightKg": 163,
+  "eyeColor": "Brown",
+  "hairColor": "Black",
+  "breed": "Hybrid",
+  "placeOfBirth": "Samanthafort, Iran",
+  "description": "Edward is a brown-eyed llama with black hair, standing 186 cm tall. Originally from Samanthafort, Iran, Edward enjoys hiking, painting, singing. Known for their shy and gentle personality, Edward is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "64090a14-c0b3-464e-8657-c958ba351582",
+    "relationship": "sister"
+  }
+}

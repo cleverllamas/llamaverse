@@ -1,0 +1,15 @@
+{
+  "id": "d4bc21c3-843b-4a08-a518-71d1880a0b75",
+  "name": "Jennifer",
+  "heightCm": 179,
+  "weightKg": 138,
+  "eyeColor": "Amber",
+  "hairColor": "Red",
+  "breed": "Hybrid",
+  "placeOfBirth": "Lake Maria, Morocco",
+  "description": "Jennifer is a amber-eyed llama with red hair, standing 179 cm tall. Originally from Lake Maria, Morocco, Jennifer enjoys dancing, singing, gardening. Known for their shy and friendly personality, Jennifer is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "a4cd4b2a-0fa1-4890-aaaa-85019d5d3a54",
+    "relationship": "cousin"
+  }
+}

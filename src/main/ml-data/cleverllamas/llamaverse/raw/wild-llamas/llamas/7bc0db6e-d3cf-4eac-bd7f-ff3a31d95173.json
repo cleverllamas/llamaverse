@@ -1,0 +1,15 @@
+{
+  "id": "7bc0db6e-d3cf-4eac-bd7f-ff3a31d95173",
+  "name": "Cory",
+  "heightCm": 198,
+  "weightKg": 190,
+  "eyeColor": "Hazel",
+  "hairColor": "Silver",
+  "breed": "Suri",
+  "placeOfBirth": "Rodriguezchester, Marshall Islands",
+  "description": "Cory is a hazel-eyed llama with silver hair, standing 198 cm tall. Originally from Rodriguezchester, Marshall Islands, Cory enjoys hiking, knitting, reading. Known for their friendly and calm personality, Cory is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "2c421add-7be2-4df5-8237-a7dff0beadae",
+    "relationship": "aunt"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "4e825f9c-552d-4b94-802e-eaf073af7662",
+  "name": "Ashley",
+  "heightCm": 165,
+  "weightKg": 167,
+  "eyeColor": "Hazel",
+  "hairColor": "Gray",
+  "breed": "Huacaya",
+  "placeOfBirth": "Tammyhaven, Grenada",
+  "description": "Ashley is a hazel-eyed llama with gray hair, standing 165 cm tall. Originally from Tammyhaven, Grenada, Ashley enjoys knitting, wood carving, hiking. Known for their mischievous and friendly personality, Ashley is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "1fc5fd27-bfff-4a21-960f-87f05997dbef",
+    "relationship": "mother"
+  }
+}

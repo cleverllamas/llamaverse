@@ -1,0 +1,15 @@
+{
+  "id": "8783838f-41f1-4acd-be18-d9ae5901d79f",
+  "name": "Kevin",
+  "heightCm": 143,
+  "weightKg": 142,
+  "eyeColor": "Amber",
+  "hairColor": "Blonde",
+  "breed": "Hybrid",
+  "placeOfBirth": "East Anna, French Guiana",
+  "description": "Kevin is a amber-eyed llama with blonde hair, standing 143 cm tall. Originally from East Anna, French Guiana, Kevin enjoys hiking, knitting, dancing. Known for their gentle and energetic personality, Kevin is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "b4753781-cb43-4794-9b1e-ff4456b42928",
+    "relationship": "mother"
+  }
+}

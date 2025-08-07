@@ -1,0 +1,15 @@
+{
+  "id": "2f3f7912-832b-4f73-9d98-834f52236002",
+  "name": "Noah",
+  "heightCm": 108,
+  "weightKg": 180,
+  "eyeColor": "Gray",
+  "hairColor": "Black",
+  "breed": "Hybrid",
+  "placeOfBirth": "South Justin, Cambodia",
+  "description": "Noah is a gray-eyed llama with black hair, standing 108 cm tall. Originally from South Justin, Cambodia, Noah enjoys painting, wood carving, dancing. Known for their shy and mischievous personality, Noah is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "67eff6ff-faf6-4da3-9da9-13fe2651f61f",
+    "relationship": "cousin"
+  }
+}

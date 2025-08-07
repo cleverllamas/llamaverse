@@ -1,0 +1,15 @@
+{
+  "id": "fc3ee7c2-bd25-45d5-bd08-654dc37e3691",
+  "name": "Tracy",
+  "heightCm": 189,
+  "weightKg": 146,
+  "eyeColor": "Hazel",
+  "hairColor": "Black",
+  "breed": "Huacaya",
+  "placeOfBirth": "Port Annland, Afghanistan",
+  "description": "Tracy is a hazel-eyed llama with black hair, standing 189 cm tall. Originally from Port Annland, Afghanistan, Tracy enjoys reading, hiking, dancing. Known for their curious and shy personality, Tracy is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "36848199-0693-44cf-9701-31cfbfdcabf8",
+    "relationship": "great uncle"
+  }
+}

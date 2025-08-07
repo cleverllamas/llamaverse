@@ -1,0 +1,15 @@
+{
+  "id": "058e9306-6df2-473a-a5c9-7184e922de47",
+  "name": "Robert",
+  "heightCm": 172,
+  "weightKg": 162,
+  "eyeColor": "Green",
+  "hairColor": "Brown",
+  "breed": "Suri",
+  "placeOfBirth": "Martinhaven, Morocco",
+  "description": "Robert is a green-eyed llama with brown hair, standing 172 cm tall. Originally from Martinhaven, Morocco, Robert enjoys hiking, wood carving, reading. Known for their friendly and playful personality, Robert is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "9a761a15-a0d1-4ef7-9fe4-2d7d534feb6a",
+    "relationship": "sister"
+  }
+}

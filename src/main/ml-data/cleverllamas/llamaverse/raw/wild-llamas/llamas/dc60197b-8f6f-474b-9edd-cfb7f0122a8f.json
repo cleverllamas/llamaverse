@@ -1,0 +1,15 @@
+{
+  "id": "dc60197b-8f6f-474b-9edd-cfb7f0122a8f",
+  "name": "Stacey",
+  "heightCm": 130,
+  "weightKg": 185,
+  "eyeColor": "Brown",
+  "hairColor": "Brown",
+  "breed": "Suri",
+  "placeOfBirth": "North Patrick, Malaysia",
+  "description": "Stacey is a brown-eyed llama with brown hair, standing 130 cm tall. Originally from North Patrick, Malaysia, Stacey enjoys dancing, singing, gardening. Known for their playful and curious personality, Stacey is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "3089dde1-86da-4382-bc75-ce68f25332e6",
+    "relationship": "mother"
+  }
+}

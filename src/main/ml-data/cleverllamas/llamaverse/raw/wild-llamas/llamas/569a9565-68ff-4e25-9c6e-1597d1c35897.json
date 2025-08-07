@@ -1,0 +1,15 @@
+{
+  "id": "569a9565-68ff-4e25-9c6e-1597d1c35897",
+  "name": "Ryan",
+  "heightCm": 198,
+  "weightKg": 182,
+  "eyeColor": "Gray",
+  "hairColor": "Black",
+  "breed": "Hybrid",
+  "placeOfBirth": "South Timothybury, Cambodia",
+  "description": "Ryan is a gray-eyed llama with black hair, standing 198 cm tall. Originally from South Timothybury, Cambodia, Ryan enjoys knitting, gardening, dancing. Known for their playful and energetic personality, Ryan is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "38579b25-d370-405b-a572-26485787f09b",
+    "relationship": "second cousin"
+  }
+}

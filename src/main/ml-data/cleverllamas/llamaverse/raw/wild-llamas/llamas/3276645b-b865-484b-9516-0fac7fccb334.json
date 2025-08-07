@@ -1,0 +1,15 @@
+{
+  "id": "3276645b-b865-484b-9516-0fac7fccb334",
+  "name": "Corey",
+  "heightCm": 184,
+  "weightKg": 151,
+  "eyeColor": "Hazel",
+  "hairColor": "Gray",
+  "breed": "Huacaya",
+  "placeOfBirth": "Ericksonton, Tunisia",
+  "description": "Corey is a hazel-eyed llama with gray hair, standing 184 cm tall. Originally from Ericksonton, Tunisia, Corey enjoys wood carving, painting, gardening. Known for their calm and gentle personality, Corey is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "256eb75f-9ed8-4899-be47-3e81f91c48f3",
+    "relationship": "4th cousin once removed"
+  }
+}

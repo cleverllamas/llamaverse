@@ -1,0 +1,15 @@
+{
+  "id": "f7fa9368-60c4-4f28-81d9-ee8bf9cf0f50",
+  "name": "Derek",
+  "heightCm": 139,
+  "weightKg": 133,
+  "eyeColor": "Amber",
+  "hairColor": "Blonde",
+  "breed": "Huacaya",
+  "placeOfBirth": "Lake Ryan, Armenia",
+  "description": "Derek is a amber-eyed llama with blonde hair, standing 139 cm tall. Originally from Lake Ryan, Armenia, Derek enjoys cooking, singing, gardening. Known for their playful and energetic personality, Derek is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "48367dd2-f7a1-48e1-9c27-3e62c1230780",
+    "relationship": "father"
+  }
+}

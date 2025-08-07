@@ -1,0 +1,15 @@
+{
+  "id": "2afc77dd-cb1b-4888-b5aa-ac13364c1868",
+  "name": "Jamie",
+  "heightCm": 100,
+  "weightKg": 136,
+  "eyeColor": "Blue",
+  "hairColor": "Red",
+  "breed": "Hybrid",
+  "placeOfBirth": "Lake Ginachester, Austria",
+  "description": "Jamie is a blue-eyed llama with red hair, standing 100 cm tall. Originally from Lake Ginachester, Austria, Jamie enjoys gardening, dancing, wood carving. Known for their energetic and gentle personality, Jamie is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "d8aedc19-6a70-433f-8d7b-904d767dcea8",
+    "relationship": "second cousin"
+  }
+}

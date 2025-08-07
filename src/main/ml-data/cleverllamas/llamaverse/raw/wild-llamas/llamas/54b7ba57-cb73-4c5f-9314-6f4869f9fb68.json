@@ -1,0 +1,15 @@
+{
+  "id": "54b7ba57-cb73-4c5f-9314-6f4869f9fb68",
+  "name": "Alex",
+  "heightCm": 128,
+  "weightKg": 143,
+  "eyeColor": "Blue",
+  "hairColor": "Silver",
+  "breed": "Huacaya",
+  "placeOfBirth": "Gailchester, Lithuania",
+  "description": "Alex is a blue-eyed llama with silver hair, standing 128 cm tall. Originally from Gailchester, Lithuania, Alex enjoys singing, painting, cooking. Known for their friendly and playful personality, Alex is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "1b4d7e02-e2e7-4d44-819b-d657c6eb816b",
+    "relationship": "uncle"
+  }
+}

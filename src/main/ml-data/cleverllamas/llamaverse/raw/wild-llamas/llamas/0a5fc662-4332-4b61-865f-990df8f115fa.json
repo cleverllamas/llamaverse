@@ -1,0 +1,15 @@
+{
+  "id": "0a5fc662-4332-4b61-865f-990df8f115fa",
+  "name": "Brent",
+  "heightCm": 105,
+  "weightKg": 158,
+  "eyeColor": "Amber",
+  "hairColor": "Blonde",
+  "breed": "Hybrid",
+  "placeOfBirth": "East Wesley, Guinea",
+  "description": "Brent is a amber-eyed llama with blonde hair, standing 105 cm tall. Originally from East Wesley, Guinea, Brent enjoys wood carving, cooking, hiking. Known for their calm and friendly personality, Brent is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "807ede5c-cce7-4fc0-98c8-3e9f745b5fee",
+    "relationship": "uncle"
+  }
+}

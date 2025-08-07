@@ -1,0 +1,15 @@
+{
+  "id": "c7df0495-6b58-4739-a9e8-baea8796fecf",
+  "name": "Brian",
+  "heightCm": 116,
+  "weightKg": 133,
+  "eyeColor": "Hazel",
+  "hairColor": "Silver",
+  "breed": "Suri",
+  "placeOfBirth": "Jamesland, Cote d'Ivoire",
+  "description": "Brian is a hazel-eyed llama with silver hair, standing 116 cm tall. Originally from Jamesland, Cote d'Ivoire, Brian enjoys singing, cooking, knitting. Known for their curious and energetic personality, Brian is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "d4dc9d0e-1104-4b40-a527-56c0a87c8bfd",
+    "relationship": "father"
+  }
+}

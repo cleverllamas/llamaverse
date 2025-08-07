@@ -1,0 +1,15 @@
+{
+  "id": "95986fdb-b62a-4b90-80f9-3dd16fa6020d",
+  "name": "Heather",
+  "heightCm": 187,
+  "weightKg": 190,
+  "eyeColor": "Blue",
+  "hairColor": "White",
+  "breed": "Suri",
+  "placeOfBirth": "Danielburgh, Georgia",
+  "description": "Heather is a blue-eyed llama with white hair, standing 187 cm tall. Originally from Danielburgh, Georgia, Heather enjoys painting, reading, hiking. Known for their friendly and playful personality, Heather is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "e8872ea9-b2a1-4da5-9fcd-b0e08de6d0f9",
+    "relationship": "uncle"
+  }
+}

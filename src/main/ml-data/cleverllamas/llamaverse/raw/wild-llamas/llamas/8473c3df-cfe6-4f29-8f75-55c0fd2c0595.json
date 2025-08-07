@@ -1,0 +1,15 @@
+{
+  "id": "8473c3df-cfe6-4f29-8f75-55c0fd2c0595",
+  "name": "Paula",
+  "heightCm": 117,
+  "weightKg": 194,
+  "eyeColor": "Blue",
+  "hairColor": "Red",
+  "breed": "Hybrid",
+  "placeOfBirth": "North Jessica, Uruguay",
+  "description": "Paula is a blue-eyed llama with red hair, standing 117 cm tall. Originally from North Jessica, Uruguay, Paula enjoys cooking, reading, dancing. Known for their shy and energetic personality, Paula is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "0ae22d31-74f7-44be-9b72-216c210bb93a",
+    "relationship": "4th cousin once removed"
+  }
+}

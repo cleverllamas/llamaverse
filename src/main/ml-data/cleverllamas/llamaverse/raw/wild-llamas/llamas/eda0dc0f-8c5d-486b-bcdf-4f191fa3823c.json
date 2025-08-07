@@ -1,0 +1,15 @@
+{
+  "id": "eda0dc0f-8c5d-486b-bcdf-4f191fa3823c",
+  "name": "Monica",
+  "heightCm": 191,
+  "weightKg": 171,
+  "eyeColor": "Blue",
+  "hairColor": "Silver",
+  "breed": "Huacaya",
+  "placeOfBirth": "Lake Josephport, Mozambique",
+  "description": "Monica is a blue-eyed llama with silver hair, standing 191 cm tall. Originally from Lake Josephport, Mozambique, Monica enjoys reading, knitting, gardening. Known for their gentle and shy personality, Monica is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "c9ffb1c8-d522-45ba-8dc4-ba54254e67db",
+    "relationship": "15th cousin 9th removed"
+  }
+}

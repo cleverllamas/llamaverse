@@ -1,0 +1,15 @@
+{
+  "id": "e0c4bb09-b84b-4132-87c7-9f0bea5452c1",
+  "name": "Juan",
+  "heightCm": 108,
+  "weightKg": 157,
+  "eyeColor": "Green",
+  "hairColor": "Brown",
+  "breed": "Huacaya",
+  "placeOfBirth": "Reedburgh, Faroe Islands",
+  "description": "Juan is a green-eyed llama with brown hair, standing 108 cm tall. Originally from Reedburgh, Faroe Islands, Juan enjoys hiking, knitting, gardening. Known for their energetic and playful personality, Juan is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "3e1990d6-b8b8-479d-8684-06c24c1f1d3d",
+    "relationship": "great uncle"
+  }
+}

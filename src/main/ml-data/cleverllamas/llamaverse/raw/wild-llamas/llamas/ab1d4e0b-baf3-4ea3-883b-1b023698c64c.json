@@ -1,0 +1,15 @@
+{
+  "id": "ab1d4e0b-baf3-4ea3-883b-1b023698c64c",
+  "name": "Alejandra",
+  "heightCm": 172,
+  "weightKg": 146,
+  "eyeColor": "Amber",
+  "hairColor": "White",
+  "breed": "Hybrid",
+  "placeOfBirth": "Abigailside, Tajikistan",
+  "description": "Alejandra is a amber-eyed llama with white hair, standing 172 cm tall. Originally from Abigailside, Tajikistan, Alejandra enjoys reading, gardening, knitting. Known for their shy and curious personality, Alejandra is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "5c82ff79-61c6-44b4-9665-6c0099c6a0b2",
+    "relationship": "cousin"
+  }
+}

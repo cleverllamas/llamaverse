@@ -1,0 +1,15 @@
+{
+  "id": "52cee17b-b2ec-4852-84f2-4319d29a2088",
+  "name": "Jeffery",
+  "heightCm": 198,
+  "weightKg": 176,
+  "eyeColor": "Gray",
+  "hairColor": "White",
+  "breed": "Suri",
+  "placeOfBirth": "Kathleenborough, Burkina Faso",
+  "description": "Jeffery is a gray-eyed llama with white hair, standing 198 cm tall. Originally from Kathleenborough, Burkina Faso, Jeffery enjoys wood carving, cooking, dancing. Known for their mischievous and gentle personality, Jeffery is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "49ba8239-26b9-447a-ac59-661d4890919e",
+    "relationship": "third cousin twice removed"
+  }
+}

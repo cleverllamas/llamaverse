@@ -1,0 +1,15 @@
+{
+  "id": "219fe4a4-5cab-4fee-b38b-c51fe0a93cb3",
+  "name": "Andrea",
+  "heightCm": 193,
+  "weightKg": 178,
+  "eyeColor": "Green",
+  "hairColor": "Brown",
+  "breed": "Suri",
+  "placeOfBirth": "South Bradley, Kazakhstan",
+  "description": "Andrea is a green-eyed llama with brown hair, standing 193 cm tall. Originally from South Bradley, Kazakhstan, Andrea enjoys painting, singing, knitting. Known for their friendly and playful personality, Andrea is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "a554456e-5b73-4261-9faa-54008655fac8",
+    "relationship": "15th cousin 9th removed"
+  }
+}

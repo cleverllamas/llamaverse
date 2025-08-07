@@ -1,0 +1,15 @@
+{
+  "id": "958a9284-9e68-4779-a7b7-a8a112082395",
+  "name": "Linda",
+  "heightCm": 172,
+  "weightKg": 139,
+  "eyeColor": "Brown",
+  "hairColor": "White",
+  "breed": "Huacaya",
+  "placeOfBirth": "Watkinsfurt, Antigua and Barbuda",
+  "description": "Linda is a brown-eyed llama with white hair, standing 172 cm tall. Originally from Watkinsfurt, Antigua and Barbuda, Linda enjoys dancing, gardening, painting. Known for their shy and curious personality, Linda is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "9cf40bd4-914b-4cbc-9a6e-2edd72be33aa",
+    "relationship": "father"
+  }
+}

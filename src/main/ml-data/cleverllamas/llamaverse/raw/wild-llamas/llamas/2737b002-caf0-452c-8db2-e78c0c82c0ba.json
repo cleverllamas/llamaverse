@@ -1,0 +1,15 @@
+{
+  "id": "2737b002-caf0-452c-8db2-e78c0c82c0ba",
+  "name": "Laura",
+  "heightCm": 130,
+  "weightKg": 160,
+  "eyeColor": "Hazel",
+  "hairColor": "Blonde",
+  "breed": "Hybrid",
+  "placeOfBirth": "Saundersberg, Tajikistan",
+  "description": "Laura is a hazel-eyed llama with blonde hair, standing 130 cm tall. Originally from Saundersberg, Tajikistan, Laura enjoys reading, knitting, dancing. Known for their energetic and friendly personality, Laura is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "1d98cda3-5882-485e-b62f-2480ff43958b",
+    "relationship": "great uncle"
+  }
+}

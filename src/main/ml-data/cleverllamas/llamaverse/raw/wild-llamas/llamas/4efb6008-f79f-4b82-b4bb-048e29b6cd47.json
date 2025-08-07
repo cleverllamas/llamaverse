@@ -1,0 +1,15 @@
+{
+  "id": "4efb6008-f79f-4b82-b4bb-048e29b6cd47",
+  "name": "Roger",
+  "heightCm": 193,
+  "weightKg": 180,
+  "eyeColor": "Hazel",
+  "hairColor": "Blonde",
+  "breed": "Suri",
+  "placeOfBirth": "Port Richardstad, Mauritania",
+  "description": "Roger is a hazel-eyed llama with blonde hair, standing 193 cm tall. Originally from Port Richardstad, Mauritania, Roger enjoys painting, reading, dancing. Known for their friendly and calm personality, Roger is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "c83b008e-dc48-48b4-83a3-567da1480ae5",
+    "relationship": "grandparent"
+  }
+}

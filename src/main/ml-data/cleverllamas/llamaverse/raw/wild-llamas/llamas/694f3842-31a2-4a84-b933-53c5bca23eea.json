@@ -1,0 +1,15 @@
+{
+  "id": "694f3842-31a2-4a84-b933-53c5bca23eea",
+  "name": "Elijah",
+  "heightCm": 131,
+  "weightKg": 186,
+  "eyeColor": "Gray",
+  "hairColor": "Gray",
+  "breed": "Hybrid",
+  "placeOfBirth": "Burchport, Saint Barthelemy",
+  "description": "Elijah is a gray-eyed llama with gray hair, standing 131 cm tall. Originally from Burchport, Saint Barthelemy, Elijah enjoys hiking, reading, painting. Known for their playful and gentle personality, Elijah is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "79173c2b-8933-4031-a3ea-f1cf0d8bceee",
+    "relationship": "second cousin"
+  }
+}

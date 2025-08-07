@@ -1,0 +1,15 @@
+{
+  "id": "e111130f-ae6a-49e8-9ec1-65562876be7d",
+  "name": "Jordan",
+  "heightCm": 170,
+  "weightKg": 161,
+  "eyeColor": "Hazel",
+  "hairColor": "Brown",
+  "breed": "Hybrid",
+  "placeOfBirth": "South Michaelberg, Germany",
+  "description": "Jordan is a hazel-eyed llama with brown hair, standing 170 cm tall. Originally from South Michaelberg, Germany, Jordan enjoys dancing, painting, singing. Known for their shy and shy personality, Jordan is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "13aa0243-70ad-45c3-bfef-6f5f163a4613",
+    "relationship": "third cousin twice removed"
+  }
+}

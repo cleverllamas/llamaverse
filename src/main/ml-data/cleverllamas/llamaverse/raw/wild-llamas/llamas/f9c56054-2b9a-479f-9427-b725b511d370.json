@@ -1,0 +1,15 @@
+{
+  "id": "f9c56054-2b9a-479f-9427-b725b511d370",
+  "name": "Robert",
+  "heightCm": 182,
+  "weightKg": 165,
+  "eyeColor": "Green",
+  "hairColor": "Red",
+  "breed": "Suri",
+  "placeOfBirth": "Freemanville, Ireland",
+  "description": "Robert is a green-eyed llama with red hair, standing 182 cm tall. Originally from Freemanville, Ireland, Robert enjoys dancing, knitting, painting. Known for their friendly and mischievous personality, Robert is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "f45856f8-e59c-4df7-ba16-ab3356b314a7",
+    "relationship": "brother"
+  }
+}

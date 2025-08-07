@@ -1,0 +1,15 @@
+{
+  "id": "bf85541b-3d4d-4030-884d-bcde75dec1a8",
+  "name": "Dan",
+  "heightCm": 100,
+  "weightKg": 162,
+  "eyeColor": "Brown",
+  "hairColor": "Blonde",
+  "breed": "Huacaya",
+  "placeOfBirth": "East Lisa, Nigeria",
+  "description": "Dan is a brown-eyed llama with blonde hair, standing 100 cm tall. Originally from East Lisa, Nigeria, Dan enjoys gardening, singing, dancing. Known for their gentle and playful personality, Dan is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "90584c05-a840-41fb-99c6-bd915af05454",
+    "relationship": "grandparent"
+  }
+}

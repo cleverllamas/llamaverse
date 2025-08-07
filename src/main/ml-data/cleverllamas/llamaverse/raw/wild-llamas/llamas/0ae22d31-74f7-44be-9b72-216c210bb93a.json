@@ -1,0 +1,15 @@
+{
+  "id": "0ae22d31-74f7-44be-9b72-216c210bb93a",
+  "name": "Amy",
+  "heightCm": 186,
+  "weightKg": 136,
+  "eyeColor": "Gray",
+  "hairColor": "Blonde",
+  "breed": "Suri",
+  "placeOfBirth": "Lake Davidberg, Afghanistan",
+  "description": "Amy is a gray-eyed llama with blonde hair, standing 186 cm tall. Originally from Lake Davidberg, Afghanistan, Amy enjoys cooking, painting, gardening. Known for their playful and playful personality, Amy is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "65b25e24-947b-4512-ab1d-2dc5398250aa",
+    "relationship": "4th cousin once removed"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "37c0153b-7cb8-412b-9bce-c3e931411164",
+  "name": "Teresa",
+  "heightCm": 125,
+  "weightKg": 179,
+  "eyeColor": "Amber",
+  "hairColor": "Black",
+  "breed": "Huacaya",
+  "placeOfBirth": "Lake Keithside, Yemen",
+  "description": "Teresa is a amber-eyed llama with black hair, standing 125 cm tall. Originally from Lake Keithside, Yemen, Teresa enjoys singing, dancing, hiking. Known for their friendly and playful personality, Teresa is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "bd51b517-2bfb-4900-80c0-e801d5a30324",
+    "relationship": "father"
+  }
+}

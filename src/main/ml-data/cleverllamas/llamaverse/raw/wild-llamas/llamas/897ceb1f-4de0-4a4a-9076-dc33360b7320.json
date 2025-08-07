@@ -1,0 +1,15 @@
+{
+  "id": "897ceb1f-4de0-4a4a-9076-dc33360b7320",
+  "name": "Thomas",
+  "heightCm": 144,
+  "weightKg": 139,
+  "eyeColor": "Blue",
+  "hairColor": "Red",
+  "breed": "Hybrid",
+  "placeOfBirth": "Lake Lindsay, Venezuela",
+  "description": "Thomas is a blue-eyed llama with red hair, standing 144 cm tall. Originally from Lake Lindsay, Venezuela, Thomas enjoys cooking, singing, hiking. Known for their mischievous and gentle personality, Thomas is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "000eca10-d166-469f-b17a-3c3b35ee0883",
+    "relationship": "father"
+  }
+}

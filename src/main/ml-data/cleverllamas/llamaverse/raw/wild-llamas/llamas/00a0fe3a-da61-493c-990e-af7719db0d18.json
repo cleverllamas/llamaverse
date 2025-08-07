@@ -1,0 +1,15 @@
+{
+  "id": "00a0fe3a-da61-493c-990e-af7719db0d18",
+  "name": "Caitlin",
+  "heightCm": 184,
+  "weightKg": 137,
+  "eyeColor": "Gray",
+  "hairColor": "Red",
+  "breed": "Suri",
+  "placeOfBirth": "East Holly, Armenia",
+  "description": "Caitlin is a gray-eyed llama with red hair, standing 184 cm tall. Originally from East Holly, Armenia, Caitlin enjoys cooking, hiking, wood carving. Known for their shy and energetic personality, Caitlin is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "a6d8b3c5-d1ad-4110-8da5-176fab7dd24f",
+    "relationship": "second cousin"
+  }
+}

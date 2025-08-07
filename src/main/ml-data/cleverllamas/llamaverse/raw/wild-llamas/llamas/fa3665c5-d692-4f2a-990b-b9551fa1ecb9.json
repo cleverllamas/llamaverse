@@ -1,0 +1,15 @@
+{
+  "id": "fa3665c5-d692-4f2a-990b-b9551fa1ecb9",
+  "name": "Erik",
+  "heightCm": 136,
+  "weightKg": 183,
+  "eyeColor": "Hazel",
+  "hairColor": "White",
+  "breed": "Hybrid",
+  "placeOfBirth": "Riveraton, Aruba",
+  "description": "Erik is a hazel-eyed llama with white hair, standing 136 cm tall. Originally from Riveraton, Aruba, Erik enjoys singing, cooking, knitting. Known for their shy and mischievous personality, Erik is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "351d1673-ba8f-4296-b942-4c5baf8e848d",
+    "relationship": "brother"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "d4c45369-c272-4e7d-b2a8-3ea3d89d6887",
+  "name": "Jaime",
+  "heightCm": 179,
+  "weightKg": 190,
+  "eyeColor": "Blue",
+  "hairColor": "Blonde",
+  "breed": "Hybrid",
+  "placeOfBirth": "Ashleyborough, Tunisia",
+  "description": "Jaime is a blue-eyed llama with blonde hair, standing 179 cm tall. Originally from Ashleyborough, Tunisia, Jaime enjoys gardening, cooking, knitting. Known for their calm and calm personality, Jaime is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "94ff0336-2f91-4e7c-95cc-7f04bab23412",
+    "relationship": "father"
+  }
+}

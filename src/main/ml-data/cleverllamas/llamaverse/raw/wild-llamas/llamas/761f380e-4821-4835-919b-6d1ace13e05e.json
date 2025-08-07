@@ -1,0 +1,15 @@
+{
+  "id": "761f380e-4821-4835-919b-6d1ace13e05e",
+  "name": "Charles",
+  "heightCm": 154,
+  "weightKg": 135,
+  "eyeColor": "Gray",
+  "hairColor": "Black",
+  "breed": "Huacaya",
+  "placeOfBirth": "Port Nicole, Ghana",
+  "description": "Charles is a gray-eyed llama with black hair, standing 154 cm tall. Originally from Port Nicole, Ghana, Charles enjoys hiking, singing, painting. Known for their calm and curious personality, Charles is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "d6517c5d-0b81-4481-9ba1-0c4d991cb3d6",
+    "relationship": "mother"
+  }
+}

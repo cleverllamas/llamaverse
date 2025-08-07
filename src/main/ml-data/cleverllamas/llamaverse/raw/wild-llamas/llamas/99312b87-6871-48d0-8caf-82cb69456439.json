@@ -1,0 +1,15 @@
+{
+  "id": "99312b87-6871-48d0-8caf-82cb69456439",
+  "name": "Abigail",
+  "heightCm": 188,
+  "weightKg": 135,
+  "eyeColor": "Hazel",
+  "hairColor": "Blonde",
+  "breed": "Suri",
+  "placeOfBirth": "Lake Charles, Antarctica (the territory South of 60 deg S)",
+  "description": "Abigail is a hazel-eyed llama with blonde hair, standing 188 cm tall. Originally from Lake Charles, Antarctica (the territory South of 60 deg S), Abigail enjoys singing, gardening, wood carving. Known for their friendly and gentle personality, Abigail is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "ddc705be-281b-4b05-abe5-435d485ebe40",
+    "relationship": "second cousin"
+  }
+}

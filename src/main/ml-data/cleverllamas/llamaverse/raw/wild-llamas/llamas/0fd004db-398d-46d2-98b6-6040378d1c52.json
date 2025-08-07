@@ -1,0 +1,15 @@
+{
+  "id": "0fd004db-398d-46d2-98b6-6040378d1c52",
+  "name": "Dennis",
+  "heightCm": 181,
+  "weightKg": 199,
+  "eyeColor": "Gray",
+  "hairColor": "White",
+  "breed": "Hybrid",
+  "placeOfBirth": "North James, Saint Martin",
+  "description": "Dennis is a gray-eyed llama with white hair, standing 181 cm tall. Originally from North James, Saint Martin, Dennis enjoys dancing, painting, gardening. Known for their gentle and friendly personality, Dennis is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "b270d448-79d3-48d3-9e3a-d3a9d2f295af",
+    "relationship": "second cousin"
+  }
+}

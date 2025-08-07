@@ -1,0 +1,15 @@
+{
+  "id": "51dbf985-ec94-40d1-a594-6d5ef9489a7a",
+  "name": "Patricia",
+  "heightCm": 182,
+  "weightKg": 146,
+  "eyeColor": "Brown",
+  "hairColor": "Red",
+  "breed": "Hybrid",
+  "placeOfBirth": "North Danny, Korea",
+  "description": "Patricia is a brown-eyed llama with red hair, standing 182 cm tall. Originally from North Danny, Korea, Patricia enjoys painting, wood carving, cooking. Known for their curious and mischievous personality, Patricia is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "c64779e3-bed2-4b77-8ba5-241f8e56a4a2",
+    "relationship": "cousin"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "134fb124-33fb-42c8-b8d4-e695147cb0ba",
+  "name": "Natasha",
+  "heightCm": 137,
+  "weightKg": 160,
+  "eyeColor": "Green",
+  "hairColor": "White",
+  "breed": "Hybrid",
+  "placeOfBirth": "Richardland, Uruguay",
+  "description": "Natasha is a green-eyed llama with white hair, standing 137 cm tall. Originally from Richardland, Uruguay, Natasha enjoys cooking, wood carving, hiking. Known for their friendly and playful personality, Natasha is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "db252098-d3cf-43f9-bcdf-cff7914a8126",
+    "relationship": "sister"
+  }
+}

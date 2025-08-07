@@ -1,0 +1,15 @@
+{
+  "id": "61963fbb-b2da-4d41-876b-2274a6ef7919",
+  "name": "Cameron",
+  "heightCm": 130,
+  "weightKg": 198,
+  "eyeColor": "Gray",
+  "hairColor": "Black",
+  "breed": "Suri",
+  "placeOfBirth": "West Danielbury, Haiti",
+  "description": "Cameron is a gray-eyed llama with black hair, standing 130 cm tall. Originally from West Danielbury, Haiti, Cameron enjoys gardening, hiking, knitting. Known for their shy and shy personality, Cameron is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "7d25ed26-7748-42b9-8ac8-95e68a00be9a",
+    "relationship": "grandparent"
+  }
+}

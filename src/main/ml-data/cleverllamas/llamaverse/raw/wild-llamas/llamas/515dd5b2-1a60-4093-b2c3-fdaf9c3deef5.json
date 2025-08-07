@@ -1,0 +1,15 @@
+{
+  "id": "515dd5b2-1a60-4093-b2c3-fdaf9c3deef5",
+  "name": "Jeremy",
+  "heightCm": 198,
+  "weightKg": 174,
+  "eyeColor": "Hazel",
+  "hairColor": "Gray",
+  "breed": "Hybrid",
+  "placeOfBirth": "Perkinsside, Tuvalu",
+  "description": "Jeremy is a hazel-eyed llama with gray hair, standing 198 cm tall. Originally from Perkinsside, Tuvalu, Jeremy enjoys reading, dancing, cooking. Known for their friendly and friendly personality, Jeremy is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "ecfd67a8-fbc8-427b-a321-7adffc8e272e",
+    "relationship": "15th cousin 9th removed"
+  }
+}

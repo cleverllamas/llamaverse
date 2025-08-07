@@ -1,0 +1,15 @@
+{
+  "id": "935d2b67-f671-40f4-8b8a-a4b3072f5e6d",
+  "name": "Gerald",
+  "heightCm": 110,
+  "weightKg": 163,
+  "eyeColor": "Green",
+  "hairColor": "Black",
+  "breed": "Suri",
+  "placeOfBirth": "South Jacobview, Guyana",
+  "description": "Gerald is a green-eyed llama with black hair, standing 110 cm tall. Originally from South Jacobview, Guyana, Gerald enjoys gardening, singing, dancing. Known for their gentle and energetic personality, Gerald is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "7acbaea3-a14f-4d5e-8435-85e15eea53cb",
+    "relationship": "second cousin"
+  }
+}

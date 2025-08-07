@@ -1,0 +1,15 @@
+{
+  "id": "c5edfb18-d481-42eb-8b30-7d00eb9780f4",
+  "name": "Tammy",
+  "heightCm": 168,
+  "weightKg": 199,
+  "eyeColor": "Blue",
+  "hairColor": "Blonde",
+  "breed": "Suri",
+  "placeOfBirth": "Williamstown, Solomon Islands",
+  "description": "Tammy is a blue-eyed llama with blonde hair, standing 168 cm tall. Originally from Williamstown, Solomon Islands, Tammy enjoys singing, gardening, hiking. Known for their energetic and friendly personality, Tammy is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "37c40239-35e4-4aa2-8a63-45337527dedd",
+    "relationship": "cousin"
+  }
+}

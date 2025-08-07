@@ -1,0 +1,15 @@
+{
+  "id": "c0bfa0d3-b45d-4b12-97b0-004f7d8167c9",
+  "name": "Whitney",
+  "heightCm": 192,
+  "weightKg": 182,
+  "eyeColor": "Brown",
+  "hairColor": "Blonde",
+  "breed": "Huacaya",
+  "placeOfBirth": "Sandyborough, Tonga",
+  "description": "Whitney is a brown-eyed llama with blonde hair, standing 192 cm tall. Originally from Sandyborough, Tonga, Whitney enjoys reading, hiking, knitting. Known for their playful and energetic personality, Whitney is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "3b397f93-24e1-4d81-9f38-81778c289069",
+    "relationship": "second cousin"
+  }
+}

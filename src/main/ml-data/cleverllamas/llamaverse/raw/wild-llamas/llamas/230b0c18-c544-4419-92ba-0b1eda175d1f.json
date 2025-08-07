@@ -1,0 +1,15 @@
+{
+  "id": "230b0c18-c544-4419-92ba-0b1eda175d1f",
+  "name": "Candice",
+  "heightCm": 176,
+  "weightKg": 148,
+  "eyeColor": "Amber",
+  "hairColor": "Gray",
+  "breed": "Suri",
+  "placeOfBirth": "North Jamesborough, Mayotte",
+  "description": "Candice is a amber-eyed llama with gray hair, standing 176 cm tall. Originally from North Jamesborough, Mayotte, Candice enjoys gardening, hiking, singing. Known for their playful and mischievous personality, Candice is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "527bf5a8-384f-48b5-88a4-4e03f8b2d544",
+    "relationship": "sister"
+  }
+}

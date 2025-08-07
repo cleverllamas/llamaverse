@@ -1,0 +1,15 @@
+{
+  "id": "61f06273-a88a-4781-89d9-bf66c624a490",
+  "name": "Paul",
+  "heightCm": 170,
+  "weightKg": 138,
+  "eyeColor": "Hazel",
+  "hairColor": "Silver",
+  "breed": "Hybrid",
+  "placeOfBirth": "North Jillian, Tajikistan",
+  "description": "Paul is a hazel-eyed llama with silver hair, standing 170 cm tall. Originally from North Jillian, Tajikistan, Paul enjoys knitting, reading, hiking. Known for their friendly and playful personality, Paul is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "67ab2552-c964-4ad0-bf2e-d8edc4f0562c",
+    "relationship": "grandparent"
+  }
+}

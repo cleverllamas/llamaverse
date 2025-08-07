@@ -1,0 +1,15 @@
+{
+  "id": "a21da86c-0169-45da-a860-71c428f95ae8",
+  "name": "Heather",
+  "heightCm": 151,
+  "weightKg": 152,
+  "eyeColor": "Amber",
+  "hairColor": "Gray",
+  "breed": "Hybrid",
+  "placeOfBirth": "Danieltown, Palau",
+  "description": "Heather is a amber-eyed llama with gray hair, standing 151 cm tall. Originally from Danieltown, Palau, Heather enjoys gardening, wood carving, dancing. Known for their gentle and gentle personality, Heather is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "717e71ad-8596-4c07-90cd-03c868977ae1",
+    "relationship": "second cousin"
+  }
+}

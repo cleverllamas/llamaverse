@@ -1,0 +1,15 @@
+{
+  "id": "40664fe7-7af9-4dc4-9896-37c1fa121931",
+  "name": "Mary",
+  "heightCm": 158,
+  "weightKg": 140,
+  "eyeColor": "Blue",
+  "hairColor": "Gray",
+  "breed": "Hybrid",
+  "placeOfBirth": "Jennaport, Colombia",
+  "description": "Mary is a blue-eyed llama with gray hair, standing 158 cm tall. Originally from Jennaport, Colombia, Mary enjoys dancing, singing, gardening. Known for their gentle and playful personality, Mary is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "f4e81a55-65d3-49cc-8228-493f2325dcb5",
+    "relationship": "father"
+  }
+}

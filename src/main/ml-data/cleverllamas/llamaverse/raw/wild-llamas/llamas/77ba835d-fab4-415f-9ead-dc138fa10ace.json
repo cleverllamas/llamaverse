@@ -1,0 +1,15 @@
+{
+  "id": "77ba835d-fab4-415f-9ead-dc138fa10ace",
+  "name": "Thomas",
+  "heightCm": 105,
+  "weightKg": 192,
+  "eyeColor": "Green",
+  "hairColor": "Black",
+  "breed": "Suri",
+  "placeOfBirth": "Morganport, Sierra Leone",
+  "description": "Thomas is a green-eyed llama with black hair, standing 105 cm tall. Originally from Morganport, Sierra Leone, Thomas enjoys gardening, dancing, singing. Known for their energetic and shy personality, Thomas is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "69dcead6-0fa6-4136-99bc-ab3ff5ce8db7",
+    "relationship": "third cousin twice removed"
+  }
+}

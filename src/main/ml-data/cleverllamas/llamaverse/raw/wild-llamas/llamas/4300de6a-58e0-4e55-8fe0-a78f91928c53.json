@@ -1,0 +1,15 @@
+{
+  "id": "4300de6a-58e0-4e55-8fe0-a78f91928c53",
+  "name": "Steven",
+  "heightCm": 115,
+  "weightKg": 143,
+  "eyeColor": "Amber",
+  "hairColor": "Silver",
+  "breed": "Hybrid",
+  "placeOfBirth": "Vasquezberg, Israel",
+  "description": "Steven is a amber-eyed llama with silver hair, standing 115 cm tall. Originally from Vasquezberg, Israel, Steven enjoys dancing, reading, wood carving. Known for their gentle and energetic personality, Steven is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "9b91f707-2a76-4090-938a-d44fb620d86f",
+    "relationship": "mother"
+  }
+}

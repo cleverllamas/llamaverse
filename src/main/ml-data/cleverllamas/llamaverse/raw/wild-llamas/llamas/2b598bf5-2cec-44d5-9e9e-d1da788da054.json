@@ -1,0 +1,15 @@
+{
+  "id": "2b598bf5-2cec-44d5-9e9e-d1da788da054",
+  "name": "Brenda",
+  "heightCm": 188,
+  "weightKg": 153,
+  "eyeColor": "Amber",
+  "hairColor": "Red",
+  "breed": "Hybrid",
+  "placeOfBirth": "Perezport, Greece",
+  "description": "Brenda is a amber-eyed llama with red hair, standing 188 cm tall. Originally from Perezport, Greece, Brenda enjoys knitting, dancing, singing. Known for their playful and calm personality, Brenda is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "847859e9-a100-47b3-89da-36231418cd1c",
+    "relationship": "third cousin twice removed"
+  }
+}

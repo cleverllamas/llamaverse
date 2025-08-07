@@ -1,0 +1,15 @@
+{
+  "id": "62de6491-f3a4-4f67-ab85-599ad635f507",
+  "name": "Connie",
+  "heightCm": 198,
+  "weightKg": 181,
+  "eyeColor": "Hazel",
+  "hairColor": "Blonde",
+  "breed": "Huacaya",
+  "placeOfBirth": "North Julian, Bolivia",
+  "description": "Connie is a hazel-eyed llama with blonde hair, standing 198 cm tall. Originally from North Julian, Bolivia, Connie enjoys reading, hiking, gardening. Known for their mischievous and shy personality, Connie is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "7547ec8d-e427-4280-ac90-459d287ab482",
+    "relationship": "brother"
+  }
+}

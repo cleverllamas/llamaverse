@@ -1,0 +1,15 @@
+{
+  "id": "7547ec8d-e427-4280-ac90-459d287ab482",
+  "name": "Brooke",
+  "heightCm": 172,
+  "weightKg": 192,
+  "eyeColor": "Blue",
+  "hairColor": "White",
+  "breed": "Hybrid",
+  "placeOfBirth": "New Timothyfort, Lao People's Democratic Republic",
+  "description": "Brooke is a blue-eyed llama with white hair, standing 172 cm tall. Originally from New Timothyfort, Lao People's Democratic Republic, Brooke enjoys cooking, singing, reading. Known for their shy and gentle personality, Brooke is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "4bda43c0-8bcf-4a60-9ffb-62520488461e",
+    "relationship": "third cousin twice removed"
+  }
+}

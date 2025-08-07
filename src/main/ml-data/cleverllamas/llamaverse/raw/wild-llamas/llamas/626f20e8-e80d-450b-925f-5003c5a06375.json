@@ -1,0 +1,15 @@
+{
+  "id": "626f20e8-e80d-450b-925f-5003c5a06375",
+  "name": "Amy",
+  "heightCm": 164,
+  "weightKg": 161,
+  "eyeColor": "Blue",
+  "hairColor": "Brown",
+  "breed": "Suri",
+  "placeOfBirth": "Whitestad, Iraq",
+  "description": "Amy is a blue-eyed llama with brown hair, standing 164 cm tall. Originally from Whitestad, Iraq, Amy enjoys dancing, painting, hiking. Known for their curious and calm personality, Amy is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "3c68b964-6b1b-4a1f-97cb-0cfa09077844",
+    "relationship": "great uncle"
+  }
+}

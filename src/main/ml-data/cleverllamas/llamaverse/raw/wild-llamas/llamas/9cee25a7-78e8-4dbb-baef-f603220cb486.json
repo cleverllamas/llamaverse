@@ -1,0 +1,15 @@
+{
+  "id": "9cee25a7-78e8-4dbb-baef-f603220cb486",
+  "name": "Richard",
+  "heightCm": 122,
+  "weightKg": 160,
+  "eyeColor": "Brown",
+  "hairColor": "Silver",
+  "breed": "Hybrid",
+  "placeOfBirth": "Nicoleland, Greece",
+  "description": "Richard is a brown-eyed llama with silver hair, standing 122 cm tall. Originally from Nicoleland, Greece, Richard enjoys dancing, gardening, wood carving. Known for their gentle and shy personality, Richard is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "65b65a1d-f2f6-4664-a859-c64f0ad377ac",
+    "relationship": "aunt"
+  }
+}

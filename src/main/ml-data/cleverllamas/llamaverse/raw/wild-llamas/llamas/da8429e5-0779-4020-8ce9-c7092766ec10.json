@@ -1,0 +1,15 @@
+{
+  "id": "da8429e5-0779-4020-8ce9-c7092766ec10",
+  "name": "Wanda",
+  "heightCm": 131,
+  "weightKg": 155,
+  "eyeColor": "Gray",
+  "hairColor": "Red",
+  "breed": "Suri",
+  "placeOfBirth": "Michaelchester, Colombia",
+  "description": "Wanda is a gray-eyed llama with red hair, standing 131 cm tall. Originally from Michaelchester, Colombia, Wanda enjoys dancing, knitting, hiking. Known for their gentle and curious personality, Wanda is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "793ed81a-af17-48f3-b76e-d684a2c3d074",
+    "relationship": "4th cousin once removed"
+  }
+}

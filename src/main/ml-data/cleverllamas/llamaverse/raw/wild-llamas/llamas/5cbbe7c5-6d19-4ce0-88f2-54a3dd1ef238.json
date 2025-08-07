@@ -1,0 +1,15 @@
+{
+  "id": "5cbbe7c5-6d19-4ce0-88f2-54a3dd1ef238",
+  "name": "Eric",
+  "heightCm": 147,
+  "weightKg": 131,
+  "eyeColor": "Brown",
+  "hairColor": "White",
+  "breed": "Huacaya",
+  "placeOfBirth": "Porterview, Angola",
+  "description": "Eric is a brown-eyed llama with white hair, standing 147 cm tall. Originally from Porterview, Angola, Eric enjoys reading, dancing, gardening. Known for their energetic and curious personality, Eric is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "af179f6a-8949-470a-8241-62cc4c9d68fb",
+    "relationship": "15th cousin 9th removed"
+  }
+}

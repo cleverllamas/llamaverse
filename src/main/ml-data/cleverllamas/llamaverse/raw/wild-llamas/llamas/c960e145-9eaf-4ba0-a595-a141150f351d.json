@@ -1,0 +1,15 @@
+{
+  "id": "c960e145-9eaf-4ba0-a595-a141150f351d",
+  "name": "Miguel",
+  "heightCm": 146,
+  "weightKg": 170,
+  "eyeColor": "Amber",
+  "hairColor": "Gray",
+  "breed": "Huacaya",
+  "placeOfBirth": "New Lucas, Poland",
+  "description": "Miguel is a amber-eyed llama with gray hair, standing 146 cm tall. Originally from New Lucas, Poland, Miguel enjoys hiking, wood carving, dancing. Known for their gentle and calm personality, Miguel is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "7f4547a0-57a6-4ae5-a7ad-23dc0066c000",
+    "relationship": "cousin"
+  }
+}

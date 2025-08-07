@@ -1,0 +1,15 @@
+{
+  "id": "b55210c8-3abe-499b-956d-43c2526c2e8e",
+  "name": "Edward",
+  "heightCm": 100,
+  "weightKg": 172,
+  "eyeColor": "Amber",
+  "hairColor": "Gray",
+  "breed": "Suri",
+  "placeOfBirth": "East Johnberg, Bulgaria",
+  "description": "Edward is a amber-eyed llama with gray hair, standing 100 cm tall. Originally from East Johnberg, Bulgaria, Edward enjoys cooking, painting, wood carving. Known for their mischievous and calm personality, Edward is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "5770f52e-5662-404a-a53c-debf3d3ed0f3",
+    "relationship": "uncle"
+  }
+}

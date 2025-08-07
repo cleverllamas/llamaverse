@@ -1,0 +1,15 @@
+{
+  "id": "36181472-681d-4daa-94c5-f667bf3ea5f1",
+  "name": "Gregory",
+  "heightCm": 161,
+  "weightKg": 157,
+  "eyeColor": "Gray",
+  "hairColor": "Blonde",
+  "breed": "Hybrid",
+  "placeOfBirth": "Ashleymouth, Mali",
+  "description": "Gregory is a gray-eyed llama with blonde hair, standing 161 cm tall. Originally from Ashleymouth, Mali, Gregory enjoys dancing, knitting, cooking. Known for their friendly and gentle personality, Gregory is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "709dadaf-a4ce-4d78-96da-85edea186e82",
+    "relationship": "15th cousin 9th removed"
+  }
+}

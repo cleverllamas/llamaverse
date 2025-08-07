@@ -1,0 +1,15 @@
+{
+  "id": "16c50733-5bf2-45ab-a7ee-ce7e2b8872c6",
+  "name": "Todd",
+  "heightCm": 178,
+  "weightKg": 200,
+  "eyeColor": "Green",
+  "hairColor": "Blonde",
+  "breed": "Suri",
+  "placeOfBirth": "North Benjamin, United States Minor Outlying Islands",
+  "description": "Todd is a green-eyed llama with blonde hair, standing 178 cm tall. Originally from North Benjamin, United States Minor Outlying Islands, Todd enjoys dancing, painting, gardening. Known for their playful and shy personality, Todd is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "b93fd5d5-1d53-4d4f-8887-38769237c164",
+    "relationship": "great uncle"
+  }
+}

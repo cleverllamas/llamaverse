@@ -1,0 +1,15 @@
+{
+  "id": "69170f9b-7dd0-4500-b0ee-db5da15f78e1",
+  "name": "Lauren",
+  "heightCm": 110,
+  "weightKg": 200,
+  "eyeColor": "Green",
+  "hairColor": "Blonde",
+  "breed": "Huacaya",
+  "placeOfBirth": "North Elizabethshire, Samoa",
+  "description": "Lauren is a green-eyed llama with blonde hair, standing 110 cm tall. Originally from North Elizabethshire, Samoa, Lauren enjoys reading, dancing, knitting. Known for their energetic and mischievous personality, Lauren is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "7eb3d994-0f8f-4369-89f6-fd2003a8eb25",
+    "relationship": "uncle"
+  }
+}

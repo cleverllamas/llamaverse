@@ -1,0 +1,15 @@
+{
+  "id": "2d331562-c90a-48a4-afca-c1a64446da44",
+  "name": "Paula",
+  "heightCm": 173,
+  "weightKg": 142,
+  "eyeColor": "Brown",
+  "hairColor": "Black",
+  "breed": "Huacaya",
+  "placeOfBirth": "Amyton, French Guiana",
+  "description": "Paula is a brown-eyed llama with black hair, standing 173 cm tall. Originally from Amyton, French Guiana, Paula enjoys singing, dancing, knitting. Known for their calm and playful personality, Paula is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "f1607194-24f4-472a-8232-731278592764",
+    "relationship": "aunt"
+  }
+}

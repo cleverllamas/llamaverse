@@ -1,0 +1,15 @@
+{
+  "id": "3bb63c23-d911-4807-9e87-3a168824464b",
+  "name": "Abigail",
+  "heightCm": 121,
+  "weightKg": 176,
+  "eyeColor": "Brown",
+  "hairColor": "Silver",
+  "breed": "Hybrid",
+  "placeOfBirth": "East Phillipburgh, Mali",
+  "description": "Abigail is a brown-eyed llama with silver hair, standing 121 cm tall. Originally from East Phillipburgh, Mali, Abigail enjoys hiking, reading, cooking. Known for their curious and playful personality, Abigail is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "219fe4a4-5cab-4fee-b38b-c51fe0a93cb3",
+    "relationship": "father"
+  }
+}

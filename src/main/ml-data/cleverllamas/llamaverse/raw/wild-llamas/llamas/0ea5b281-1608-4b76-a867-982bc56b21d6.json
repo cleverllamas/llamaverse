@@ -1,0 +1,15 @@
+{
+  "id": "0ea5b281-1608-4b76-a867-982bc56b21d6",
+  "name": "Gregory",
+  "heightCm": 144,
+  "weightKg": 186,
+  "eyeColor": "Brown",
+  "hairColor": "Blonde",
+  "breed": "Huacaya",
+  "placeOfBirth": "Huangtown, Turkmenistan",
+  "description": "Gregory is a brown-eyed llama with blonde hair, standing 144 cm tall. Originally from Huangtown, Turkmenistan, Gregory enjoys dancing, wood carving, hiking. Known for their calm and energetic personality, Gregory is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "f3b6cd05-c2c1-43c7-b875-72d742e4bdfe",
+    "relationship": "mother"
+  }
+}

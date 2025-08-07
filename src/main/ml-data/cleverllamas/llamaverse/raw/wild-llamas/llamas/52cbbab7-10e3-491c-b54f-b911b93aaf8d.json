@@ -1,0 +1,15 @@
+{
+  "id": "52cbbab7-10e3-491c-b54f-b911b93aaf8d",
+  "name": "Danny",
+  "heightCm": 101,
+  "weightKg": 146,
+  "eyeColor": "Gray",
+  "hairColor": "Gray",
+  "breed": "Suri",
+  "placeOfBirth": "Lammouth, Spain",
+  "description": "Danny is a gray-eyed llama with gray hair, standing 101 cm tall. Originally from Lammouth, Spain, Danny enjoys wood carving, knitting, painting. Known for their playful and mischievous personality, Danny is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "0a9831d0-d044-4fb7-a3ab-66c0f86ed38a",
+    "relationship": "brother"
+  }
+}

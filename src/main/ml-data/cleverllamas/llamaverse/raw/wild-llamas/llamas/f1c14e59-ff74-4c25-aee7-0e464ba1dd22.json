@@ -1,0 +1,15 @@
+{
+  "id": "f1c14e59-ff74-4c25-aee7-0e464ba1dd22",
+  "name": "Allen",
+  "heightCm": 187,
+  "weightKg": 131,
+  "eyeColor": "Blue",
+  "hairColor": "Silver",
+  "breed": "Suri",
+  "placeOfBirth": "North Ronald, Korea",
+  "description": "Allen is a blue-eyed llama with silver hair, standing 187 cm tall. Originally from North Ronald, Korea, Allen enjoys reading, hiking, knitting. Known for their shy and friendly personality, Allen is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "2e7647fd-1788-4a96-b3ad-b11b4ae0f8e6",
+    "relationship": "4th cousin once removed"
+  }
+}

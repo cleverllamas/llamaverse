@@ -1,0 +1,15 @@
+{
+  "id": "f3e9336f-6112-408d-8eb5-331e05b2d389",
+  "name": "Larry",
+  "heightCm": 134,
+  "weightKg": 186,
+  "eyeColor": "Brown",
+  "hairColor": "Black",
+  "breed": "Huacaya",
+  "placeOfBirth": "Ginamouth, Azerbaijan",
+  "description": "Larry is a brown-eyed llama with black hair, standing 134 cm tall. Originally from Ginamouth, Azerbaijan, Larry enjoys singing, gardening, knitting. Known for their mischievous and playful personality, Larry is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "d9fa4dec-6bdc-4723-bd86-df3cd73fe494",
+    "relationship": "brother"
+  }
+}

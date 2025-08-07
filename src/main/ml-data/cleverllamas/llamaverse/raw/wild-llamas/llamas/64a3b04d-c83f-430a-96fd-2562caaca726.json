@@ -1,0 +1,15 @@
+{
+  "id": "64a3b04d-c83f-430a-96fd-2562caaca726",
+  "name": "Miranda",
+  "heightCm": 197,
+  "weightKg": 167,
+  "eyeColor": "Hazel",
+  "hairColor": "Red",
+  "breed": "Suri",
+  "placeOfBirth": "Oliviahaven, Guatemala",
+  "description": "Miranda is a hazel-eyed llama with red hair, standing 197 cm tall. Originally from Oliviahaven, Guatemala, Miranda enjoys hiking, knitting, cooking. Known for their shy and calm personality, Miranda is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "e8bba571-2535-4ac9-8b68-7ee95774ae7d",
+    "relationship": "15th cousin 9th removed"
+  }
+}

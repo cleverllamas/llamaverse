@@ -1,0 +1,15 @@
+{
+  "id": "351d1673-ba8f-4296-b942-4c5baf8e848d",
+  "name": "Johnathan",
+  "heightCm": 142,
+  "weightKg": 167,
+  "eyeColor": "Gray",
+  "hairColor": "Red",
+  "breed": "Suri",
+  "placeOfBirth": "Brownville, Dominica",
+  "description": "Johnathan is a gray-eyed llama with red hair, standing 142 cm tall. Originally from Brownville, Dominica, Johnathan enjoys hiking, cooking, knitting. Known for their calm and friendly personality, Johnathan is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "ba7a36b7-ea94-45af-aa25-117ad9671e5d",
+    "relationship": "aunt"
+  }
+}

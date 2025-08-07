@@ -1,0 +1,15 @@
+{
+  "id": "95c09bb7-7299-42cf-981b-e90821f26c5b",
+  "name": "Kimberly",
+  "heightCm": 154,
+  "weightKg": 198,
+  "eyeColor": "Green",
+  "hairColor": "Gray",
+  "breed": "Huacaya",
+  "placeOfBirth": "Kristenfort, Romania",
+  "description": "Kimberly is a green-eyed llama with gray hair, standing 154 cm tall. Originally from Kristenfort, Romania, Kimberly enjoys cooking, gardening, wood carving. Known for their curious and calm personality, Kimberly is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "eb5d05e6-1c6b-4103-a8f5-3a4f40e463ce",
+    "relationship": "cousin"
+  }
+}

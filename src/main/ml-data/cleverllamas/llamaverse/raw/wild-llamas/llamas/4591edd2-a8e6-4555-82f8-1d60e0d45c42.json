@@ -1,0 +1,15 @@
+{
+  "id": "4591edd2-a8e6-4555-82f8-1d60e0d45c42",
+  "name": "Chelsea",
+  "heightCm": 181,
+  "weightKg": 183,
+  "eyeColor": "Brown",
+  "hairColor": "Blonde",
+  "breed": "Suri",
+  "placeOfBirth": "Cordovaton, Fiji",
+  "description": "Chelsea is a brown-eyed llama with blonde hair, standing 181 cm tall. Originally from Cordovaton, Fiji, Chelsea enjoys singing, wood carving, knitting. Known for their gentle and friendly personality, Chelsea is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "94939893-4de1-4b3d-ab60-2f7b35a24868",
+    "relationship": "brother"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "41105276-011a-41f7-839e-c91189a9f356",
+  "name": "Jacqueline",
+  "heightCm": 194,
+  "weightKg": 163,
+  "eyeColor": "Hazel",
+  "hairColor": "Brown",
+  "breed": "Huacaya",
+  "placeOfBirth": "Port Stephanieview, Philippines",
+  "description": "Jacqueline is a hazel-eyed llama with brown hair, standing 194 cm tall. Originally from Port Stephanieview, Philippines, Jacqueline enjoys reading, knitting, singing. Known for their calm and shy personality, Jacqueline is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "ea186d95-be5d-4f35-a672-21c2f4ce2796",
+    "relationship": "father"
+  }
+}

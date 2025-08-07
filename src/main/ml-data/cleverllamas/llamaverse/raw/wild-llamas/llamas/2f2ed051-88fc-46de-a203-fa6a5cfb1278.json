@@ -1,0 +1,15 @@
+{
+  "id": "2f2ed051-88fc-46de-a203-fa6a5cfb1278",
+  "name": "David",
+  "heightCm": 137,
+  "weightKg": 143,
+  "eyeColor": "Gray",
+  "hairColor": "Gray",
+  "breed": "Suri",
+  "placeOfBirth": "Lammouth, Martinique",
+  "description": "David is a gray-eyed llama with gray hair, standing 137 cm tall. Originally from Lammouth, Martinique, David enjoys reading, singing, hiking. Known for their curious and shy personality, David is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "9405fffb-6939-4ccc-a624-d57d0156c1df",
+    "relationship": "brother"
+  }
+}

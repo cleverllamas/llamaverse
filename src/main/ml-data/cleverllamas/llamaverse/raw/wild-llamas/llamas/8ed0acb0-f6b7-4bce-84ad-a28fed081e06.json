@@ -1,0 +1,15 @@
+{
+  "id": "8ed0acb0-f6b7-4bce-84ad-a28fed081e06",
+  "name": "Kyle",
+  "heightCm": 147,
+  "weightKg": 159,
+  "eyeColor": "Brown",
+  "hairColor": "Brown",
+  "breed": "Hybrid",
+  "placeOfBirth": "South Patrick, Montserrat",
+  "description": "Kyle is a brown-eyed llama with brown hair, standing 147 cm tall. Originally from South Patrick, Montserrat, Kyle enjoys singing, knitting, reading. Known for their mischievous and gentle personality, Kyle is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "aa5f521d-9e0c-4270-9e41-e630056c3dcb",
+    "relationship": "second cousin"
+  }
+}

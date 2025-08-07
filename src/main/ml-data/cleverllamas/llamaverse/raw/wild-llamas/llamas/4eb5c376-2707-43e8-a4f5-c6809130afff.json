@@ -1,0 +1,15 @@
+{
+  "id": "4eb5c376-2707-43e8-a4f5-c6809130afff",
+  "name": "Kirsten",
+  "heightCm": 193,
+  "weightKg": 178,
+  "eyeColor": "Gray",
+  "hairColor": "Black",
+  "breed": "Hybrid",
+  "placeOfBirth": "South Katherine, Marshall Islands",
+  "description": "Kirsten is a gray-eyed llama with black hair, standing 193 cm tall. Originally from South Katherine, Marshall Islands, Kirsten enjoys dancing, painting, singing. Known for their calm and playful personality, Kirsten is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "e46634f1-77ae-47ef-86b8-80a37477e41c",
+    "relationship": "second cousin"
+  }
+}

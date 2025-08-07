@@ -1,0 +1,15 @@
+{
+  "id": "cc152400-24e6-4398-89a4-fe2327907ec3",
+  "name": "Edward",
+  "heightCm": 110,
+  "weightKg": 130,
+  "eyeColor": "Amber",
+  "hairColor": "White",
+  "breed": "Suri",
+  "placeOfBirth": "Michaelside, United Arab Emirates",
+  "description": "Edward is a amber-eyed llama with white hair, standing 110 cm tall. Originally from Michaelside, United Arab Emirates, Edward enjoys hiking, dancing, painting. Known for their mischievous and gentle personality, Edward is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "748de8ec-c7f3-43b7-81de-da679250b765",
+    "relationship": "grandparent"
+  }
+}

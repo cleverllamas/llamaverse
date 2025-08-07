@@ -1,0 +1,15 @@
+{
+  "id": "69c9b8a9-29a6-4540-bf1b-a7bbd687a794",
+  "name": "Zoe",
+  "heightCm": 154,
+  "weightKg": 158,
+  "eyeColor": "Green",
+  "hairColor": "White",
+  "breed": "Huacaya",
+  "placeOfBirth": "West Lauren, Monaco",
+  "description": "Zoe is a green-eyed llama with white hair, standing 154 cm tall. Originally from West Lauren, Monaco, Zoe enjoys singing, knitting, dancing. Known for their mischievous and calm personality, Zoe is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "36b9a9f1-1cba-4748-8b19-79b0ac4f41bb",
+    "relationship": "brother"
+  }
+}

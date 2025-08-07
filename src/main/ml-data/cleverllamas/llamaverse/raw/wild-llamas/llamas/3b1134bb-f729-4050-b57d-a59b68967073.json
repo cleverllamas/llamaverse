@@ -1,0 +1,15 @@
+{
+  "id": "3b1134bb-f729-4050-b57d-a59b68967073",
+  "name": "Eric",
+  "heightCm": 110,
+  "weightKg": 132,
+  "eyeColor": "Brown",
+  "hairColor": "Brown",
+  "breed": "Suri",
+  "placeOfBirth": "Jimenezside, Haiti",
+  "description": "Eric is a brown-eyed llama with brown hair, standing 110 cm tall. Originally from Jimenezside, Haiti, Eric enjoys hiking, wood carving, gardening. Known for their mischievous and gentle personality, Eric is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "2af46bb1-c274-424e-be2e-8bbd30ce3c9d",
+    "relationship": "15th cousin 9th removed"
+  }
+}

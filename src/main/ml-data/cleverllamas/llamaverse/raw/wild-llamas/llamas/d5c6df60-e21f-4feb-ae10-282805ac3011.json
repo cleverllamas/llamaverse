@@ -1,0 +1,15 @@
+{
+  "id": "d5c6df60-e21f-4feb-ae10-282805ac3011",
+  "name": "Jamie",
+  "heightCm": 137,
+  "weightKg": 195,
+  "eyeColor": "Gray",
+  "hairColor": "Red",
+  "breed": "Hybrid",
+  "placeOfBirth": "Port Ashleebury, Niue",
+  "description": "Jamie is a gray-eyed llama with red hair, standing 137 cm tall. Originally from Port Ashleebury, Niue, Jamie enjoys dancing, gardening, reading. Known for their gentle and mischievous personality, Jamie is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "ee983fae-127d-41d5-bcf4-3997917f0b65",
+    "relationship": "uncle"
+  }
+}

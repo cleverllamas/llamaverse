@@ -1,0 +1,15 @@
+{
+  "id": "e034ae78-5343-42c1-b4ef-6f351780e244",
+  "name": "Pamela",
+  "heightCm": 146,
+  "weightKg": 157,
+  "eyeColor": "Blue",
+  "hairColor": "Silver",
+  "breed": "Suri",
+  "placeOfBirth": "East William, Georgia",
+  "description": "Pamela is a blue-eyed llama with silver hair, standing 146 cm tall. Originally from East William, Georgia, Pamela enjoys cooking, reading, gardening. Known for their energetic and shy personality, Pamela is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "7b4e2076-3a46-421f-836b-be76bb81f2bd",
+    "relationship": "grandparent"
+  }
+}

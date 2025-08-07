@@ -1,0 +1,15 @@
+{
+  "id": "981ea9e7-945b-472e-9779-5a10e6592d08",
+  "name": "Stephanie",
+  "heightCm": 179,
+  "weightKg": 153,
+  "eyeColor": "Green",
+  "hairColor": "Brown",
+  "breed": "Hybrid",
+  "placeOfBirth": "Brandonview, Cook Islands",
+  "description": "Stephanie is a green-eyed llama with brown hair, standing 179 cm tall. Originally from Brandonview, Cook Islands, Stephanie enjoys singing, dancing, hiking. Known for their mischievous and gentle personality, Stephanie is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "b190af8a-9c4b-4dd2-b902-15b492067a67",
+    "relationship": "second cousin"
+  }
+}

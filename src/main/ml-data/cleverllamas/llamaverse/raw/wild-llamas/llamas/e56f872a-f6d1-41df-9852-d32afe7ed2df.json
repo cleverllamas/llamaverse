@@ -1,0 +1,15 @@
+{
+  "id": "e56f872a-f6d1-41df-9852-d32afe7ed2df",
+  "name": "Danielle",
+  "heightCm": 168,
+  "weightKg": 187,
+  "eyeColor": "Green",
+  "hairColor": "Silver",
+  "breed": "Suri",
+  "placeOfBirth": "Ryantown, Gambia",
+  "description": "Danielle is a green-eyed llama with silver hair, standing 168 cm tall. Originally from Ryantown, Gambia, Danielle enjoys dancing, painting, singing. Known for their shy and friendly personality, Danielle is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "f1aa1c4a-51d1-4783-bcd8-55ec5b921c4c",
+    "relationship": "mother"
+  }
+}

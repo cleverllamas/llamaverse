@@ -1,0 +1,15 @@
+{
+  "id": "64e6f517-fb14-499b-a16a-3eabd77c365e",
+  "name": "Brian",
+  "heightCm": 137,
+  "weightKg": 192,
+  "eyeColor": "Hazel",
+  "hairColor": "Blonde",
+  "breed": "Suri",
+  "placeOfBirth": "Henryhaven, Mozambique",
+  "description": "Brian is a hazel-eyed llama with blonde hair, standing 137 cm tall. Originally from Henryhaven, Mozambique, Brian enjoys wood carving, gardening, cooking. Known for their energetic and energetic personality, Brian is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "21671675-aaef-4f81-8ee9-41f17a6053f8",
+    "relationship": "brother"
+  }
+}

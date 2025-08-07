@@ -1,0 +1,15 @@
+{
+  "id": "b511be15-8b3e-4c72-821c-6e41977eeadc",
+  "name": "Monica",
+  "heightCm": 112,
+  "weightKg": 144,
+  "eyeColor": "Green",
+  "hairColor": "Silver",
+  "breed": "Hybrid",
+  "placeOfBirth": "Lake Ashley, Cayman Islands",
+  "description": "Monica is a green-eyed llama with silver hair, standing 112 cm tall. Originally from Lake Ashley, Cayman Islands, Monica enjoys knitting, cooking, dancing. Known for their friendly and playful personality, Monica is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "f7555c1a-3647-4d71-acf2-5f4b61f34328",
+    "relationship": "third cousin twice removed"
+  }
+}

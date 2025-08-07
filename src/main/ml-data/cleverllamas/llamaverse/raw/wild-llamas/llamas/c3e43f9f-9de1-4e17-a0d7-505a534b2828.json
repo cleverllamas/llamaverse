@@ -1,0 +1,15 @@
+{
+  "id": "c3e43f9f-9de1-4e17-a0d7-505a534b2828",
+  "name": "Kyle",
+  "heightCm": 141,
+  "weightKg": 131,
+  "eyeColor": "Hazel",
+  "hairColor": "Red",
+  "breed": "Suri",
+  "placeOfBirth": "North Gregoryhaven, Taiwan",
+  "description": "Kyle is a hazel-eyed llama with red hair, standing 141 cm tall. Originally from North Gregoryhaven, Taiwan, Kyle enjoys cooking, painting, singing. Known for their gentle and gentle personality, Kyle is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "f7fa9368-60c4-4f28-81d9-ee8bf9cf0f50",
+    "relationship": "great uncle"
+  }
+}

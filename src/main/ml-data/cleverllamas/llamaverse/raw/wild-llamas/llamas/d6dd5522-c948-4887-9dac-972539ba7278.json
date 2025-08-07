@@ -1,0 +1,15 @@
+{
+  "id": "d6dd5522-c948-4887-9dac-972539ba7278",
+  "name": "Jason",
+  "heightCm": 176,
+  "weightKg": 150,
+  "eyeColor": "Blue",
+  "hairColor": "White",
+  "breed": "Hybrid",
+  "placeOfBirth": "Stephanieburgh, Northern Mariana Islands",
+  "description": "Jason is a blue-eyed llama with white hair, standing 176 cm tall. Originally from Stephanieburgh, Northern Mariana Islands, Jason enjoys wood carving, cooking, reading. Known for their playful and curious personality, Jason is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "e8c4468d-60a1-4e4e-bc04-dd2d5b63d0e7",
+    "relationship": "third cousin twice removed"
+  }
+}

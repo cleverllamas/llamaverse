@@ -1,0 +1,15 @@
+{
+  "id": "d80b20ba-fa8e-45be-a631-9cda7a435540",
+  "name": "Andrew",
+  "heightCm": 128,
+  "weightKg": 158,
+  "eyeColor": "Hazel",
+  "hairColor": "Red",
+  "breed": "Hybrid",
+  "placeOfBirth": "Justinfort, Serbia",
+  "description": "Andrew is a hazel-eyed llama with red hair, standing 128 cm tall. Originally from Justinfort, Serbia, Andrew enjoys knitting, gardening, hiking. Known for their friendly and gentle personality, Andrew is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "080a2f5f-eb9c-44df-bbe2-0506d84465c9",
+    "relationship": "great uncle"
+  }
+}

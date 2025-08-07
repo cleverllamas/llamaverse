@@ -1,0 +1,15 @@
+{
+  "id": "95c77b8a-6817-47e0-b946-7c27eabca9c0",
+  "name": "Stephen",
+  "heightCm": 188,
+  "weightKg": 167,
+  "eyeColor": "Brown",
+  "hairColor": "Red",
+  "breed": "Hybrid",
+  "placeOfBirth": "North Michaelstad, Netherlands Antilles",
+  "description": "Stephen is a brown-eyed llama with red hair, standing 188 cm tall. Originally from North Michaelstad, Netherlands Antilles, Stephen enjoys hiking, painting, knitting. Known for their friendly and mischievous personality, Stephen is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "40d275ba-2f3f-4566-85af-cc63774b00a4",
+    "relationship": "grandparent"
+  }
+}

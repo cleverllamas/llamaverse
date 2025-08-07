@@ -1,0 +1,15 @@
+{
+  "id": "41b3b024-072a-4c75-8be6-5ea95886d4f4",
+  "name": "Phillip",
+  "heightCm": 101,
+  "weightKg": 132,
+  "eyeColor": "Amber",
+  "hairColor": "Gray",
+  "breed": "Suri",
+  "placeOfBirth": "New Kathleen, Dominican Republic",
+  "description": "Phillip is a amber-eyed llama with gray hair, standing 101 cm tall. Originally from New Kathleen, Dominican Republic, Phillip enjoys knitting, painting, dancing. Known for their energetic and energetic personality, Phillip is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "ffaed442-5e2d-419f-9389-2f7bd20dd975",
+    "relationship": "father"
+  }
+}

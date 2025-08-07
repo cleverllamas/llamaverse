@@ -1,0 +1,15 @@
+{
+  "id": "02917e85-3ab6-4330-8faa-e4f3f58e4ff1",
+  "name": "Renee",
+  "heightCm": 200,
+  "weightKg": 163,
+  "eyeColor": "Amber",
+  "hairColor": "Red",
+  "breed": "Hybrid",
+  "placeOfBirth": "Ronaldfort, Tanzania",
+  "description": "Renee is a amber-eyed llama with red hair, standing 200 cm tall. Originally from Ronaldfort, Tanzania, Renee enjoys knitting, hiking, painting. Known for their friendly and playful personality, Renee is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "f75dce60-c247-4702-857d-e43c13d269ef",
+    "relationship": "uncle"
+  }
+}

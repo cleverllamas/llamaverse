@@ -1,0 +1,15 @@
+{
+  "id": "12603fd1-37e3-435d-bcba-5a1828b8ccde",
+  "name": "Daisy",
+  "heightCm": 173,
+  "weightKg": 162,
+  "eyeColor": "Hazel",
+  "hairColor": "Red",
+  "breed": "Huacaya",
+  "placeOfBirth": "Savagehaven, Saint Vincent and the Grenadines",
+  "description": "Daisy is a hazel-eyed llama with red hair, standing 173 cm tall. Originally from Savagehaven, Saint Vincent and the Grenadines, Daisy enjoys cooking, knitting, wood carving. Known for their gentle and energetic personality, Daisy is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "d83b5b4c-ffc8-4265-ac74-81f4bab05cae",
+    "relationship": "aunt"
+  }
+}

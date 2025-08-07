@@ -1,0 +1,15 @@
+{
+  "id": "2030dca9-5b13-4cf7-94c7-04e9b8e9eab6",
+  "name": "Kari",
+  "heightCm": 115,
+  "weightKg": 182,
+  "eyeColor": "Amber",
+  "hairColor": "Blonde",
+  "breed": "Suri",
+  "placeOfBirth": "Lucasmouth, Greenland",
+  "description": "Kari is a amber-eyed llama with blonde hair, standing 115 cm tall. Originally from Lucasmouth, Greenland, Kari enjoys cooking, gardening, singing. Known for their mischievous and mischievous personality, Kari is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "4a1b68c6-526b-48b8-a18e-0936c6459c56",
+    "relationship": "second cousin"
+  }
+}

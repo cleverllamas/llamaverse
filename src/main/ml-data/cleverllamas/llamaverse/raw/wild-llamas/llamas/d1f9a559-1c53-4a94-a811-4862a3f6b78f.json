@@ -1,0 +1,15 @@
+{
+  "id": "d1f9a559-1c53-4a94-a811-4862a3f6b78f",
+  "name": "Angela",
+  "heightCm": 127,
+  "weightKg": 177,
+  "eyeColor": "Green",
+  "hairColor": "Red",
+  "breed": "Suri",
+  "placeOfBirth": "East Jessica, Saint Martin",
+  "description": "Angela is a green-eyed llama with red hair, standing 127 cm tall. Originally from East Jessica, Saint Martin, Angela enjoys singing, wood carving, gardening. Known for their playful and gentle personality, Angela is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "13dd1ad1-3dd9-4643-9340-ef04f4e09cdc",
+    "relationship": "third cousin twice removed"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "9cf40bd4-914b-4cbc-9a6e-2edd72be33aa",
+  "name": "Alexander",
+  "heightCm": 191,
+  "weightKg": 188,
+  "eyeColor": "Hazel",
+  "hairColor": "Red",
+  "breed": "Huacaya",
+  "placeOfBirth": "Jimenezfort, Djibouti",
+  "description": "Alexander is a hazel-eyed llama with red hair, standing 191 cm tall. Originally from Jimenezfort, Djibouti, Alexander enjoys painting, knitting, singing. Known for their friendly and friendly personality, Alexander is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "018d2660-aa31-4c97-bb5e-175f48832511",
+    "relationship": "third cousin twice removed"
+  }
+}

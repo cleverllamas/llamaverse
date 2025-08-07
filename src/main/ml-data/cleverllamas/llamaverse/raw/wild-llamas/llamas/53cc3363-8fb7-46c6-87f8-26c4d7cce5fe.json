@@ -1,0 +1,15 @@
+{
+  "id": "53cc3363-8fb7-46c6-87f8-26c4d7cce5fe",
+  "name": "Victoria",
+  "heightCm": 111,
+  "weightKg": 154,
+  "eyeColor": "Green",
+  "hairColor": "Red",
+  "breed": "Huacaya",
+  "placeOfBirth": "Lukeport, Faroe Islands",
+  "description": "Victoria is a green-eyed llama with red hair, standing 111 cm tall. Originally from Lukeport, Faroe Islands, Victoria enjoys wood carving, singing, reading. Known for their calm and energetic personality, Victoria is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "4c237571-92d3-46f2-9789-7bfa41bb451b",
+    "relationship": "grandparent"
+  }
+}

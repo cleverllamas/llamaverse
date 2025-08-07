@@ -1,0 +1,15 @@
+{
+  "id": "8fa42603-876b-4120-aadc-e16b49353ff6",
+  "name": "Rebecca",
+  "heightCm": 106,
+  "weightKg": 160,
+  "eyeColor": "Gray",
+  "hairColor": "Red",
+  "breed": "Suri",
+  "placeOfBirth": "Marshberg, Saint Lucia",
+  "description": "Rebecca is a gray-eyed llama with red hair, standing 106 cm tall. Originally from Marshberg, Saint Lucia, Rebecca enjoys knitting, hiking, singing. Known for their gentle and curious personality, Rebecca is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "fe657f46-a465-4479-999a-16c19331501f",
+    "relationship": "sister"
+  }
+}

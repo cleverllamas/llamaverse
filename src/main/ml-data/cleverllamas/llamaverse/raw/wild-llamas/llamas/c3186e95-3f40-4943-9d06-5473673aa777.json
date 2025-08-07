@@ -1,0 +1,15 @@
+{
+  "id": "c3186e95-3f40-4943-9d06-5473673aa777",
+  "name": "Julie",
+  "heightCm": 199,
+  "weightKg": 180,
+  "eyeColor": "Blue",
+  "hairColor": "Silver",
+  "breed": "Suri",
+  "placeOfBirth": "Kimchester, El Salvador",
+  "description": "Julie is a blue-eyed llama with silver hair, standing 199 cm tall. Originally from Kimchester, El Salvador, Julie enjoys wood carving, painting, reading. Known for their calm and shy personality, Julie is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "b090112d-5b52-4b93-9a1a-fcc0d7a71422",
+    "relationship": "15th cousin 9th removed"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "798a3294-c4e2-470e-a97a-7610d8ede9e9",
+  "name": "Ruth",
+  "heightCm": 103,
+  "weightKg": 164,
+  "eyeColor": "Blue",
+  "hairColor": "White",
+  "breed": "Hybrid",
+  "placeOfBirth": "Stevenberg, Malta",
+  "description": "Ruth is a blue-eyed llama with white hair, standing 103 cm tall. Originally from Stevenberg, Malta, Ruth enjoys knitting, cooking, reading. Known for their curious and calm personality, Ruth is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "450e98a2-788f-4378-8a37-5dbbf0e87aae",
+    "relationship": "uncle"
+  }
+}

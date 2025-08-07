@@ -1,0 +1,15 @@
+{
+  "id": "2a2e5f78-4db1-4f7d-8c11-5f8ac79c4395",
+  "name": "Alyssa",
+  "heightCm": 162,
+  "weightKg": 136,
+  "eyeColor": "Hazel",
+  "hairColor": "Red",
+  "breed": "Suri",
+  "placeOfBirth": "East Kyliechester, Guam",
+  "description": "Alyssa is a hazel-eyed llama with red hair, standing 162 cm tall. Originally from East Kyliechester, Guam, Alyssa enjoys knitting, hiking, gardening. Known for their calm and curious personality, Alyssa is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "1f1e38e1-3a26-44be-baf9-85c221873951",
+    "relationship": "sister"
+  }
+}

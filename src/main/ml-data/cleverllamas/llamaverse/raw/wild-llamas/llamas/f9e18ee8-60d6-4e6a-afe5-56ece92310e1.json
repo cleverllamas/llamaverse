@@ -1,0 +1,15 @@
+{
+  "id": "f9e18ee8-60d6-4e6a-afe5-56ece92310e1",
+  "name": "Angel",
+  "heightCm": 135,
+  "weightKg": 181,
+  "eyeColor": "Green",
+  "hairColor": "Silver",
+  "breed": "Huacaya",
+  "placeOfBirth": "Lake Davidmouth, Brunei Darussalam",
+  "description": "Angel is a green-eyed llama with silver hair, standing 135 cm tall. Originally from Lake Davidmouth, Brunei Darussalam, Angel enjoys singing, painting, cooking. Known for their friendly and playful personality, Angel is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "526eb9ca-97bd-400c-9007-fb714beb0cb4",
+    "relationship": "brother"
+  }
+}

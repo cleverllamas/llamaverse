@@ -1,0 +1,15 @@
+{
+  "id": "2cef70fb-b972-4c4b-b4b8-9e5a2197ca00",
+  "name": "Donna",
+  "heightCm": 174,
+  "weightKg": 145,
+  "eyeColor": "Blue",
+  "hairColor": "Silver",
+  "breed": "Huacaya",
+  "placeOfBirth": "North Amandastad, Botswana",
+  "description": "Donna is a blue-eyed llama with silver hair, standing 174 cm tall. Originally from North Amandastad, Botswana, Donna enjoys wood carving, painting, reading. Known for their shy and shy personality, Donna is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "a1143dcb-19db-46b0-bf24-a928ae9b2dd6",
+    "relationship": "grandparent"
+  }
+}

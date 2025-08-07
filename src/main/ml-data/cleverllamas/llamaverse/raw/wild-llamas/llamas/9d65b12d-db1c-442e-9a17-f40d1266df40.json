@@ -1,0 +1,15 @@
+{
+  "id": "9d65b12d-db1c-442e-9a17-f40d1266df40",
+  "name": "Benjamin",
+  "heightCm": 174,
+  "weightKg": 166,
+  "eyeColor": "Gray",
+  "hairColor": "Silver",
+  "breed": "Hybrid",
+  "placeOfBirth": "West Sarah, Saint Kitts and Nevis",
+  "description": "Benjamin is a gray-eyed llama with silver hair, standing 174 cm tall. Originally from West Sarah, Saint Kitts and Nevis, Benjamin enjoys wood carving, knitting, hiking. Known for their curious and gentle personality, Benjamin is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "62397a57-0335-4064-8fa2-de482e9be92a",
+    "relationship": "4th cousin once removed"
+  }
+}

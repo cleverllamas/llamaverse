@@ -1,0 +1,15 @@
+{
+  "id": "75169166-ee69-4a04-81d1-7e564e765b9e",
+  "name": "Timothy",
+  "heightCm": 141,
+  "weightKg": 192,
+  "eyeColor": "Green",
+  "hairColor": "Black",
+  "breed": "Hybrid",
+  "placeOfBirth": "Ramirezfurt, Thailand",
+  "description": "Timothy is a green-eyed llama with black hair, standing 141 cm tall. Originally from Ramirezfurt, Thailand, Timothy enjoys knitting, gardening, hiking. Known for their gentle and curious personality, Timothy is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "33e0429c-1624-4383-96e0-2788dd3f3132",
+    "relationship": "uncle"
+  }
+}

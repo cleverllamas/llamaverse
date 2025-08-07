@@ -1,0 +1,15 @@
+{
+  "id": "b147fc6b-79a1-488f-8839-8e65d9cc97c2",
+  "name": "Gloria",
+  "heightCm": 112,
+  "weightKg": 162,
+  "eyeColor": "Blue",
+  "hairColor": "Gray",
+  "breed": "Suri",
+  "placeOfBirth": "Port Elizabethland, Lithuania",
+  "description": "Gloria is a blue-eyed llama with gray hair, standing 112 cm tall. Originally from Port Elizabethland, Lithuania, Gloria enjoys painting, gardening, dancing. Known for their energetic and curious personality, Gloria is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "8729a4e9-1805-4b58-af1e-f6e7d1efc47f",
+    "relationship": "4th cousin once removed"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "a321ce61-bc56-4110-8f88-02911ec30f26",
+  "name": "Ashley",
+  "heightCm": 196,
+  "weightKg": 195,
+  "eyeColor": "Amber",
+  "hairColor": "Blonde",
+  "breed": "Suri",
+  "placeOfBirth": "North Michaelfort, Niger",
+  "description": "Ashley is a amber-eyed llama with blonde hair, standing 196 cm tall. Originally from North Michaelfort, Niger, Ashley enjoys dancing, cooking, wood carving. Known for their playful and curious personality, Ashley is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "c2557ba1-f446-4848-8b16-b7e9bb2d1638",
+    "relationship": "4th cousin once removed"
+  }
+}

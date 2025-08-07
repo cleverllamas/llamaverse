@@ -1,0 +1,15 @@
+{
+  "id": "bdbb3094-caf4-4f17-9c1a-a34a7d8a04f9",
+  "name": "Janice",
+  "heightCm": 123,
+  "weightKg": 175,
+  "eyeColor": "Hazel",
+  "hairColor": "Red",
+  "breed": "Hybrid",
+  "placeOfBirth": "East Cassie, Korea",
+  "description": "Janice is a hazel-eyed llama with red hair, standing 123 cm tall. Originally from East Cassie, Korea, Janice enjoys cooking, reading, hiking. Known for their energetic and friendly personality, Janice is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "2a7e9cc0-bb19-43c5-9458-756c89359931",
+    "relationship": "4th cousin once removed"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "3b4f9611-2889-4241-a2a7-2b97c23e2572",
+  "name": "Marissa",
+  "heightCm": 131,
+  "weightKg": 135,
+  "eyeColor": "Green",
+  "hairColor": "Red",
+  "breed": "Suri",
+  "placeOfBirth": "West Bradleyhaven, South Georgia and the South Sandwich Islands",
+  "description": "Marissa is a green-eyed llama with red hair, standing 131 cm tall. Originally from West Bradleyhaven, South Georgia and the South Sandwich Islands, Marissa enjoys reading, singing, knitting. Known for their energetic and gentle personality, Marissa is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "64f5b890-b8d5-4cec-99ca-a0b4000220ce",
+    "relationship": "brother"
+  }
+}

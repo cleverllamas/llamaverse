@@ -1,0 +1,15 @@
+{
+  "id": "243363c5-9e43-4838-a4a9-11a8500fb892",
+  "name": "Nicholas",
+  "heightCm": 190,
+  "weightKg": 154,
+  "eyeColor": "Gray",
+  "hairColor": "Brown",
+  "breed": "Huacaya",
+  "placeOfBirth": "Brandimouth, Canada",
+  "description": "Nicholas is a gray-eyed llama with brown hair, standing 190 cm tall. Originally from Brandimouth, Canada, Nicholas enjoys hiking, gardening, knitting. Known for their energetic and shy personality, Nicholas is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "d83b5b4c-ffc8-4265-ac74-81f4bab05cae",
+    "relationship": "cousin"
+  }
+}

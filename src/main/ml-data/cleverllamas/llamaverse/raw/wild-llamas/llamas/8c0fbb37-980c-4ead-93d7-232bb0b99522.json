@@ -1,0 +1,15 @@
+{
+  "id": "8c0fbb37-980c-4ead-93d7-232bb0b99522",
+  "name": "Julie",
+  "heightCm": 109,
+  "weightKg": 194,
+  "eyeColor": "Gray",
+  "hairColor": "Silver",
+  "breed": "Huacaya",
+  "placeOfBirth": "Jamesshire, Guinea",
+  "description": "Julie is a gray-eyed llama with silver hair, standing 109 cm tall. Originally from Jamesshire, Guinea, Julie enjoys knitting, reading, cooking. Known for their energetic and curious personality, Julie is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "f9b48565-35ec-4984-9065-7d08648afceb",
+    "relationship": "second cousin"
+  }
+}

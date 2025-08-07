@@ -1,0 +1,15 @@
+{
+  "id": "5da77e62-742b-4ab0-b559-ceab0602ec02",
+  "name": "Michael",
+  "heightCm": 187,
+  "weightKg": 173,
+  "eyeColor": "Blue",
+  "hairColor": "Blonde",
+  "breed": "Huacaya",
+  "placeOfBirth": "New Roy, Canada",
+  "description": "Michael is a blue-eyed llama with blonde hair, standing 187 cm tall. Originally from New Roy, Canada, Michael enjoys painting, cooking, singing. Known for their friendly and curious personality, Michael is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "d121a0ea-66ce-470f-ba3a-28063ecc9b16",
+    "relationship": "uncle"
+  }
+}

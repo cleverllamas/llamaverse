@@ -1,0 +1,15 @@
+{
+  "id": "6c8cc883-d8ed-4efd-b57a-fa45fd6759b9",
+  "name": "Maria",
+  "heightCm": 117,
+  "weightKg": 196,
+  "eyeColor": "Gray",
+  "hairColor": "Silver",
+  "breed": "Hybrid",
+  "placeOfBirth": "East Marie, Solomon Islands",
+  "description": "Maria is a gray-eyed llama with silver hair, standing 117 cm tall. Originally from East Marie, Solomon Islands, Maria enjoys gardening, hiking, cooking. Known for their calm and energetic personality, Maria is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "f0b8545b-053b-435e-ad52-781fe1677c6b",
+    "relationship": "uncle"
+  }
+}

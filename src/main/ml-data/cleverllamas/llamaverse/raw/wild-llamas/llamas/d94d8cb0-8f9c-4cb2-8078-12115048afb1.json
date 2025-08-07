@@ -1,0 +1,15 @@
+{
+  "id": "d94d8cb0-8f9c-4cb2-8078-12115048afb1",
+  "name": "Michael",
+  "heightCm": 190,
+  "weightKg": 137,
+  "eyeColor": "Green",
+  "hairColor": "Brown",
+  "breed": "Suri",
+  "placeOfBirth": "Rivasberg, Iraq",
+  "description": "Michael is a green-eyed llama with brown hair, standing 190 cm tall. Originally from Rivasberg, Iraq, Michael enjoys cooking, wood carving, painting. Known for their curious and calm personality, Michael is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "36b9a9f1-1cba-4748-8b19-79b0ac4f41bb",
+    "relationship": "father"
+  }
+}

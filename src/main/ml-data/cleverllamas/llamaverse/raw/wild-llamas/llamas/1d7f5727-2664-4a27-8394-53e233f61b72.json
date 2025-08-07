@@ -1,0 +1,15 @@
+{
+  "id": "1d7f5727-2664-4a27-8394-53e233f61b72",
+  "name": "Gloria",
+  "heightCm": 104,
+  "weightKg": 196,
+  "eyeColor": "Blue",
+  "hairColor": "Blonde",
+  "breed": "Huacaya",
+  "placeOfBirth": "West Laura, Jamaica",
+  "description": "Gloria is a blue-eyed llama with blonde hair, standing 104 cm tall. Originally from West Laura, Jamaica, Gloria enjoys dancing, gardening, reading. Known for their shy and calm personality, Gloria is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "a41d190c-5422-4b41-ad55-8b66f2f7a48c",
+    "relationship": "father"
+  }
+}

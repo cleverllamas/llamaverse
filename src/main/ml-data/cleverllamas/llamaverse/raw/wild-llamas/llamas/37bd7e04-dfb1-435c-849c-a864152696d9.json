@@ -1,0 +1,15 @@
+{
+  "id": "37bd7e04-dfb1-435c-849c-a864152696d9",
+  "name": "Patty",
+  "heightCm": 175,
+  "weightKg": 163,
+  "eyeColor": "Amber",
+  "hairColor": "Brown",
+  "breed": "Huacaya",
+  "placeOfBirth": "Melanieview, Malta",
+  "description": "Patty is a amber-eyed llama with brown hair, standing 175 cm tall. Originally from Melanieview, Malta, Patty enjoys reading, knitting, painting. Known for their curious and shy personality, Patty is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "936ff2c2-5de8-40c0-bfab-a5e13deefa42",
+    "relationship": "cousin"
+  }
+}

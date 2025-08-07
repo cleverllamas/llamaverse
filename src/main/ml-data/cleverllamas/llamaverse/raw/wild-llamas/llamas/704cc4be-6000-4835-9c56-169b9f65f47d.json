@@ -1,0 +1,15 @@
+{
+  "id": "704cc4be-6000-4835-9c56-169b9f65f47d",
+  "name": "Kimberly",
+  "heightCm": 173,
+  "weightKg": 162,
+  "eyeColor": "Brown",
+  "hairColor": "Gray",
+  "breed": "Hybrid",
+  "placeOfBirth": "Perryfurt, Ghana",
+  "description": "Kimberly is a brown-eyed llama with gray hair, standing 173 cm tall. Originally from Perryfurt, Ghana, Kimberly enjoys cooking, reading, wood carving. Known for their shy and shy personality, Kimberly is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "5e18ccba-a1b8-4026-aeb0-d202131295d9",
+    "relationship": "15th cousin 9th removed"
+  }
+}

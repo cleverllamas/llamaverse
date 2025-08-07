@@ -1,0 +1,15 @@
+{
+  "id": "6e78a330-d22d-496d-99e4-65ee2ccff5d1",
+  "name": "Mario",
+  "heightCm": 132,
+  "weightKg": 138,
+  "eyeColor": "Green",
+  "hairColor": "Brown",
+  "breed": "Suri",
+  "placeOfBirth": "South Barry, Ecuador",
+  "description": "Mario is a green-eyed llama with brown hair, standing 132 cm tall. Originally from South Barry, Ecuador, Mario enjoys knitting, wood carving, hiking. Known for their shy and friendly personality, Mario is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "cf1f7c34-ff2f-4032-8acc-e291505f0a40",
+    "relationship": "sister"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "d5641904-771b-4788-86da-e7d4993892b1",
+  "name": "Wendy",
+  "heightCm": 174,
+  "weightKg": 198,
+  "eyeColor": "Brown",
+  "hairColor": "Silver",
+  "breed": "Huacaya",
+  "placeOfBirth": "Stevenhaven, Benin",
+  "description": "Wendy is a brown-eyed llama with silver hair, standing 174 cm tall. Originally from Stevenhaven, Benin, Wendy enjoys dancing, cooking, knitting. Known for their mischievous and shy personality, Wendy is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "709dadaf-a4ce-4d78-96da-85edea186e82",
+    "relationship": "aunt"
+  }
+}

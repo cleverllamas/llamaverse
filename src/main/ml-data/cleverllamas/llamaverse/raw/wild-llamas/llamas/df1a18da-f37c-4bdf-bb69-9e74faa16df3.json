@@ -1,0 +1,15 @@
+{
+  "id": "df1a18da-f37c-4bdf-bb69-9e74faa16df3",
+  "name": "Lisa",
+  "heightCm": 172,
+  "weightKg": 183,
+  "eyeColor": "Hazel",
+  "hairColor": "Blonde",
+  "breed": "Suri",
+  "placeOfBirth": "South Sara, Vietnam",
+  "description": "Lisa is a hazel-eyed llama with blonde hair, standing 172 cm tall. Originally from South Sara, Vietnam, Lisa enjoys singing, gardening, wood carving. Known for their energetic and friendly personality, Lisa is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "bb2bddf1-9422-4d6d-8b67-ab2199eb16d6",
+    "relationship": "uncle"
+  }
+}

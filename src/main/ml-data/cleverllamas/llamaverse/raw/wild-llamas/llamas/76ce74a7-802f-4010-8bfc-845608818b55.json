@@ -1,0 +1,15 @@
+{
+  "id": "76ce74a7-802f-4010-8bfc-845608818b55",
+  "name": "Yolanda",
+  "heightCm": 156,
+  "weightKg": 173,
+  "eyeColor": "Green",
+  "hairColor": "Blonde",
+  "breed": "Hybrid",
+  "placeOfBirth": "Port Edwin, Guatemala",
+  "description": "Yolanda is a green-eyed llama with blonde hair, standing 156 cm tall. Originally from Port Edwin, Guatemala, Yolanda enjoys gardening, knitting, cooking. Known for their friendly and energetic personality, Yolanda is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "b3126a05-76c2-4385-a271-15d8a2f38089",
+    "relationship": "great uncle"
+  }
+}

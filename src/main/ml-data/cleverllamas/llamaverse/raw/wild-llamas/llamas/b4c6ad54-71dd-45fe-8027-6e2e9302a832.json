@@ -1,0 +1,15 @@
+{
+  "id": "b4c6ad54-71dd-45fe-8027-6e2e9302a832",
+  "name": "Rebecca",
+  "heightCm": 101,
+  "weightKg": 181,
+  "eyeColor": "Amber",
+  "hairColor": "Red",
+  "breed": "Suri",
+  "placeOfBirth": "Carterbury, Guinea-Bissau",
+  "description": "Rebecca is a amber-eyed llama with red hair, standing 101 cm tall. Originally from Carterbury, Guinea-Bissau, Rebecca enjoys cooking, gardening, painting. Known for their energetic and shy personality, Rebecca is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "1f24e47c-5aa1-4aa9-8f41-6d426025959c",
+    "relationship": "sister"
+  }
+}

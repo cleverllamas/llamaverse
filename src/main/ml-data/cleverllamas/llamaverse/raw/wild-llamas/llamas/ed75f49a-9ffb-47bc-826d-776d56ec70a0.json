@@ -1,0 +1,15 @@
+{
+  "id": "ed75f49a-9ffb-47bc-826d-776d56ec70a0",
+  "name": "Lisa",
+  "heightCm": 152,
+  "weightKg": 166,
+  "eyeColor": "Blue",
+  "hairColor": "Gray",
+  "breed": "Suri",
+  "placeOfBirth": "Port Staceybury, Ethiopia",
+  "description": "Lisa is a blue-eyed llama with gray hair, standing 152 cm tall. Originally from Port Staceybury, Ethiopia, Lisa enjoys singing, gardening, painting. Known for their energetic and curious personality, Lisa is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "0960d0bf-2bb6-44bd-a53e-61e14122ba78",
+    "relationship": "15th cousin 9th removed"
+  }
+}

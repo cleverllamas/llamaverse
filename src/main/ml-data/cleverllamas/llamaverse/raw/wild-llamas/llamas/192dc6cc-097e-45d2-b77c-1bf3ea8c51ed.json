@@ -1,0 +1,15 @@
+{
+  "id": "192dc6cc-097e-45d2-b77c-1bf3ea8c51ed",
+  "name": "Shannon",
+  "heightCm": 152,
+  "weightKg": 149,
+  "eyeColor": "Hazel",
+  "hairColor": "Red",
+  "breed": "Suri",
+  "placeOfBirth": "Hodgeshaven, Malaysia",
+  "description": "Shannon is a hazel-eyed llama with red hair, standing 152 cm tall. Originally from Hodgeshaven, Malaysia, Shannon enjoys cooking, knitting, reading. Known for their friendly and energetic personality, Shannon is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "b55210c8-3abe-499b-956d-43c2526c2e8e",
+    "relationship": "aunt"
+  }
+}

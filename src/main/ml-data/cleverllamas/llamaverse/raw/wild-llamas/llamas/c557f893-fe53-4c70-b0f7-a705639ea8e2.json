@@ -1,0 +1,15 @@
+{
+  "id": "c557f893-fe53-4c70-b0f7-a705639ea8e2",
+  "name": "John",
+  "heightCm": 151,
+  "weightKg": 152,
+  "eyeColor": "Hazel",
+  "hairColor": "Silver",
+  "breed": "Hybrid",
+  "placeOfBirth": "Kurtton, Malaysia",
+  "description": "John is a hazel-eyed llama with silver hair, standing 151 cm tall. Originally from Kurtton, Malaysia, John enjoys cooking, reading, dancing. Known for their curious and energetic personality, John is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "1341da24-8b86-4aad-b610-17f22443d9d4",
+    "relationship": "great uncle"
+  }
+}

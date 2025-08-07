@@ -1,0 +1,15 @@
+{
+  "id": "9bb29ba2-5a15-47c4-80f7-6ca3c3b5c641",
+  "name": "Kimberly",
+  "heightCm": 153,
+  "weightKg": 179,
+  "eyeColor": "Gray",
+  "hairColor": "White",
+  "breed": "Hybrid",
+  "placeOfBirth": "Kelseybury, Peru",
+  "description": "Kimberly is a gray-eyed llama with white hair, standing 153 cm tall. Originally from Kelseybury, Peru, Kimberly enjoys cooking, wood carving, hiking. Known for their gentle and shy personality, Kimberly is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "a5cc7b35-15e9-4d3c-ac8b-5537b118023a",
+    "relationship": "4th cousin once removed"
+  }
+}

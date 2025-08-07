@@ -1,0 +1,15 @@
+{
+  "id": "c41107c9-bc8e-4b78-9fbd-674a976e33ae",
+  "name": "Seth",
+  "heightCm": 158,
+  "weightKg": 165,
+  "eyeColor": "Amber",
+  "hairColor": "Red",
+  "breed": "Suri",
+  "placeOfBirth": "Port Christine, Saint Kitts and Nevis",
+  "description": "Seth is a amber-eyed llama with red hair, standing 158 cm tall. Originally from Port Christine, Saint Kitts and Nevis, Seth enjoys singing, gardening, wood carving. Known for their energetic and friendly personality, Seth is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "6594124d-5ba1-42e7-8e67-5027ba256d40",
+    "relationship": "second cousin"
+  }
+}

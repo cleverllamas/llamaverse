@@ -1,0 +1,15 @@
+{
+  "id": "b3591799-54a8-44ea-87a1-d1c05659f781",
+  "name": "Dana",
+  "heightCm": 161,
+  "weightKg": 144,
+  "eyeColor": "Hazel",
+  "hairColor": "Blonde",
+  "breed": "Hybrid",
+  "placeOfBirth": "Peterchester, Falkland Islands (Malvinas)",
+  "description": "Dana is a hazel-eyed llama with blonde hair, standing 161 cm tall. Originally from Peterchester, Falkland Islands (Malvinas), Dana enjoys gardening, painting, hiking. Known for their calm and gentle personality, Dana is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "2233b726-9102-4e33-904e-d1fc5a805613",
+    "relationship": "15th cousin 9th removed"
+  }
+}

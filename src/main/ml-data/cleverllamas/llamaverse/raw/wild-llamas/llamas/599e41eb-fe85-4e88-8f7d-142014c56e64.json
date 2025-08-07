@@ -1,0 +1,15 @@
+{
+  "id": "599e41eb-fe85-4e88-8f7d-142014c56e64",
+  "name": "Kevin",
+  "heightCm": 122,
+  "weightKg": 151,
+  "eyeColor": "Hazel",
+  "hairColor": "Red",
+  "breed": "Suri",
+  "placeOfBirth": "Ortizmouth, Gibraltar",
+  "description": "Kevin is a hazel-eyed llama with red hair, standing 122 cm tall. Originally from Ortizmouth, Gibraltar, Kevin enjoys knitting, dancing, singing. Known for their calm and gentle personality, Kevin is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "242fc328-84b0-415d-9208-5837adf8e147",
+    "relationship": "15th cousin 9th removed"
+  }
+}

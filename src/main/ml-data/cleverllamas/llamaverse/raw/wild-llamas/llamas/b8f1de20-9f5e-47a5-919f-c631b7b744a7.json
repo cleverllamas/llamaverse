@@ -1,0 +1,15 @@
+{
+  "id": "b8f1de20-9f5e-47a5-919f-c631b7b744a7",
+  "name": "Miranda",
+  "heightCm": 179,
+  "weightKg": 132,
+  "eyeColor": "Gray",
+  "hairColor": "Blonde",
+  "breed": "Suri",
+  "placeOfBirth": "Brianbury, New Caledonia",
+  "description": "Miranda is a gray-eyed llama with blonde hair, standing 179 cm tall. Originally from Brianbury, New Caledonia, Miranda enjoys knitting, hiking, singing. Known for their playful and energetic personality, Miranda is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "622ddbc8-df29-4742-abdb-8a5ce93c13ab",
+    "relationship": "second cousin"
+  }
+}

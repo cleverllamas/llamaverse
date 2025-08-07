@@ -1,0 +1,15 @@
+{
+  "id": "9c5e6f33-9421-433c-9664-8b3b299f4f87",
+  "name": "James",
+  "heightCm": 166,
+  "weightKg": 137,
+  "eyeColor": "Blue",
+  "hairColor": "Gray",
+  "breed": "Huacaya",
+  "placeOfBirth": "East Breannaton, Togo",
+  "description": "James is a blue-eyed llama with gray hair, standing 166 cm tall. Originally from East Breannaton, Togo, James enjoys dancing, gardening, hiking. Known for their gentle and playful personality, James is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "620c8ac9-fa75-46b9-a2bb-3d2a5a424ffb",
+    "relationship": "15th cousin 9th removed"
+  }
+}

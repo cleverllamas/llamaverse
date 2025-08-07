@@ -1,0 +1,15 @@
+{
+  "id": "3f05af36-e505-4634-9f48-95554f98a1e4",
+  "name": "Lisa",
+  "heightCm": 194,
+  "weightKg": 196,
+  "eyeColor": "Green",
+  "hairColor": "Red",
+  "breed": "Huacaya",
+  "placeOfBirth": "Mosleyview, Guatemala",
+  "description": "Lisa is a green-eyed llama with red hair, standing 194 cm tall. Originally from Mosleyview, Guatemala, Lisa enjoys hiking, dancing, reading. Known for their friendly and shy personality, Lisa is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "c081f43f-330f-4ab4-bc47-3b804012e567",
+    "relationship": "great uncle"
+  }
+}

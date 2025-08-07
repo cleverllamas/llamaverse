@@ -1,0 +1,15 @@
+{
+  "id": "f41b4987-049b-440b-b881-eaf26c128a4c",
+  "name": "Joseph",
+  "heightCm": 113,
+  "weightKg": 136,
+  "eyeColor": "Amber",
+  "hairColor": "Gray",
+  "breed": "Hybrid",
+  "placeOfBirth": "Davidview, Taiwan",
+  "description": "Joseph is a amber-eyed llama with gray hair, standing 113 cm tall. Originally from Davidview, Taiwan, Joseph enjoys reading, knitting, painting. Known for their gentle and playful personality, Joseph is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "2a95c47f-e09f-483f-84a3-10ccfb39b358",
+    "relationship": "third cousin twice removed"
+  }
+}

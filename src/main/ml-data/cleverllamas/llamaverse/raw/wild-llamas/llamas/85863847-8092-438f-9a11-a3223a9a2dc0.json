@@ -1,0 +1,15 @@
+{
+  "id": "85863847-8092-438f-9a11-a3223a9a2dc0",
+  "name": "Kelly",
+  "heightCm": 168,
+  "weightKg": 158,
+  "eyeColor": "Amber",
+  "hairColor": "White",
+  "breed": "Suri",
+  "placeOfBirth": "New Nicolebury, Tonga",
+  "description": "Kelly is a amber-eyed llama with white hair, standing 168 cm tall. Originally from New Nicolebury, Tonga, Kelly enjoys knitting, singing, wood carving. Known for their gentle and playful personality, Kelly is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "58a5f865-741d-4710-98ae-1e6f0fbcbd2d",
+    "relationship": "grandparent"
+  }
+}

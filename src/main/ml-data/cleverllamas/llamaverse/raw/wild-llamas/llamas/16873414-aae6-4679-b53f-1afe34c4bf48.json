@@ -1,0 +1,15 @@
+{
+  "id": "16873414-aae6-4679-b53f-1afe34c4bf48",
+  "name": "Justin",
+  "heightCm": 170,
+  "weightKg": 196,
+  "eyeColor": "Gray",
+  "hairColor": "White",
+  "breed": "Suri",
+  "placeOfBirth": "West Jennaport, Tajikistan",
+  "description": "Justin is a gray-eyed llama with white hair, standing 170 cm tall. Originally from West Jennaport, Tajikistan, Justin enjoys wood carving, painting, reading. Known for their energetic and playful personality, Justin is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "6ee632ac-9ed7-4110-a865-90f93fd73126",
+    "relationship": "third cousin twice removed"
+  }
+}

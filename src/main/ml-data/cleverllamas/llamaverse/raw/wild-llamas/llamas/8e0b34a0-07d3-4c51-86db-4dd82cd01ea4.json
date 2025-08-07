@@ -1,0 +1,15 @@
+{
+  "id": "8e0b34a0-07d3-4c51-86db-4dd82cd01ea4",
+  "name": "Michael",
+  "heightCm": 112,
+  "weightKg": 132,
+  "eyeColor": "Green",
+  "hairColor": "Brown",
+  "breed": "Huacaya",
+  "placeOfBirth": "Jessicaberg, Chad",
+  "description": "Michael is a green-eyed llama with brown hair, standing 112 cm tall. Originally from Jessicaberg, Chad, Michael enjoys gardening, hiking, singing. Known for their calm and mischievous personality, Michael is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "d94d8cb0-8f9c-4cb2-8078-12115048afb1",
+    "relationship": "4th cousin once removed"
+  }
+}

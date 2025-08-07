@@ -1,0 +1,15 @@
+{
+  "id": "d467d006-c673-486d-b4d3-6678115c637f",
+  "name": "Ricky",
+  "heightCm": 175,
+  "weightKg": 198,
+  "eyeColor": "Green",
+  "hairColor": "Brown",
+  "breed": "Hybrid",
+  "placeOfBirth": "West Kyle, Rwanda",
+  "description": "Ricky is a green-eyed llama with brown hair, standing 175 cm tall. Originally from West Kyle, Rwanda, Ricky enjoys gardening, hiking, cooking. Known for their gentle and energetic personality, Ricky is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "2287b8d4-0ba7-4f1b-bb2a-4c8bf29f7e43",
+    "relationship": "brother"
+  }
+}

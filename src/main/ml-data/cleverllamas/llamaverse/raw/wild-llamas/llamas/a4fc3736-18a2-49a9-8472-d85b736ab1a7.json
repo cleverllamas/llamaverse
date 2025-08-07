@@ -1,0 +1,15 @@
+{
+  "id": "a4fc3736-18a2-49a9-8472-d85b736ab1a7",
+  "name": "Rachel",
+  "heightCm": 116,
+  "weightKg": 161,
+  "eyeColor": "Green",
+  "hairColor": "Blonde",
+  "breed": "Huacaya",
+  "placeOfBirth": "North Phillip, Norway",
+  "description": "Rachel is a green-eyed llama with blonde hair, standing 116 cm tall. Originally from North Phillip, Norway, Rachel enjoys dancing, knitting, singing. Known for their energetic and curious personality, Rachel is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "dc60197b-8f6f-474b-9edd-cfb7f0122a8f",
+    "relationship": "second cousin"
+  }
+}

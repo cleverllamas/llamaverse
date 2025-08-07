@@ -1,0 +1,15 @@
+{
+  "id": "c9b74167-b709-4340-9e2b-908d8267a538",
+  "name": "James",
+  "heightCm": 142,
+  "weightKg": 171,
+  "eyeColor": "Hazel",
+  "hairColor": "Gray",
+  "breed": "Suri",
+  "placeOfBirth": "Hughesfort, Somalia",
+  "description": "James is a hazel-eyed llama with gray hair, standing 142 cm tall. Originally from Hughesfort, Somalia, James enjoys dancing, hiking, reading. Known for their shy and energetic personality, James is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "8daba4fb-80e3-4267-98e5-c30a7863ab5a",
+    "relationship": "second cousin"
+  }
+}

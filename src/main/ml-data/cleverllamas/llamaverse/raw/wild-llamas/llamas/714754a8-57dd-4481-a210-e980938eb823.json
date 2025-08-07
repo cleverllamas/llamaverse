@@ -1,0 +1,15 @@
+{
+  "id": "714754a8-57dd-4481-a210-e980938eb823",
+  "name": "Derek",
+  "heightCm": 200,
+  "weightKg": 152,
+  "eyeColor": "Gray",
+  "hairColor": "Red",
+  "breed": "Huacaya",
+  "placeOfBirth": "Wilsonberg, Monaco",
+  "description": "Derek is a gray-eyed llama with red hair, standing 200 cm tall. Originally from Wilsonberg, Monaco, Derek enjoys knitting, painting, singing. Known for their gentle and curious personality, Derek is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "8eff0982-481c-4830-a21b-c57306f5dedb",
+    "relationship": "second cousin"
+  }
+}

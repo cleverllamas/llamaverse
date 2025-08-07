@@ -1,0 +1,15 @@
+{
+  "id": "50e324fc-6ac4-4d91-a7ed-f228d04f46db",
+  "name": "Deborah",
+  "heightCm": 165,
+  "weightKg": 137,
+  "eyeColor": "Amber",
+  "hairColor": "Silver",
+  "breed": "Suri",
+  "placeOfBirth": "Lake Gloria, Jersey",
+  "description": "Deborah is a amber-eyed llama with silver hair, standing 165 cm tall. Originally from Lake Gloria, Jersey, Deborah enjoys dancing, painting, singing. Known for their shy and gentle personality, Deborah is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "50fb1547-b49f-455f-a34e-aafb77ba764a",
+    "relationship": "third cousin twice removed"
+  }
+}

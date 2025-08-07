@@ -1,0 +1,15 @@
+{
+  "id": "5e404110-5cff-4f68-94c0-e94ae3331201",
+  "name": "Kevin",
+  "heightCm": 138,
+  "weightKg": 200,
+  "eyeColor": "Blue",
+  "hairColor": "White",
+  "breed": "Suri",
+  "placeOfBirth": "Port Suzanneborough, Qatar",
+  "description": "Kevin is a blue-eyed llama with white hair, standing 138 cm tall. Originally from Port Suzanneborough, Qatar, Kevin enjoys hiking, wood carving, gardening. Known for their friendly and energetic personality, Kevin is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "99f84b0b-80e3-42f6-9072-a7b658bb929a",
+    "relationship": "15th cousin 9th removed"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "caef6a0e-3063-4ffb-bcde-55fcca86d540",
+  "name": "Alexander",
+  "heightCm": 118,
+  "weightKg": 193,
+  "eyeColor": "Gray",
+  "hairColor": "White",
+  "breed": "Hybrid",
+  "placeOfBirth": "Port Stephanieberg, Burundi",
+  "description": "Alexander is a gray-eyed llama with white hair, standing 118 cm tall. Originally from Port Stephanieberg, Burundi, Alexander enjoys cooking, reading, painting. Known for their shy and energetic personality, Alexander is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "9ba80bc8-36c8-41dc-b1a8-e57d88518d57",
+    "relationship": "sister"
+  }
+}

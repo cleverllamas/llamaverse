@@ -1,0 +1,15 @@
+{
+  "id": "afccedd7-0ba5-45fc-ad6a-957922d591fa",
+  "name": "Curtis",
+  "heightCm": 175,
+  "weightKg": 160,
+  "eyeColor": "Green",
+  "hairColor": "White",
+  "breed": "Huacaya",
+  "placeOfBirth": "Maldonadoview, Ireland",
+  "description": "Curtis is a green-eyed llama with white hair, standing 175 cm tall. Originally from Maldonadoview, Ireland, Curtis enjoys wood carving, painting, reading. Known for their mischievous and calm personality, Curtis is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "8e0b34a0-07d3-4c51-86db-4dd82cd01ea4",
+    "relationship": "great uncle"
+  }
+}

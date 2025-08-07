@@ -1,0 +1,15 @@
+{
+  "id": "24234152-4efc-43c4-9502-07a9d398838e",
+  "name": "Linda",
+  "heightCm": 109,
+  "weightKg": 142,
+  "eyeColor": "Hazel",
+  "hairColor": "Blonde",
+  "breed": "Huacaya",
+  "placeOfBirth": "West Chelseyshire, Egypt",
+  "description": "Linda is a hazel-eyed llama with blonde hair, standing 109 cm tall. Originally from West Chelseyshire, Egypt, Linda enjoys wood carving, reading, painting. Known for their curious and mischievous personality, Linda is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "941792fa-e6e7-4759-9045-e7a767036457",
+    "relationship": "third cousin twice removed"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "d1ace004-eb10-4e33-a89e-6184d3674af7",
+  "name": "Jeff",
+  "heightCm": 195,
+  "weightKg": 159,
+  "eyeColor": "Green",
+  "hairColor": "White",
+  "breed": "Suri",
+  "placeOfBirth": "New Katie, Martinique",
+  "description": "Jeff is a green-eyed llama with white hair, standing 195 cm tall. Originally from New Katie, Martinique, Jeff enjoys cooking, hiking, gardening. Known for their energetic and shy personality, Jeff is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "79f2f69a-0674-45a5-ad78-04d311371d12",
+    "relationship": "4th cousin once removed"
+  }
+}

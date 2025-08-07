@@ -1,0 +1,15 @@
+{
+  "id": "8cfcac61-9954-49fe-8c16-e69721ec1b02",
+  "name": "Danny",
+  "heightCm": 141,
+  "weightKg": 200,
+  "eyeColor": "Green",
+  "hairColor": "Silver",
+  "breed": "Hybrid",
+  "placeOfBirth": "West Omar, Faroe Islands",
+  "description": "Danny is a green-eyed llama with silver hair, standing 141 cm tall. Originally from West Omar, Faroe Islands, Danny enjoys knitting, wood carving, dancing. Known for their calm and gentle personality, Danny is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "ca494295-37e0-44a5-91a2-1b0a5dbe3148",
+    "relationship": "15th cousin 9th removed"
+  }
+}

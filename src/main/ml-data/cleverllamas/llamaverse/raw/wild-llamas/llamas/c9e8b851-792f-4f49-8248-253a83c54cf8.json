@@ -1,0 +1,15 @@
+{
+  "id": "c9e8b851-792f-4f49-8248-253a83c54cf8",
+  "name": "Carl",
+  "heightCm": 180,
+  "weightKg": 158,
+  "eyeColor": "Amber",
+  "hairColor": "Red",
+  "breed": "Hybrid",
+  "placeOfBirth": "North Amberview, Niue",
+  "description": "Carl is a amber-eyed llama with red hair, standing 180 cm tall. Originally from North Amberview, Niue, Carl enjoys knitting, hiking, reading. Known for their calm and calm personality, Carl is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "f8d8325e-4c46-4fc3-ab32-b172bee9f97d",
+    "relationship": "mother"
+  }
+}

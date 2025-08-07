@@ -1,0 +1,15 @@
+{
+  "id": "f5ae1c19-bb79-465b-8e61-fd92a76a3f2a",
+  "name": "Kimberly",
+  "heightCm": 144,
+  "weightKg": 154,
+  "eyeColor": "Hazel",
+  "hairColor": "Blonde",
+  "breed": "Hybrid",
+  "placeOfBirth": "Leonborough, Djibouti",
+  "description": "Kimberly is a hazel-eyed llama with blonde hair, standing 144 cm tall. Originally from Leonborough, Djibouti, Kimberly enjoys cooking, singing, hiking. Known for their energetic and calm personality, Kimberly is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "d94b7cc6-865d-4e70-8daa-21065d095f5e",
+    "relationship": "third cousin twice removed"
+  }
+}

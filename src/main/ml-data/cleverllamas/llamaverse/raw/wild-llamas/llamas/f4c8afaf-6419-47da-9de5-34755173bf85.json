@@ -1,0 +1,15 @@
+{
+  "id": "f4c8afaf-6419-47da-9de5-34755173bf85",
+  "name": "Michelle",
+  "heightCm": 199,
+  "weightKg": 145,
+  "eyeColor": "Gray",
+  "hairColor": "White",
+  "breed": "Hybrid",
+  "placeOfBirth": "Lewisbury, Anguilla",
+  "description": "Michelle is a gray-eyed llama with white hair, standing 199 cm tall. Originally from Lewisbury, Anguilla, Michelle enjoys cooking, gardening, wood carving. Known for their mischievous and shy personality, Michelle is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "aff140b6-edfb-491e-ad2f-03b90503becd",
+    "relationship": "sister"
+  }
+}

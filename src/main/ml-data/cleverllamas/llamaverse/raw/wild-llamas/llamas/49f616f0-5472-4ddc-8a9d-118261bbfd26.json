@@ -1,0 +1,15 @@
+{
+  "id": "49f616f0-5472-4ddc-8a9d-118261bbfd26",
+  "name": "Jillian",
+  "heightCm": 146,
+  "weightKg": 143,
+  "eyeColor": "Gray",
+  "hairColor": "Black",
+  "breed": "Hybrid",
+  "placeOfBirth": "Wheelershire, Czech Republic",
+  "description": "Jillian is a gray-eyed llama with black hair, standing 146 cm tall. Originally from Wheelershire, Czech Republic, Jillian enjoys gardening, cooking, painting. Known for their shy and friendly personality, Jillian is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "47b13a55-a7a9-4097-860b-b4fea65e824f",
+    "relationship": "15th cousin 9th removed"
+  }
+}

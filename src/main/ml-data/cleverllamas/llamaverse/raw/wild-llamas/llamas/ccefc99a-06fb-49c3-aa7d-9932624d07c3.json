@@ -1,0 +1,15 @@
+{
+  "id": "ccefc99a-06fb-49c3-aa7d-9932624d07c3",
+  "name": "Rose",
+  "heightCm": 112,
+  "weightKg": 133,
+  "eyeColor": "Hazel",
+  "hairColor": "Gray",
+  "breed": "Huacaya",
+  "placeOfBirth": "West Michaelville, Rwanda",
+  "description": "Rose is a hazel-eyed llama with gray hair, standing 112 cm tall. Originally from West Michaelville, Rwanda, Rose enjoys hiking, gardening, reading. Known for their gentle and shy personality, Rose is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "11a4e76c-6ac1-42c1-a943-76b91d54bec7",
+    "relationship": "4th cousin once removed"
+  }
+}

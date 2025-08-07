@@ -1,0 +1,15 @@
+{
+  "id": "1daaf6a5-6c18-4c65-a8da-dfa864abfb60",
+  "name": "Jessica",
+  "heightCm": 120,
+  "weightKg": 152,
+  "eyeColor": "Brown",
+  "hairColor": "Silver",
+  "breed": "Suri",
+  "placeOfBirth": "East Alexandraton, Sri Lanka",
+  "description": "Jessica is a brown-eyed llama with silver hair, standing 120 cm tall. Originally from East Alexandraton, Sri Lanka, Jessica enjoys knitting, hiking, singing. Known for their gentle and curious personality, Jessica is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "6c212eb2-a9b6-496a-a915-57f46444fa08",
+    "relationship": "great uncle"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "f291c365-24db-40ee-ba79-5f290f6b27ad",
+  "name": "Emily",
+  "heightCm": 127,
+  "weightKg": 198,
+  "eyeColor": "Green",
+  "hairColor": "Gray",
+  "breed": "Suri",
+  "placeOfBirth": "New Jose, Lebanon",
+  "description": "Emily is a green-eyed llama with gray hair, standing 127 cm tall. Originally from New Jose, Lebanon, Emily enjoys painting, gardening, reading. Known for their curious and mischievous personality, Emily is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "a04f90af-38ae-4a92-9114-66c10adcaff1",
+    "relationship": "15th cousin 9th removed"
+  }
+}

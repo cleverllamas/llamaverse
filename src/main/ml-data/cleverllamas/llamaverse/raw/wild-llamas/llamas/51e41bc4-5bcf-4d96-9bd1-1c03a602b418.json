@@ -1,0 +1,15 @@
+{
+  "id": "51e41bc4-5bcf-4d96-9bd1-1c03a602b418",
+  "name": "David",
+  "heightCm": 193,
+  "weightKg": 173,
+  "eyeColor": "Hazel",
+  "hairColor": "Silver",
+  "breed": "Suri",
+  "placeOfBirth": "Douglashaven, Belgium",
+  "description": "David is a hazel-eyed llama with silver hair, standing 193 cm tall. Originally from Douglashaven, Belgium, David enjoys cooking, painting, knitting. Known for their mischievous and playful personality, David is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "60370d31-b17d-4d01-9ca6-91fb224e0f15",
+    "relationship": "aunt"
+  }
+}

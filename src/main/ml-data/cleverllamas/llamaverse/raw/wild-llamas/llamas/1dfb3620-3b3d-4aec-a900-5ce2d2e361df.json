@@ -1,0 +1,15 @@
+{
+  "id": "1dfb3620-3b3d-4aec-a900-5ce2d2e361df",
+  "name": "Kimberly",
+  "heightCm": 134,
+  "weightKg": 164,
+  "eyeColor": "Amber",
+  "hairColor": "Gray",
+  "breed": "Suri",
+  "placeOfBirth": "Vegaville, Croatia",
+  "description": "Kimberly is a amber-eyed llama with gray hair, standing 134 cm tall. Originally from Vegaville, Croatia, Kimberly enjoys dancing, painting, hiking. Known for their friendly and shy personality, Kimberly is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "fda284f3-3612-45ec-8b65-1d238377578e",
+    "relationship": "15th cousin 9th removed"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "526e3786-2c93-4c6f-9191-b90a694e47e6",
+  "name": "Lisa",
+  "heightCm": 187,
+  "weightKg": 147,
+  "eyeColor": "Blue",
+  "hairColor": "Blonde",
+  "breed": "Suri",
+  "placeOfBirth": "Collinsfort, Aruba",
+  "description": "Lisa is a blue-eyed llama with blonde hair, standing 187 cm tall. Originally from Collinsfort, Aruba, Lisa enjoys painting, knitting, wood carving. Known for their mischievous and calm personality, Lisa is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "f400299d-edbf-43e6-afa2-2bb87fd88d1c",
+    "relationship": "cousin"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "d46bd9bc-591b-440f-87a0-3f226519886a",
+  "name": "David",
+  "heightCm": 166,
+  "weightKg": 134,
+  "eyeColor": "Amber",
+  "hairColor": "Brown",
+  "breed": "Hybrid",
+  "placeOfBirth": "West Eugene, Nauru",
+  "description": "David is a amber-eyed llama with brown hair, standing 166 cm tall. Originally from West Eugene, Nauru, David enjoys knitting, painting, reading. Known for their gentle and curious personality, David is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "6f931341-8ec5-4359-a5d1-c21946c96292",
+    "relationship": "second cousin"
+  }
+}

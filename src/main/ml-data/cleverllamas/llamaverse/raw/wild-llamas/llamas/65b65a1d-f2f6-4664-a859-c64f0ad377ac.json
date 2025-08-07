@@ -1,0 +1,15 @@
+{
+  "id": "65b65a1d-f2f6-4664-a859-c64f0ad377ac",
+  "name": "Kelly",
+  "heightCm": 157,
+  "weightKg": 164,
+  "eyeColor": "Gray",
+  "hairColor": "Red",
+  "breed": "Huacaya",
+  "placeOfBirth": "Jamesland, Lesotho",
+  "description": "Kelly is a gray-eyed llama with red hair, standing 157 cm tall. Originally from Jamesland, Lesotho, Kelly enjoys dancing, gardening, cooking. Known for their energetic and calm personality, Kelly is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "d4d93e1a-42c2-454d-8f2b-329c04125b83",
+    "relationship": "uncle"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "cd4ad314-dc8f-469d-a345-896d95679339",
+  "name": "Christian",
+  "heightCm": 167,
+  "weightKg": 164,
+  "eyeColor": "Gray",
+  "hairColor": "Gray",
+  "breed": "Hybrid",
+  "placeOfBirth": "Brownfurt, Armenia",
+  "description": "Christian is a gray-eyed llama with gray hair, standing 167 cm tall. Originally from Brownfurt, Armenia, Christian enjoys knitting, cooking, wood carving. Known for their calm and gentle personality, Christian is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "ccefc99a-06fb-49c3-aa7d-9932624d07c3",
+    "relationship": "aunt"
+  }
+}

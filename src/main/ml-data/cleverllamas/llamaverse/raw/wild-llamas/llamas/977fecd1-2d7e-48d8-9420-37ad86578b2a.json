@@ -1,0 +1,15 @@
+{
+  "id": "977fecd1-2d7e-48d8-9420-37ad86578b2a",
+  "name": "James",
+  "heightCm": 152,
+  "weightKg": 194,
+  "eyeColor": "Blue",
+  "hairColor": "Black",
+  "breed": "Huacaya",
+  "placeOfBirth": "Christopherberg, Azerbaijan",
+  "description": "James is a blue-eyed llama with black hair, standing 152 cm tall. Originally from Christopherberg, Azerbaijan, James enjoys painting, knitting, gardening. Known for their shy and shy personality, James is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "8abcd736-a11e-48a3-ae9b-c82d992dc0c1",
+    "relationship": "aunt"
+  }
+}

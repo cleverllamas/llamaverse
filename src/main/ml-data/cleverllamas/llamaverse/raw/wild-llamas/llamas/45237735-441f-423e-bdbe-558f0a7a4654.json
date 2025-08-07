@@ -1,0 +1,15 @@
+{
+  "id": "45237735-441f-423e-bdbe-558f0a7a4654",
+  "name": "Courtney",
+  "heightCm": 166,
+  "weightKg": 194,
+  "eyeColor": "Amber",
+  "hairColor": "Gray",
+  "breed": "Hybrid",
+  "placeOfBirth": "Vickiberg, Liechtenstein",
+  "description": "Courtney is a amber-eyed llama with gray hair, standing 166 cm tall. Originally from Vickiberg, Liechtenstein, Courtney enjoys painting, hiking, knitting. Known for their gentle and shy personality, Courtney is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "b3af7440-1728-41c5-bae1-2e776a577de7",
+    "relationship": "father"
+  }
+}

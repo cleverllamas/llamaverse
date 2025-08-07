@@ -1,0 +1,15 @@
+{
+  "id": "d121a0ea-66ce-470f-ba3a-28063ecc9b16",
+  "name": "Warren",
+  "heightCm": 160,
+  "weightKg": 168,
+  "eyeColor": "Brown",
+  "hairColor": "Blonde",
+  "breed": "Hybrid",
+  "placeOfBirth": "New Williambury, Tunisia",
+  "description": "Warren is a brown-eyed llama with blonde hair, standing 160 cm tall. Originally from New Williambury, Tunisia, Warren enjoys reading, knitting, singing. Known for their mischievous and calm personality, Warren is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "ef072c0e-8901-4193-b42e-1fd515aad229",
+    "relationship": "4th cousin once removed"
+  }
+}

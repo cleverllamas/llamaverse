@@ -1,0 +1,15 @@
+{
+  "id": "4bda43c0-8bcf-4a60-9ffb-62520488461e",
+  "name": "Dustin",
+  "heightCm": 182,
+  "weightKg": 186,
+  "eyeColor": "Brown",
+  "hairColor": "Brown",
+  "breed": "Suri",
+  "placeOfBirth": "Port Alison, Bangladesh",
+  "description": "Dustin is a brown-eyed llama with brown hair, standing 182 cm tall. Originally from Port Alison, Bangladesh, Dustin enjoys reading, wood carving, hiking. Known for their curious and curious personality, Dustin is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "bd8def22-cd73-4c55-98d8-208ba940ad4e",
+    "relationship": "sister"
+  }
+}

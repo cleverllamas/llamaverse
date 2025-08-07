@@ -1,0 +1,15 @@
+{
+  "id": "b739e4c2-586d-41f2-9ce4-ed1c45a93c7e",
+  "name": "Hunter",
+  "heightCm": 101,
+  "weightKg": 196,
+  "eyeColor": "Gray",
+  "hairColor": "Gray",
+  "breed": "Suri",
+  "placeOfBirth": "Starkburgh, Seychelles",
+  "description": "Hunter is a gray-eyed llama with gray hair, standing 101 cm tall. Originally from Starkburgh, Seychelles, Hunter enjoys singing, wood carving, gardening. Known for their playful and shy personality, Hunter is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "018d2660-aa31-4c97-bb5e-175f48832511",
+    "relationship": "third cousin twice removed"
+  }
+}

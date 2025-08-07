@@ -1,0 +1,15 @@
+{
+  "id": "b8689645-011e-454a-a091-be4328da94f5",
+  "name": "Jill",
+  "heightCm": 161,
+  "weightKg": 190,
+  "eyeColor": "Green",
+  "hairColor": "Gray",
+  "breed": "Suri",
+  "placeOfBirth": "Palmerberg, Mayotte",
+  "description": "Jill is a green-eyed llama with gray hair, standing 161 cm tall. Originally from Palmerberg, Mayotte, Jill enjoys hiking, knitting, singing. Known for their curious and gentle personality, Jill is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "f0453721-67b1-46b5-9808-6e8e55b94adb",
+    "relationship": "mother"
+  }
+}

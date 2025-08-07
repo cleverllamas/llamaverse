@@ -1,0 +1,15 @@
+{
+  "id": "b090112d-5b52-4b93-9a1a-fcc0d7a71422",
+  "name": "Ashley",
+  "heightCm": 142,
+  "weightKg": 152,
+  "eyeColor": "Green",
+  "hairColor": "Black",
+  "breed": "Suri",
+  "placeOfBirth": "South Joseph, Christmas Island",
+  "description": "Ashley is a green-eyed llama with black hair, standing 142 cm tall. Originally from South Joseph, Christmas Island, Ashley enjoys reading, hiking, knitting. Known for their gentle and friendly personality, Ashley is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "fe391fdf-0cca-4903-9813-71be831b150f",
+    "relationship": "4th cousin once removed"
+  }
+}

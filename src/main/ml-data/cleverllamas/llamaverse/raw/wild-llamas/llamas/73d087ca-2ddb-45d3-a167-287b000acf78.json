@@ -1,0 +1,15 @@
+{
+  "id": "73d087ca-2ddb-45d3-a167-287b000acf78",
+  "name": "Emily",
+  "heightCm": 154,
+  "weightKg": 147,
+  "eyeColor": "Amber",
+  "hairColor": "Blonde",
+  "breed": "Hybrid",
+  "placeOfBirth": "Lake Anthony, Guatemala",
+  "description": "Emily is a amber-eyed llama with blonde hair, standing 154 cm tall. Originally from Lake Anthony, Guatemala, Emily enjoys reading, cooking, dancing. Known for their friendly and mischievous personality, Emily is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "71344274-bacc-4ff3-a575-dc061458da25",
+    "relationship": "brother"
+  }
+}

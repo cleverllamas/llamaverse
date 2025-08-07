@@ -1,0 +1,15 @@
+{
+  "id": "3ea4a600-fd20-4346-b708-e4c6ac229e21",
+  "name": "Joshua",
+  "heightCm": 186,
+  "weightKg": 139,
+  "eyeColor": "Gray",
+  "hairColor": "Black",
+  "breed": "Suri",
+  "placeOfBirth": "Jasonmouth, San Marino",
+  "description": "Joshua is a gray-eyed llama with black hair, standing 186 cm tall. Originally from Jasonmouth, San Marino, Joshua enjoys gardening, cooking, singing. Known for their friendly and friendly personality, Joshua is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "de19e9b3-7f61-4171-baa1-36abdf6afb4c",
+    "relationship": "aunt"
+  }
+}

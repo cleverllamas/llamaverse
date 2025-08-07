@@ -1,0 +1,15 @@
+{
+  "id": "79991b4f-4f13-4ccf-9902-7ca8603fe795",
+  "name": "Christina",
+  "heightCm": 135,
+  "weightKg": 192,
+  "eyeColor": "Gray",
+  "hairColor": "Blonde",
+  "breed": "Hybrid",
+  "placeOfBirth": "Gonzalesmouth, United States Virgin Islands",
+  "description": "Christina is a gray-eyed llama with blonde hair, standing 135 cm tall. Originally from Gonzalesmouth, United States Virgin Islands, Christina enjoys hiking, knitting, singing. Known for their curious and playful personality, Christina is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "2907708f-5108-4c42-9c51-12875f796aa7",
+    "relationship": "mother"
+  }
+}

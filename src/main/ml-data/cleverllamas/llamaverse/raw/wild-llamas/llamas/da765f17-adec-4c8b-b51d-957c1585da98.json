@@ -1,0 +1,15 @@
+{
+  "id": "da765f17-adec-4c8b-b51d-957c1585da98",
+  "name": "Amber",
+  "heightCm": 107,
+  "weightKg": 151,
+  "eyeColor": "Gray",
+  "hairColor": "Silver",
+  "breed": "Hybrid",
+  "placeOfBirth": "Port Johnnyhaven, Guinea",
+  "description": "Amber is a gray-eyed llama with silver hair, standing 107 cm tall. Originally from Port Johnnyhaven, Guinea, Amber enjoys gardening, knitting, painting. Known for their gentle and energetic personality, Amber is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "3b159ccf-8874-471f-bbad-9e6e2cd93359",
+    "relationship": "4th cousin once removed"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "0fb4f65a-cfd8-41b6-9eb3-c70ffb67ec89",
+  "name": "Melanie",
+  "heightCm": 171,
+  "weightKg": 168,
+  "eyeColor": "Blue",
+  "hairColor": "Brown",
+  "breed": "Hybrid",
+  "placeOfBirth": "Brianshire, Fiji",
+  "description": "Melanie is a blue-eyed llama with brown hair, standing 171 cm tall. Originally from Brianshire, Fiji, Melanie enjoys dancing, wood carving, painting. Known for their energetic and friendly personality, Melanie is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "b4d4446a-2fca-4c6e-b29b-439588266813",
+    "relationship": "15th cousin 9th removed"
+  }
+}

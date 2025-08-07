@@ -1,0 +1,15 @@
+{
+  "id": "b93fd5d5-1d53-4d4f-8887-38769237c164",
+  "name": "Susan",
+  "heightCm": 183,
+  "weightKg": 191,
+  "eyeColor": "Green",
+  "hairColor": "Gray",
+  "breed": "Huacaya",
+  "placeOfBirth": "Thompsonmouth, Cocos (Keeling) Islands",
+  "description": "Susan is a green-eyed llama with gray hair, standing 183 cm tall. Originally from Thompsonmouth, Cocos (Keeling) Islands, Susan enjoys wood carving, gardening, dancing. Known for their playful and playful personality, Susan is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "49ec4598-1785-4487-b1ff-13e113696924",
+    "relationship": "uncle"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "806371e6-3124-4b5c-a45f-c151ac618b39",
+  "name": "Brian",
+  "heightCm": 108,
+  "weightKg": 150,
+  "eyeColor": "Hazel",
+  "hairColor": "Red",
+  "breed": "Suri",
+  "placeOfBirth": "East Heather, Serbia",
+  "description": "Brian is a hazel-eyed llama with red hair, standing 108 cm tall. Originally from East Heather, Serbia, Brian enjoys painting, reading, singing. Known for their shy and mischievous personality, Brian is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "b40c9bc5-401f-465c-8aa9-6692473d22a2",
+    "relationship": "15th cousin 9th removed"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "59b3ed34-bd95-404a-9cab-fc85c5f98d17",
+  "name": "Brandi",
+  "heightCm": 173,
+  "weightKg": 152,
+  "eyeColor": "Amber",
+  "hairColor": "White",
+  "breed": "Hybrid",
+  "placeOfBirth": "New Crystalland, Barbados",
+  "description": "Brandi is a amber-eyed llama with white hair, standing 173 cm tall. Originally from New Crystalland, Barbados, Brandi enjoys singing, hiking, reading. Known for their shy and playful personality, Brandi is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "6be8ca05-7066-42e0-b9da-b22c5564a70c",
+    "relationship": "brother"
+  }
+}

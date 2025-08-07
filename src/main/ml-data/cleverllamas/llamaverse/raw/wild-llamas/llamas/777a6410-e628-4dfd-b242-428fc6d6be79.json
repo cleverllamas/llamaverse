@@ -1,0 +1,15 @@
+{
+  "id": "777a6410-e628-4dfd-b242-428fc6d6be79",
+  "name": "Jennifer",
+  "heightCm": 141,
+  "weightKg": 185,
+  "eyeColor": "Green",
+  "hairColor": "White",
+  "breed": "Huacaya",
+  "placeOfBirth": "Hallburgh, Denmark",
+  "description": "Jennifer is a green-eyed llama with white hair, standing 141 cm tall. Originally from Hallburgh, Denmark, Jennifer enjoys reading, gardening, wood carving. Known for their shy and shy personality, Jennifer is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "a4cd4b2a-0fa1-4890-aaaa-85019d5d3a54",
+    "relationship": "third cousin twice removed"
+  }
+}

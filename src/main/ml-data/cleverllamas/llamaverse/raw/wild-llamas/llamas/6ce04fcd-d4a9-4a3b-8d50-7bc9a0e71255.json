@@ -1,0 +1,15 @@
+{
+  "id": "6ce04fcd-d4a9-4a3b-8d50-7bc9a0e71255",
+  "name": "Tina",
+  "heightCm": 115,
+  "weightKg": 131,
+  "eyeColor": "Brown",
+  "hairColor": "Gray",
+  "breed": "Suri",
+  "placeOfBirth": "Hallville, Pakistan",
+  "description": "Tina is a brown-eyed llama with gray hair, standing 115 cm tall. Originally from Hallville, Pakistan, Tina enjoys knitting, dancing, cooking. Known for their mischievous and mischievous personality, Tina is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "d1878910-801b-4221-8676-2c686048ee6b",
+    "relationship": "brother"
+  }
+}

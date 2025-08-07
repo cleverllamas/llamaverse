@@ -1,0 +1,15 @@
+{
+  "id": "d3403c9a-f857-4bd7-af00-dcaf77c3d9cd",
+  "name": "Nancy",
+  "heightCm": 122,
+  "weightKg": 152,
+  "eyeColor": "Gray",
+  "hairColor": "Blonde",
+  "breed": "Huacaya",
+  "placeOfBirth": "Lauraberg, Central African Republic",
+  "description": "Nancy is a gray-eyed llama with blonde hair, standing 122 cm tall. Originally from Lauraberg, Central African Republic, Nancy enjoys painting, wood carving, dancing. Known for their gentle and gentle personality, Nancy is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "622ddbc8-df29-4742-abdb-8a5ce93c13ab",
+    "relationship": "aunt"
+  }
+}

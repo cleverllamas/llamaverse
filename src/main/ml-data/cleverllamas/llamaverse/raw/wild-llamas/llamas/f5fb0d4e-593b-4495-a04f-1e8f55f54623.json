@@ -1,0 +1,15 @@
+{
+  "id": "f5fb0d4e-593b-4495-a04f-1e8f55f54623",
+  "name": "Elizabeth",
+  "heightCm": 134,
+  "weightKg": 176,
+  "eyeColor": "Hazel",
+  "hairColor": "White",
+  "breed": "Hybrid",
+  "placeOfBirth": "West Phillipshire, Nicaragua",
+  "description": "Elizabeth is a hazel-eyed llama with white hair, standing 134 cm tall. Originally from West Phillipshire, Nicaragua, Elizabeth enjoys painting, gardening, hiking. Known for their playful and gentle personality, Elizabeth is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "503e9d54-7e1b-46bc-83e2-37bea96918dc",
+    "relationship": "uncle"
+  }
+}

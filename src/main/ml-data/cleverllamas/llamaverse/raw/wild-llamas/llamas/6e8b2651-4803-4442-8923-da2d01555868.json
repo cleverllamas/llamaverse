@@ -1,0 +1,15 @@
+{
+  "id": "6e8b2651-4803-4442-8923-da2d01555868",
+  "name": "David",
+  "heightCm": 175,
+  "weightKg": 131,
+  "eyeColor": "Gray",
+  "hairColor": "Silver",
+  "breed": "Suri",
+  "placeOfBirth": "Lucasbury, Trinidad and Tobago",
+  "description": "David is a gray-eyed llama with silver hair, standing 175 cm tall. Originally from Lucasbury, Trinidad and Tobago, David enjoys hiking, painting, gardening. Known for their energetic and energetic personality, David is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "014566d5-d9c8-4caa-a5f8-07a929e004f0",
+    "relationship": "brother"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "99af5935-140b-4649-8f98-2919498eaf66",
+  "name": "Melissa",
+  "heightCm": 120,
+  "weightKg": 150,
+  "eyeColor": "Amber",
+  "hairColor": "White",
+  "breed": "Huacaya",
+  "placeOfBirth": "Johnmouth, Yemen",
+  "description": "Melissa is a amber-eyed llama with white hair, standing 120 cm tall. Originally from Johnmouth, Yemen, Melissa enjoys gardening, painting, wood carving. Known for their friendly and shy personality, Melissa is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "4c7e9aa3-a33b-4c96-a395-22d9e559f5a8",
+    "relationship": "15th cousin 9th removed"
+  }
+}

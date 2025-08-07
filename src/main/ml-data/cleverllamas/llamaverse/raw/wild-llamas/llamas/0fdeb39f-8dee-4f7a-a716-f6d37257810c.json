@@ -1,0 +1,15 @@
+{
+  "id": "0fdeb39f-8dee-4f7a-a716-f6d37257810c",
+  "name": "Michael",
+  "heightCm": 161,
+  "weightKg": 196,
+  "eyeColor": "Green",
+  "hairColor": "Red",
+  "breed": "Huacaya",
+  "placeOfBirth": "Fullerville, Brunei Darussalam",
+  "description": "Michael is a green-eyed llama with red hair, standing 161 cm tall. Originally from Fullerville, Brunei Darussalam, Michael enjoys singing, cooking, gardening. Known for their energetic and mischievous personality, Michael is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "921dbe46-4071-4251-97fd-bc01a41abd11",
+    "relationship": "15th cousin 9th removed"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "84a93d8b-a0e4-47cf-a8ad-685c6bd11329",
+  "name": "Karen",
+  "heightCm": 110,
+  "weightKg": 197,
+  "eyeColor": "Gray",
+  "hairColor": "Brown",
+  "breed": "Hybrid",
+  "placeOfBirth": "New Drew, Cyprus",
+  "description": "Karen is a gray-eyed llama with brown hair, standing 110 cm tall. Originally from New Drew, Cyprus, Karen enjoys reading, singing, painting. Known for their gentle and calm personality, Karen is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "1fc5fd27-bfff-4a21-960f-87f05997dbef",
+    "relationship": "15th cousin 9th removed"
+  }
+}

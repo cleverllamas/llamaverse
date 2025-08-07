@@ -1,0 +1,15 @@
+{
+  "id": "69f387cd-37c7-46b7-8532-cd1567eb0353",
+  "name": "Regina",
+  "heightCm": 128,
+  "weightKg": 161,
+  "eyeColor": "Blue",
+  "hairColor": "Brown",
+  "breed": "Hybrid",
+  "placeOfBirth": "East Michaelton, Namibia",
+  "description": "Regina is a blue-eyed llama with brown hair, standing 128 cm tall. Originally from East Michaelton, Namibia, Regina enjoys cooking, reading, hiking. Known for their energetic and friendly personality, Regina is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "5ae73a1c-2d00-4cbc-b60b-5784f37f998c",
+    "relationship": "uncle"
+  }
+}

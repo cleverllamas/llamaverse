@@ -1,0 +1,15 @@
+{
+  "id": "a860396b-23d1-4d38-b807-012adab8c228",
+  "name": "James",
+  "heightCm": 105,
+  "weightKg": 192,
+  "eyeColor": "Amber",
+  "hairColor": "Black",
+  "breed": "Hybrid",
+  "placeOfBirth": "West Michaelview, Bhutan",
+  "description": "James is a amber-eyed llama with black hair, standing 105 cm tall. Originally from West Michaelview, Bhutan, James enjoys knitting, singing, cooking. Known for their energetic and gentle personality, James is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "c9e8b851-792f-4f49-8248-253a83c54cf8",
+    "relationship": "third cousin twice removed"
+  }
+}

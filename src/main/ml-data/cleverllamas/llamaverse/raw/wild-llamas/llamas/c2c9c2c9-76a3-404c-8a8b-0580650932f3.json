@@ -1,0 +1,15 @@
+{
+  "id": "c2c9c2c9-76a3-404c-8a8b-0580650932f3",
+  "name": "Rebekah",
+  "heightCm": 126,
+  "weightKg": 167,
+  "eyeColor": "Hazel",
+  "hairColor": "Black",
+  "breed": "Hybrid",
+  "placeOfBirth": "Port Whitney, French Southern Territories",
+  "description": "Rebekah is a hazel-eyed llama with black hair, standing 126 cm tall. Originally from Port Whitney, French Southern Territories, Rebekah enjoys knitting, dancing, painting. Known for their mischievous and curious personality, Rebekah is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "64af1ade-27d0-48e4-84d5-8b002406ecd3",
+    "relationship": "brother"
+  }
+}

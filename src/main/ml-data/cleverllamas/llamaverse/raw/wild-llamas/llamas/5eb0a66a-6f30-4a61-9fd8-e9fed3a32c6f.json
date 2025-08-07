@@ -1,0 +1,15 @@
+{
+  "id": "5eb0a66a-6f30-4a61-9fd8-e9fed3a32c6f",
+  "name": "Paul",
+  "heightCm": 103,
+  "weightKg": 186,
+  "eyeColor": "Hazel",
+  "hairColor": "Silver",
+  "breed": "Hybrid",
+  "placeOfBirth": "Sethtown, Nauru",
+  "description": "Paul is a hazel-eyed llama with silver hair, standing 103 cm tall. Originally from Sethtown, Nauru, Paul enjoys hiking, knitting, singing. Known for their friendly and curious personality, Paul is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "30c2d05e-165f-468f-81d6-0bb724cf7558",
+    "relationship": "cousin"
+  }
+}

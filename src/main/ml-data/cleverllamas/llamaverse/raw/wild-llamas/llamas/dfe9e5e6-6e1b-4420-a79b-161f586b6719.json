@@ -1,0 +1,15 @@
+{
+  "id": "dfe9e5e6-6e1b-4420-a79b-161f586b6719",
+  "name": "Elizabeth",
+  "heightCm": 195,
+  "weightKg": 168,
+  "eyeColor": "Brown",
+  "hairColor": "Gray",
+  "breed": "Suri",
+  "placeOfBirth": "New Alexandrafurt, Netherlands Antilles",
+  "description": "Elizabeth is a brown-eyed llama with gray hair, standing 195 cm tall. Originally from New Alexandrafurt, Netherlands Antilles, Elizabeth enjoys singing, hiking, cooking. Known for their friendly and gentle personality, Elizabeth is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "9d4f1dcd-79b6-4f58-802b-6a92f394f798",
+    "relationship": "father"
+  }
+}

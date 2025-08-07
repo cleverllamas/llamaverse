@@ -1,0 +1,15 @@
+{
+  "id": "d433ad27-52a4-4b76-b3c5-e426c1c13b23",
+  "name": "Jeffrey",
+  "heightCm": 187,
+  "weightKg": 198,
+  "eyeColor": "Hazel",
+  "hairColor": "Black",
+  "breed": "Hybrid",
+  "placeOfBirth": "New Travis, Saint Kitts and Nevis",
+  "description": "Jeffrey is a hazel-eyed llama with black hair, standing 187 cm tall. Originally from New Travis, Saint Kitts and Nevis, Jeffrey enjoys reading, wood carving, singing. Known for their friendly and friendly personality, Jeffrey is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "eb7f5486-6d8d-437f-a526-ab477bf68b9d",
+    "relationship": "15th cousin 9th removed"
+  }
+}

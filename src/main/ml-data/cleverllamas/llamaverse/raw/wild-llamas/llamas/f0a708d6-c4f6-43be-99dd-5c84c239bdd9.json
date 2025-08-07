@@ -1,0 +1,15 @@
+{
+  "id": "f0a708d6-c4f6-43be-99dd-5c84c239bdd9",
+  "name": "Krystal",
+  "heightCm": 131,
+  "weightKg": 172,
+  "eyeColor": "Amber",
+  "hairColor": "Brown",
+  "breed": "Huacaya",
+  "placeOfBirth": "Rachelbury, Australia",
+  "description": "Krystal is a amber-eyed llama with brown hair, standing 131 cm tall. Originally from Rachelbury, Australia, Krystal enjoys gardening, reading, hiking. Known for their energetic and friendly personality, Krystal is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "76c5bd0e-c1b2-4ebd-abed-c9cc5042dffa",
+    "relationship": "great uncle"
+  }
+}

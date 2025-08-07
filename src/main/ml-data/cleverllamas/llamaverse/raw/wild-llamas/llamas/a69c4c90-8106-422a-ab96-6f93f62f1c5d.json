@@ -1,0 +1,15 @@
+{
+  "id": "a69c4c90-8106-422a-ab96-6f93f62f1c5d",
+  "name": "Mary",
+  "heightCm": 118,
+  "weightKg": 153,
+  "eyeColor": "Amber",
+  "hairColor": "Gray",
+  "breed": "Hybrid",
+  "placeOfBirth": "North Stephaniefort, Saint Lucia",
+  "description": "Mary is a amber-eyed llama with gray hair, standing 118 cm tall. Originally from North Stephaniefort, Saint Lucia, Mary enjoys painting, singing, cooking. Known for their friendly and calm personality, Mary is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "8da4fa3b-e6d1-4b73-bcb7-33ed5588adc6",
+    "relationship": "second cousin"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "7110d152-7f17-44ba-8f15-0cbb6e1fbc2a",
+  "name": "Joseph",
+  "heightCm": 159,
+  "weightKg": 182,
+  "eyeColor": "Green",
+  "hairColor": "Black",
+  "breed": "Hybrid",
+  "placeOfBirth": "North Marcuston, Ecuador",
+  "description": "Joseph is a green-eyed llama with black hair, standing 159 cm tall. Originally from North Marcuston, Ecuador, Joseph enjoys wood carving, gardening, hiking. Known for their mischievous and gentle personality, Joseph is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "cd37f616-e707-47f3-99c0-d20def77c1a6",
+    "relationship": "father"
+  }
+}

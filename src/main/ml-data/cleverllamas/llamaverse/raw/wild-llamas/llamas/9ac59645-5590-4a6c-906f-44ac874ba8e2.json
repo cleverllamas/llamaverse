@@ -1,0 +1,15 @@
+{
+  "id": "9ac59645-5590-4a6c-906f-44ac874ba8e2",
+  "name": "David",
+  "heightCm": 105,
+  "weightKg": 197,
+  "eyeColor": "Blue",
+  "hairColor": "Brown",
+  "breed": "Suri",
+  "placeOfBirth": "Emilyland, Timor-Leste",
+  "description": "David is a blue-eyed llama with brown hair, standing 105 cm tall. Originally from Emilyland, Timor-Leste, David enjoys wood carving, knitting, hiking. Known for their mischievous and playful personality, David is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "528c752a-05eb-4ad6-82a8-234f00e9ffab",
+    "relationship": "uncle"
+  }
+}

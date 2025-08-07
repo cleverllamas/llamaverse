@@ -1,0 +1,15 @@
+{
+  "id": "f2b70537-bdd4-4b7a-b5a3-3522efe5108a",
+  "name": "Brittney",
+  "heightCm": 122,
+  "weightKg": 194,
+  "eyeColor": "Gray",
+  "hairColor": "Brown",
+  "breed": "Suri",
+  "placeOfBirth": "South Caitlinchester, Slovakia (Slovak Republic)",
+  "description": "Brittney is a gray-eyed llama with brown hair, standing 122 cm tall. Originally from South Caitlinchester, Slovakia (Slovak Republic), Brittney enjoys knitting, hiking, wood carving. Known for their energetic and curious personality, Brittney is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "ca30a4fc-27cc-46eb-a6f3-e9cc25f2e5c7",
+    "relationship": "father"
+  }
+}

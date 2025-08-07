@@ -1,0 +1,15 @@
+{
+  "id": "5ae73a1c-2d00-4cbc-b60b-5784f37f998c",
+  "name": "Brian",
+  "heightCm": 192,
+  "weightKg": 189,
+  "eyeColor": "Hazel",
+  "hairColor": "Brown",
+  "breed": "Huacaya",
+  "placeOfBirth": "East Steven, Montserrat",
+  "description": "Brian is a hazel-eyed llama with brown hair, standing 192 cm tall. Originally from East Steven, Montserrat, Brian enjoys reading, cooking, knitting. Known for their curious and curious personality, Brian is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "2d9c4bd7-e2a0-4f1a-a75e-cc2172d8baa3",
+    "relationship": "4th cousin once removed"
+  }
+}

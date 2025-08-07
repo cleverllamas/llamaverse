@@ -1,0 +1,15 @@
+{
+  "id": "3d532589-e461-4139-a44b-89fe4f0e59ce",
+  "name": "Sarah",
+  "heightCm": 198,
+  "weightKg": 177,
+  "eyeColor": "Green",
+  "hairColor": "Blonde",
+  "breed": "Suri",
+  "placeOfBirth": "North Christophermouth, Cook Islands",
+  "description": "Sarah is a green-eyed llama with blonde hair, standing 198 cm tall. Originally from North Christophermouth, Cook Islands, Sarah enjoys painting, hiking, reading. Known for their shy and energetic personality, Sarah is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "6702b42c-8c65-4e71-bc65-e21eb06e8c03",
+    "relationship": "great uncle"
+  }
+}

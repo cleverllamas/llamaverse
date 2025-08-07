@@ -1,0 +1,15 @@
+{
+  "id": "f36c9e79-c293-48f7-99b6-67526ce6a9f3",
+  "name": "Seth",
+  "heightCm": 145,
+  "weightKg": 142,
+  "eyeColor": "Green",
+  "hairColor": "Silver",
+  "breed": "Huacaya",
+  "placeOfBirth": "Port Tinastad, Oman",
+  "description": "Seth is a green-eyed llama with silver hair, standing 145 cm tall. Originally from Port Tinastad, Oman, Seth enjoys singing, gardening, knitting. Known for their curious and curious personality, Seth is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "c53e7eb9-4fba-4ec0-af20-caa7e60c9417",
+    "relationship": "uncle"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "fda284f3-3612-45ec-8b65-1d238377578e",
+  "name": "Melanie",
+  "heightCm": 172,
+  "weightKg": 165,
+  "eyeColor": "Brown",
+  "hairColor": "White",
+  "breed": "Hybrid",
+  "placeOfBirth": "Lake Patriciabury, Antigua and Barbuda",
+  "description": "Melanie is a brown-eyed llama with white hair, standing 172 cm tall. Originally from Lake Patriciabury, Antigua and Barbuda, Melanie enjoys singing, reading, painting. Known for their mischievous and gentle personality, Melanie is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "588a61ed-12d5-4c5d-9024-32aa9f136aad",
+    "relationship": "sister"
+  }
+}

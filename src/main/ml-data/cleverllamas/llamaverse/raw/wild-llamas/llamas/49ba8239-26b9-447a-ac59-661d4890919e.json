@@ -1,0 +1,15 @@
+{
+  "id": "49ba8239-26b9-447a-ac59-661d4890919e",
+  "name": "Charles",
+  "heightCm": 158,
+  "weightKg": 172,
+  "eyeColor": "Blue",
+  "hairColor": "Blonde",
+  "breed": "Hybrid",
+  "placeOfBirth": "Davisburgh, Monaco",
+  "description": "Charles is a blue-eyed llama with blonde hair, standing 158 cm tall. Originally from Davisburgh, Monaco, Charles enjoys reading, painting, dancing. Known for their playful and energetic personality, Charles is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "e79b5aae-123b-4aea-9bc8-691684551bc9",
+    "relationship": "aunt"
+  }
+}

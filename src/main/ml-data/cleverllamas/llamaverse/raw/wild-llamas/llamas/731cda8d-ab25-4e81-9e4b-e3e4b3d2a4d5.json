@@ -1,0 +1,15 @@
+{
+  "id": "731cda8d-ab25-4e81-9e4b-e3e4b3d2a4d5",
+  "name": "Craig",
+  "heightCm": 189,
+  "weightKg": 172,
+  "eyeColor": "Green",
+  "hairColor": "Black",
+  "breed": "Suri",
+  "placeOfBirth": "Lake Williamhaven, Dominica",
+  "description": "Craig is a green-eyed llama with black hair, standing 189 cm tall. Originally from Lake Williamhaven, Dominica, Craig enjoys knitting, reading, dancing. Known for their calm and friendly personality, Craig is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "400a0b2a-8f81-4b9b-b559-727fe20f3c07",
+    "relationship": "father"
+  }
+}

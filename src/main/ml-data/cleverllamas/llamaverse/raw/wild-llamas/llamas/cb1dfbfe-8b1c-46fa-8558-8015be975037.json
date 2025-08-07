@@ -1,0 +1,15 @@
+{
+  "id": "cb1dfbfe-8b1c-46fa-8558-8015be975037",
+  "name": "Teresa",
+  "heightCm": 193,
+  "weightKg": 190,
+  "eyeColor": "Amber",
+  "hairColor": "Brown",
+  "breed": "Huacaya",
+  "placeOfBirth": "West Matthew, Cayman Islands",
+  "description": "Teresa is a amber-eyed llama with brown hair, standing 193 cm tall. Originally from West Matthew, Cayman Islands, Teresa enjoys dancing, singing, reading. Known for their friendly and calm personality, Teresa is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "2f3c6e13-9c48-4cfb-95f9-18d1e431a643",
+    "relationship": "aunt"
+  }
+}

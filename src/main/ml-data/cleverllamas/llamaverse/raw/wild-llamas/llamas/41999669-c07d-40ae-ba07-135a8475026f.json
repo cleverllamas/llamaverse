@@ -1,0 +1,15 @@
+{
+  "id": "41999669-c07d-40ae-ba07-135a8475026f",
+  "name": "Kyle",
+  "heightCm": 179,
+  "weightKg": 170,
+  "eyeColor": "Amber",
+  "hairColor": "Brown",
+  "breed": "Huacaya",
+  "placeOfBirth": "New Justin, Serbia",
+  "description": "Kyle is a amber-eyed llama with brown hair, standing 179 cm tall. Originally from New Justin, Serbia, Kyle enjoys knitting, wood carving, gardening. Known for their mischievous and playful personality, Kyle is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "b04a4cf3-4e3a-48b0-9dc8-9b8fecc399d7",
+    "relationship": "great uncle"
+  }
+}

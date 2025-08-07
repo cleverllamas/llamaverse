@@ -1,0 +1,15 @@
+{
+  "id": "d5b725e2-079d-49a1-8b9f-a44039343669",
+  "name": "Victor",
+  "heightCm": 182,
+  "weightKg": 155,
+  "eyeColor": "Amber",
+  "hairColor": "Black",
+  "breed": "Suri",
+  "placeOfBirth": "Lake Lorimouth, Guinea-Bissau",
+  "description": "Victor is a amber-eyed llama with black hair, standing 182 cm tall. Originally from Lake Lorimouth, Guinea-Bissau, Victor enjoys hiking, singing, reading. Known for their calm and playful personality, Victor is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "42658258-0204-46c3-9be3-ddc3bce01167",
+    "relationship": "second cousin"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "713a97a4-3474-4169-aab9-14023f6c8e3c",
+  "name": "Benjamin",
+  "heightCm": 175,
+  "weightKg": 196,
+  "eyeColor": "Brown",
+  "hairColor": "Black",
+  "breed": "Hybrid",
+  "placeOfBirth": "Spencerstad, New Zealand",
+  "description": "Benjamin is a brown-eyed llama with black hair, standing 175 cm tall. Originally from Spencerstad, New Zealand, Benjamin enjoys singing, knitting, dancing. Known for their gentle and friendly personality, Benjamin is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "167eea9b-028c-4660-9d91-1df904fb28bd",
+    "relationship": "aunt"
+  }
+}

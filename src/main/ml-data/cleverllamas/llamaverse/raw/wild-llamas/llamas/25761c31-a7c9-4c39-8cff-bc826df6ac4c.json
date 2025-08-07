@@ -1,0 +1,15 @@
+{
+  "id": "25761c31-a7c9-4c39-8cff-bc826df6ac4c",
+  "name": "Christian",
+  "heightCm": 142,
+  "weightKg": 190,
+  "eyeColor": "Hazel",
+  "hairColor": "Silver",
+  "breed": "Hybrid",
+  "placeOfBirth": "Lake Juliemouth, Djibouti",
+  "description": "Christian is a hazel-eyed llama with silver hair, standing 142 cm tall. Originally from Lake Juliemouth, Djibouti, Christian enjoys gardening, hiking, reading. Known for their playful and curious personality, Christian is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "8f475dd9-57fa-4e39-9b81-1f678294f1d4",
+    "relationship": "third cousin twice removed"
+  }
+}

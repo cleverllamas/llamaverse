@@ -1,0 +1,15 @@
+{
+  "id": "c11fbd8b-7eae-4fe8-8de6-5e7657138e20",
+  "name": "Shane",
+  "heightCm": 139,
+  "weightKg": 159,
+  "eyeColor": "Hazel",
+  "hairColor": "Brown",
+  "breed": "Suri",
+  "placeOfBirth": "Maldonadoside, Aruba",
+  "description": "Shane is a hazel-eyed llama with brown hair, standing 139 cm tall. Originally from Maldonadoside, Aruba, Shane enjoys singing, wood carving, hiking. Known for their curious and shy personality, Shane is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "cf546b57-dc6d-4e06-8f6c-c57b9e359304",
+    "relationship": "brother"
+  }
+}

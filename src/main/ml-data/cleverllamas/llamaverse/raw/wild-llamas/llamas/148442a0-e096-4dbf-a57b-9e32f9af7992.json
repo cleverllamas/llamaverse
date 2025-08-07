@@ -1,0 +1,15 @@
+{
+  "id": "148442a0-e096-4dbf-a57b-9e32f9af7992",
+  "name": "Melissa",
+  "heightCm": 133,
+  "weightKg": 138,
+  "eyeColor": "Hazel",
+  "hairColor": "White",
+  "breed": "Suri",
+  "placeOfBirth": "South Scott, Anguilla",
+  "description": "Melissa is a hazel-eyed llama with white hair, standing 133 cm tall. Originally from South Scott, Anguilla, Melissa enjoys cooking, singing, knitting. Known for their playful and shy personality, Melissa is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "c079468a-fd7a-4f03-86db-351145cf990d",
+    "relationship": "third cousin twice removed"
+  }
+}

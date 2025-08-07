@@ -1,0 +1,15 @@
+{
+  "id": "54f83465-7eb4-4f77-991d-3f378fbba7c3",
+  "name": "Emily",
+  "heightCm": 154,
+  "weightKg": 191,
+  "eyeColor": "Amber",
+  "hairColor": "Red",
+  "breed": "Huacaya",
+  "placeOfBirth": "Lake Mitchell, French Polynesia",
+  "description": "Emily is a amber-eyed llama with red hair, standing 154 cm tall. Originally from Lake Mitchell, French Polynesia, Emily enjoys painting, knitting, wood carving. Known for their mischievous and friendly personality, Emily is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "80cdf16e-1f4e-4bf4-98b3-66f65189b6cf",
+    "relationship": "15th cousin 9th removed"
+  }
+}

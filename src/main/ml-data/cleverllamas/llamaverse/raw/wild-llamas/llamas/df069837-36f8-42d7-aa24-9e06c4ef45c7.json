@@ -1,0 +1,15 @@
+{
+  "id": "df069837-36f8-42d7-aa24-9e06c4ef45c7",
+  "name": "Kathryn",
+  "heightCm": 139,
+  "weightKg": 165,
+  "eyeColor": "Amber",
+  "hairColor": "Blonde",
+  "breed": "Suri",
+  "placeOfBirth": "Stewartmouth, Dominican Republic",
+  "description": "Kathryn is a amber-eyed llama with blonde hair, standing 139 cm tall. Originally from Stewartmouth, Dominican Republic, Kathryn enjoys knitting, gardening, painting. Known for their curious and energetic personality, Kathryn is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "728bc19a-4045-4243-9618-613d8eb11c27",
+    "relationship": "cousin"
+  }
+}

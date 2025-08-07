@@ -1,0 +1,15 @@
+{
+  "id": "5c82ff79-61c6-44b4-9665-6c0099c6a0b2",
+  "name": "Jennifer",
+  "heightCm": 167,
+  "weightKg": 158,
+  "eyeColor": "Brown",
+  "hairColor": "Black",
+  "breed": "Suri",
+  "placeOfBirth": "Josephstad, New Caledonia",
+  "description": "Jennifer is a brown-eyed llama with black hair, standing 167 cm tall. Originally from Josephstad, New Caledonia, Jennifer enjoys hiking, knitting, singing. Known for their curious and mischievous personality, Jennifer is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "d633e1c1-dfc0-4a16-ad75-a68caf5526ee",
+    "relationship": "aunt"
+  }
+}

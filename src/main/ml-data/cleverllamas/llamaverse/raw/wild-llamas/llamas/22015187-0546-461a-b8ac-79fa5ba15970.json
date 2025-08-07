@@ -1,0 +1,15 @@
+{
+  "id": "22015187-0546-461a-b8ac-79fa5ba15970",
+  "name": "Jeffrey",
+  "heightCm": 156,
+  "weightKg": 142,
+  "eyeColor": "Hazel",
+  "hairColor": "Black",
+  "breed": "Hybrid",
+  "placeOfBirth": "Jenniferside, Norway",
+  "description": "Jeffrey is a hazel-eyed llama with black hair, standing 156 cm tall. Originally from Jenniferside, Norway, Jeffrey enjoys reading, cooking, painting. Known for their curious and curious personality, Jeffrey is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "2553aa96-8b36-4f6e-8784-51413e1dd453",
+    "relationship": "cousin"
+  }
+}

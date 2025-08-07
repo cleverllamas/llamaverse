@@ -1,0 +1,15 @@
+{
+  "id": "cb2b97b3-8ad5-4042-92d0-864348f4fb8c",
+  "name": "Diana",
+  "heightCm": 111,
+  "weightKg": 187,
+  "eyeColor": "Blue",
+  "hairColor": "Gray",
+  "breed": "Suri",
+  "placeOfBirth": "Brandihaven, Hungary",
+  "description": "Diana is a blue-eyed llama with gray hair, standing 111 cm tall. Originally from Brandihaven, Hungary, Diana enjoys singing, knitting, hiking. Known for their calm and playful personality, Diana is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "ae2b7c2e-53e0-4017-bdd5-9e2ca00f25d7",
+    "relationship": "grandparent"
+  }
+}

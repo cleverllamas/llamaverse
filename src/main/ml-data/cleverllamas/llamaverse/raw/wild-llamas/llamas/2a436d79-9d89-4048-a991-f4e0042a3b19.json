@@ -1,0 +1,15 @@
+{
+  "id": "2a436d79-9d89-4048-a991-f4e0042a3b19",
+  "name": "Marcus",
+  "heightCm": 182,
+  "weightKg": 170,
+  "eyeColor": "Brown",
+  "hairColor": "Red",
+  "breed": "Huacaya",
+  "placeOfBirth": "Lake George, Isle of Man",
+  "description": "Marcus is a brown-eyed llama with red hair, standing 182 cm tall. Originally from Lake George, Isle of Man, Marcus enjoys cooking, reading, knitting. Known for their mischievous and energetic personality, Marcus is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "414f6452-34fa-47a9-acc3-a491bc1a94a7",
+    "relationship": "second cousin"
+  }
+}

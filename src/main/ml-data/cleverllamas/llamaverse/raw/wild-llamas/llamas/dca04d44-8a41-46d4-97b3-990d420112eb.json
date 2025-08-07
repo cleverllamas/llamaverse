@@ -1,0 +1,15 @@
+{
+  "id": "dca04d44-8a41-46d4-97b3-990d420112eb",
+  "name": "Andrea",
+  "heightCm": 167,
+  "weightKg": 193,
+  "eyeColor": "Brown",
+  "hairColor": "Red",
+  "breed": "Suri",
+  "placeOfBirth": "West Paigeland, Tanzania",
+  "description": "Andrea is a brown-eyed llama with red hair, standing 167 cm tall. Originally from West Paigeland, Tanzania, Andrea enjoys singing, gardening, reading. Known for their energetic and mischievous personality, Andrea is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "0a9cbd2c-0582-40e3-b986-dca379bc5b9b",
+    "relationship": "second cousin"
+  }
+}

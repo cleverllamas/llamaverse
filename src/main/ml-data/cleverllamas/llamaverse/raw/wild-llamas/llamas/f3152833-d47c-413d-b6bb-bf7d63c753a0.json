@@ -1,0 +1,15 @@
+{
+  "id": "f3152833-d47c-413d-b6bb-bf7d63c753a0",
+  "name": "Erin",
+  "heightCm": 148,
+  "weightKg": 153,
+  "eyeColor": "Hazel",
+  "hairColor": "White",
+  "breed": "Suri",
+  "placeOfBirth": "Port Katherineburgh, Tanzania",
+  "description": "Erin is a hazel-eyed llama with white hair, standing 148 cm tall. Originally from Port Katherineburgh, Tanzania, Erin enjoys cooking, painting, gardening. Known for their curious and friendly personality, Erin is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "f104426f-74e1-4725-ba9e-a6a4fdbe93b9",
+    "relationship": "15th cousin 9th removed"
+  }
+}

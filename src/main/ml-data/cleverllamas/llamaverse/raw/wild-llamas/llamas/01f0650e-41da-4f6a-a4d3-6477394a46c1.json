@@ -1,0 +1,15 @@
+{
+  "id": "01f0650e-41da-4f6a-a4d3-6477394a46c1",
+  "name": "Lauren",
+  "heightCm": 122,
+  "weightKg": 181,
+  "eyeColor": "Blue",
+  "hairColor": "Silver",
+  "breed": "Suri",
+  "placeOfBirth": "Charlesville, Czech Republic",
+  "description": "Lauren is a blue-eyed llama with silver hair, standing 122 cm tall. Originally from Charlesville, Czech Republic, Lauren enjoys wood carving, knitting, cooking. Known for their gentle and shy personality, Lauren is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "0a3d6008-9a23-4664-8952-7d9a678fee05",
+    "relationship": "mother"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "d2b26e69-e7c5-4f2d-8e62-8d1821afaece",
+  "name": "Angela",
+  "heightCm": 170,
+  "weightKg": 160,
+  "eyeColor": "Green",
+  "hairColor": "White",
+  "breed": "Hybrid",
+  "placeOfBirth": "Danielland, Colombia",
+  "description": "Angela is a green-eyed llama with white hair, standing 170 cm tall. Originally from Danielland, Colombia, Angela enjoys reading, dancing, cooking. Known for their gentle and gentle personality, Angela is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "0ae009db-aa94-4dce-966e-867702621afc",
+    "relationship": "mother"
+  }
+}

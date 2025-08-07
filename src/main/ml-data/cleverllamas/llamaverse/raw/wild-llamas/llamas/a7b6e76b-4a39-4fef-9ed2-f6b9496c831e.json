@@ -1,0 +1,15 @@
+{
+  "id": "a7b6e76b-4a39-4fef-9ed2-f6b9496c831e",
+  "name": "Melissa",
+  "heightCm": 159,
+  "weightKg": 164,
+  "eyeColor": "Hazel",
+  "hairColor": "Black",
+  "breed": "Suri",
+  "placeOfBirth": "Clarkeside, United States Virgin Islands",
+  "description": "Melissa is a hazel-eyed llama with black hair, standing 159 cm tall. Originally from Clarkeside, United States Virgin Islands, Melissa enjoys wood carving, hiking, reading. Known for their calm and shy personality, Melissa is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "64e6f517-fb14-499b-a16a-3eabd77c365e",
+    "relationship": "15th cousin 9th removed"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "f998f808-8c5d-4886-a9c0-c4a52ad11c2b",
+  "name": "Wayne",
+  "heightCm": 170,
+  "weightKg": 162,
+  "eyeColor": "Amber",
+  "hairColor": "Black",
+  "breed": "Suri",
+  "placeOfBirth": "New Desiree, French Southern Territories",
+  "description": "Wayne is a amber-eyed llama with black hair, standing 170 cm tall. Originally from New Desiree, French Southern Territories, Wayne enjoys painting, hiking, reading. Known for their gentle and energetic personality, Wayne is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "704cc4be-6000-4835-9c56-169b9f65f47d",
+    "relationship": "second cousin"
+  }
+}

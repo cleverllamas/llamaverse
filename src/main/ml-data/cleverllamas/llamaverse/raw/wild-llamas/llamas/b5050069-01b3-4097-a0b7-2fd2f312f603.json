@@ -1,0 +1,15 @@
+{
+  "id": "b5050069-01b3-4097-a0b7-2fd2f312f603",
+  "name": "Lauren",
+  "heightCm": 157,
+  "weightKg": 135,
+  "eyeColor": "Amber",
+  "hairColor": "White",
+  "breed": "Hybrid",
+  "placeOfBirth": "Port Coryton, Guinea-Bissau",
+  "description": "Lauren is a amber-eyed llama with white hair, standing 157 cm tall. Originally from Port Coryton, Guinea-Bissau, Lauren enjoys reading, cooking, gardening. Known for their shy and calm personality, Lauren is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "43e8b333-d0f0-4791-ba53-86a6998320e7",
+    "relationship": "great uncle"
+  }
+}

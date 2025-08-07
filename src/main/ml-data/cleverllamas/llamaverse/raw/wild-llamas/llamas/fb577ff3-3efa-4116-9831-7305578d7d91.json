@@ -1,0 +1,15 @@
+{
+  "id": "fb577ff3-3efa-4116-9831-7305578d7d91",
+  "name": "Ryan",
+  "heightCm": 169,
+  "weightKg": 198,
+  "eyeColor": "Brown",
+  "hairColor": "Brown",
+  "breed": "Suri",
+  "placeOfBirth": "Samuelfort, Uzbekistan",
+  "description": "Ryan is a brown-eyed llama with brown hair, standing 169 cm tall. Originally from Samuelfort, Uzbekistan, Ryan enjoys knitting, hiking, dancing. Known for their calm and shy personality, Ryan is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "e7965e01-8895-46f8-b5e1-2a7a921fca1c",
+    "relationship": "great uncle"
+  }
+}

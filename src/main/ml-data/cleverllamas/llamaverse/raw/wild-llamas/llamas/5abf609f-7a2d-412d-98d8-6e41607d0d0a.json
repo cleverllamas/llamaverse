@@ -1,0 +1,15 @@
+{
+  "id": "5abf609f-7a2d-412d-98d8-6e41607d0d0a",
+  "name": "Susan",
+  "heightCm": 105,
+  "weightKg": 136,
+  "eyeColor": "Green",
+  "hairColor": "Blonde",
+  "breed": "Huacaya",
+  "placeOfBirth": "Port Amber, Botswana",
+  "description": "Susan is a green-eyed llama with blonde hair, standing 105 cm tall. Originally from Port Amber, Botswana, Susan enjoys knitting, reading, wood carving. Known for their curious and shy personality, Susan is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "ea812876-e6f1-47f8-a1e6-c30c617eb78c",
+    "relationship": "second cousin"
+  }
+}

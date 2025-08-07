@@ -1,0 +1,15 @@
+{
+  "id": "36685a84-4e2c-42eb-945d-ec9ee16f6b5e",
+  "name": "Terri",
+  "heightCm": 184,
+  "weightKg": 134,
+  "eyeColor": "Hazel",
+  "hairColor": "Blonde",
+  "breed": "Suri",
+  "placeOfBirth": "Vincentchester, Cuba",
+  "description": "Terri is a hazel-eyed llama with blonde hair, standing 184 cm tall. Originally from Vincentchester, Cuba, Terri enjoys wood carving, cooking, knitting. Known for their gentle and gentle personality, Terri is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "a74b242e-62b0-4397-b8cf-d634085e6e1c",
+    "relationship": "cousin"
+  }
+}

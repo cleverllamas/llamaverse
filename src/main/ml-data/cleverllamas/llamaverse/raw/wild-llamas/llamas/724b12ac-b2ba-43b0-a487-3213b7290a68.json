@@ -1,0 +1,15 @@
+{
+  "id": "724b12ac-b2ba-43b0-a487-3213b7290a68",
+  "name": "Brenda",
+  "heightCm": 192,
+  "weightKg": 171,
+  "eyeColor": "Green",
+  "hairColor": "Silver",
+  "breed": "Hybrid",
+  "placeOfBirth": "South Leonard, Maldives",
+  "description": "Brenda is a green-eyed llama with silver hair, standing 192 cm tall. Originally from South Leonard, Maldives, Brenda enjoys hiking, gardening, reading. Known for their gentle and mischievous personality, Brenda is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "8fa03b1b-c3dc-49f2-bd09-5d1c579f794f",
+    "relationship": "uncle"
+  }
+}

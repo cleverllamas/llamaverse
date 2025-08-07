@@ -1,0 +1,15 @@
+{
+  "id": "1a22fb1e-a9f2-475a-9185-04672a0a008f",
+  "name": "Michael",
+  "heightCm": 174,
+  "weightKg": 139,
+  "eyeColor": "Blue",
+  "hairColor": "Red",
+  "breed": "Suri",
+  "placeOfBirth": "Lawrencefort, Austria",
+  "description": "Michael is a blue-eyed llama with red hair, standing 174 cm tall. Originally from Lawrencefort, Austria, Michael enjoys hiking, dancing, painting. Known for their friendly and gentle personality, Michael is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "61e2ad6b-052f-425d-9ae4-c97c5e6eabc5",
+    "relationship": "grandparent"
+  }
+}

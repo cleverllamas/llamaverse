@@ -1,0 +1,15 @@
+{
+  "id": "f5c1a7b8-1eb2-4aa8-b6ac-fbed83e8ef0f",
+  "name": "Heather",
+  "heightCm": 151,
+  "weightKg": 184,
+  "eyeColor": "Amber",
+  "hairColor": "Gray",
+  "breed": "Suri",
+  "placeOfBirth": "New Jillberg, Dominica",
+  "description": "Heather is a amber-eyed llama with gray hair, standing 151 cm tall. Originally from New Jillberg, Dominica, Heather enjoys cooking, knitting, dancing. Known for their gentle and calm personality, Heather is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "281fb88a-8e44-4fd4-94d5-0ca1b202fb4b",
+    "relationship": "sister"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "33e0429c-1624-4383-96e0-2788dd3f3132",
+  "name": "John",
+  "heightCm": 174,
+  "weightKg": 180,
+  "eyeColor": "Brown",
+  "hairColor": "Red",
+  "breed": "Suri",
+  "placeOfBirth": "Smithside, Netherlands",
+  "description": "John is a brown-eyed llama with red hair, standing 174 cm tall. Originally from Smithside, Netherlands, John enjoys knitting, dancing, singing. Known for their gentle and shy personality, John is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "74e5a988-2b90-4c4d-a5b5-80c3857cc0ba",
+    "relationship": "brother"
+  }
+}

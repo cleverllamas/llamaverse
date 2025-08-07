@@ -1,0 +1,15 @@
+{
+  "id": "126c4b68-c346-4113-8928-b0b4fb1f3f97",
+  "name": "Sean",
+  "heightCm": 125,
+  "weightKg": 178,
+  "eyeColor": "Blue",
+  "hairColor": "Gray",
+  "breed": "Hybrid",
+  "placeOfBirth": "Bradleyhaven, Canada",
+  "description": "Sean is a blue-eyed llama with gray hair, standing 125 cm tall. Originally from Bradleyhaven, Canada, Sean enjoys reading, singing, dancing. Known for their gentle and shy personality, Sean is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "879866ed-d466-4069-b6c8-77d827e23adf",
+    "relationship": "second cousin"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "7aeca4af-40b2-494c-9238-d636f310cc6e",
+  "name": "Jorge",
+  "heightCm": 138,
+  "weightKg": 163,
+  "eyeColor": "Brown",
+  "hairColor": "White",
+  "breed": "Hybrid",
+  "placeOfBirth": "West Nancyberg, Equatorial Guinea",
+  "description": "Jorge is a brown-eyed llama with white hair, standing 138 cm tall. Originally from West Nancyberg, Equatorial Guinea, Jorge enjoys singing, hiking, reading. Known for their playful and friendly personality, Jorge is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "faa07e72-5791-4201-bf82-c9e69d0df669",
+    "relationship": "father"
+  }
+}

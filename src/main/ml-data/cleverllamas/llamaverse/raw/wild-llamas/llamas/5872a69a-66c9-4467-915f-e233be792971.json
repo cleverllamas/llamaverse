@@ -1,0 +1,15 @@
+{
+  "id": "5872a69a-66c9-4467-915f-e233be792971",
+  "name": "Jennifer",
+  "heightCm": 179,
+  "weightKg": 192,
+  "eyeColor": "Blue",
+  "hairColor": "Black",
+  "breed": "Suri",
+  "placeOfBirth": "Romeroland, French Guiana",
+  "description": "Jennifer is a blue-eyed llama with black hair, standing 179 cm tall. Originally from Romeroland, French Guiana, Jennifer enjoys gardening, dancing, singing. Known for their mischievous and playful personality, Jennifer is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "fa493070-0148-41e5-9215-ffbb6d37bcc2",
+    "relationship": "second cousin"
+  }
+}

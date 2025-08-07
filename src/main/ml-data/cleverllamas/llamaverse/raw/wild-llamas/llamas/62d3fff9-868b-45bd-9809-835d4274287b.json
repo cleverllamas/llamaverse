@@ -1,0 +1,15 @@
+{
+  "id": "62d3fff9-868b-45bd-9809-835d4274287b",
+  "name": "Beverly",
+  "heightCm": 169,
+  "weightKg": 131,
+  "eyeColor": "Brown",
+  "hairColor": "Red",
+  "breed": "Huacaya",
+  "placeOfBirth": "Katherinemouth, Togo",
+  "description": "Beverly is a brown-eyed llama with red hair, standing 169 cm tall. Originally from Katherinemouth, Togo, Beverly enjoys gardening, wood carving, hiking. Known for their friendly and calm personality, Beverly is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "b559f85f-9848-48ff-868e-56c53110d8cd",
+    "relationship": "brother"
+  }
+}

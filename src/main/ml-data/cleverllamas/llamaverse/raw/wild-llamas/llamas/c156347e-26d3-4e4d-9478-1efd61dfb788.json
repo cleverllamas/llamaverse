@@ -1,0 +1,15 @@
+{
+  "id": "c156347e-26d3-4e4d-9478-1efd61dfb788",
+  "name": "Jennifer",
+  "heightCm": 129,
+  "weightKg": 179,
+  "eyeColor": "Green",
+  "hairColor": "Red",
+  "breed": "Suri",
+  "placeOfBirth": "Brookeshire, Vietnam",
+  "description": "Jennifer is a green-eyed llama with red hair, standing 129 cm tall. Originally from Brookeshire, Vietnam, Jennifer enjoys hiking, dancing, knitting. Known for their gentle and shy personality, Jennifer is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "b8868c49-1b01-453e-8221-e39c45865ea4",
+    "relationship": "cousin"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "3f3bbbf4-28d1-46b0-bfc6-4c630232919d",
+  "name": "Jerry",
+  "heightCm": 156,
+  "weightKg": 147,
+  "eyeColor": "Blue",
+  "hairColor": "Gray",
+  "breed": "Suri",
+  "placeOfBirth": "Coxborough, Isle of Man",
+  "description": "Jerry is a blue-eyed llama with gray hair, standing 156 cm tall. Originally from Coxborough, Isle of Man, Jerry enjoys cooking, wood carving, gardening. Known for their gentle and gentle personality, Jerry is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "8652e706-818c-4611-9a01-b1047a84689f",
+    "relationship": "aunt"
+  }
+}

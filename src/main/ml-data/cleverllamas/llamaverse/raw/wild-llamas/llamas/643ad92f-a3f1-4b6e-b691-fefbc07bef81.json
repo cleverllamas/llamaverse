@@ -1,0 +1,15 @@
+{
+  "id": "643ad92f-a3f1-4b6e-b691-fefbc07bef81",
+  "name": "Chris",
+  "heightCm": 102,
+  "weightKg": 142,
+  "eyeColor": "Green",
+  "hairColor": "Gray",
+  "breed": "Suri",
+  "placeOfBirth": "Dylanfurt, Mayotte",
+  "description": "Chris is a green-eyed llama with gray hair, standing 102 cm tall. Originally from Dylanfurt, Mayotte, Chris enjoys hiking, wood carving, singing. Known for their curious and friendly personality, Chris is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "e90f2935-23fb-401f-8603-a16d509be49f",
+    "relationship": "father"
+  }
+}

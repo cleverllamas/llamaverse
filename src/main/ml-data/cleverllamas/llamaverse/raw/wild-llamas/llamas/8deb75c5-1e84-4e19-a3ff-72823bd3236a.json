@@ -1,0 +1,15 @@
+{
+  "id": "8deb75c5-1e84-4e19-a3ff-72823bd3236a",
+  "name": "Shawn",
+  "heightCm": 153,
+  "weightKg": 148,
+  "eyeColor": "Gray",
+  "hairColor": "Blonde",
+  "breed": "Hybrid",
+  "placeOfBirth": "North Marie, Suriname",
+  "description": "Shawn is a gray-eyed llama with blonde hair, standing 153 cm tall. Originally from North Marie, Suriname, Shawn enjoys dancing, reading, cooking. Known for their energetic and friendly personality, Shawn is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "c64779e3-bed2-4b77-8ba5-241f8e56a4a2",
+    "relationship": "grandparent"
+  }
+}

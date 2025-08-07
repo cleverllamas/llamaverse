@@ -1,0 +1,15 @@
+{
+  "id": "3d7edc5b-6e8a-43f8-bffb-852314a06fb0",
+  "name": "Victor",
+  "heightCm": 184,
+  "weightKg": 157,
+  "eyeColor": "Amber",
+  "hairColor": "Brown",
+  "breed": "Hybrid",
+  "placeOfBirth": "Lake Jason, Uruguay",
+  "description": "Victor is a amber-eyed llama with brown hair, standing 184 cm tall. Originally from Lake Jason, Uruguay, Victor enjoys painting, singing, cooking. Known for their energetic and energetic personality, Victor is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "5469b8d2-263f-4785-8490-59888eebd478",
+    "relationship": "great uncle"
+  }
+}

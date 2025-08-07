@@ -1,0 +1,15 @@
+{
+  "id": "67ab2552-c964-4ad0-bf2e-d8edc4f0562c",
+  "name": "Alex",
+  "heightCm": 168,
+  "weightKg": 198,
+  "eyeColor": "Green",
+  "hairColor": "Blonde",
+  "breed": "Huacaya",
+  "placeOfBirth": "Susanland, Sao Tome and Principe",
+  "description": "Alex is a green-eyed llama with blonde hair, standing 168 cm tall. Originally from Susanland, Sao Tome and Principe, Alex enjoys wood carving, hiking, reading. Known for their friendly and energetic personality, Alex is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "b8868c49-1b01-453e-8221-e39c45865ea4",
+    "relationship": "third cousin twice removed"
+  }
+}

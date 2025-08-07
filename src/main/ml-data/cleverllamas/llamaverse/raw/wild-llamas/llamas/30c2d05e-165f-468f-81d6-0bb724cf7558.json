@@ -1,0 +1,15 @@
+{
+  "id": "30c2d05e-165f-468f-81d6-0bb724cf7558",
+  "name": "Amber",
+  "heightCm": 188,
+  "weightKg": 148,
+  "eyeColor": "Gray",
+  "hairColor": "Black",
+  "breed": "Hybrid",
+  "placeOfBirth": "Christineville, Cambodia",
+  "description": "Amber is a gray-eyed llama with black hair, standing 188 cm tall. Originally from Christineville, Cambodia, Amber enjoys painting, cooking, hiking. Known for their playful and gentle personality, Amber is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "589a65ad-5e41-43b5-bd27-8521222f8955",
+    "relationship": "grandparent"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "796378c0-cfe9-4db0-818f-cfc9b2c3a0fc",
+  "name": "Anthony",
+  "heightCm": 197,
+  "weightKg": 174,
+  "eyeColor": "Blue",
+  "hairColor": "White",
+  "breed": "Hybrid",
+  "placeOfBirth": "New Stephaniestad, Burundi",
+  "description": "Anthony is a blue-eyed llama with white hair, standing 197 cm tall. Originally from New Stephaniestad, Burundi, Anthony enjoys hiking, wood carving, reading. Known for their gentle and calm personality, Anthony is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "7e021cb8-b252-40a2-bb7a-570dbd57f325",
+    "relationship": "third cousin twice removed"
+  }
+}

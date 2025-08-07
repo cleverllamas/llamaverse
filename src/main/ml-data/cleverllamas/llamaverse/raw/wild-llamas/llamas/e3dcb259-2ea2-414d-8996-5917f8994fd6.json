@@ -1,0 +1,15 @@
+{
+  "id": "e3dcb259-2ea2-414d-8996-5917f8994fd6",
+  "name": "Allison",
+  "heightCm": 141,
+  "weightKg": 188,
+  "eyeColor": "Green",
+  "hairColor": "Silver",
+  "breed": "Suri",
+  "placeOfBirth": "Wrightchester, Peru",
+  "description": "Allison is a green-eyed llama with silver hair, standing 141 cm tall. Originally from Wrightchester, Peru, Allison enjoys wood carving, singing, gardening. Known for their playful and playful personality, Allison is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "d4dc9d0e-1104-4b40-a527-56c0a87c8bfd",
+    "relationship": "father"
+  }
+}

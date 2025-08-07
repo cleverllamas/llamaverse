@@ -1,0 +1,15 @@
+{
+  "id": "98254ed8-dba0-4db0-8084-3cf9b65b72a8",
+  "name": "Julie",
+  "heightCm": 169,
+  "weightKg": 178,
+  "eyeColor": "Hazel",
+  "hairColor": "Black",
+  "breed": "Hybrid",
+  "placeOfBirth": "Jamesberg, Estonia",
+  "description": "Julie is a hazel-eyed llama with black hair, standing 169 cm tall. Originally from Jamesberg, Estonia, Julie enjoys painting, hiking, wood carving. Known for their mischievous and curious personality, Julie is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "46ec7207-983d-4c69-8e55-bdea0f5232ab",
+    "relationship": "15th cousin 9th removed"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "a5269154-1d72-4a63-bee6-0c664a17b30d",
+  "name": "Shelly",
+  "heightCm": 193,
+  "weightKg": 143,
+  "eyeColor": "Gray",
+  "hairColor": "Gray",
+  "breed": "Suri",
+  "placeOfBirth": "East Edgar, Lebanon",
+  "description": "Shelly is a gray-eyed llama with gray hair, standing 193 cm tall. Originally from East Edgar, Lebanon, Shelly enjoys painting, reading, hiking. Known for their curious and playful personality, Shelly is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "c6e1b43d-ca0a-4c11-a0d9-e43e3896b354",
+    "relationship": "grandparent"
+  }
+}

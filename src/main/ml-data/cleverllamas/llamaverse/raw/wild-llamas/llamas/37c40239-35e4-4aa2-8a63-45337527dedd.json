@@ -1,0 +1,15 @@
+{
+  "id": "37c40239-35e4-4aa2-8a63-45337527dedd",
+  "name": "Oscar",
+  "heightCm": 104,
+  "weightKg": 194,
+  "eyeColor": "Amber",
+  "hairColor": "White",
+  "breed": "Suri",
+  "placeOfBirth": "South Kelli, Chile",
+  "description": "Oscar is a amber-eyed llama with white hair, standing 104 cm tall. Originally from South Kelli, Chile, Oscar enjoys dancing, reading, painting. Known for their shy and curious personality, Oscar is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "3ff6dbdf-2b15-4895-a1c9-0901474c3e03",
+    "relationship": "second cousin"
+  }
+}

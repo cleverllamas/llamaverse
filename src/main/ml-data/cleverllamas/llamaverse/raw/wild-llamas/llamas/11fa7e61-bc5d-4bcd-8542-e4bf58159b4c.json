@@ -1,0 +1,15 @@
+{
+  "id": "11fa7e61-bc5d-4bcd-8542-e4bf58159b4c",
+  "name": "Deborah",
+  "heightCm": 124,
+  "weightKg": 148,
+  "eyeColor": "Green",
+  "hairColor": "Red",
+  "breed": "Huacaya",
+  "placeOfBirth": "Port Jonathan, Lithuania",
+  "description": "Deborah is a green-eyed llama with red hair, standing 124 cm tall. Originally from Port Jonathan, Lithuania, Deborah enjoys cooking, dancing, knitting. Known for their energetic and friendly personality, Deborah is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "e5343d70-00c2-4d6c-9077-d34d9a790101",
+    "relationship": "great uncle"
+  }
+}

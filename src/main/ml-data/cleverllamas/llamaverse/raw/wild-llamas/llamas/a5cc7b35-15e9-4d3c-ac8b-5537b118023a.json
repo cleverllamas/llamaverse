@@ -1,0 +1,15 @@
+{
+  "id": "a5cc7b35-15e9-4d3c-ac8b-5537b118023a",
+  "name": "Deanna",
+  "heightCm": 186,
+  "weightKg": 179,
+  "eyeColor": "Amber",
+  "hairColor": "Silver",
+  "breed": "Huacaya",
+  "placeOfBirth": "Myersmouth, Lithuania",
+  "description": "Deanna is a amber-eyed llama with silver hair, standing 186 cm tall. Originally from Myersmouth, Lithuania, Deanna enjoys gardening, knitting, cooking. Known for their curious and energetic personality, Deanna is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "78677d9f-4b92-40cf-9779-4dbd5b17329c",
+    "relationship": "father"
+  }
+}

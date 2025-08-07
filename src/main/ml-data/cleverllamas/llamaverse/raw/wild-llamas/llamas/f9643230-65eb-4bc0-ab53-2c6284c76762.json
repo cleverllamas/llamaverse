@@ -1,0 +1,15 @@
+{
+  "id": "f9643230-65eb-4bc0-ab53-2c6284c76762",
+  "name": "Dawn",
+  "heightCm": 128,
+  "weightKg": 184,
+  "eyeColor": "Brown",
+  "hairColor": "Brown",
+  "breed": "Suri",
+  "placeOfBirth": "Katherineland, Senegal",
+  "description": "Dawn is a brown-eyed llama with brown hair, standing 128 cm tall. Originally from Katherineland, Senegal, Dawn enjoys gardening, hiking, wood carving. Known for their gentle and playful personality, Dawn is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "8f5493be-1a2a-43bd-94c6-8247a6db3dc9",
+    "relationship": "grandparent"
+  }
+}

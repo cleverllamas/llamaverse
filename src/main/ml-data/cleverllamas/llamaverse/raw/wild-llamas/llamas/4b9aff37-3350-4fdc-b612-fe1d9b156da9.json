@@ -1,0 +1,15 @@
+{
+  "id": "4b9aff37-3350-4fdc-b612-fe1d9b156da9",
+  "name": "Victoria",
+  "heightCm": 124,
+  "weightKg": 145,
+  "eyeColor": "Brown",
+  "hairColor": "Black",
+  "breed": "Suri",
+  "placeOfBirth": "Destinyville, Pitcairn Islands",
+  "description": "Victoria is a brown-eyed llama with black hair, standing 124 cm tall. Originally from Destinyville, Pitcairn Islands, Victoria enjoys gardening, painting, cooking. Known for their mischievous and mischievous personality, Victoria is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "47669760-4c3f-4fc1-94ce-7e25b8889dab",
+    "relationship": "cousin"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "ef8d1f30-2459-4f50-a626-d787661b2251",
+  "name": "Dana",
+  "heightCm": 138,
+  "weightKg": 137,
+  "eyeColor": "Green",
+  "hairColor": "Black",
+  "breed": "Huacaya",
+  "placeOfBirth": "Rachaelborough, Nigeria",
+  "description": "Dana is a green-eyed llama with black hair, standing 138 cm tall. Originally from Rachaelborough, Nigeria, Dana enjoys dancing, reading, hiking. Known for their shy and gentle personality, Dana is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "64bc9ea8-a33c-44af-9032-7ce36974117e",
+    "relationship": "uncle"
+  }
+}

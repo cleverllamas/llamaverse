@@ -1,0 +1,15 @@
+{
+  "id": "a545a9fe-59b7-42fd-984d-76ee7f70cb87",
+  "name": "Samuel",
+  "heightCm": 145,
+  "weightKg": 138,
+  "eyeColor": "Blue",
+  "hairColor": "Red",
+  "breed": "Huacaya",
+  "placeOfBirth": "East Mariaburgh, Sao Tome and Principe",
+  "description": "Samuel is a blue-eyed llama with red hair, standing 145 cm tall. Originally from East Mariaburgh, Sao Tome and Principe, Samuel enjoys gardening, cooking, painting. Known for their friendly and calm personality, Samuel is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "3893eb13-a3b4-4da5-b58a-518ac3ec5d37",
+    "relationship": "uncle"
+  }
+}

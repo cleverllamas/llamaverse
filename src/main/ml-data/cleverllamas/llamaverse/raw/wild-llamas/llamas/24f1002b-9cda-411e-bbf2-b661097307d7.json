@@ -1,0 +1,15 @@
+{
+  "id": "24f1002b-9cda-411e-bbf2-b661097307d7",
+  "name": "Virginia",
+  "heightCm": 186,
+  "weightKg": 170,
+  "eyeColor": "Brown",
+  "hairColor": "Gray",
+  "breed": "Huacaya",
+  "placeOfBirth": "New Johnnyland, Haiti",
+  "description": "Virginia is a brown-eyed llama with gray hair, standing 186 cm tall. Originally from New Johnnyland, Haiti, Virginia enjoys singing, reading, hiking. Known for their playful and curious personality, Virginia is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "d1f9a559-1c53-4a94-a811-4862a3f6b78f",
+    "relationship": "father"
+  }
+}

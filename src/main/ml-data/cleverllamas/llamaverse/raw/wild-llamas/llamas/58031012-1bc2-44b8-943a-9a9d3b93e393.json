@@ -1,0 +1,15 @@
+{
+  "id": "58031012-1bc2-44b8-943a-9a9d3b93e393",
+  "name": "David",
+  "heightCm": 114,
+  "weightKg": 196,
+  "eyeColor": "Brown",
+  "hairColor": "Black",
+  "breed": "Huacaya",
+  "placeOfBirth": "East Belinda, Tanzania",
+  "description": "David is a brown-eyed llama with black hair, standing 114 cm tall. Originally from East Belinda, Tanzania, David enjoys reading, cooking, painting. Known for their calm and curious personality, David is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "346d4365-f0f7-44df-8f03-a1ce916fbcd6",
+    "relationship": "second cousin"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "a7a87f5d-a617-47eb-947e-9df9edef3e1d",
+  "name": "Tim",
+  "heightCm": 153,
+  "weightKg": 170,
+  "eyeColor": "Gray",
+  "hairColor": "Blonde",
+  "breed": "Huacaya",
+  "placeOfBirth": "Millerburgh, Isle of Man",
+  "description": "Tim is a gray-eyed llama with blonde hair, standing 153 cm tall. Originally from Millerburgh, Isle of Man, Tim enjoys cooking, singing, wood carving. Known for their playful and friendly personality, Tim is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "b5798278-564d-44bf-8662-0727e14c7088",
+    "relationship": "sister"
+  }
+}

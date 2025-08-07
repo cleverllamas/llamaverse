@@ -1,0 +1,15 @@
+{
+  "id": "62b13b9c-4e35-4bb7-8cd9-aa56d1016313",
+  "name": "Craig",
+  "heightCm": 171,
+  "weightKg": 135,
+  "eyeColor": "Amber",
+  "hairColor": "Black",
+  "breed": "Hybrid",
+  "placeOfBirth": "North Frank, Spain",
+  "description": "Craig is a amber-eyed llama with black hair, standing 171 cm tall. Originally from North Frank, Spain, Craig enjoys hiking, cooking, knitting. Known for their gentle and mischievous personality, Craig is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "dd4d12c1-4c3e-4ba0-9086-91106459cc04",
+    "relationship": "sister"
+  }
+}

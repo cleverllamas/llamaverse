@@ -1,0 +1,15 @@
+{
+  "id": "5bbdc2fa-d1d4-4039-96ba-b45ab06de732",
+  "name": "Joy",
+  "heightCm": 125,
+  "weightKg": 151,
+  "eyeColor": "Blue",
+  "hairColor": "Silver",
+  "breed": "Suri",
+  "placeOfBirth": "New Holly, Bhutan",
+  "description": "Joy is a blue-eyed llama with silver hair, standing 125 cm tall. Originally from New Holly, Bhutan, Joy enjoys gardening, painting, wood carving. Known for their mischievous and shy personality, Joy is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "8ca9f807-9a96-4459-9508-0444ecb5cf91",
+    "relationship": "mother"
+  }
+}

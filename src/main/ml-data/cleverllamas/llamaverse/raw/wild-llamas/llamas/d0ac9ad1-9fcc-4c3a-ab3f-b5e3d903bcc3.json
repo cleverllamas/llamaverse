@@ -1,0 +1,15 @@
+{
+  "id": "d0ac9ad1-9fcc-4c3a-ab3f-b5e3d903bcc3",
+  "name": "Linda",
+  "heightCm": 159,
+  "weightKg": 189,
+  "eyeColor": "Gray",
+  "hairColor": "Silver",
+  "breed": "Huacaya",
+  "placeOfBirth": "Port Rachelview, French Southern Territories",
+  "description": "Linda is a gray-eyed llama with silver hair, standing 159 cm tall. Originally from Port Rachelview, French Southern Territories, Linda enjoys reading, singing, hiking. Known for their shy and gentle personality, Linda is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "9f1972e7-6c75-4abf-b99a-a4ae540d2f06",
+    "relationship": "brother"
+  }
+}

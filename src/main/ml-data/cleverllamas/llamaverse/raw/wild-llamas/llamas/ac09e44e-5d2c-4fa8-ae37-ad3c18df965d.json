@@ -1,0 +1,15 @@
+{
+  "id": "ac09e44e-5d2c-4fa8-ae37-ad3c18df965d",
+  "name": "Eric",
+  "heightCm": 157,
+  "weightKg": 140,
+  "eyeColor": "Green",
+  "hairColor": "Gray",
+  "breed": "Suri",
+  "placeOfBirth": "New Virginiahaven, Iceland",
+  "description": "Eric is a green-eyed llama with gray hair, standing 157 cm tall. Originally from New Virginiahaven, Iceland, Eric enjoys knitting, wood carving, hiking. Known for their playful and mischievous personality, Eric is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "3c5363ce-2476-4d64-bb7e-7fd911d10de6",
+    "relationship": "sister"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "f52eeec1-48a0-4266-b6bb-842a4b699f30",
+  "name": "Brandy",
+  "heightCm": 155,
+  "weightKg": 142,
+  "eyeColor": "Brown",
+  "hairColor": "Brown",
+  "breed": "Huacaya",
+  "placeOfBirth": "West Emily, Saint Pierre and Miquelon",
+  "description": "Brandy is a brown-eyed llama with brown hair, standing 155 cm tall. Originally from West Emily, Saint Pierre and Miquelon, Brandy enjoys gardening, hiking, painting. Known for their friendly and playful personality, Brandy is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "59714656-98a9-406a-b857-c4994cfcbb26",
+    "relationship": "15th cousin 9th removed"
+  }
+}

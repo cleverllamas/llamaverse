@@ -1,0 +1,15 @@
+{
+  "id": "96ade5bd-9dfb-4dbf-8b49-30f9adad5733",
+  "name": "Jon",
+  "heightCm": 114,
+  "weightKg": 193,
+  "eyeColor": "Gray",
+  "hairColor": "Brown",
+  "breed": "Suri",
+  "placeOfBirth": "East Edwinborough, Maldives",
+  "description": "Jon is a gray-eyed llama with brown hair, standing 114 cm tall. Originally from East Edwinborough, Maldives, Jon enjoys painting, reading, wood carving. Known for their curious and friendly personality, Jon is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "c081f43f-330f-4ab4-bc47-3b804012e567",
+    "relationship": "brother"
+  }
+}

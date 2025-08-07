@@ -1,0 +1,15 @@
+{
+  "id": "09a8611d-1095-4610-aa40-437eca6c877f",
+  "name": "Teresa",
+  "heightCm": 184,
+  "weightKg": 151,
+  "eyeColor": "Amber",
+  "hairColor": "Blonde",
+  "breed": "Hybrid",
+  "placeOfBirth": "East Pamela, Trinidad and Tobago",
+  "description": "Teresa is a amber-eyed llama with blonde hair, standing 184 cm tall. Originally from East Pamela, Trinidad and Tobago, Teresa enjoys singing, wood carving, knitting. Known for their friendly and gentle personality, Teresa is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "74a7c489-3515-45f9-88bd-2e8261a7e720",
+    "relationship": "second cousin"
+  }
+}

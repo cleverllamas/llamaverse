@@ -1,0 +1,15 @@
+{
+  "id": "a627398d-78c3-4945-9a72-a42d6603e6f9",
+  "name": "Carla",
+  "heightCm": 165,
+  "weightKg": 167,
+  "eyeColor": "Green",
+  "hairColor": "Gray",
+  "breed": "Hybrid",
+  "placeOfBirth": "North Davidchester, Qatar",
+  "description": "Carla is a green-eyed llama with gray hair, standing 165 cm tall. Originally from North Davidchester, Qatar, Carla enjoys cooking, painting, hiking. Known for their energetic and shy personality, Carla is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "d6829b8f-5ea3-4f21-a355-eb02d8f0f124",
+    "relationship": "uncle"
+  }
+}

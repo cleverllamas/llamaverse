@@ -1,0 +1,15 @@
+{
+  "id": "eac520c6-7042-40ac-9a83-7e0aee88ebc0",
+  "name": "Trevor",
+  "heightCm": 124,
+  "weightKg": 188,
+  "eyeColor": "Blue",
+  "hairColor": "Brown",
+  "breed": "Suri",
+  "placeOfBirth": "North Randy, Togo",
+  "description": "Trevor is a blue-eyed llama with brown hair, standing 124 cm tall. Originally from North Randy, Togo, Trevor enjoys hiking, cooking, gardening. Known for their curious and energetic personality, Trevor is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "37da5e79-69f5-426b-b767-84627b5ec64a",
+    "relationship": "cousin"
+  }
+}

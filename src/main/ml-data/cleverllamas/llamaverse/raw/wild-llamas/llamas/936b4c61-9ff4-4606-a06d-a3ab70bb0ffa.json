@@ -1,0 +1,15 @@
+{
+  "id": "936b4c61-9ff4-4606-a06d-a3ab70bb0ffa",
+  "name": "Philip",
+  "heightCm": 117,
+  "weightKg": 165,
+  "eyeColor": "Hazel",
+  "hairColor": "Brown",
+  "breed": "Suri",
+  "placeOfBirth": "South Suzannefort, Niue",
+  "description": "Philip is a hazel-eyed llama with brown hair, standing 117 cm tall. Originally from South Suzannefort, Niue, Philip enjoys hiking, reading, gardening. Known for their curious and gentle personality, Philip is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "96cbe862-4a7f-4c2e-86b4-9a4609168540",
+    "relationship": "4th cousin once removed"
+  }
+}

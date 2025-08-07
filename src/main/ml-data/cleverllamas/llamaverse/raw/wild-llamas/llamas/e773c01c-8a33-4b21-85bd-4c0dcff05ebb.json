@@ -1,0 +1,15 @@
+{
+  "id": "e773c01c-8a33-4b21-85bd-4c0dcff05ebb",
+  "name": "Dana",
+  "heightCm": 120,
+  "weightKg": 145,
+  "eyeColor": "Blue",
+  "hairColor": "Red",
+  "breed": "Hybrid",
+  "placeOfBirth": "South Sarahfort, Sweden",
+  "description": "Dana is a blue-eyed llama with red hair, standing 120 cm tall. Originally from South Sarahfort, Sweden, Dana enjoys painting, wood carving, singing. Known for their energetic and friendly personality, Dana is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "39c3b7d5-d5f6-4ea7-a4dd-32fb49337471",
+    "relationship": "grandparent"
+  }
+}

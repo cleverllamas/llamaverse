@@ -1,0 +1,15 @@
+{
+  "id": "2630bd82-e408-4b0e-8629-8093ceb77c92",
+  "name": "Anthony",
+  "heightCm": 198,
+  "weightKg": 147,
+  "eyeColor": "Blue",
+  "hairColor": "White",
+  "breed": "Hybrid",
+  "placeOfBirth": "Lake Ericaside, Nepal",
+  "description": "Anthony is a blue-eyed llama with white hair, standing 198 cm tall. Originally from Lake Ericaside, Nepal, Anthony enjoys painting, singing, cooking. Known for their mischievous and playful personality, Anthony is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "e1042fc5-9219-42e7-8a0c-44f7a5281a64",
+    "relationship": "second cousin"
+  }
+}

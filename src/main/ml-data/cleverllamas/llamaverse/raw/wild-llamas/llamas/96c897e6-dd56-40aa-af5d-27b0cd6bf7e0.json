@@ -1,0 +1,15 @@
+{
+  "id": "96c897e6-dd56-40aa-af5d-27b0cd6bf7e0",
+  "name": "Angela",
+  "heightCm": 136,
+  "weightKg": 185,
+  "eyeColor": "Hazel",
+  "hairColor": "Black",
+  "breed": "Suri",
+  "placeOfBirth": "Simpsonville, Bhutan",
+  "description": "Angela is a hazel-eyed llama with black hair, standing 136 cm tall. Originally from Simpsonville, Bhutan, Angela enjoys hiking, reading, gardening. Known for their shy and curious personality, Angela is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "d6162bc0-fb4a-48f3-9395-1de96870d16a",
+    "relationship": "aunt"
+  }
+}

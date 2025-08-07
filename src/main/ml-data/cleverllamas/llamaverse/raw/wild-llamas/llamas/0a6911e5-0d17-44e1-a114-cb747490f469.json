@@ -1,0 +1,15 @@
+{
+  "id": "0a6911e5-0d17-44e1-a114-cb747490f469",
+  "name": "Kyle",
+  "heightCm": 175,
+  "weightKg": 185,
+  "eyeColor": "Gray",
+  "hairColor": "Gray",
+  "breed": "Huacaya",
+  "placeOfBirth": "Lynnmouth, Myanmar",
+  "description": "Kyle is a gray-eyed llama with gray hair, standing 175 cm tall. Originally from Lynnmouth, Myanmar, Kyle enjoys singing, knitting, hiking. Known for their playful and energetic personality, Kyle is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "96c897e6-dd56-40aa-af5d-27b0cd6bf7e0",
+    "relationship": "15th cousin 9th removed"
+  }
+}

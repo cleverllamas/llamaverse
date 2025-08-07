@@ -1,0 +1,15 @@
+{
+  "id": "92dd09ce-4ceb-4450-9fda-4666be1b047b",
+  "name": "Melanie",
+  "heightCm": 126,
+  "weightKg": 145,
+  "eyeColor": "Blue",
+  "hairColor": "Gray",
+  "breed": "Hybrid",
+  "placeOfBirth": "South Kylebury, Puerto Rico",
+  "description": "Melanie is a blue-eyed llama with gray hair, standing 126 cm tall. Originally from South Kylebury, Puerto Rico, Melanie enjoys gardening, knitting, dancing. Known for their friendly and curious personality, Melanie is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "16317ce1-4a9c-4352-9866-5a7235836351",
+    "relationship": "cousin"
+  }
+}

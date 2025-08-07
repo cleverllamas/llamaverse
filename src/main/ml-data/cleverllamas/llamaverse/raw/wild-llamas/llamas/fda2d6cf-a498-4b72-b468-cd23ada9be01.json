@@ -1,0 +1,15 @@
+{
+  "id": "fda2d6cf-a498-4b72-b468-cd23ada9be01",
+  "name": "Timothy",
+  "heightCm": 168,
+  "weightKg": 196,
+  "eyeColor": "Amber",
+  "hairColor": "Blonde",
+  "breed": "Hybrid",
+  "placeOfBirth": "North John, Cocos (Keeling) Islands",
+  "description": "Timothy is a amber-eyed llama with blonde hair, standing 168 cm tall. Originally from North John, Cocos (Keeling) Islands, Timothy enjoys reading, knitting, cooking. Known for their shy and calm personality, Timothy is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "88804b9d-f0d5-4366-ab0a-0624a8586a7f",
+    "relationship": "great uncle"
+  }
+}

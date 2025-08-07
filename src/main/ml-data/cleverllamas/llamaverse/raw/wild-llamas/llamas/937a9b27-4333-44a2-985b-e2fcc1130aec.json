@@ -1,0 +1,15 @@
+{
+  "id": "937a9b27-4333-44a2-985b-e2fcc1130aec",
+  "name": "Michele",
+  "heightCm": 123,
+  "weightKg": 148,
+  "eyeColor": "Amber",
+  "hairColor": "Brown",
+  "breed": "Hybrid",
+  "placeOfBirth": "Johnsonmouth, Portugal",
+  "description": "Michele is a amber-eyed llama with brown hair, standing 123 cm tall. Originally from Johnsonmouth, Portugal, Michele enjoys singing, wood carving, cooking. Known for their curious and gentle personality, Michele is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "eb5d05e6-1c6b-4103-a8f5-3a4f40e463ce",
+    "relationship": "15th cousin 9th removed"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "a0b9ba9c-2e5a-4894-bbd2-ed66dcc0b3a3",
+  "name": "Jamie",
+  "heightCm": 121,
+  "weightKg": 130,
+  "eyeColor": "Gray",
+  "hairColor": "Silver",
+  "breed": "Hybrid",
+  "placeOfBirth": "North Kennethburgh, Maldives",
+  "description": "Jamie is a gray-eyed llama with silver hair, standing 121 cm tall. Originally from North Kennethburgh, Maldives, Jamie enjoys painting, dancing, singing. Known for their energetic and mischievous personality, Jamie is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "eda0dc0f-8c5d-486b-bcdf-4f191fa3823c",
+    "relationship": "grandparent"
+  }
+}

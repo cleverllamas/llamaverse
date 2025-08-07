@@ -1,0 +1,15 @@
+{
+  "id": "7ceb979a-b831-48fd-8b1a-a1c724370ba1",
+  "name": "Susan",
+  "heightCm": 119,
+  "weightKg": 180,
+  "eyeColor": "Brown",
+  "hairColor": "Blonde",
+  "breed": "Huacaya",
+  "placeOfBirth": "Amberside, Egypt",
+  "description": "Susan is a brown-eyed llama with blonde hair, standing 119 cm tall. Originally from Amberside, Egypt, Susan enjoys wood carving, dancing, gardening. Known for their mischievous and gentle personality, Susan is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "62de6491-f3a4-4f67-ab85-599ad635f507",
+    "relationship": "father"
+  }
+}

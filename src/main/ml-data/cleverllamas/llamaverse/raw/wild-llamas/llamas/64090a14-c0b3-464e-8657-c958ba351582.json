@@ -1,0 +1,15 @@
+{
+  "id": "64090a14-c0b3-464e-8657-c958ba351582",
+  "name": "Samantha",
+  "heightCm": 149,
+  "weightKg": 133,
+  "eyeColor": "Brown",
+  "hairColor": "White",
+  "breed": "Huacaya",
+  "placeOfBirth": "East Jose, New Caledonia",
+  "description": "Samantha is a brown-eyed llama with white hair, standing 149 cm tall. Originally from East Jose, New Caledonia, Samantha enjoys knitting, dancing, reading. Known for their gentle and gentle personality, Samantha is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "4711662e-f6b0-452a-98d5-690a65b0036e",
+    "relationship": "brother"
+  }
+}

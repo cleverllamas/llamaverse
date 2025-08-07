@@ -1,0 +1,15 @@
+{
+  "id": "4102804e-ab17-451c-b41d-64a14de3afc9",
+  "name": "Michael",
+  "heightCm": 180,
+  "weightKg": 157,
+  "eyeColor": "Hazel",
+  "hairColor": "Silver",
+  "breed": "Huacaya",
+  "placeOfBirth": "Heatherland, Pitcairn Islands",
+  "description": "Michael is a hazel-eyed llama with silver hair, standing 180 cm tall. Originally from Heatherland, Pitcairn Islands, Michael enjoys reading, singing, painting. Known for their playful and playful personality, Michael is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "db5542a7-5398-411b-bf7f-7b43d0a14c2b",
+    "relationship": "aunt"
+  }
+}

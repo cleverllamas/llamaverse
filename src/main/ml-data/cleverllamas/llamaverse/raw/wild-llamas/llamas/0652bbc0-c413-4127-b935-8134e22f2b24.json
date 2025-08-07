@@ -1,0 +1,15 @@
+{
+  "id": "0652bbc0-c413-4127-b935-8134e22f2b24",
+  "name": "John",
+  "heightCm": 160,
+  "weightKg": 137,
+  "eyeColor": "Brown",
+  "hairColor": "Gray",
+  "breed": "Huacaya",
+  "placeOfBirth": "Griffinchester, Monaco",
+  "description": "John is a brown-eyed llama with gray hair, standing 160 cm tall. Originally from Griffinchester, Monaco, John enjoys knitting, singing, painting. Known for their playful and friendly personality, John is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "f2076888-5e7d-4b76-a894-ddfe345c0b3f",
+    "relationship": "mother"
+  }
+}

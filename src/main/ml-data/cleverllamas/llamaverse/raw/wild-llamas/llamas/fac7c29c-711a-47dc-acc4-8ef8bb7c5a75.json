@@ -1,0 +1,15 @@
+{
+  "id": "fac7c29c-711a-47dc-acc4-8ef8bb7c5a75",
+  "name": "Teresa",
+  "heightCm": 169,
+  "weightKg": 160,
+  "eyeColor": "Hazel",
+  "hairColor": "Brown",
+  "breed": "Suri",
+  "placeOfBirth": "Fischerbury, Benin",
+  "description": "Teresa is a hazel-eyed llama with brown hair, standing 169 cm tall. Originally from Fischerbury, Benin, Teresa enjoys dancing, gardening, knitting. Known for their friendly and curious personality, Teresa is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "b0a756f4-9df4-41f0-84d1-9baba030dfd4",
+    "relationship": "second cousin"
+  }
+}

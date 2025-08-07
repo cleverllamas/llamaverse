@@ -1,0 +1,15 @@
+{
+  "id": "a74b242e-62b0-4397-b8cf-d634085e6e1c",
+  "name": "Steven",
+  "heightCm": 108,
+  "weightKg": 198,
+  "eyeColor": "Green",
+  "hairColor": "White",
+  "breed": "Suri",
+  "placeOfBirth": "Randytown, Cambodia",
+  "description": "Steven is a green-eyed llama with white hair, standing 108 cm tall. Originally from Randytown, Cambodia, Steven enjoys knitting, cooking, singing. Known for their friendly and calm personality, Steven is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "7b343095-e692-4ade-a8d5-749233f2b211",
+    "relationship": "uncle"
+  }
+}

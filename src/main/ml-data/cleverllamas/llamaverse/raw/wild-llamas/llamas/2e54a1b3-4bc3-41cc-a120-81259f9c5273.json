@@ -1,0 +1,15 @@
+{
+  "id": "2e54a1b3-4bc3-41cc-a120-81259f9c5273",
+  "name": "Lori",
+  "heightCm": 132,
+  "weightKg": 194,
+  "eyeColor": "Amber",
+  "hairColor": "Red",
+  "breed": "Suri",
+  "placeOfBirth": "Victoriaborough, Equatorial Guinea",
+  "description": "Lori is a amber-eyed llama with red hair, standing 132 cm tall. Originally from Victoriaborough, Equatorial Guinea, Lori enjoys painting, gardening, wood carving. Known for their shy and playful personality, Lori is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "f58427f0-01fe-4ed0-b7e9-cde474d37cec",
+    "relationship": "sister"
+  }
+}

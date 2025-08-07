@@ -1,0 +1,15 @@
+{
+  "id": "35adc006-8696-4a72-921e-08bbcfc20c9d",
+  "name": "Jackson",
+  "heightCm": 132,
+  "weightKg": 166,
+  "eyeColor": "Brown",
+  "hairColor": "Brown",
+  "breed": "Hybrid",
+  "placeOfBirth": "Deleonburgh, Netherlands Antilles",
+  "description": "Jackson is a brown-eyed llama with brown hair, standing 132 cm tall. Originally from Deleonburgh, Netherlands Antilles, Jackson enjoys cooking, dancing, painting. Known for their calm and calm personality, Jackson is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "eaa45d04-a899-46e4-b03c-519066d56854",
+    "relationship": "aunt"
+  }
+}

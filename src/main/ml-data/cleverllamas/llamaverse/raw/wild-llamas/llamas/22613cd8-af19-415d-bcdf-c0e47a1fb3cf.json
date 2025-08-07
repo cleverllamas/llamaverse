@@ -1,0 +1,15 @@
+{
+  "id": "22613cd8-af19-415d-bcdf-c0e47a1fb3cf",
+  "name": "Joe",
+  "heightCm": 133,
+  "weightKg": 135,
+  "eyeColor": "Blue",
+  "hairColor": "Gray",
+  "breed": "Hybrid",
+  "placeOfBirth": "Dustinside, Angola",
+  "description": "Joe is a blue-eyed llama with gray hair, standing 133 cm tall. Originally from Dustinside, Angola, Joe enjoys reading, cooking, hiking. Known for their mischievous and mischievous personality, Joe is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "37a807ef-5579-4aa5-9447-a7690bb2159f",
+    "relationship": "mother"
+  }
+}

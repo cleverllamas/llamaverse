@@ -1,0 +1,15 @@
+{
+  "id": "38a220a5-fbb7-442f-b527-666fd94228fb",
+  "name": "Daniel",
+  "heightCm": 127,
+  "weightKg": 142,
+  "eyeColor": "Green",
+  "hairColor": "White",
+  "breed": "Suri",
+  "placeOfBirth": "Danielsside, Philippines",
+  "description": "Daniel is a green-eyed llama with white hair, standing 127 cm tall. Originally from Danielsside, Philippines, Daniel enjoys singing, painting, gardening. Known for their friendly and mischievous personality, Daniel is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "e8cd5bc6-c804-4a00-a88c-5152aaea7aaa",
+    "relationship": "15th cousin 9th removed"
+  }
+}

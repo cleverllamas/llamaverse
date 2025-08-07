@@ -1,0 +1,15 @@
+{
+  "id": "4e99abbd-d28c-41fc-a825-4b8d765f2018",
+  "name": "Justin",
+  "heightCm": 196,
+  "weightKg": 169,
+  "eyeColor": "Green",
+  "hairColor": "Silver",
+  "breed": "Suri",
+  "placeOfBirth": "Palmermouth, Germany",
+  "description": "Justin is a green-eyed llama with silver hair, standing 196 cm tall. Originally from Palmermouth, Germany, Justin enjoys singing, wood carving, gardening. Known for their shy and shy personality, Justin is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "74b395f0-e11f-415f-ad0b-29d431544389",
+    "relationship": "brother"
+  }
+}

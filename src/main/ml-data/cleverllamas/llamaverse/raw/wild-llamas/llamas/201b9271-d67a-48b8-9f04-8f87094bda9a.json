@@ -1,0 +1,15 @@
+{
+  "id": "201b9271-d67a-48b8-9f04-8f87094bda9a",
+  "name": "Anna",
+  "heightCm": 132,
+  "weightKg": 190,
+  "eyeColor": "Green",
+  "hairColor": "Brown",
+  "breed": "Huacaya",
+  "placeOfBirth": "Janetfort, Puerto Rico",
+  "description": "Anna is a green-eyed llama with brown hair, standing 132 cm tall. Originally from Janetfort, Puerto Rico, Anna enjoys knitting, wood carving, dancing. Known for their energetic and calm personality, Anna is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "7d4c0337-f3f3-4d49-a0eb-54f8a8a0cb16",
+    "relationship": "uncle"
+  }
+}

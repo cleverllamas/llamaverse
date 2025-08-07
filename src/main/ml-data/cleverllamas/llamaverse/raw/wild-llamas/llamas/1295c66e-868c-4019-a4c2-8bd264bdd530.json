@@ -1,0 +1,15 @@
+{
+  "id": "1295c66e-868c-4019-a4c2-8bd264bdd530",
+  "name": "Jill",
+  "heightCm": 189,
+  "weightKg": 150,
+  "eyeColor": "Amber",
+  "hairColor": "Gray",
+  "breed": "Hybrid",
+  "placeOfBirth": "West Morganport, Sudan",
+  "description": "Jill is a amber-eyed llama with gray hair, standing 189 cm tall. Originally from West Morganport, Sudan, Jill enjoys painting, gardening, dancing. Known for their curious and curious personality, Jill is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "8accf44a-108a-4495-84ec-65b6acf113c5",
+    "relationship": "third cousin twice removed"
+  }
+}

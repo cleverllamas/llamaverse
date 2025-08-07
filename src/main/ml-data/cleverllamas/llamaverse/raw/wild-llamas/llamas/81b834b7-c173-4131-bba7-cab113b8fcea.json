@@ -1,0 +1,15 @@
+{
+  "id": "81b834b7-c173-4131-bba7-cab113b8fcea",
+  "name": "Willie",
+  "heightCm": 175,
+  "weightKg": 172,
+  "eyeColor": "Amber",
+  "hairColor": "Silver",
+  "breed": "Hybrid",
+  "placeOfBirth": "Jasonborough, Brunei Darussalam",
+  "description": "Willie is a amber-eyed llama with silver hair, standing 175 cm tall. Originally from Jasonborough, Brunei Darussalam, Willie enjoys reading, knitting, dancing. Known for their calm and energetic personality, Willie is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "02874ee4-e327-4c9b-a650-f5c9e70464d6",
+    "relationship": "third cousin twice removed"
+  }
+}

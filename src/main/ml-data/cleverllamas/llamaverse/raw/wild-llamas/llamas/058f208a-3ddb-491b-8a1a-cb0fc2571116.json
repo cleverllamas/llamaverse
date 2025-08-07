@@ -1,0 +1,15 @@
+{
+  "id": "058f208a-3ddb-491b-8a1a-cb0fc2571116",
+  "name": "Melvin",
+  "heightCm": 186,
+  "weightKg": 170,
+  "eyeColor": "Hazel",
+  "hairColor": "White",
+  "breed": "Huacaya",
+  "placeOfBirth": "Amyview, Lao People's Democratic Republic",
+  "description": "Melvin is a hazel-eyed llama with white hair, standing 186 cm tall. Originally from Amyview, Lao People's Democratic Republic, Melvin enjoys dancing, painting, knitting. Known for their playful and curious personality, Melvin is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "159849ee-284c-47b3-8e25-2ca82a51b006",
+    "relationship": "aunt"
+  }
+}

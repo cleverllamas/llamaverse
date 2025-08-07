@@ -1,0 +1,15 @@
+{
+  "id": "f3c3a8f7-547d-4292-ab3d-fb9f842142b5",
+  "name": "Patrick",
+  "heightCm": 119,
+  "weightKg": 132,
+  "eyeColor": "Green",
+  "hairColor": "Red",
+  "breed": "Suri",
+  "placeOfBirth": "East Eric, Argentina",
+  "description": "Patrick is a green-eyed llama with red hair, standing 119 cm tall. Originally from East Eric, Argentina, Patrick enjoys reading, cooking, knitting. Known for their calm and friendly personality, Patrick is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "507cf4de-4469-497f-9888-7756c592b119",
+    "relationship": "cousin"
+  }
+}

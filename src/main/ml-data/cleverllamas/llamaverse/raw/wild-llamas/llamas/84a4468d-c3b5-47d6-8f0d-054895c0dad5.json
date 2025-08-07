@@ -1,0 +1,15 @@
+{
+  "id": "84a4468d-c3b5-47d6-8f0d-054895c0dad5",
+  "name": "Jesse",
+  "heightCm": 149,
+  "weightKg": 144,
+  "eyeColor": "Hazel",
+  "hairColor": "White",
+  "breed": "Hybrid",
+  "placeOfBirth": "Stephaniefurt, Namibia",
+  "description": "Jesse is a hazel-eyed llama with white hair, standing 149 cm tall. Originally from Stephaniefurt, Namibia, Jesse enjoys hiking, cooking, singing. Known for their shy and energetic personality, Jesse is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "35374462-856d-455d-a9c0-6785c4dd9560",
+    "relationship": "second cousin"
+  }
+}

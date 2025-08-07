@@ -1,0 +1,15 @@
+{
+  "id": "e952a983-d2ce-48cd-bad4-3512c70e1ced",
+  "name": "Rebekah",
+  "heightCm": 104,
+  "weightKg": 140,
+  "eyeColor": "Brown",
+  "hairColor": "White",
+  "breed": "Hybrid",
+  "placeOfBirth": "Port Matthew, Lesotho",
+  "description": "Rebekah is a brown-eyed llama with white hair, standing 104 cm tall. Originally from Port Matthew, Lesotho, Rebekah enjoys cooking, hiking, reading. Known for their curious and friendly personality, Rebekah is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "c4abed1c-f18b-4db5-b872-2847dbb05b85",
+    "relationship": "second cousin"
+  }
+}

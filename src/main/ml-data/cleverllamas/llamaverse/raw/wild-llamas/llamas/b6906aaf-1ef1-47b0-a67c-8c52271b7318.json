@@ -1,0 +1,15 @@
+{
+  "id": "b6906aaf-1ef1-47b0-a67c-8c52271b7318",
+  "name": "Karen",
+  "heightCm": 181,
+  "weightKg": 162,
+  "eyeColor": "Hazel",
+  "hairColor": "Brown",
+  "breed": "Huacaya",
+  "placeOfBirth": "Lake Gregory, Indonesia",
+  "description": "Karen is a hazel-eyed llama with brown hair, standing 181 cm tall. Originally from Lake Gregory, Indonesia, Karen enjoys wood carving, dancing, reading. Known for their mischievous and calm personality, Karen is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "1c1dfc38-f8fa-4238-95c6-7adbd3b29591",
+    "relationship": "sister"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "02496cbf-98a1-49c2-8bdf-91c95775b6d0",
+  "name": "Ronald",
+  "heightCm": 114,
+  "weightKg": 142,
+  "eyeColor": "Green",
+  "hairColor": "Brown",
+  "breed": "Hybrid",
+  "placeOfBirth": "Carlaville, Iraq",
+  "description": "Ronald is a green-eyed llama with brown hair, standing 114 cm tall. Originally from Carlaville, Iraq, Ronald enjoys knitting, cooking, painting. Known for their energetic and friendly personality, Ronald is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "b8e6fe76-1a9a-417d-abb9-69d1734dc321",
+    "relationship": "15th cousin 9th removed"
+  }
+}

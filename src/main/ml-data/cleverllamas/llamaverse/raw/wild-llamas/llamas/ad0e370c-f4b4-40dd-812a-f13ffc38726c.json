@@ -1,0 +1,15 @@
+{
+  "id": "ad0e370c-f4b4-40dd-812a-f13ffc38726c",
+  "name": "Richard",
+  "heightCm": 129,
+  "weightKg": 150,
+  "eyeColor": "Green",
+  "hairColor": "Black",
+  "breed": "Hybrid",
+  "placeOfBirth": "Lake Moniqueport, Albania",
+  "description": "Richard is a green-eyed llama with black hair, standing 129 cm tall. Originally from Lake Moniqueport, Albania, Richard enjoys dancing, wood carving, reading. Known for their mischievous and energetic personality, Richard is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "452446b1-7058-4c96-ab0f-631abcad2a89",
+    "relationship": "aunt"
+  }
+}

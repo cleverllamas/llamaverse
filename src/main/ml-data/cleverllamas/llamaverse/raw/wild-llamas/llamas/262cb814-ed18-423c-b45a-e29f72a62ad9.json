@@ -1,0 +1,15 @@
+{
+  "id": "262cb814-ed18-423c-b45a-e29f72a62ad9",
+  "name": "Shane",
+  "heightCm": 175,
+  "weightKg": 161,
+  "eyeColor": "Brown",
+  "hairColor": "Blonde",
+  "breed": "Huacaya",
+  "placeOfBirth": "South Megan, Swaziland",
+  "description": "Shane is a brown-eyed llama with blonde hair, standing 175 cm tall. Originally from South Megan, Swaziland, Shane enjoys knitting, hiking, gardening. Known for their friendly and shy personality, Shane is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "c20cabcb-cec5-443d-9f57-41bfb85633bb",
+    "relationship": "grandparent"
+  }
+}

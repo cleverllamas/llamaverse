@@ -1,0 +1,15 @@
+{
+  "id": "bc55f6f0-7fdc-4851-b79b-b002fd0b026c",
+  "name": "Timothy",
+  "heightCm": 145,
+  "weightKg": 188,
+  "eyeColor": "Brown",
+  "hairColor": "White",
+  "breed": "Huacaya",
+  "placeOfBirth": "Lake Amanda, Seychelles",
+  "description": "Timothy is a brown-eyed llama with white hair, standing 145 cm tall. Originally from Lake Amanda, Seychelles, Timothy enjoys cooking, reading, painting. Known for their shy and shy personality, Timothy is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "d07bd3f3-1a93-4e8e-8d6b-3c34d2f8711d",
+    "relationship": "cousin"
+  }
+}

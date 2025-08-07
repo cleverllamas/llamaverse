@@ -1,0 +1,15 @@
+{
+  "id": "f1c14edc-2988-48d2-aa7e-a26eba042255",
+  "name": "Tara",
+  "heightCm": 198,
+  "weightKg": 154,
+  "eyeColor": "Gray",
+  "hairColor": "Brown",
+  "breed": "Suri",
+  "placeOfBirth": "South Robertfurt, British Indian Ocean Territory (Chagos Archipelago)",
+  "description": "Tara is a gray-eyed llama with brown hair, standing 198 cm tall. Originally from South Robertfurt, British Indian Ocean Territory (Chagos Archipelago), Tara enjoys singing, hiking, knitting. Known for their gentle and friendly personality, Tara is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "546e92e9-c963-4056-a437-669dc03294c0",
+    "relationship": "great uncle"
+  }
+}

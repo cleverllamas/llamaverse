@@ -1,0 +1,15 @@
+{
+  "id": "f9960aa1-9349-49e4-9762-cabf445d14fe",
+  "name": "Natasha",
+  "heightCm": 113,
+  "weightKg": 169,
+  "eyeColor": "Amber",
+  "hairColor": "Blonde",
+  "breed": "Hybrid",
+  "placeOfBirth": "Jessicamouth, British Virgin Islands",
+  "description": "Natasha is a amber-eyed llama with blonde hair, standing 113 cm tall. Originally from Jessicamouth, British Virgin Islands, Natasha enjoys hiking, painting, wood carving. Known for their gentle and mischievous personality, Natasha is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "89d03083-2ac4-419b-93f1-2d2ad97d2587",
+    "relationship": "aunt"
+  }
+}

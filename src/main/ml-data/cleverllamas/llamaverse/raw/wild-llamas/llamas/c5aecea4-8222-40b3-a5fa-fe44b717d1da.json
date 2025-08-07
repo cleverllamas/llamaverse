@@ -1,0 +1,15 @@
+{
+  "id": "c5aecea4-8222-40b3-a5fa-fe44b717d1da",
+  "name": "Erika",
+  "heightCm": 112,
+  "weightKg": 143,
+  "eyeColor": "Amber",
+  "hairColor": "Brown",
+  "breed": "Hybrid",
+  "placeOfBirth": "Bryanland, Guinea-Bissau",
+  "description": "Erika is a amber-eyed llama with brown hair, standing 112 cm tall. Originally from Bryanland, Guinea-Bissau, Erika enjoys painting, wood carving, hiking. Known for their friendly and energetic personality, Erika is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "9737d32b-fa63-46bc-98c4-74f21ee66d71",
+    "relationship": "cousin"
+  }
+}

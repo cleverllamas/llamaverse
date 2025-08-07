@@ -1,0 +1,15 @@
+{
+  "id": "b68fe2ff-9e19-43a3-ba3c-e19e996f2ffd",
+  "name": "Steven",
+  "heightCm": 169,
+  "weightKg": 144,
+  "eyeColor": "Blue",
+  "hairColor": "Brown",
+  "breed": "Hybrid",
+  "placeOfBirth": "North Jillianside, New Zealand",
+  "description": "Steven is a blue-eyed llama with brown hair, standing 169 cm tall. Originally from North Jillianside, New Zealand, Steven enjoys cooking, singing, knitting. Known for their calm and curious personality, Steven is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "69dcead6-0fa6-4136-99bc-ab3ff5ce8db7",
+    "relationship": "15th cousin 9th removed"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "cb50398f-b2dc-46b8-9455-2d15a0d9b8ac",
+  "name": "Shannon",
+  "heightCm": 176,
+  "weightKg": 182,
+  "eyeColor": "Blue",
+  "hairColor": "Black",
+  "breed": "Huacaya",
+  "placeOfBirth": "Pollardmouth, Greenland",
+  "description": "Shannon is a blue-eyed llama with black hair, standing 176 cm tall. Originally from Pollardmouth, Greenland, Shannon enjoys dancing, gardening, reading. Known for their gentle and calm personality, Shannon is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "78b18fec-2544-4bca-8921-899f85c54b92",
+    "relationship": "aunt"
+  }
+}

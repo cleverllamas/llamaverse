@@ -1,0 +1,15 @@
+{
+  "id": "3a45bea6-7c7c-43ff-8c0d-c03a00205458",
+  "name": "Aaron",
+  "heightCm": 162,
+  "weightKg": 177,
+  "eyeColor": "Brown",
+  "hairColor": "Brown",
+  "breed": "Hybrid",
+  "placeOfBirth": "Tiffanyhaven, Guam",
+  "description": "Aaron is a brown-eyed llama with brown hair, standing 162 cm tall. Originally from Tiffanyhaven, Guam, Aaron enjoys dancing, hiking, singing. Known for their playful and calm personality, Aaron is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "346d4365-f0f7-44df-8f03-a1ce916fbcd6",
+    "relationship": "father"
+  }
+}

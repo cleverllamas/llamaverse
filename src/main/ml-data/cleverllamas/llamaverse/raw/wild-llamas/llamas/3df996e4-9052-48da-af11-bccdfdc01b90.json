@@ -1,0 +1,15 @@
+{
+  "id": "3df996e4-9052-48da-af11-bccdfdc01b90",
+  "name": "Adam",
+  "heightCm": 145,
+  "weightKg": 177,
+  "eyeColor": "Hazel",
+  "hairColor": "Red",
+  "breed": "Hybrid",
+  "placeOfBirth": "North Justin, Korea",
+  "description": "Adam is a hazel-eyed llama with red hair, standing 145 cm tall. Originally from North Justin, Korea, Adam enjoys painting, gardening, cooking. Known for their energetic and energetic personality, Adam is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "9cee25a7-78e8-4dbb-baef-f603220cb486",
+    "relationship": "grandparent"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "7d29092f-f2bd-4573-b655-96d2087fb175",
+  "name": "Bobby",
+  "heightCm": 194,
+  "weightKg": 156,
+  "eyeColor": "Hazel",
+  "hairColor": "Blonde",
+  "breed": "Huacaya",
+  "placeOfBirth": "West Ericafurt, Zimbabwe",
+  "description": "Bobby is a hazel-eyed llama with blonde hair, standing 194 cm tall. Originally from West Ericafurt, Zimbabwe, Bobby enjoys wood carving, painting, reading. Known for their shy and playful personality, Bobby is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "2eb432d5-db2e-40cc-9fbf-35e38fa1041c",
+    "relationship": "brother"
+  }
+}

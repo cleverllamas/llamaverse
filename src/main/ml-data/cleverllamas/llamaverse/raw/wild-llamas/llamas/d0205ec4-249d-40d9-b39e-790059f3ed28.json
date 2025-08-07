@@ -1,0 +1,15 @@
+{
+  "id": "d0205ec4-249d-40d9-b39e-790059f3ed28",
+  "name": "Traci",
+  "heightCm": 131,
+  "weightKg": 181,
+  "eyeColor": "Blue",
+  "hairColor": "Red",
+  "breed": "Huacaya",
+  "placeOfBirth": "Lake Kelly, Jordan",
+  "description": "Traci is a blue-eyed llama with red hair, standing 131 cm tall. Originally from Lake Kelly, Jordan, Traci enjoys painting, cooking, reading. Known for their playful and calm personality, Traci is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "d84cd0a1-e180-4e9c-9ab3-6e88d17a7f59",
+    "relationship": "brother"
+  }
+}

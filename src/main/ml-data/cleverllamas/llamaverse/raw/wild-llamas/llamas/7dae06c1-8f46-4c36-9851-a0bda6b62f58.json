@@ -1,0 +1,15 @@
+{
+  "id": "7dae06c1-8f46-4c36-9851-a0bda6b62f58",
+  "name": "Mark",
+  "heightCm": 163,
+  "weightKg": 155,
+  "eyeColor": "Blue",
+  "hairColor": "Blonde",
+  "breed": "Hybrid",
+  "placeOfBirth": "West Anna, Tunisia",
+  "description": "Mark is a blue-eyed llama with blonde hair, standing 163 cm tall. Originally from West Anna, Tunisia, Mark enjoys gardening, singing, knitting. Known for their mischievous and shy personality, Mark is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "21671675-aaef-4f81-8ee9-41f17a6053f8",
+    "relationship": "cousin"
+  }
+}

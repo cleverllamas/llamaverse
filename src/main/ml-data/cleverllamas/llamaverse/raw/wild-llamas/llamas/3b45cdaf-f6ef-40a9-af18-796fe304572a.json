@@ -1,0 +1,15 @@
+{
+  "id": "3b45cdaf-f6ef-40a9-af18-796fe304572a",
+  "name": "Troy",
+  "heightCm": 153,
+  "weightKg": 165,
+  "eyeColor": "Green",
+  "hairColor": "Silver",
+  "breed": "Hybrid",
+  "placeOfBirth": "Lake Johnview, Saint Vincent and the Grenadines",
+  "description": "Troy is a green-eyed llama with silver hair, standing 153 cm tall. Originally from Lake Johnview, Saint Vincent and the Grenadines, Troy enjoys cooking, knitting, singing. Known for their gentle and curious personality, Troy is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "1b199761-120c-4cb2-af07-9346874c7998",
+    "relationship": "father"
+  }
+}

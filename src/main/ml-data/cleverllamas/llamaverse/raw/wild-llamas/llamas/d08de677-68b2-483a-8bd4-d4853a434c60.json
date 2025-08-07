@@ -1,0 +1,15 @@
+{
+  "id": "d08de677-68b2-483a-8bd4-d4853a434c60",
+  "name": "Teresa",
+  "heightCm": 147,
+  "weightKg": 131,
+  "eyeColor": "Green",
+  "hairColor": "Blonde",
+  "breed": "Huacaya",
+  "placeOfBirth": "North Nathanberg, Montenegro",
+  "description": "Teresa is a green-eyed llama with blonde hair, standing 147 cm tall. Originally from North Nathanberg, Montenegro, Teresa enjoys hiking, painting, dancing. Known for their energetic and playful personality, Teresa is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "a5a82470-f2f8-4323-a17c-3cdd1f71de55",
+    "relationship": "mother"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "684083aa-07d0-4724-aa17-7dbdbfc0dccc",
+  "name": "Pamela",
+  "heightCm": 102,
+  "weightKg": 187,
+  "eyeColor": "Green",
+  "hairColor": "Silver",
+  "breed": "Suri",
+  "placeOfBirth": "South Richardville, Cook Islands",
+  "description": "Pamela is a green-eyed llama with silver hair, standing 102 cm tall. Originally from South Richardville, Cook Islands, Pamela enjoys painting, hiking, reading. Known for their shy and gentle personality, Pamela is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "761f380e-4821-4835-919b-6d1ace13e05e",
+    "relationship": "second cousin"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "3d36994a-1329-43ca-9cd6-557d4ca97a26",
+  "name": "Christopher",
+  "heightCm": 192,
+  "weightKg": 145,
+  "eyeColor": "Hazel",
+  "hairColor": "White",
+  "breed": "Hybrid",
+  "placeOfBirth": "Port Brittanyville, Iran",
+  "description": "Christopher is a hazel-eyed llama with white hair, standing 192 cm tall. Originally from Port Brittanyville, Iran, Christopher enjoys knitting, cooking, wood carving. Known for their calm and calm personality, Christopher is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "f3c3a8f7-547d-4292-ab3d-fb9f842142b5",
+    "relationship": "brother"
+  }
+}

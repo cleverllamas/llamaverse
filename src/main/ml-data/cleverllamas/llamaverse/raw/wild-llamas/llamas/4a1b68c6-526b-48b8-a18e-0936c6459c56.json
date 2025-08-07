@@ -1,0 +1,15 @@
+{
+  "id": "4a1b68c6-526b-48b8-a18e-0936c6459c56",
+  "name": "Lindsey",
+  "heightCm": 139,
+  "weightKg": 142,
+  "eyeColor": "Blue",
+  "hairColor": "Black",
+  "breed": "Hybrid",
+  "placeOfBirth": "Lake Ruben, Barbados",
+  "description": "Lindsey is a blue-eyed llama with black hair, standing 139 cm tall. Originally from Lake Ruben, Barbados, Lindsey enjoys painting, reading, hiking. Known for their friendly and playful personality, Lindsey is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "717e71ad-8596-4c07-90cd-03c868977ae1",
+    "relationship": "aunt"
+  }
+}

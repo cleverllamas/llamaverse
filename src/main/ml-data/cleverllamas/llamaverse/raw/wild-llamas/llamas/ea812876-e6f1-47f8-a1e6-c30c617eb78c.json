@@ -1,0 +1,15 @@
+{
+  "id": "ea812876-e6f1-47f8-a1e6-c30c617eb78c",
+  "name": "Todd",
+  "heightCm": 100,
+  "weightKg": 163,
+  "eyeColor": "Gray",
+  "hairColor": "Brown",
+  "breed": "Huacaya",
+  "placeOfBirth": "Benjaminbury, Mongolia",
+  "description": "Todd is a gray-eyed llama with brown hair, standing 100 cm tall. Originally from Benjaminbury, Mongolia, Todd enjoys hiking, cooking, singing. Known for their calm and calm personality, Todd is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "4405ec01-8456-4ea8-96fd-d30003081a09",
+    "relationship": "mother"
+  }
+}

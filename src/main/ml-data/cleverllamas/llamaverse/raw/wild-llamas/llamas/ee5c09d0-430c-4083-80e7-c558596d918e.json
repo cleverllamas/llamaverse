@@ -1,0 +1,15 @@
+{
+  "id": "ee5c09d0-430c-4083-80e7-c558596d918e",
+  "name": "Valerie",
+  "heightCm": 181,
+  "weightKg": 144,
+  "eyeColor": "Hazel",
+  "hairColor": "Brown",
+  "breed": "Huacaya",
+  "placeOfBirth": "West Samantha, Isle of Man",
+  "description": "Valerie is a hazel-eyed llama with brown hair, standing 181 cm tall. Originally from West Samantha, Isle of Man, Valerie enjoys dancing, singing, cooking. Known for their calm and curious personality, Valerie is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "37c0153b-7cb8-412b-9bce-c3e931411164",
+    "relationship": "sister"
+  }
+}

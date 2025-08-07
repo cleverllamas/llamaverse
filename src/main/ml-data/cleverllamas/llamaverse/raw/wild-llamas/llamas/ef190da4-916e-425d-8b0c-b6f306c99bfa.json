@@ -1,0 +1,15 @@
+{
+  "id": "ef190da4-916e-425d-8b0c-b6f306c99bfa",
+  "name": "Gabriel",
+  "heightCm": 158,
+  "weightKg": 144,
+  "eyeColor": "Brown",
+  "hairColor": "Blonde",
+  "breed": "Suri",
+  "placeOfBirth": "New Patrick, Uganda",
+  "description": "Gabriel is a brown-eyed llama with blonde hair, standing 158 cm tall. Originally from New Patrick, Uganda, Gabriel enjoys knitting, painting, dancing. Known for their energetic and energetic personality, Gabriel is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "21ee610c-696a-42e4-ac0e-92cb47ca142a",
+    "relationship": "father"
+  }
+}

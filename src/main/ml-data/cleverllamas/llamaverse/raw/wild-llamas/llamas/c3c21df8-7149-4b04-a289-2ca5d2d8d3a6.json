@@ -1,0 +1,15 @@
+{
+  "id": "c3c21df8-7149-4b04-a289-2ca5d2d8d3a6",
+  "name": "Michelle",
+  "heightCm": 138,
+  "weightKg": 130,
+  "eyeColor": "Blue",
+  "hairColor": "Blonde",
+  "breed": "Suri",
+  "placeOfBirth": "Livingstonside, Liechtenstein",
+  "description": "Michelle is a blue-eyed llama with blonde hair, standing 138 cm tall. Originally from Livingstonside, Liechtenstein, Michelle enjoys cooking, knitting, dancing. Known for their energetic and mischievous personality, Michelle is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "a1f5f7a4-4a63-4755-b837-0a7d9cf41147",
+    "relationship": "sister"
+  }
+}
