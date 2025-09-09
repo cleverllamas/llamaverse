@@ -1,0 +1,15 @@
+{
+  "id": "ae1aa311-97ea-406d-8e8a-d01fb23692e4",
+  "name": "Paul",
+  "heightCm": 134,
+  "weightKg": 196,
+  "eyeColor": "Green",
+  "hairColor": "Red",
+  "breed": "Suri",
+  "placeOfBirth": "Parkerchester, Somalia",
+  "description": "Paul is a green-eyed llama with red hair, standing 134 cm tall. Originally from Parkerchester, Somalia, Paul enjoys painting, cooking, singing. Known for their energetic and calm personality, Paul is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "0fdeb39f-8dee-4f7a-a716-f6d37257810c",
+    "relationship": "uncle"
+  }
+}

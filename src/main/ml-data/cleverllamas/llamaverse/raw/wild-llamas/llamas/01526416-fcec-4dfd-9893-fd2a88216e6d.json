@@ -1,0 +1,15 @@
+{
+  "id": "01526416-fcec-4dfd-9893-fd2a88216e6d",
+  "name": "Dustin",
+  "heightCm": 118,
+  "weightKg": 181,
+  "eyeColor": "Gray",
+  "hairColor": "Blonde",
+  "breed": "Hybrid",
+  "placeOfBirth": "Ramoshaven, Anguilla",
+  "description": "Dustin is a gray-eyed llama with blonde hair, standing 118 cm tall. Originally from Ramoshaven, Anguilla, Dustin enjoys knitting, painting, wood carving. Known for their calm and playful personality, Dustin is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "e05424db-8f54-46d6-be25-e5aae9968528",
+    "relationship": "grandparent"
+  }
+}

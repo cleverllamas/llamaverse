@@ -1,0 +1,15 @@
+{
+  "id": "77c977bb-d05f-43da-a9a3-c366d7911055",
+  "name": "Emily",
+  "heightCm": 184,
+  "weightKg": 150,
+  "eyeColor": "Brown",
+  "hairColor": "Red",
+  "breed": "Suri",
+  "placeOfBirth": "Christophermouth, Papua New Guinea",
+  "description": "Emily is a brown-eyed llama with red hair, standing 184 cm tall. Originally from Christophermouth, Papua New Guinea, Emily enjoys dancing, painting, gardening. Known for their curious and playful personality, Emily is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "4bda43c0-8bcf-4a60-9ffb-62520488461e",
+    "relationship": "sister"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "1ca2c485-e9c1-46f1-82da-452e66da91e1",
+  "name": "John",
+  "heightCm": 168,
+  "weightKg": 176,
+  "eyeColor": "Amber",
+  "hairColor": "Blonde",
+  "breed": "Hybrid",
+  "placeOfBirth": "Carlosfurt, Costa Rica",
+  "description": "John is a amber-eyed llama with blonde hair, standing 168 cm tall. Originally from Carlosfurt, Costa Rica, John enjoys dancing, reading, knitting. Known for their shy and friendly personality, John is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "035ef433-606d-4284-a807-5e596c8bf970",
+    "relationship": "great uncle"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "9458e27d-e5a7-41a9-8b95-f61523b670c8",
+  "name": "David",
+  "heightCm": 175,
+  "weightKg": 173,
+  "eyeColor": "Brown",
+  "hairColor": "White",
+  "breed": "Hybrid",
+  "placeOfBirth": "North Aliciaborough, Eritrea",
+  "description": "David is a brown-eyed llama with white hair, standing 175 cm tall. Originally from North Aliciaborough, Eritrea, David enjoys painting, hiking, reading. Known for their mischievous and friendly personality, David is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "f0b8545b-053b-435e-ad52-781fe1677c6b",
+    "relationship": "great uncle"
+  }
+}

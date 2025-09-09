@@ -1,0 +1,15 @@
+{
+  "id": "e0965a69-e972-493f-b9bd-0caaf0d87b87",
+  "name": "Jonathan",
+  "heightCm": 177,
+  "weightKg": 172,
+  "eyeColor": "Gray",
+  "hairColor": "Blonde",
+  "breed": "Huacaya",
+  "placeOfBirth": "Lake David, Monaco",
+  "description": "Jonathan is a gray-eyed llama with blonde hair, standing 177 cm tall. Originally from Lake David, Monaco, Jonathan enjoys wood carving, dancing, reading. Known for their shy and calm personality, Jonathan is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "76ce74a7-802f-4010-8bfc-845608818b55",
+    "relationship": "cousin"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "93d5ec63-7b6d-43c7-ba54-2f291749e8f3",
+  "name": "Matthew",
+  "heightCm": 106,
+  "weightKg": 172,
+  "eyeColor": "Green",
+  "hairColor": "Gray",
+  "breed": "Hybrid",
+  "placeOfBirth": "Gregoryland, Pitcairn Islands",
+  "description": "Matthew is a green-eyed llama with gray hair, standing 106 cm tall. Originally from Gregoryland, Pitcairn Islands, Matthew enjoys painting, cooking, reading. Known for their friendly and shy personality, Matthew is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "ffd33344-7a50-4fc2-baa2-21d5effb3a4f",
+    "relationship": "second cousin"
+  }
+}

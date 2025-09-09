@@ -1,0 +1,15 @@
+{
+  "id": "04cad7ef-84fe-456e-882a-cff10a7863df",
+  "name": "Melissa",
+  "heightCm": 107,
+  "weightKg": 146,
+  "eyeColor": "Amber",
+  "hairColor": "Red",
+  "breed": "Suri",
+  "placeOfBirth": "North Tammyborough, Grenada",
+  "description": "Melissa is a amber-eyed llama with red hair, standing 107 cm tall. Originally from North Tammyborough, Grenada, Melissa enjoys dancing, cooking, painting. Known for their mischievous and energetic personality, Melissa is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "01526416-fcec-4dfd-9893-fd2a88216e6d",
+    "relationship": "mother"
+  }
+}

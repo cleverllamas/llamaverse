@@ -1,0 +1,15 @@
+{
+  "id": "12bd3df7-18d4-4257-a21c-e6d4c1f27f63",
+  "name": "Jonathan",
+  "heightCm": 114,
+  "weightKg": 140,
+  "eyeColor": "Hazel",
+  "hairColor": "Black",
+  "breed": "Suri",
+  "placeOfBirth": "Markstad, Macao",
+  "description": "Jonathan is a hazel-eyed llama with black hair, standing 114 cm tall. Originally from Markstad, Macao, Jonathan enjoys cooking, knitting, hiking. Known for their gentle and shy personality, Jonathan is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "27c39be6-0149-4035-9013-11977af42297",
+    "relationship": "second cousin"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "8173e761-f2de-4408-8b66-8131c2df717a",
+  "name": "Martin",
+  "heightCm": 159,
+  "weightKg": 185,
+  "eyeColor": "Hazel",
+  "hairColor": "Gray",
+  "breed": "Hybrid",
+  "placeOfBirth": "South Jon, Eritrea",
+  "description": "Martin is a hazel-eyed llama with gray hair, standing 159 cm tall. Originally from South Jon, Eritrea, Martin enjoys gardening, cooking, knitting. Known for their gentle and calm personality, Martin is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "1211a63d-22de-4c76-a3dd-7e4900ffabaa",
+    "relationship": "father"
+  }
+}

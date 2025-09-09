@@ -1,0 +1,15 @@
+{
+  "id": "1c1dfc38-f8fa-4238-95c6-7adbd3b29591",
+  "name": "Nathaniel",
+  "heightCm": 124,
+  "weightKg": 155,
+  "eyeColor": "Amber",
+  "hairColor": "Brown",
+  "breed": "Huacaya",
+  "placeOfBirth": "Larryhaven, Slovakia (Slovak Republic)",
+  "description": "Nathaniel is a amber-eyed llama with brown hair, standing 124 cm tall. Originally from Larryhaven, Slovakia (Slovak Republic), Nathaniel enjoys singing, hiking, cooking. Known for their energetic and mischievous personality, Nathaniel is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "ae8a263e-88af-40e6-a3a2-26033059cafa",
+    "relationship": "4th cousin once removed"
+  }
+}

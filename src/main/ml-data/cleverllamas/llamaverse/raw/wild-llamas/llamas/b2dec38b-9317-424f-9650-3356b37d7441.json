@@ -1,0 +1,15 @@
+{
+  "id": "b2dec38b-9317-424f-9650-3356b37d7441",
+  "name": "Nicholas",
+  "heightCm": 155,
+  "weightKg": 182,
+  "eyeColor": "Amber",
+  "hairColor": "Gray",
+  "breed": "Suri",
+  "placeOfBirth": "East Garyville, Colombia",
+  "description": "Nicholas is a amber-eyed llama with gray hair, standing 155 cm tall. Originally from East Garyville, Colombia, Nicholas enjoys painting, reading, knitting. Known for their calm and energetic personality, Nicholas is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "a4ea558d-ab86-4d34-96f1-4d5b46fab5c0",
+    "relationship": "4th cousin once removed"
+  }
+}

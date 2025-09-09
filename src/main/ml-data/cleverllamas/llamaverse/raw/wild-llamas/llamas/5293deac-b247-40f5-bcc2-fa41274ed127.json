@@ -1,0 +1,15 @@
+{
+  "id": "5293deac-b247-40f5-bcc2-fa41274ed127",
+  "name": "Jared",
+  "heightCm": 127,
+  "weightKg": 131,
+  "eyeColor": "Gray",
+  "hairColor": "Gray",
+  "breed": "Suri",
+  "placeOfBirth": "Port Johnborough, Ireland",
+  "description": "Jared is a gray-eyed llama with gray hair, standing 127 cm tall. Originally from Port Johnborough, Ireland, Jared enjoys dancing, painting, singing. Known for their friendly and playful personality, Jared is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "91bcb711-4ecc-4c1b-960e-5ce9f69d870c",
+    "relationship": "third cousin twice removed"
+  }
+}

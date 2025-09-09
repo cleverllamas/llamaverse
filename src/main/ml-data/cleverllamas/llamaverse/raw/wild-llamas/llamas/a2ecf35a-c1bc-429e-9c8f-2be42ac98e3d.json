@@ -1,0 +1,15 @@
+{
+  "id": "a2ecf35a-c1bc-429e-9c8f-2be42ac98e3d",
+  "name": "Karen",
+  "heightCm": 162,
+  "weightKg": 149,
+  "eyeColor": "Amber",
+  "hairColor": "Red",
+  "breed": "Suri",
+  "placeOfBirth": "Port Micheleside, Congo",
+  "description": "Karen is a amber-eyed llama with red hair, standing 162 cm tall. Originally from Port Micheleside, Congo, Karen enjoys cooking, singing, painting. Known for their energetic and playful personality, Karen is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "1a88078c-19ba-4187-89a0-cd2fdb554cc9",
+    "relationship": "mother"
+  }
+}

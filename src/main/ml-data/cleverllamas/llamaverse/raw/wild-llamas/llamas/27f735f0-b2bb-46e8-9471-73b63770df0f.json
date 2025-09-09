@@ -1,0 +1,15 @@
+{
+  "id": "27f735f0-b2bb-46e8-9471-73b63770df0f",
+  "name": "Christopher",
+  "heightCm": 164,
+  "weightKg": 180,
+  "eyeColor": "Hazel",
+  "hairColor": "Blonde",
+  "breed": "Hybrid",
+  "placeOfBirth": "Angelaberg, Croatia",
+  "description": "Christopher is a hazel-eyed llama with blonde hair, standing 164 cm tall. Originally from Angelaberg, Croatia, Christopher enjoys gardening, knitting, wood carving. Known for their curious and mischievous personality, Christopher is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "33f51f7b-46ee-4a5a-97ac-8d373ed78726",
+    "relationship": "aunt"
+  }
+}

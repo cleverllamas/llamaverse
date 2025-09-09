@@ -1,0 +1,15 @@
+{
+  "id": "5770f52e-5662-404a-a53c-debf3d3ed0f3",
+  "name": "Cassie",
+  "heightCm": 129,
+  "weightKg": 177,
+  "eyeColor": "Gray",
+  "hairColor": "Silver",
+  "breed": "Hybrid",
+  "placeOfBirth": "Herringchester, Saint Vincent and the Grenadines",
+  "description": "Cassie is a gray-eyed llama with silver hair, standing 129 cm tall. Originally from Herringchester, Saint Vincent and the Grenadines, Cassie enjoys hiking, cooking, dancing. Known for their mischievous and energetic personality, Cassie is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "cc58b2f3-d933-4a10-bddb-891de14c2bc4",
+    "relationship": "sister"
+  }
+}

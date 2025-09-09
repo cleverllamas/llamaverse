@@ -1,0 +1,15 @@
+{
+  "id": "62af3ca2-eaf7-467d-9c75-8387c9711d5d",
+  "name": "Jenna",
+  "heightCm": 188,
+  "weightKg": 148,
+  "eyeColor": "Blue",
+  "hairColor": "Gray",
+  "breed": "Suri",
+  "placeOfBirth": "New Angelashire, Albania",
+  "description": "Jenna is a blue-eyed llama with gray hair, standing 188 cm tall. Originally from New Angelashire, Albania, Jenna enjoys dancing, gardening, reading. Known for their shy and friendly personality, Jenna is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "271aebc9-5943-4702-9724-261dd3524e03",
+    "relationship": "15th cousin 9th removed"
+  }
+}

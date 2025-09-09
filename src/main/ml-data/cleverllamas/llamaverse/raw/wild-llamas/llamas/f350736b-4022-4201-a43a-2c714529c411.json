@@ -1,0 +1,15 @@
+{
+  "id": "f350736b-4022-4201-a43a-2c714529c411",
+  "name": "Briana",
+  "heightCm": 184,
+  "weightKg": 130,
+  "eyeColor": "Green",
+  "hairColor": "Blonde",
+  "breed": "Suri",
+  "placeOfBirth": "Grossview, Kyrgyz Republic",
+  "description": "Briana is a green-eyed llama with blonde hair, standing 184 cm tall. Originally from Grossview, Kyrgyz Republic, Briana enjoys painting, dancing, gardening. Known for their calm and friendly personality, Briana is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "271aebc9-5943-4702-9724-261dd3524e03",
+    "relationship": "father"
+  }
+}

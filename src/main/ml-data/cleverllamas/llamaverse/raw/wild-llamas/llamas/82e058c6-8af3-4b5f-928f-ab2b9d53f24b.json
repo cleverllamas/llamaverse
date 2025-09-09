@@ -1,0 +1,15 @@
+{
+  "id": "82e058c6-8af3-4b5f-928f-ab2b9d53f24b",
+  "name": "Matthew",
+  "heightCm": 107,
+  "weightKg": 196,
+  "eyeColor": "Hazel",
+  "hairColor": "Black",
+  "breed": "Huacaya",
+  "placeOfBirth": "Port Jennifer, Maldives",
+  "description": "Matthew is a hazel-eyed llama with black hair, standing 107 cm tall. Originally from Port Jennifer, Maldives, Matthew enjoys hiking, singing, reading. Known for their shy and gentle personality, Matthew is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "414f6452-34fa-47a9-acc3-a491bc1a94a7",
+    "relationship": "15th cousin 9th removed"
+  }
+}

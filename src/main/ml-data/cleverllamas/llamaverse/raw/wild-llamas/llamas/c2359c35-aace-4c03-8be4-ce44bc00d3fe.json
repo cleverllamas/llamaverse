@@ -1,0 +1,15 @@
+{
+  "id": "c2359c35-aace-4c03-8be4-ce44bc00d3fe",
+  "name": "Joshua",
+  "heightCm": 162,
+  "weightKg": 151,
+  "eyeColor": "Green",
+  "hairColor": "Red",
+  "breed": "Suri",
+  "placeOfBirth": "South Lindseyton, Iraq",
+  "description": "Joshua is a green-eyed llama with red hair, standing 162 cm tall. Originally from South Lindseyton, Iraq, Joshua enjoys reading, singing, painting. Known for their energetic and mischievous personality, Joshua is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "d5114e60-3178-4071-8d3d-4e60da8b5594",
+    "relationship": "cousin"
+  }
+}

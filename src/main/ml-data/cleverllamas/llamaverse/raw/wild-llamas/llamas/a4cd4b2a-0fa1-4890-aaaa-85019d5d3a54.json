@@ -1,0 +1,15 @@
+{
+  "id": "a4cd4b2a-0fa1-4890-aaaa-85019d5d3a54",
+  "name": "Parker",
+  "heightCm": 182,
+  "weightKg": 193,
+  "eyeColor": "Green",
+  "hairColor": "Silver",
+  "breed": "Huacaya",
+  "placeOfBirth": "Jessicamouth, France",
+  "description": "Parker is a green-eyed llama with silver hair, standing 182 cm tall. Originally from Jessicamouth, France, Parker enjoys hiking, dancing, gardening. Known for their mischievous and playful personality, Parker is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "9b6b55e0-2860-48ee-8e49-27c7c8bdf81b",
+    "relationship": "father"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "bca2c854-5a06-4026-810c-23189c9669be",
+  "name": "Louis",
+  "heightCm": 189,
+  "weightKg": 164,
+  "eyeColor": "Hazel",
+  "hairColor": "Black",
+  "breed": "Huacaya",
+  "placeOfBirth": "New Dylan, Denmark",
+  "description": "Louis is a hazel-eyed llama with black hair, standing 189 cm tall. Originally from New Dylan, Denmark, Louis enjoys wood carving, dancing, gardening. Known for their gentle and curious personality, Louis is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "a1eb5940-3955-4e52-a7ad-336cda82d7bd",
+    "relationship": "brother"
+  }
+}

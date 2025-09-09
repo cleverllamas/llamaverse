@@ -1,0 +1,15 @@
+{
+  "id": "f45856f8-e59c-4df7-ba16-ab3356b314a7",
+  "name": "Marie",
+  "heightCm": 141,
+  "weightKg": 152,
+  "eyeColor": "Hazel",
+  "hairColor": "White",
+  "breed": "Huacaya",
+  "placeOfBirth": "Port Latoyafort, Jamaica",
+  "description": "Marie is a hazel-eyed llama with white hair, standing 141 cm tall. Originally from Port Latoyafort, Jamaica, Marie enjoys painting, gardening, reading. Known for their playful and playful personality, Marie is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "58609169-4297-49e8-a950-a7e2359dbb97",
+    "relationship": "grandparent"
+  }
+}

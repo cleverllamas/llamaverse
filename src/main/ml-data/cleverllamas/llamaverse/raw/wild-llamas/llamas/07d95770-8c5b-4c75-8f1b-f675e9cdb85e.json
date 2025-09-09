@@ -1,0 +1,15 @@
+{
+  "id": "07d95770-8c5b-4c75-8f1b-f675e9cdb85e",
+  "name": "John",
+  "heightCm": 124,
+  "weightKg": 143,
+  "eyeColor": "Hazel",
+  "hairColor": "Brown",
+  "breed": "Hybrid",
+  "placeOfBirth": "West Gina, South Africa",
+  "description": "John is a hazel-eyed llama with brown hair, standing 124 cm tall. Originally from West Gina, South Africa, John enjoys cooking, gardening, wood carving. Known for their energetic and gentle personality, John is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "80bdece5-14d2-4694-95ed-2297a62bd892",
+    "relationship": "father"
+  }
+}

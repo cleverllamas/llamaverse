@@ -1,0 +1,15 @@
+{
+  "id": "b501b8e5-5e16-4b26-b3ac-817833f6957c",
+  "name": "Deanna",
+  "heightCm": 140,
+  "weightKg": 178,
+  "eyeColor": "Hazel",
+  "hairColor": "Silver",
+  "breed": "Hybrid",
+  "placeOfBirth": "Jacobsberg, Guam",
+  "description": "Deanna is a hazel-eyed llama with silver hair, standing 140 cm tall. Originally from Jacobsberg, Guam, Deanna enjoys dancing, painting, gardening. Known for their friendly and playful personality, Deanna is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "cc578557-46ed-4836-b0f1-9c97fec304cc",
+    "relationship": "grandparent"
+  }
+}

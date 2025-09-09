@@ -1,0 +1,15 @@
+{
+  "id": "5bc51a97-92d6-416a-b08d-8168a5700b1a",
+  "name": "Joyce",
+  "heightCm": 178,
+  "weightKg": 148,
+  "eyeColor": "Hazel",
+  "hairColor": "Silver",
+  "breed": "Suri",
+  "placeOfBirth": "Mcdowellmouth, Kiribati",
+  "description": "Joyce is a hazel-eyed llama with silver hair, standing 178 cm tall. Originally from Mcdowellmouth, Kiribati, Joyce enjoys painting, cooking, singing. Known for their playful and energetic personality, Joyce is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "7fda36f1-14b3-4683-8b61-dc00fab16d22",
+    "relationship": "uncle"
+  }
+}

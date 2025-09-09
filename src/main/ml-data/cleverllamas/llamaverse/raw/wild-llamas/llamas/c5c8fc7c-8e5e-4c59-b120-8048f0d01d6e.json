@@ -1,0 +1,15 @@
+{
+  "id": "c5c8fc7c-8e5e-4c59-b120-8048f0d01d6e",
+  "name": "Vincent",
+  "heightCm": 197,
+  "weightKg": 175,
+  "eyeColor": "Hazel",
+  "hairColor": "Gray",
+  "breed": "Suri",
+  "placeOfBirth": "New Amy, Bangladesh",
+  "description": "Vincent is a hazel-eyed llama with gray hair, standing 197 cm tall. Originally from New Amy, Bangladesh, Vincent enjoys painting, gardening, reading. Known for their mischievous and friendly personality, Vincent is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "2e7647fd-1788-4a96-b3ad-b11b4ae0f8e6",
+    "relationship": "15th cousin 9th removed"
+  }
+}

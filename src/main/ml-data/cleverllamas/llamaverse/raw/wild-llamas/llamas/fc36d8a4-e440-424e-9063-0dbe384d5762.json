@@ -1,0 +1,15 @@
+{
+  "id": "fc36d8a4-e440-424e-9063-0dbe384d5762",
+  "name": "Christina",
+  "heightCm": 152,
+  "weightKg": 175,
+  "eyeColor": "Blue",
+  "hairColor": "Blonde",
+  "breed": "Suri",
+  "placeOfBirth": "New William, Syrian Arab Republic",
+  "description": "Christina is a blue-eyed llama with blonde hair, standing 152 cm tall. Originally from New William, Syrian Arab Republic, Christina enjoys wood carving, hiking, gardening. Known for their shy and playful personality, Christina is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "fc3e7e04-f198-410a-85b0-37fdf0f997e9",
+    "relationship": "great uncle"
+  }
+}

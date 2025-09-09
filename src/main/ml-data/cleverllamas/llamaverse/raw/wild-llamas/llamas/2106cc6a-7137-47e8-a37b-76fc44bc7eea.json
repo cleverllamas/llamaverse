@@ -1,0 +1,15 @@
+{
+  "id": "2106cc6a-7137-47e8-a37b-76fc44bc7eea",
+  "name": "Kathleen",
+  "heightCm": 177,
+  "weightKg": 156,
+  "eyeColor": "Amber",
+  "hairColor": "White",
+  "breed": "Suri",
+  "placeOfBirth": "Johnsonberg, Luxembourg",
+  "description": "Kathleen is a amber-eyed llama with white hair, standing 177 cm tall. Originally from Johnsonberg, Luxembourg, Kathleen enjoys gardening, reading, dancing. Known for their calm and calm personality, Kathleen is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "44bad363-1730-4c95-b04c-f635ebf1ac35",
+    "relationship": "uncle"
+  }
+}

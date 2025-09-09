@@ -1,0 +1,15 @@
+{
+  "id": "6e5bcdb1-e229-493c-bae8-c3097aeadc68",
+  "name": "Brian",
+  "heightCm": 196,
+  "weightKg": 162,
+  "eyeColor": "Green",
+  "hairColor": "Silver",
+  "breed": "Huacaya",
+  "placeOfBirth": "Kimfurt, Saint Helena",
+  "description": "Brian is a green-eyed llama with silver hair, standing 196 cm tall. Originally from Kimfurt, Saint Helena, Brian enjoys cooking, reading, knitting. Known for their mischievous and shy personality, Brian is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "96c897e6-dd56-40aa-af5d-27b0cd6bf7e0",
+    "relationship": "15th cousin 9th removed"
+  }
+}

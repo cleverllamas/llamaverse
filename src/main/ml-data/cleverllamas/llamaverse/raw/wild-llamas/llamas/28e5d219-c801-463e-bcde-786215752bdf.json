@@ -1,0 +1,15 @@
+{
+  "id": "28e5d219-c801-463e-bcde-786215752bdf",
+  "name": "Christopher",
+  "heightCm": 134,
+  "weightKg": 171,
+  "eyeColor": "Green",
+  "hairColor": "White",
+  "breed": "Hybrid",
+  "placeOfBirth": "West Ryanshire, Kuwait",
+  "description": "Christopher is a green-eyed llama with white hair, standing 134 cm tall. Originally from West Ryanshire, Kuwait, Christopher enjoys gardening, wood carving, singing. Known for their gentle and gentle personality, Christopher is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "1707fa8c-1d33-45bd-8e45-d4007a6f93fa",
+    "relationship": "mother"
+  }
+}

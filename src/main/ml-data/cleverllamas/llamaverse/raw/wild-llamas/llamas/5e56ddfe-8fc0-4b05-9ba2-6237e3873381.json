@@ -1,0 +1,15 @@
+{
+  "id": "5e56ddfe-8fc0-4b05-9ba2-6237e3873381",
+  "name": "Katie",
+  "heightCm": 195,
+  "weightKg": 196,
+  "eyeColor": "Gray",
+  "hairColor": "Black",
+  "breed": "Huacaya",
+  "placeOfBirth": "Nguyenburgh, Saint Lucia",
+  "description": "Katie is a gray-eyed llama with black hair, standing 195 cm tall. Originally from Nguyenburgh, Saint Lucia, Katie enjoys dancing, cooking, reading. Known for their calm and friendly personality, Katie is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "59421ad2-6394-467c-b4d8-7e710d21bfeb",
+    "relationship": "4th cousin once removed"
+  }
+}

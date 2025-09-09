@@ -1,0 +1,15 @@
+{
+  "id": "1716b64f-1e3c-48ff-916b-0be6e90855ea",
+  "name": "Steven",
+  "heightCm": 113,
+  "weightKg": 188,
+  "eyeColor": "Blue",
+  "hairColor": "Silver",
+  "breed": "Suri",
+  "placeOfBirth": "East Veronicaborough, Jordan",
+  "description": "Steven is a blue-eyed llama with silver hair, standing 113 cm tall. Originally from East Veronicaborough, Jordan, Steven enjoys hiking, dancing, knitting. Known for their curious and curious personality, Steven is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "c22658ff-a85e-4953-8d62-86cd6e637618",
+    "relationship": "brother"
+  }
+}

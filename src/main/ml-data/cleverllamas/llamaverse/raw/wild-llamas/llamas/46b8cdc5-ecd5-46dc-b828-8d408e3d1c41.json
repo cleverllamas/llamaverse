@@ -1,0 +1,15 @@
+{
+  "id": "46b8cdc5-ecd5-46dc-b828-8d408e3d1c41",
+  "name": "Michael",
+  "heightCm": 163,
+  "weightKg": 183,
+  "eyeColor": "Green",
+  "hairColor": "Red",
+  "breed": "Huacaya",
+  "placeOfBirth": "North Susan, Malawi",
+  "description": "Michael is a green-eyed llama with red hair, standing 163 cm tall. Originally from North Susan, Malawi, Michael enjoys reading, gardening, painting. Known for their gentle and calm personality, Michael is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "9303d7af-e18d-426a-8ec1-7d45e3759bfa",
+    "relationship": "father"
+  }
+}

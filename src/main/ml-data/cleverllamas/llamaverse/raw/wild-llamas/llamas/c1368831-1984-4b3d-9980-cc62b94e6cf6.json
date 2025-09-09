@@ -1,0 +1,15 @@
+{
+  "id": "c1368831-1984-4b3d-9980-cc62b94e6cf6",
+  "name": "Angela",
+  "heightCm": 158,
+  "weightKg": 143,
+  "eyeColor": "Amber",
+  "hairColor": "Red",
+  "breed": "Suri",
+  "placeOfBirth": "North Theresaside, New Caledonia",
+  "description": "Angela is a amber-eyed llama with red hair, standing 158 cm tall. Originally from North Theresaside, New Caledonia, Angela enjoys reading, gardening, painting. Known for their playful and playful personality, Angela is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "713b6c88-315d-40d7-9d0d-a541f0ee0338",
+    "relationship": "great uncle"
+  }
+}

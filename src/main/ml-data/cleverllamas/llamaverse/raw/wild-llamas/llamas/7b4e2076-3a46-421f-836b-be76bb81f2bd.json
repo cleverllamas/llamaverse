@@ -1,0 +1,15 @@
+{
+  "id": "7b4e2076-3a46-421f-836b-be76bb81f2bd",
+  "name": "Grace",
+  "heightCm": 148,
+  "weightKg": 181,
+  "eyeColor": "Green",
+  "hairColor": "Red",
+  "breed": "Suri",
+  "placeOfBirth": "Amandamouth, Hong Kong",
+  "description": "Grace is a green-eyed llama with red hair, standing 148 cm tall. Originally from Amandamouth, Hong Kong, Grace enjoys hiking, singing, cooking. Known for their energetic and playful personality, Grace is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "ba5bc95e-267c-42f4-89e6-08707ffc3a76",
+    "relationship": "sister"
+  }
+}

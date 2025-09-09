@@ -1,0 +1,15 @@
+{
+  "id": "57152a66-893c-4d34-b473-52459374e31e",
+  "name": "William",
+  "heightCm": 179,
+  "weightKg": 190,
+  "eyeColor": "Amber",
+  "hairColor": "White",
+  "breed": "Hybrid",
+  "placeOfBirth": "West Ericbury, Cyprus",
+  "description": "William is a amber-eyed llama with white hair, standing 179 cm tall. Originally from West Ericbury, Cyprus, William enjoys singing, wood carving, dancing. Known for their gentle and mischievous personality, William is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "cbb73243-af6c-4843-9738-ad618cfd4480",
+    "relationship": "mother"
+  }
+}

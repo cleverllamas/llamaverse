@@ -1,0 +1,15 @@
+{
+  "id": "c59183ea-3098-4b85-afb8-a54eac9b6eb3",
+  "name": "Brandon",
+  "heightCm": 156,
+  "weightKg": 157,
+  "eyeColor": "Gray",
+  "hairColor": "Gray",
+  "breed": "Suri",
+  "placeOfBirth": "West Damonfurt, Uruguay",
+  "description": "Brandon is a gray-eyed llama with gray hair, standing 156 cm tall. Originally from West Damonfurt, Uruguay, Brandon enjoys knitting, dancing, reading. Known for their calm and mischievous personality, Brandon is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "5bc49cb3-80dc-403b-8602-ed974c934218",
+    "relationship": "grandparent"
+  }
+}

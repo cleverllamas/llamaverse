@@ -1,0 +1,15 @@
+{
+  "id": "4a9af93c-35fd-4712-8277-6db3b004cb55",
+  "name": "Carrie",
+  "heightCm": 148,
+  "weightKg": 165,
+  "eyeColor": "Hazel",
+  "hairColor": "Black",
+  "breed": "Suri",
+  "placeOfBirth": "Port Pamelahaven, Qatar",
+  "description": "Carrie is a hazel-eyed llama with black hair, standing 148 cm tall. Originally from Port Pamelahaven, Qatar, Carrie enjoys singing, wood carving, reading. Known for their energetic and mischievous personality, Carrie is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "e1d1e7d7-fd9f-4559-ac9f-ae9023d8cdbc",
+    "relationship": "15th cousin 9th removed"
+  }
+}

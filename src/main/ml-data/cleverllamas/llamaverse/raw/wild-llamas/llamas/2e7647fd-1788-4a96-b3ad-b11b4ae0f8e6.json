@@ -1,0 +1,15 @@
+{
+  "id": "2e7647fd-1788-4a96-b3ad-b11b4ae0f8e6",
+  "name": "Jason",
+  "heightCm": 131,
+  "weightKg": 142,
+  "eyeColor": "Gray",
+  "hairColor": "Silver",
+  "breed": "Huacaya",
+  "placeOfBirth": "Jenniferchester, Russian Federation",
+  "description": "Jason is a gray-eyed llama with silver hair, standing 131 cm tall. Originally from Jenniferchester, Russian Federation, Jason enjoys cooking, singing, painting. Known for their calm and mischievous personality, Jason is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "b4753781-cb43-4794-9b1e-ff4456b42928",
+    "relationship": "second cousin"
+  }
+}

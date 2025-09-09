@@ -1,0 +1,15 @@
+{
+  "id": "ccb4fd92-4482-4c4e-a6a8-72598a774234",
+  "name": "Christopher",
+  "heightCm": 125,
+  "weightKg": 169,
+  "eyeColor": "Hazel",
+  "hairColor": "Blonde",
+  "breed": "Suri",
+  "placeOfBirth": "Wendymouth, Slovakia (Slovak Republic)",
+  "description": "Christopher is a hazel-eyed llama with blonde hair, standing 125 cm tall. Originally from Wendymouth, Slovakia (Slovak Republic), Christopher enjoys wood carving, knitting, singing. Known for their energetic and playful personality, Christopher is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "91a8a50f-8f19-4652-9dad-48dbe4135d18",
+    "relationship": "grandparent"
+  }
+}

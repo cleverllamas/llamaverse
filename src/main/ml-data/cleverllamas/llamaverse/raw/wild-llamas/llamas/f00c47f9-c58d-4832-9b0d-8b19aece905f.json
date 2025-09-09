@@ -1,0 +1,15 @@
+{
+  "id": "f00c47f9-c58d-4832-9b0d-8b19aece905f",
+  "name": "Gary",
+  "heightCm": 137,
+  "weightKg": 155,
+  "eyeColor": "Brown",
+  "hairColor": "Red",
+  "breed": "Suri",
+  "placeOfBirth": "Anthonychester, Tokelau",
+  "description": "Gary is a brown-eyed llama with red hair, standing 137 cm tall. Originally from Anthonychester, Tokelau, Gary enjoys wood carving, hiking, painting. Known for their gentle and calm personality, Gary is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "70630122-ea63-4ccf-b416-f99624478315",
+    "relationship": "father"
+  }
+}

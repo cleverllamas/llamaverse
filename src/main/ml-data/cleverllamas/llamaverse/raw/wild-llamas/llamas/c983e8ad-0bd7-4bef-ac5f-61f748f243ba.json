@@ -1,0 +1,15 @@
+{
+  "id": "c983e8ad-0bd7-4bef-ac5f-61f748f243ba",
+  "name": "William",
+  "heightCm": 122,
+  "weightKg": 166,
+  "eyeColor": "Amber",
+  "hairColor": "Red",
+  "breed": "Suri",
+  "placeOfBirth": "Tiffanychester, Bouvet Island (Bouvetoya)",
+  "description": "William is a amber-eyed llama with red hair, standing 122 cm tall. Originally from Tiffanychester, Bouvet Island (Bouvetoya), William enjoys wood carving, hiking, cooking. Known for their shy and curious personality, William is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "e38797c2-acc9-48ec-b261-c52608800d86",
+    "relationship": "great uncle"
+  }
+}

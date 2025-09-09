@@ -1,0 +1,15 @@
+{
+  "id": "cf1f7c34-ff2f-4032-8acc-e291505f0a40",
+  "name": "Katherine",
+  "heightCm": 146,
+  "weightKg": 137,
+  "eyeColor": "Green",
+  "hairColor": "Brown",
+  "breed": "Huacaya",
+  "placeOfBirth": "Crawfordhaven, Niue",
+  "description": "Katherine is a green-eyed llama with brown hair, standing 146 cm tall. Originally from Crawfordhaven, Niue, Katherine enjoys dancing, painting, wood carving. Known for their playful and calm personality, Katherine is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "9ebcdef2-4b94-4f96-8b27-a929545ad880",
+    "relationship": "mother"
+  }
+}

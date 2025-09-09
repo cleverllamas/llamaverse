@@ -1,0 +1,15 @@
+{
+  "id": "8eea9100-4e3e-476b-99cf-5017e0f6c2c8",
+  "name": "Brenda",
+  "heightCm": 113,
+  "weightKg": 162,
+  "eyeColor": "Hazel",
+  "hairColor": "White",
+  "breed": "Suri",
+  "placeOfBirth": "Joanside, Saudi Arabia",
+  "description": "Brenda is a hazel-eyed llama with white hair, standing 113 cm tall. Originally from Joanside, Saudi Arabia, Brenda enjoys reading, gardening, hiking. Known for their calm and friendly personality, Brenda is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "c0705d0c-81bc-4259-8666-dde05cd7c5d0",
+    "relationship": "third cousin twice removed"
+  }
+}

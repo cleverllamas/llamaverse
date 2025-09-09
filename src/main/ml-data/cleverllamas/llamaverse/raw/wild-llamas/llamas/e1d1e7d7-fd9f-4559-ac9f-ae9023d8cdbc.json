@@ -1,0 +1,15 @@
+{
+  "id": "e1d1e7d7-fd9f-4559-ac9f-ae9023d8cdbc",
+  "name": "Jason",
+  "heightCm": 119,
+  "weightKg": 142,
+  "eyeColor": "Amber",
+  "hairColor": "Brown",
+  "breed": "Hybrid",
+  "placeOfBirth": "Fergusontown, Turkey",
+  "description": "Jason is a amber-eyed llama with brown hair, standing 119 cm tall. Originally from Fergusontown, Turkey, Jason enjoys knitting, painting, cooking. Known for their gentle and gentle personality, Jason is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "4d6836f1-e67b-471f-89b9-396393f7232e",
+    "relationship": "uncle"
+  }
+}

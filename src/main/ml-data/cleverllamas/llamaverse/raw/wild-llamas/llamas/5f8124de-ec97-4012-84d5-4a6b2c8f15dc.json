@@ -1,0 +1,15 @@
+{
+  "id": "5f8124de-ec97-4012-84d5-4a6b2c8f15dc",
+  "name": "Michael",
+  "heightCm": 122,
+  "weightKg": 183,
+  "eyeColor": "Green",
+  "hairColor": "Gray",
+  "breed": "Huacaya",
+  "placeOfBirth": "East Timothy, Northern Mariana Islands",
+  "description": "Michael is a green-eyed llama with gray hair, standing 122 cm tall. Originally from East Timothy, Northern Mariana Islands, Michael enjoys gardening, reading, cooking. Known for their energetic and energetic personality, Michael is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "2e6ef9a7-65cf-433d-9547-d768b8b3eea5",
+    "relationship": "cousin"
+  }
+}

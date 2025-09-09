@@ -1,0 +1,15 @@
+{
+  "id": "3a27a629-12d2-4a2f-9ff8-af97b5e38918",
+  "name": "Jenna",
+  "heightCm": 121,
+  "weightKg": 187,
+  "eyeColor": "Hazel",
+  "hairColor": "White",
+  "breed": "Huacaya",
+  "placeOfBirth": "Sarahborough, Taiwan",
+  "description": "Jenna is a hazel-eyed llama with white hair, standing 121 cm tall. Originally from Sarahborough, Taiwan, Jenna enjoys wood carving, singing, dancing. Known for their energetic and curious personality, Jenna is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "bc484cf1-ac22-4c71-9550-05e78a6e94d2",
+    "relationship": "second cousin"
+  }
+}

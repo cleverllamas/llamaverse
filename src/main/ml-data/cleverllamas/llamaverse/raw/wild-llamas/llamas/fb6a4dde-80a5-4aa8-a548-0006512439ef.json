@@ -1,0 +1,15 @@
+{
+  "id": "fb6a4dde-80a5-4aa8-a548-0006512439ef",
+  "name": "Karen",
+  "heightCm": 172,
+  "weightKg": 180,
+  "eyeColor": "Gray",
+  "hairColor": "Red",
+  "breed": "Suri",
+  "placeOfBirth": "Harrisshire, British Virgin Islands",
+  "description": "Karen is a gray-eyed llama with red hair, standing 172 cm tall. Originally from Harrisshire, British Virgin Islands, Karen enjoys knitting, wood carving, cooking. Known for their playful and playful personality, Karen is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "5f76850f-f836-4eb8-9040-9138ddfe01a5",
+    "relationship": "brother"
+  }
+}

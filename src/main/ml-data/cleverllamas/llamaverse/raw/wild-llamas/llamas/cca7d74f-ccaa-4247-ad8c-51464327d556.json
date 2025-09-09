@@ -1,0 +1,15 @@
+{
+  "id": "cca7d74f-ccaa-4247-ad8c-51464327d556",
+  "name": "Brian",
+  "heightCm": 106,
+  "weightKg": 164,
+  "eyeColor": "Green",
+  "hairColor": "White",
+  "breed": "Hybrid",
+  "placeOfBirth": "New David, Algeria",
+  "description": "Brian is a green-eyed llama with white hair, standing 106 cm tall. Originally from New David, Algeria, Brian enjoys painting, gardening, reading. Known for their curious and playful personality, Brian is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "ff199af5-a982-44f9-9259-25757a09809e",
+    "relationship": "uncle"
+  }
+}

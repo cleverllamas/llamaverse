@@ -1,0 +1,15 @@
+{
+  "id": "53687190-9f8c-4fd9-80df-1bec20b663d6",
+  "name": "William",
+  "heightCm": 106,
+  "weightKg": 150,
+  "eyeColor": "Green",
+  "hairColor": "Blonde",
+  "breed": "Hybrid",
+  "placeOfBirth": "Hollytown, Romania",
+  "description": "William is a green-eyed llama with blonde hair, standing 106 cm tall. Originally from Hollytown, Romania, William enjoys hiking, dancing, reading. Known for their calm and shy personality, William is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "3896bbd7-aed4-4105-b8a2-363a21325428",
+    "relationship": "third cousin twice removed"
+  }
+}

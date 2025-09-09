@@ -1,0 +1,15 @@
+{
+  "id": "242fc328-84b0-415d-9208-5837adf8e147",
+  "name": "David",
+  "heightCm": 151,
+  "weightKg": 139,
+  "eyeColor": "Amber",
+  "hairColor": "Gray",
+  "breed": "Suri",
+  "placeOfBirth": "Colonborough, Comoros",
+  "description": "David is a amber-eyed llama with gray hair, standing 151 cm tall. Originally from Colonborough, Comoros, David enjoys cooking, knitting, painting. Known for their curious and shy personality, David is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "abe5f120-8a8d-479f-bb61-e5747e4cd557",
+    "relationship": "uncle"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "46d3fec7-d6ff-4b1f-9a59-2011e96390c8",
+  "name": "Virginia",
+  "heightCm": 126,
+  "weightKg": 134,
+  "eyeColor": "Gray",
+  "hairColor": "Black",
+  "breed": "Suri",
+  "placeOfBirth": "Rodriguezmouth, Malaysia",
+  "description": "Virginia is a gray-eyed llama with black hair, standing 126 cm tall. Originally from Rodriguezmouth, Malaysia, Virginia enjoys dancing, wood carving, reading. Known for their mischievous and playful personality, Virginia is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "a74b242e-62b0-4397-b8cf-d634085e6e1c",
+    "relationship": "great uncle"
+  }
+}

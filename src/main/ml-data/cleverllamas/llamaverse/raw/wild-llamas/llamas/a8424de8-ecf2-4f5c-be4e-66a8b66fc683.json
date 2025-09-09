@@ -1,0 +1,15 @@
+{
+  "id": "a8424de8-ecf2-4f5c-be4e-66a8b66fc683",
+  "name": "Chelsea",
+  "heightCm": 118,
+  "weightKg": 180,
+  "eyeColor": "Hazel",
+  "hairColor": "Black",
+  "breed": "Suri",
+  "placeOfBirth": "Philliptown, French Guiana",
+  "description": "Chelsea is a hazel-eyed llama with black hair, standing 118 cm tall. Originally from Philliptown, French Guiana, Chelsea enjoys dancing, reading, hiking. Known for their gentle and mischievous personality, Chelsea is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "9f2d99f4-36c2-40e9-a0f8-786fe9e0d31b",
+    "relationship": "uncle"
+  }
+}

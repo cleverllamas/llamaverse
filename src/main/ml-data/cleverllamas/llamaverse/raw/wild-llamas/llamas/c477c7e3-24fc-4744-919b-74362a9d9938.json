@@ -1,0 +1,15 @@
+{
+  "id": "c477c7e3-24fc-4744-919b-74362a9d9938",
+  "name": "Ariel",
+  "heightCm": 122,
+  "weightKg": 189,
+  "eyeColor": "Brown",
+  "hairColor": "Gray",
+  "breed": "Hybrid",
+  "placeOfBirth": "Melendezshire, Tokelau",
+  "description": "Ariel is a brown-eyed llama with gray hair, standing 122 cm tall. Originally from Melendezshire, Tokelau, Ariel enjoys wood carving, cooking, knitting. Known for their gentle and calm personality, Ariel is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "cbe845ea-9fec-4178-b010-71c608e621ab",
+    "relationship": "aunt"
+  }
+}

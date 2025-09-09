@@ -1,0 +1,15 @@
+{
+  "id": "4fb1d741-6fe2-4a2b-b049-798b391870ac",
+  "name": "Victoria",
+  "heightCm": 185,
+  "weightKg": 160,
+  "eyeColor": "Gray",
+  "hairColor": "Blonde",
+  "breed": "Suri",
+  "placeOfBirth": "Edwardsshire, Portugal",
+  "description": "Victoria is a gray-eyed llama with blonde hair, standing 185 cm tall. Originally from Edwardsshire, Portugal, Victoria enjoys knitting, gardening, reading. Known for their playful and mischievous personality, Victoria is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "ddc705be-281b-4b05-abe5-435d485ebe40",
+    "relationship": "cousin"
+  }
+}

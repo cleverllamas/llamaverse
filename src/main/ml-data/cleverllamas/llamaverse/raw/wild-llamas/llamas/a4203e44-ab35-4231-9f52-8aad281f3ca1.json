@@ -1,0 +1,15 @@
+{
+  "id": "a4203e44-ab35-4231-9f52-8aad281f3ca1",
+  "name": "Emma",
+  "heightCm": 172,
+  "weightKg": 189,
+  "eyeColor": "Gray",
+  "hairColor": "Gray",
+  "breed": "Huacaya",
+  "placeOfBirth": "New Mary, Vietnam",
+  "description": "Emma is a gray-eyed llama with gray hair, standing 172 cm tall. Originally from New Mary, Vietnam, Emma enjoys singing, wood carving, cooking. Known for their playful and shy personality, Emma is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "783c9fb1-14aa-4169-b258-7652aa4598d7",
+    "relationship": "4th cousin once removed"
+  }
+}

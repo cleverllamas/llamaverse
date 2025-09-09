@@ -1,0 +1,15 @@
+{
+  "id": "c2027ef5-0e4e-4997-b74e-30552d3bd082",
+  "name": "Mark",
+  "heightCm": 182,
+  "weightKg": 142,
+  "eyeColor": "Blue",
+  "hairColor": "Brown",
+  "breed": "Suri",
+  "placeOfBirth": "Starkview, Kuwait",
+  "description": "Mark is a blue-eyed llama with brown hair, standing 182 cm tall. Originally from Starkview, Kuwait, Mark enjoys knitting, wood carving, reading. Known for their gentle and calm personality, Mark is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "5d09c62b-6e03-47f1-b0d6-6230834ee654",
+    "relationship": "uncle"
+  }
+}

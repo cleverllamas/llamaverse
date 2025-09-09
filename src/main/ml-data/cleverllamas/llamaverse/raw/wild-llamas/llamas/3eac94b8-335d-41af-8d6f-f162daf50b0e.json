@@ -1,0 +1,15 @@
+{
+  "id": "3eac94b8-335d-41af-8d6f-f162daf50b0e",
+  "name": "Briana",
+  "heightCm": 175,
+  "weightKg": 148,
+  "eyeColor": "Blue",
+  "hairColor": "Silver",
+  "breed": "Suri",
+  "placeOfBirth": "Rachelland, Hong Kong",
+  "description": "Briana is a blue-eyed llama with silver hair, standing 175 cm tall. Originally from Rachelland, Hong Kong, Briana enjoys reading, wood carving, hiking. Known for their curious and energetic personality, Briana is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "766d505a-93b7-444a-b8da-20a215df9c81",
+    "relationship": "brother"
+  }
+}

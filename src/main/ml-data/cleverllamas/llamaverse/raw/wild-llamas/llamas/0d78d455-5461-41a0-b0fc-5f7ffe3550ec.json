@@ -1,0 +1,15 @@
+{
+  "id": "0d78d455-5461-41a0-b0fc-5f7ffe3550ec",
+  "name": "Madison",
+  "heightCm": 139,
+  "weightKg": 189,
+  "eyeColor": "Brown",
+  "hairColor": "Black",
+  "breed": "Huacaya",
+  "placeOfBirth": "Leechester, Netherlands Antilles",
+  "description": "Madison is a brown-eyed llama with black hair, standing 139 cm tall. Originally from Leechester, Netherlands Antilles, Madison enjoys singing, painting, gardening. Known for their friendly and mischievous personality, Madison is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "3c68b964-6b1b-4a1f-97cb-0cfa09077844",
+    "relationship": "uncle"
+  }
+}

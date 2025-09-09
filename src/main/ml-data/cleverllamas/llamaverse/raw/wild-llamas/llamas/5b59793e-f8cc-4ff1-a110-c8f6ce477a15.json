@@ -1,0 +1,15 @@
+{
+  "id": "5b59793e-f8cc-4ff1-a110-c8f6ce477a15",
+  "name": "Kayla",
+  "heightCm": 156,
+  "weightKg": 184,
+  "eyeColor": "Blue",
+  "hairColor": "Red",
+  "breed": "Hybrid",
+  "placeOfBirth": "Georgechester, Algeria",
+  "description": "Kayla is a blue-eyed llama with red hair, standing 156 cm tall. Originally from Georgechester, Algeria, Kayla enjoys hiking, cooking, reading. Known for their mischievous and curious personality, Kayla is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "38a46389-d419-4714-a6ea-51abd058afc0",
+    "relationship": "second cousin"
+  }
+}

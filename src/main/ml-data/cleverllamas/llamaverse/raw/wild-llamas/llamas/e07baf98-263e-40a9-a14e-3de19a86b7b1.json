@@ -1,0 +1,15 @@
+{
+  "id": "e07baf98-263e-40a9-a14e-3de19a86b7b1",
+  "name": "Emily",
+  "heightCm": 124,
+  "weightKg": 189,
+  "eyeColor": "Green",
+  "hairColor": "Blonde",
+  "breed": "Hybrid",
+  "placeOfBirth": "Andersontown, Burkina Faso",
+  "description": "Emily is a green-eyed llama with blonde hair, standing 124 cm tall. Originally from Andersontown, Burkina Faso, Emily enjoys singing, cooking, hiking. Known for their gentle and friendly personality, Emily is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "941792fa-e6e7-4759-9045-e7a767036457",
+    "relationship": "third cousin twice removed"
+  }
+}

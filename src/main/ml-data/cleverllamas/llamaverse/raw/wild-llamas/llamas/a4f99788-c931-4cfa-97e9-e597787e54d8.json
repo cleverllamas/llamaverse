@@ -1,0 +1,15 @@
+{
+  "id": "a4f99788-c931-4cfa-97e9-e597787e54d8",
+  "name": "Jennifer",
+  "heightCm": 168,
+  "weightKg": 174,
+  "eyeColor": "Green",
+  "hairColor": "Blonde",
+  "breed": "Suri",
+  "placeOfBirth": "Richardmouth, Serbia",
+  "description": "Jennifer is a green-eyed llama with blonde hair, standing 168 cm tall. Originally from Richardmouth, Serbia, Jennifer enjoys painting, singing, dancing. Known for their calm and gentle personality, Jennifer is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "3a27a629-12d2-4a2f-9ff8-af97b5e38918",
+    "relationship": "second cousin"
+  }
+}

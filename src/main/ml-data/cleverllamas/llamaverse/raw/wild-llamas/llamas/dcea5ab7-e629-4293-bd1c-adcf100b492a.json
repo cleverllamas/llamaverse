@@ -1,0 +1,15 @@
+{
+  "id": "dcea5ab7-e629-4293-bd1c-adcf100b492a",
+  "name": "Ryan",
+  "heightCm": 189,
+  "weightKg": 193,
+  "eyeColor": "Hazel",
+  "hairColor": "Black",
+  "breed": "Huacaya",
+  "placeOfBirth": "Taylorshire, Namibia",
+  "description": "Ryan is a hazel-eyed llama with black hair, standing 189 cm tall. Originally from Taylorshire, Namibia, Ryan enjoys cooking, reading, hiking. Known for their calm and shy personality, Ryan is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "c380c4f3-87d6-47c7-98f7-e69be99c0b64",
+    "relationship": "sister"
+  }
+}

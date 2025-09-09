@@ -1,0 +1,15 @@
+{
+  "id": "884a38e9-5b26-406d-b600-85e33637958b",
+  "name": "Thomas",
+  "heightCm": 178,
+  "weightKg": 171,
+  "eyeColor": "Gray",
+  "hairColor": "White",
+  "breed": "Hybrid",
+  "placeOfBirth": "South Aaron, Mayotte",
+  "description": "Thomas is a gray-eyed llama with white hair, standing 178 cm tall. Originally from South Aaron, Mayotte, Thomas enjoys hiking, dancing, knitting. Known for their playful and energetic personality, Thomas is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "248c1e14-cbcf-4bb3-bb3a-fee474bf7766",
+    "relationship": "cousin"
+  }
+}

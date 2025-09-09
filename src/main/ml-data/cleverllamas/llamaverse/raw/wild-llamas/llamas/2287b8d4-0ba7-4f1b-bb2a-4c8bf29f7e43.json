@@ -1,0 +1,15 @@
+{
+  "id": "2287b8d4-0ba7-4f1b-bb2a-4c8bf29f7e43",
+  "name": "Sherry",
+  "heightCm": 101,
+  "weightKg": 138,
+  "eyeColor": "Blue",
+  "hairColor": "Brown",
+  "breed": "Hybrid",
+  "placeOfBirth": "New Johnstad, Holy See (Vatican City State)",
+  "description": "Sherry is a blue-eyed llama with brown hair, standing 101 cm tall. Originally from New Johnstad, Holy See (Vatican City State), Sherry enjoys hiking, dancing, wood carving. Known for their shy and playful personality, Sherry is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "6ca876d9-e3ea-45a3-ac27-82229df66831",
+    "relationship": "uncle"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "17bb068b-ea6e-4054-8979-2eb89659c8a2",
+  "name": "Sabrina",
+  "heightCm": 112,
+  "weightKg": 193,
+  "eyeColor": "Brown",
+  "hairColor": "Silver",
+  "breed": "Suri",
+  "placeOfBirth": "East Jameshaven, French Polynesia",
+  "description": "Sabrina is a brown-eyed llama with silver hair, standing 112 cm tall. Originally from East Jameshaven, French Polynesia, Sabrina enjoys reading, gardening, hiking. Known for their gentle and mischievous personality, Sabrina is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "487d2fbb-48ca-4be9-855e-72f7038380a5",
+    "relationship": "aunt"
+  }
+}

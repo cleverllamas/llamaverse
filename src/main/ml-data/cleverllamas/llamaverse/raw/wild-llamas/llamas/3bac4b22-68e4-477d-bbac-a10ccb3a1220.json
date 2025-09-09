@@ -1,0 +1,15 @@
+{
+  "id": "3bac4b22-68e4-477d-bbac-a10ccb3a1220",
+  "name": "Nathan",
+  "heightCm": 185,
+  "weightKg": 159,
+  "eyeColor": "Blue",
+  "hairColor": "Black",
+  "breed": "Hybrid",
+  "placeOfBirth": "Nguyenmouth, Nigeria",
+  "description": "Nathan is a blue-eyed llama with black hair, standing 185 cm tall. Originally from Nguyenmouth, Nigeria, Nathan enjoys painting, dancing, hiking. Known for their curious and energetic personality, Nathan is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "ee56e16a-b3b2-4cb9-84a9-aca83a971dc9",
+    "relationship": "15th cousin 9th removed"
+  }
+}

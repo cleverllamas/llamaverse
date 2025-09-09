@@ -1,0 +1,15 @@
+{
+  "id": "824f956d-da3e-4686-bf88-ab4862fcca8a",
+  "name": "Donald",
+  "heightCm": 147,
+  "weightKg": 141,
+  "eyeColor": "Brown",
+  "hairColor": "Red",
+  "breed": "Hybrid",
+  "placeOfBirth": "Marcuschester, Botswana",
+  "description": "Donald is a brown-eyed llama with red hair, standing 147 cm tall. Originally from Marcuschester, Botswana, Donald enjoys wood carving, cooking, gardening. Known for their energetic and playful personality, Donald is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "1a3e7a29-3b39-40c2-acdd-a90d044182f2",
+    "relationship": "second cousin"
+  }
+}

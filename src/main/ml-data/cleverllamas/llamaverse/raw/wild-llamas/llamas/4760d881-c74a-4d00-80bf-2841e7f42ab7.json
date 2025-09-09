@@ -1,0 +1,15 @@
+{
+  "id": "4760d881-c74a-4d00-80bf-2841e7f42ab7",
+  "name": "Paula",
+  "heightCm": 177,
+  "weightKg": 159,
+  "eyeColor": "Amber",
+  "hairColor": "Silver",
+  "breed": "Huacaya",
+  "placeOfBirth": "North Benjamin, Tajikistan",
+  "description": "Paula is a amber-eyed llama with silver hair, standing 177 cm tall. Originally from North Benjamin, Tajikistan, Paula enjoys hiking, knitting, cooking. Known for their energetic and playful personality, Paula is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "f13b31ab-2ca3-4814-8d82-c47b3301b6e1",
+    "relationship": "third cousin twice removed"
+  }
+}

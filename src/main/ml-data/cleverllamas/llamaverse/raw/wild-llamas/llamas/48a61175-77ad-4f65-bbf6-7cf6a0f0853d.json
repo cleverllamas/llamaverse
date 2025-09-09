@@ -1,0 +1,15 @@
+{
+  "id": "48a61175-77ad-4f65-bbf6-7cf6a0f0853d",
+  "name": "James",
+  "heightCm": 170,
+  "weightKg": 162,
+  "eyeColor": "Amber",
+  "hairColor": "Gray",
+  "breed": "Huacaya",
+  "placeOfBirth": "Lake Toddmouth, Monaco",
+  "description": "James is a amber-eyed llama with gray hair, standing 170 cm tall. Originally from Lake Toddmouth, Monaco, James enjoys dancing, hiking, cooking. Known for their shy and mischievous personality, James is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "13c68802-ca70-45b4-a295-59854c11e26a",
+    "relationship": "4th cousin once removed"
+  }
+}

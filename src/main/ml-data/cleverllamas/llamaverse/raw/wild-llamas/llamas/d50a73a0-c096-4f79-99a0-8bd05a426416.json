@@ -1,0 +1,15 @@
+{
+  "id": "d50a73a0-c096-4f79-99a0-8bd05a426416",
+  "name": "Emily",
+  "heightCm": 200,
+  "weightKg": 144,
+  "eyeColor": "Blue",
+  "hairColor": "Silver",
+  "breed": "Hybrid",
+  "placeOfBirth": "Austinville, Antigua and Barbuda",
+  "description": "Emily is a blue-eyed llama with silver hair, standing 200 cm tall. Originally from Austinville, Antigua and Barbuda, Emily enjoys gardening, singing, hiking. Known for their shy and energetic personality, Emily is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "72e0ac02-5b7f-48d6-b337-3668ff0daf90",
+    "relationship": "mother"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "95fa22ea-0314-4f94-b4df-6d64956fbd9a",
+  "name": "Monique",
+  "heightCm": 170,
+  "weightKg": 153,
+  "eyeColor": "Brown",
+  "hairColor": "Brown",
+  "breed": "Suri",
+  "placeOfBirth": "West Gregory, United States Minor Outlying Islands",
+  "description": "Monique is a brown-eyed llama with brown hair, standing 170 cm tall. Originally from West Gregory, United States Minor Outlying Islands, Monique enjoys cooking, hiking, knitting. Known for their shy and mischievous personality, Monique is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "bad82b5c-c0cc-470d-b175-1f2703893024",
+    "relationship": "brother"
+  }
+}

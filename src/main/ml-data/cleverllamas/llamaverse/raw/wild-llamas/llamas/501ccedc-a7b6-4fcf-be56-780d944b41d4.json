@@ -1,0 +1,15 @@
+{
+  "id": "501ccedc-a7b6-4fcf-be56-780d944b41d4",
+  "name": "Jose",
+  "heightCm": 146,
+  "weightKg": 175,
+  "eyeColor": "Amber",
+  "hairColor": "Silver",
+  "breed": "Huacaya",
+  "placeOfBirth": "Port Williamfurt, Peru",
+  "description": "Jose is a amber-eyed llama with silver hair, standing 146 cm tall. Originally from Port Williamfurt, Peru, Jose enjoys gardening, cooking, knitting. Known for their energetic and gentle personality, Jose is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "09719db8-08f9-4b69-84e9-9511fa3e82e4",
+    "relationship": "15th cousin 9th removed"
+  }
+}

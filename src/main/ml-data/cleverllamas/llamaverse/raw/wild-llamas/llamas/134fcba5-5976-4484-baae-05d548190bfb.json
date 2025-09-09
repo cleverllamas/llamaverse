@@ -1,0 +1,15 @@
+{
+  "id": "134fcba5-5976-4484-baae-05d548190bfb",
+  "name": "Joel",
+  "heightCm": 125,
+  "weightKg": 196,
+  "eyeColor": "Hazel",
+  "hairColor": "Silver",
+  "breed": "Hybrid",
+  "placeOfBirth": "Susanmouth, Cayman Islands",
+  "description": "Joel is a hazel-eyed llama with silver hair, standing 125 cm tall. Originally from Susanmouth, Cayman Islands, Joel enjoys wood carving, gardening, cooking. Known for their gentle and shy personality, Joel is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "5a596b0c-8516-4e5b-9d4e-ad817f55807e",
+    "relationship": "third cousin twice removed"
+  }
+}

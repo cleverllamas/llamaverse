@@ -1,0 +1,15 @@
+{
+  "id": "87efbeae-a6e5-49e0-a9dc-826534aeb012",
+  "name": "Steven",
+  "heightCm": 136,
+  "weightKg": 146,
+  "eyeColor": "Brown",
+  "hairColor": "Red",
+  "breed": "Hybrid",
+  "placeOfBirth": "Ebonystad, Bulgaria",
+  "description": "Steven is a brown-eyed llama with red hair, standing 136 cm tall. Originally from Ebonystad, Bulgaria, Steven enjoys gardening, dancing, knitting. Known for their energetic and playful personality, Steven is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "a8846384-71f5-4bbd-8708-a35972389f90",
+    "relationship": "brother"
+  }
+}

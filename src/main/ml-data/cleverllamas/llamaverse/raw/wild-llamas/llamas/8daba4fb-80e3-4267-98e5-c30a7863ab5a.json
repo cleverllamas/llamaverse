@@ -1,0 +1,15 @@
+{
+  "id": "8daba4fb-80e3-4267-98e5-c30a7863ab5a",
+  "name": "Dillon",
+  "heightCm": 136,
+  "weightKg": 174,
+  "eyeColor": "Hazel",
+  "hairColor": "Blonde",
+  "breed": "Suri",
+  "placeOfBirth": "Nataliefurt, Holy See (Vatican City State)",
+  "description": "Dillon is a hazel-eyed llama with blonde hair, standing 136 cm tall. Originally from Nataliefurt, Holy See (Vatican City State), Dillon enjoys knitting, wood carving, hiking. Known for their energetic and energetic personality, Dillon is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "5085f9f2-1232-4a38-bab0-60208c1ad5d1",
+    "relationship": "4th cousin once removed"
+  }
+}

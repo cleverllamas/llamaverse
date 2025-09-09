@@ -1,0 +1,15 @@
+{
+  "id": "81bb5296-dc6b-4226-9fbe-c97805442250",
+  "name": "Daniel",
+  "heightCm": 144,
+  "weightKg": 165,
+  "eyeColor": "Brown",
+  "hairColor": "Red",
+  "breed": "Suri",
+  "placeOfBirth": "Michelleshire, British Indian Ocean Territory (Chagos Archipelago)",
+  "description": "Daniel is a brown-eyed llama with red hair, standing 144 cm tall. Originally from Michelleshire, British Indian Ocean Territory (Chagos Archipelago), Daniel enjoys painting, wood carving, singing. Known for their playful and playful personality, Daniel is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "2a331a48-1742-4d4e-a590-9f8482ec5a12",
+    "relationship": "third cousin twice removed"
+  }
+}

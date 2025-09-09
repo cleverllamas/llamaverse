@@ -1,0 +1,15 @@
+{
+  "id": "b9aeeea3-81a4-4618-b86e-3e67af2b616a",
+  "name": "Timothy",
+  "heightCm": 164,
+  "weightKg": 173,
+  "eyeColor": "Gray",
+  "hairColor": "Red",
+  "breed": "Hybrid",
+  "placeOfBirth": "Michaelchester, Sri Lanka",
+  "description": "Timothy is a gray-eyed llama with red hair, standing 164 cm tall. Originally from Michaelchester, Sri Lanka, Timothy enjoys dancing, singing, cooking. Known for their playful and gentle personality, Timothy is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "6e5bcdb1-e229-493c-bae8-c3097aeadc68",
+    "relationship": "great uncle"
+  }
+}

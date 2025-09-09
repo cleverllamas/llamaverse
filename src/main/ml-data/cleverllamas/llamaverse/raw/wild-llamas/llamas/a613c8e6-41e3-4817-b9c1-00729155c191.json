@@ -1,0 +1,15 @@
+{
+  "id": "a613c8e6-41e3-4817-b9c1-00729155c191",
+  "name": "Douglas",
+  "heightCm": 100,
+  "weightKg": 162,
+  "eyeColor": "Blue",
+  "hairColor": "White",
+  "breed": "Suri",
+  "placeOfBirth": "Baileyfort, Niger",
+  "description": "Douglas is a blue-eyed llama with white hair, standing 100 cm tall. Originally from Baileyfort, Niger, Douglas enjoys knitting, hiking, reading. Known for their friendly and shy personality, Douglas is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "bc484cf1-ac22-4c71-9550-05e78a6e94d2",
+    "relationship": "grandparent"
+  }
+}

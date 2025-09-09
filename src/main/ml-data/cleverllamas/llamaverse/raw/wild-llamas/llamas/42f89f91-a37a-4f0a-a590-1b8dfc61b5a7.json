@@ -1,0 +1,15 @@
+{
+  "id": "42f89f91-a37a-4f0a-a590-1b8dfc61b5a7",
+  "name": "Adam",
+  "heightCm": 157,
+  "weightKg": 153,
+  "eyeColor": "Hazel",
+  "hairColor": "Blonde",
+  "breed": "Hybrid",
+  "placeOfBirth": "Jeffreystad, Greenland",
+  "description": "Adam is a hazel-eyed llama with blonde hair, standing 157 cm tall. Originally from Jeffreystad, Greenland, Adam enjoys cooking, wood carving, hiking. Known for their friendly and mischievous personality, Adam is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "7945c3ac-b370-4f5e-ba8d-54114c5321b9",
+    "relationship": "4th cousin once removed"
+  }
+}

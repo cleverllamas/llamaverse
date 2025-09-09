@@ -1,0 +1,15 @@
+{
+  "id": "d4fa7481-4044-41f6-979b-cfe106aae806",
+  "name": "Aaron",
+  "heightCm": 137,
+  "weightKg": 179,
+  "eyeColor": "Green",
+  "hairColor": "White",
+  "breed": "Hybrid",
+  "placeOfBirth": "Ericfort, Antigua and Barbuda",
+  "description": "Aaron is a green-eyed llama with white hair, standing 137 cm tall. Originally from Ericfort, Antigua and Barbuda, Aaron enjoys gardening, hiking, painting. Known for their energetic and curious personality, Aaron is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "6c89b40d-9c20-4784-ab80-872271da6c20",
+    "relationship": "uncle"
+  }
+}

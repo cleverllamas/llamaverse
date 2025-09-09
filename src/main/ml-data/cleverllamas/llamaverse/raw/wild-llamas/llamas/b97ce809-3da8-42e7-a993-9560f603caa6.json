@@ -1,0 +1,15 @@
+{
+  "id": "b97ce809-3da8-42e7-a993-9560f603caa6",
+  "name": "Kelly",
+  "heightCm": 149,
+  "weightKg": 176,
+  "eyeColor": "Hazel",
+  "hairColor": "Silver",
+  "breed": "Hybrid",
+  "placeOfBirth": "Reedville, Samoa",
+  "description": "Kelly is a hazel-eyed llama with silver hair, standing 149 cm tall. Originally from Reedville, Samoa, Kelly enjoys cooking, wood carving, knitting. Known for their shy and energetic personality, Kelly is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "f350736b-4022-4201-a43a-2c714529c411",
+    "relationship": "great uncle"
+  }
+}

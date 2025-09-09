@@ -1,0 +1,15 @@
+{
+  "id": "32798485-f69d-4d65-baa9-cbf2d52c6216",
+  "name": "Steven",
+  "heightCm": 102,
+  "weightKg": 168,
+  "eyeColor": "Blue",
+  "hairColor": "Blonde",
+  "breed": "Huacaya",
+  "placeOfBirth": "Lewisview, Kuwait",
+  "description": "Steven is a blue-eyed llama with blonde hair, standing 102 cm tall. Originally from Lewisview, Kuwait, Steven enjoys reading, gardening, dancing. Known for their energetic and energetic personality, Steven is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "51f2df97-c2d4-4b7d-bcbd-1f60a43b0188",
+    "relationship": "second cousin"
+  }
+}

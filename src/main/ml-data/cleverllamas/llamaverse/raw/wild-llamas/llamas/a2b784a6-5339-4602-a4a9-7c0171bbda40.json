@@ -1,0 +1,15 @@
+{
+  "id": "a2b784a6-5339-4602-a4a9-7c0171bbda40",
+  "name": "Melissa",
+  "heightCm": 142,
+  "weightKg": 173,
+  "eyeColor": "Green",
+  "hairColor": "White",
+  "breed": "Hybrid",
+  "placeOfBirth": "North Amandaborough, Mauritania",
+  "description": "Melissa is a green-eyed llama with white hair, standing 142 cm tall. Originally from North Amandaborough, Mauritania, Melissa enjoys wood carving, painting, singing. Known for their shy and friendly personality, Melissa is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "eec6300f-840e-4106-90c8-2bd2b8dd254d",
+    "relationship": "15th cousin 9th removed"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "50b2d2ee-1cd4-4d12-8a8d-9c51a158c3d5",
+  "name": "Sarah",
+  "heightCm": 101,
+  "weightKg": 169,
+  "eyeColor": "Green",
+  "hairColor": "Blonde",
+  "breed": "Hybrid",
+  "placeOfBirth": "Port Davidbury, Nigeria",
+  "description": "Sarah is a green-eyed llama with blonde hair, standing 101 cm tall. Originally from Port Davidbury, Nigeria, Sarah enjoys reading, wood carving, dancing. Known for their shy and shy personality, Sarah is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "c2557ba1-f446-4848-8b16-b7e9bb2d1638",
+    "relationship": "mother"
+  }
+}

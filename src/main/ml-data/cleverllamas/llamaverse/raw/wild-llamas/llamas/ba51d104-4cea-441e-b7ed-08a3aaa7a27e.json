@@ -1,0 +1,15 @@
+{
+  "id": "ba51d104-4cea-441e-b7ed-08a3aaa7a27e",
+  "name": "David",
+  "heightCm": 135,
+  "weightKg": 178,
+  "eyeColor": "Green",
+  "hairColor": "Brown",
+  "breed": "Suri",
+  "placeOfBirth": "North Austintown, Bangladesh",
+  "description": "David is a green-eyed llama with brown hair, standing 135 cm tall. Originally from North Austintown, Bangladesh, David enjoys singing, knitting, wood carving. Known for their friendly and curious personality, David is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "914867af-093f-4e54-9cd0-3bbe16eb6ea1",
+    "relationship": "aunt"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "50b57cec-6fb9-44fd-bdc8-b80ff5c1162d",
+  "name": "Benjamin",
+  "heightCm": 123,
+  "weightKg": 172,
+  "eyeColor": "Gray",
+  "hairColor": "Black",
+  "breed": "Suri",
+  "placeOfBirth": "Armstrongview, Norway",
+  "description": "Benjamin is a gray-eyed llama with black hair, standing 123 cm tall. Originally from Armstrongview, Norway, Benjamin enjoys gardening, singing, reading. Known for their shy and curious personality, Benjamin is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "0c6c2ed7-f9f7-409d-b047-a9e8ef54b248",
+    "relationship": "second cousin"
+  }
+}

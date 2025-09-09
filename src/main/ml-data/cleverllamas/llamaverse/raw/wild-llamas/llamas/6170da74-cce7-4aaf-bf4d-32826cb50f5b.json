@@ -1,0 +1,15 @@
+{
+  "id": "6170da74-cce7-4aaf-bf4d-32826cb50f5b",
+  "name": "Robert",
+  "heightCm": 102,
+  "weightKg": 179,
+  "eyeColor": "Amber",
+  "hairColor": "Red",
+  "breed": "Huacaya",
+  "placeOfBirth": "Wilsonland, Bouvet Island (Bouvetoya)",
+  "description": "Robert is a amber-eyed llama with red hair, standing 102 cm tall. Originally from Wilsonland, Bouvet Island (Bouvetoya), Robert enjoys gardening, knitting, wood carving. Known for their energetic and playful personality, Robert is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "10d2db2e-fd74-4af1-bed3-f24f99380852",
+    "relationship": "second cousin"
+  }
+}

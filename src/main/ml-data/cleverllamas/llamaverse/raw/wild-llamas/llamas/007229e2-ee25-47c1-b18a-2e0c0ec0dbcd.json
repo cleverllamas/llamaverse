@@ -1,0 +1,15 @@
+{
+  "id": "007229e2-ee25-47c1-b18a-2e0c0ec0dbcd",
+  "name": "Christine",
+  "heightCm": 164,
+  "weightKg": 147,
+  "eyeColor": "Green",
+  "hairColor": "Blonde",
+  "breed": "Suri",
+  "placeOfBirth": "Brooksmouth, Cambodia",
+  "description": "Christine is a green-eyed llama with blonde hair, standing 164 cm tall. Originally from Brooksmouth, Cambodia, Christine enjoys painting, singing, reading. Known for their calm and playful personality, Christine is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "9adc88b6-e36c-4f4b-bbb2-6060990d683a",
+    "relationship": "father"
+  }
+}

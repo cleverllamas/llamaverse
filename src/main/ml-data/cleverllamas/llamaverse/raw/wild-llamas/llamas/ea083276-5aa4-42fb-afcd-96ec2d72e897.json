@@ -1,0 +1,15 @@
+{
+  "id": "ea083276-5aa4-42fb-afcd-96ec2d72e897",
+  "name": "Adam",
+  "heightCm": 129,
+  "weightKg": 167,
+  "eyeColor": "Amber",
+  "hairColor": "White",
+  "breed": "Suri",
+  "placeOfBirth": "Cristianberg, United Arab Emirates",
+  "description": "Adam is a amber-eyed llama with white hair, standing 129 cm tall. Originally from Cristianberg, United Arab Emirates, Adam enjoys cooking, knitting, wood carving. Known for their mischievous and shy personality, Adam is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "dc00e7ff-4e9e-44ef-8c58-77cccf52f7ae",
+    "relationship": "cousin"
+  }
+}

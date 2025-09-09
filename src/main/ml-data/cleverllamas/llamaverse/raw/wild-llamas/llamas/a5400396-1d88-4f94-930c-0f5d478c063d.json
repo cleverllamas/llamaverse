@@ -1,0 +1,15 @@
+{
+  "id": "a5400396-1d88-4f94-930c-0f5d478c063d",
+  "name": "Tiffany",
+  "heightCm": 170,
+  "weightKg": 194,
+  "eyeColor": "Brown",
+  "hairColor": "Blonde",
+  "breed": "Hybrid",
+  "placeOfBirth": "New Josephmouth, San Marino",
+  "description": "Tiffany is a brown-eyed llama with blonde hair, standing 170 cm tall. Originally from New Josephmouth, San Marino, Tiffany enjoys cooking, painting, gardening. Known for their mischievous and gentle personality, Tiffany is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "e2cdcf8c-69f3-4c73-9377-1d1083cd3812",
+    "relationship": "aunt"
+  }
+}

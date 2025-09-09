@@ -1,0 +1,15 @@
+{
+  "id": "bb434548-3d03-4fb9-abda-e4c79bc46196",
+  "name": "Charles",
+  "heightCm": 180,
+  "weightKg": 194,
+  "eyeColor": "Amber",
+  "hairColor": "Red",
+  "breed": "Suri",
+  "placeOfBirth": "Timothyville, Taiwan",
+  "description": "Charles is a amber-eyed llama with red hair, standing 180 cm tall. Originally from Timothyville, Taiwan, Charles enjoys cooking, wood carving, singing. Known for their curious and mischievous personality, Charles is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "894d49bf-7500-49be-9f43-aa1e65a76361",
+    "relationship": "cousin"
+  }
+}

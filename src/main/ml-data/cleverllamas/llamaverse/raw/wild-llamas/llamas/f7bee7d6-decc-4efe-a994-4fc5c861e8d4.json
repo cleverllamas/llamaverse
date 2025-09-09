@@ -1,0 +1,15 @@
+{
+  "id": "f7bee7d6-decc-4efe-a994-4fc5c861e8d4",
+  "name": "Lynn",
+  "heightCm": 191,
+  "weightKg": 185,
+  "eyeColor": "Brown",
+  "hairColor": "White",
+  "breed": "Huacaya",
+  "placeOfBirth": "South Jessicaview, Venezuela",
+  "description": "Lynn is a brown-eyed llama with white hair, standing 191 cm tall. Originally from South Jessicaview, Venezuela, Lynn enjoys singing, wood carving, knitting. Known for their friendly and shy personality, Lynn is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "42a5a369-75d1-48c1-803e-21b177658f16",
+    "relationship": "mother"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "19bcc1a2-bf7a-4846-94a7-14325add214b",
+  "name": "Ronald",
+  "heightCm": 144,
+  "weightKg": 168,
+  "eyeColor": "Brown",
+  "hairColor": "Black",
+  "breed": "Suri",
+  "placeOfBirth": "Rachelstad, Afghanistan",
+  "description": "Ronald is a brown-eyed llama with black hair, standing 144 cm tall. Originally from Rachelstad, Afghanistan, Ronald enjoys reading, gardening, cooking. Known for their friendly and shy personality, Ronald is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "7e3a2d2f-6ae9-4769-9d73-b3a4dd9c9dfb",
+    "relationship": "uncle"
+  }
+}

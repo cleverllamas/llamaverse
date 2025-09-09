@@ -1,0 +1,15 @@
+{
+  "id": "972d4a1e-d6e0-495a-b33d-caa236cee3c7",
+  "name": "Patricia",
+  "heightCm": 141,
+  "weightKg": 145,
+  "eyeColor": "Blue",
+  "hairColor": "Blonde",
+  "breed": "Hybrid",
+  "placeOfBirth": "Jamestown, San Marino",
+  "description": "Patricia is a blue-eyed llama with blonde hair, standing 141 cm tall. Originally from Jamestown, San Marino, Patricia enjoys gardening, cooking, reading. Known for their shy and curious personality, Patricia is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "1663a8be-6537-487f-94a6-7b766532f2a2",
+    "relationship": "4th cousin once removed"
+  }
+}

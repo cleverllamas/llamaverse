@@ -1,0 +1,15 @@
+{
+  "id": "17c86713-a6bc-4d1b-abd2-97ada0dd2d07",
+  "name": "Cheryl",
+  "heightCm": 135,
+  "weightKg": 146,
+  "eyeColor": "Amber",
+  "hairColor": "Brown",
+  "breed": "Hybrid",
+  "placeOfBirth": "North Michelle, Kiribati",
+  "description": "Cheryl is a amber-eyed llama with brown hair, standing 135 cm tall. Originally from North Michelle, Kiribati, Cheryl enjoys wood carving, gardening, hiking. Known for their energetic and gentle personality, Cheryl is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "12f0402b-6522-4302-bd5c-3a625d5e549a",
+    "relationship": "grandparent"
+  }
+}

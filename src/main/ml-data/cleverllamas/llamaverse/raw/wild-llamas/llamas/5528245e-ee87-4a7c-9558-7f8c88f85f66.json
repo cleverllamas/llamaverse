@@ -1,0 +1,15 @@
+{
+  "id": "5528245e-ee87-4a7c-9558-7f8c88f85f66",
+  "name": "Samuel",
+  "heightCm": 130,
+  "weightKg": 140,
+  "eyeColor": "Blue",
+  "hairColor": "Black",
+  "breed": "Hybrid",
+  "placeOfBirth": "Erinmouth, Palau",
+  "description": "Samuel is a blue-eyed llama with black hair, standing 130 cm tall. Originally from Erinmouth, Palau, Samuel enjoys wood carving, hiking, singing. Known for their curious and playful personality, Samuel is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "e025860c-6d3d-40d3-bd77-a20a57477e15",
+    "relationship": "uncle"
+  }
+}

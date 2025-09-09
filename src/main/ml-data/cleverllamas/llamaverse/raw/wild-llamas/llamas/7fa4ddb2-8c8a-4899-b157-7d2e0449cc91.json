@@ -1,0 +1,15 @@
+{
+  "id": "7fa4ddb2-8c8a-4899-b157-7d2e0449cc91",
+  "name": "Lisa",
+  "heightCm": 121,
+  "weightKg": 158,
+  "eyeColor": "Gray",
+  "hairColor": "Gray",
+  "breed": "Suri",
+  "placeOfBirth": "Amyside, Austria",
+  "description": "Lisa is a gray-eyed llama with gray hair, standing 121 cm tall. Originally from Amyside, Austria, Lisa enjoys cooking, wood carving, reading. Known for their mischievous and playful personality, Lisa is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "620c8ac9-fa75-46b9-a2bb-3d2a5a424ffb",
+    "relationship": "brother"
+  }
+}

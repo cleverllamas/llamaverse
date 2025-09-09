@@ -1,0 +1,15 @@
+{
+  "id": "3d8d3298-c5cd-46fe-98f9-a4d13c0a9f18",
+  "name": "Kyle",
+  "heightCm": 171,
+  "weightKg": 167,
+  "eyeColor": "Brown",
+  "hairColor": "White",
+  "breed": "Huacaya",
+  "placeOfBirth": "Hancockland, Greenland",
+  "description": "Kyle is a brown-eyed llama with white hair, standing 171 cm tall. Originally from Hancockland, Greenland, Kyle enjoys cooking, knitting, gardening. Known for their curious and energetic personality, Kyle is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "01b388ac-b3a8-43ec-90a1-7d32da04f3e0",
+    "relationship": "father"
+  }
+}

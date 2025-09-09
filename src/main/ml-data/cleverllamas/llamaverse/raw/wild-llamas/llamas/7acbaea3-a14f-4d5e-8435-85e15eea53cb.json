@@ -1,0 +1,15 @@
+{
+  "id": "7acbaea3-a14f-4d5e-8435-85e15eea53cb",
+  "name": "Julie",
+  "heightCm": 163,
+  "weightKg": 149,
+  "eyeColor": "Hazel",
+  "hairColor": "Black",
+  "breed": "Suri",
+  "placeOfBirth": "East Paul, Qatar",
+  "description": "Julie is a hazel-eyed llama with black hair, standing 163 cm tall. Originally from East Paul, Qatar, Julie enjoys dancing, gardening, hiking. Known for their calm and playful personality, Julie is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "57043df0-3820-4ad1-b913-26013e4443bc",
+    "relationship": "sister"
+  }
+}

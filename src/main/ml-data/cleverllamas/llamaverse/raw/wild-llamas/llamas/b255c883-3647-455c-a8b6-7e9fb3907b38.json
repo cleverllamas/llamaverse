@@ -1,0 +1,15 @@
+{
+  "id": "b255c883-3647-455c-a8b6-7e9fb3907b38",
+  "name": "Shawna",
+  "heightCm": 167,
+  "weightKg": 172,
+  "eyeColor": "Brown",
+  "hairColor": "White",
+  "breed": "Huacaya",
+  "placeOfBirth": "South Zacharyport, Chile",
+  "description": "Shawna is a brown-eyed llama with white hair, standing 167 cm tall. Originally from South Zacharyport, Chile, Shawna enjoys reading, gardening, singing. Known for their energetic and shy personality, Shawna is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "45f16138-674c-4f80-bcb7-b3ac9e402e38",
+    "relationship": "4th cousin once removed"
+  }
+}

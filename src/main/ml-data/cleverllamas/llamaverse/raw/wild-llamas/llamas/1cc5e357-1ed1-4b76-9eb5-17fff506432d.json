@@ -1,0 +1,15 @@
+{
+  "id": "1cc5e357-1ed1-4b76-9eb5-17fff506432d",
+  "name": "Stephen",
+  "heightCm": 154,
+  "weightKg": 194,
+  "eyeColor": "Amber",
+  "hairColor": "Red",
+  "breed": "Hybrid",
+  "placeOfBirth": "Meganfurt, Slovenia",
+  "description": "Stephen is a amber-eyed llama with red hair, standing 154 cm tall. Originally from Meganfurt, Slovenia, Stephen enjoys hiking, cooking, singing. Known for their energetic and mischievous personality, Stephen is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "49835a59-7815-476d-8d4c-96862f0b3d24",
+    "relationship": "great uncle"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "ee78cad4-48f8-40ae-ba99-989c1fd62c91",
+  "name": "John",
+  "heightCm": 171,
+  "weightKg": 183,
+  "eyeColor": "Green",
+  "hairColor": "Red",
+  "breed": "Suri",
+  "placeOfBirth": "Lake Stacy, Namibia",
+  "description": "John is a green-eyed llama with red hair, standing 171 cm tall. Originally from Lake Stacy, Namibia, John enjoys reading, cooking, singing. Known for their playful and calm personality, John is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "47b1067d-7013-451f-8065-31c80c15d130",
+    "relationship": "aunt"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "213f58da-6f85-4393-8d82-9dc1b5457543",
+  "name": "Angela",
+  "heightCm": 113,
+  "weightKg": 195,
+  "eyeColor": "Green",
+  "hairColor": "Silver",
+  "breed": "Suri",
+  "placeOfBirth": "Lake Williamborough, Indonesia",
+  "description": "Angela is a green-eyed llama with silver hair, standing 113 cm tall. Originally from Lake Williamborough, Indonesia, Angela enjoys gardening, wood carving, painting. Known for their shy and playful personality, Angela is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "585c4307-40c0-4b1c-a1a1-0d3383439a22",
+    "relationship": "brother"
+  }
+}

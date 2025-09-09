@@ -1,0 +1,15 @@
+{
+  "id": "b5e1a073-b3fd-4c6a-a41a-fb9131c1f910",
+  "name": "Amber",
+  "heightCm": 138,
+  "weightKg": 170,
+  "eyeColor": "Blue",
+  "hairColor": "Black",
+  "breed": "Huacaya",
+  "placeOfBirth": "Danielborough, Eritrea",
+  "description": "Amber is a blue-eyed llama with black hair, standing 138 cm tall. Originally from Danielborough, Eritrea, Amber enjoys reading, cooking, wood carving. Known for their calm and calm personality, Amber is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "a2d79b4c-4e0c-48b8-99f3-473431fbfdc3",
+    "relationship": "second cousin"
+  }
+}

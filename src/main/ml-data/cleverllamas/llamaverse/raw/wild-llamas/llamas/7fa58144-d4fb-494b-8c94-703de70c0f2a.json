@@ -1,0 +1,15 @@
+{
+  "id": "7fa58144-d4fb-494b-8c94-703de70c0f2a",
+  "name": "Elizabeth",
+  "heightCm": 101,
+  "weightKg": 140,
+  "eyeColor": "Brown",
+  "hairColor": "Black",
+  "breed": "Hybrid",
+  "placeOfBirth": "South Mariatown, Philippines",
+  "description": "Elizabeth is a brown-eyed llama with black hair, standing 101 cm tall. Originally from South Mariatown, Philippines, Elizabeth enjoys reading, cooking, singing. Known for their shy and curious personality, Elizabeth is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "10ddee75-65b6-415e-a993-c01e06b6456b",
+    "relationship": "cousin"
+  }
+}

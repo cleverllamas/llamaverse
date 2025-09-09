@@ -1,0 +1,15 @@
+{
+  "id": "7bb5cf79-75b6-46f9-a4e3-126648ecb546",
+  "name": "Johnny",
+  "heightCm": 182,
+  "weightKg": 163,
+  "eyeColor": "Brown",
+  "hairColor": "Blonde",
+  "breed": "Suri",
+  "placeOfBirth": "Port James, Kiribati",
+  "description": "Johnny is a brown-eyed llama with blonde hair, standing 182 cm tall. Originally from Port James, Kiribati, Johnny enjoys painting, cooking, dancing. Known for their friendly and friendly personality, Johnny is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "c75c7cee-91b4-4a48-b956-4336e5c880ea",
+    "relationship": "sister"
+  }
+}

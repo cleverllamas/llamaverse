@@ -1,0 +1,15 @@
+{
+  "id": "5460f2f5-87f6-4243-a3de-5ca6c34d3db1",
+  "name": "Kelly",
+  "heightCm": 133,
+  "weightKg": 175,
+  "eyeColor": "Blue",
+  "hairColor": "Brown",
+  "breed": "Suri",
+  "placeOfBirth": "East Jennifershire, Macedonia",
+  "description": "Kelly is a blue-eyed llama with brown hair, standing 133 cm tall. Originally from East Jennifershire, Macedonia, Kelly enjoys painting, knitting, cooking. Known for their mischievous and playful personality, Kelly is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "efd5b2b7-5fa8-4ce1-8834-d22335158b22",
+    "relationship": "second cousin"
+  }
+}

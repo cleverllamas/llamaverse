@@ -1,0 +1,15 @@
+{
+  "id": "0ae009db-aa94-4dce-966e-867702621afc",
+  "name": "Sean",
+  "heightCm": 107,
+  "weightKg": 143,
+  "eyeColor": "Brown",
+  "hairColor": "Blonde",
+  "breed": "Hybrid",
+  "placeOfBirth": "Danielland, Honduras",
+  "description": "Sean is a brown-eyed llama with blonde hair, standing 107 cm tall. Originally from Danielland, Honduras, Sean enjoys cooking, knitting, hiking. Known for their gentle and gentle personality, Sean is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "3bedcbaf-dd2b-4a13-ae1d-63459619c312",
+    "relationship": "brother"
+  }
+}

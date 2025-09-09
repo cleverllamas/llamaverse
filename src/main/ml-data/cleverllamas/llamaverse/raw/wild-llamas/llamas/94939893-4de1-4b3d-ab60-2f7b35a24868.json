@@ -1,0 +1,15 @@
+{
+  "id": "94939893-4de1-4b3d-ab60-2f7b35a24868",
+  "name": "Todd",
+  "heightCm": 129,
+  "weightKg": 195,
+  "eyeColor": "Brown",
+  "hairColor": "Gray",
+  "breed": "Hybrid",
+  "placeOfBirth": "Port Matthewstad, Cuba",
+  "description": "Todd is a brown-eyed llama with gray hair, standing 129 cm tall. Originally from Port Matthewstad, Cuba, Todd enjoys reading, gardening, knitting. Known for their calm and energetic personality, Todd is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "46d3fec7-d6ff-4b1f-9a59-2011e96390c8",
+    "relationship": "mother"
+  }
+}

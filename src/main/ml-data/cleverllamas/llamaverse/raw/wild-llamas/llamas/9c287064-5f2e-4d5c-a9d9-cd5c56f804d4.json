@@ -1,0 +1,15 @@
+{
+  "id": "9c287064-5f2e-4d5c-a9d9-cd5c56f804d4",
+  "name": "Diane",
+  "heightCm": 151,
+  "weightKg": 189,
+  "eyeColor": "Hazel",
+  "hairColor": "White",
+  "breed": "Hybrid",
+  "placeOfBirth": "Valerieside, United States Minor Outlying Islands",
+  "description": "Diane is a hazel-eyed llama with white hair, standing 151 cm tall. Originally from Valerieside, United States Minor Outlying Islands, Diane enjoys knitting, gardening, reading. Known for their playful and mischievous personality, Diane is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "0c029f82-1a65-4d03-9412-bf31e80f41f7",
+    "relationship": "sister"
+  }
+}

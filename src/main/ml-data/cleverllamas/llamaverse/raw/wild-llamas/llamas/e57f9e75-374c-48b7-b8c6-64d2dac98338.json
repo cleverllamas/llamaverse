@@ -1,0 +1,15 @@
+{
+  "id": "e57f9e75-374c-48b7-b8c6-64d2dac98338",
+  "name": "Rebecca",
+  "heightCm": 164,
+  "weightKg": 162,
+  "eyeColor": "Blue",
+  "hairColor": "Blonde",
+  "breed": "Suri",
+  "placeOfBirth": "Powellhaven, Panama",
+  "description": "Rebecca is a blue-eyed llama with blonde hair, standing 164 cm tall. Originally from Powellhaven, Panama, Rebecca enjoys hiking, singing, painting. Known for their calm and mischievous personality, Rebecca is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "18ee673a-f10e-4ec0-b57c-4c1e5d635c5c",
+    "relationship": "third cousin twice removed"
+  }
+}

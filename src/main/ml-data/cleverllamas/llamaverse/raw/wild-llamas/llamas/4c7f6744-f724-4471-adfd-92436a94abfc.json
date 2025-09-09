@@ -1,0 +1,15 @@
+{
+  "id": "4c7f6744-f724-4471-adfd-92436a94abfc",
+  "name": "Lisa",
+  "heightCm": 113,
+  "weightKg": 149,
+  "eyeColor": "Gray",
+  "hairColor": "Blonde",
+  "breed": "Suri",
+  "placeOfBirth": "West John, Lebanon",
+  "description": "Lisa is a gray-eyed llama with blonde hair, standing 113 cm tall. Originally from West John, Lebanon, Lisa enjoys reading, wood carving, cooking. Known for their shy and friendly personality, Lisa is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "97c4c275-188d-40ab-8036-9a2c4fc73346",
+    "relationship": "uncle"
+  }
+}

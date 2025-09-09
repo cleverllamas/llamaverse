@@ -1,0 +1,15 @@
+{
+  "id": "bd39811b-d21d-471c-b01e-d0b4f170fe6e",
+  "name": "Andrew",
+  "heightCm": 135,
+  "weightKg": 139,
+  "eyeColor": "Gray",
+  "hairColor": "Black",
+  "breed": "Hybrid",
+  "placeOfBirth": "New Jillian, Nauru",
+  "description": "Andrew is a gray-eyed llama with black hair, standing 135 cm tall. Originally from New Jillian, Nauru, Andrew enjoys singing, wood carving, painting. Known for their calm and curious personality, Andrew is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "ae632116-dd78-41fc-af6f-76b6ab78fc57",
+    "relationship": "sister"
+  }
+}

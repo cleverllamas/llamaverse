@@ -1,0 +1,15 @@
+{
+  "id": "53f19a7c-c109-41ff-b720-067eb021933b",
+  "name": "Tracey",
+  "heightCm": 185,
+  "weightKg": 172,
+  "eyeColor": "Gray",
+  "hairColor": "Black",
+  "breed": "Hybrid",
+  "placeOfBirth": "Christopherstad, Botswana",
+  "description": "Tracey is a gray-eyed llama with black hair, standing 185 cm tall. Originally from Christopherstad, Botswana, Tracey enjoys cooking, knitting, singing. Known for their mischievous and energetic personality, Tracey is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "3f5b992c-fa31-46fa-81b1-1a7a7d4a6127",
+    "relationship": "father"
+  }
+}

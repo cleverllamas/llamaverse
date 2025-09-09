@@ -1,0 +1,15 @@
+{
+  "id": "6dd74590-48da-42e3-b03a-553e1a878de7",
+  "name": "Brandon",
+  "heightCm": 179,
+  "weightKg": 155,
+  "eyeColor": "Brown",
+  "hairColor": "Red",
+  "breed": "Hybrid",
+  "placeOfBirth": "Johnsonview, Eritrea",
+  "description": "Brandon is a brown-eyed llama with red hair, standing 179 cm tall. Originally from Johnsonview, Eritrea, Brandon enjoys knitting, gardening, cooking. Known for their shy and calm personality, Brandon is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "6d04c994-6779-46b3-80cc-64c90568bd33",
+    "relationship": "aunt"
+  }
+}

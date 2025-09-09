@@ -1,0 +1,15 @@
+{
+  "id": "e41dafed-c7e3-40eb-9d48-002507ac53f6",
+  "name": "Mark",
+  "heightCm": 163,
+  "weightKg": 167,
+  "eyeColor": "Brown",
+  "hairColor": "Silver",
+  "breed": "Huacaya",
+  "placeOfBirth": "Thompsonville, Turkmenistan",
+  "description": "Mark is a brown-eyed llama with silver hair, standing 163 cm tall. Originally from Thompsonville, Turkmenistan, Mark enjoys knitting, cooking, singing. Known for their curious and calm personality, Mark is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "e06377c0-6ac6-46ad-922b-a977d87c0d6a",
+    "relationship": "4th cousin once removed"
+  }
+}

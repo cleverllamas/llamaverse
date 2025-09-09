@@ -1,0 +1,15 @@
+{
+  "id": "4c4a52ac-9419-42c1-be99-e5877df8c412",
+  "name": "Nicole",
+  "heightCm": 161,
+  "weightKg": 163,
+  "eyeColor": "Brown",
+  "hairColor": "White",
+  "breed": "Suri",
+  "placeOfBirth": "Stephaniefurt, Turkey",
+  "description": "Nicole is a brown-eyed llama with white hair, standing 161 cm tall. Originally from Stephaniefurt, Turkey, Nicole enjoys reading, singing, wood carving. Known for their curious and gentle personality, Nicole is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "c2c6122c-5892-4f73-91a2-209383c51b44",
+    "relationship": "second cousin"
+  }
+}

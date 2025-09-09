@@ -1,0 +1,15 @@
+{
+  "id": "de58a094-cef4-461b-8c72-892f27a0b032",
+  "name": "Christopher",
+  "heightCm": 197,
+  "weightKg": 199,
+  "eyeColor": "Blue",
+  "hairColor": "Red",
+  "breed": "Hybrid",
+  "placeOfBirth": "Coryview, Austria",
+  "description": "Christopher is a blue-eyed llama with red hair, standing 197 cm tall. Originally from Coryview, Austria, Christopher enjoys hiking, singing, dancing. Known for their calm and gentle personality, Christopher is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "351d1673-ba8f-4296-b942-4c5baf8e848d",
+    "relationship": "4th cousin once removed"
+  }
+}

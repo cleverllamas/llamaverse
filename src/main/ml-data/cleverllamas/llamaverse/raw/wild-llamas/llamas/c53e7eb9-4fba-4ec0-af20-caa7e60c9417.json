@@ -1,0 +1,15 @@
+{
+  "id": "c53e7eb9-4fba-4ec0-af20-caa7e60c9417",
+  "name": "Karen",
+  "heightCm": 110,
+  "weightKg": 133,
+  "eyeColor": "Gray",
+  "hairColor": "Brown",
+  "breed": "Suri",
+  "placeOfBirth": "Daltonberg, Ecuador",
+  "description": "Karen is a gray-eyed llama with brown hair, standing 110 cm tall. Originally from Daltonberg, Ecuador, Karen enjoys painting, gardening, hiking. Known for their mischievous and playful personality, Karen is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "c2c054e4-73dd-4eb9-b626-68ba3f82ccfc",
+    "relationship": "grandparent"
+  }
+}

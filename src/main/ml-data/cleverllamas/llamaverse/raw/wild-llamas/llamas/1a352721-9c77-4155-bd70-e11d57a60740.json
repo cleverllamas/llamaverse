@@ -1,0 +1,15 @@
+{
+  "id": "1a352721-9c77-4155-bd70-e11d57a60740",
+  "name": "Larry",
+  "heightCm": 169,
+  "weightKg": 188,
+  "eyeColor": "Blue",
+  "hairColor": "Brown",
+  "breed": "Hybrid",
+  "placeOfBirth": "Port Johnside, Lesotho",
+  "description": "Larry is a blue-eyed llama with brown hair, standing 169 cm tall. Originally from Port Johnside, Lesotho, Larry enjoys cooking, gardening, knitting. Known for their calm and gentle personality, Larry is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "5c82ff79-61c6-44b4-9665-6c0099c6a0b2",
+    "relationship": "4th cousin once removed"
+  }
+}

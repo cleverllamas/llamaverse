@@ -1,0 +1,15 @@
+{
+  "id": "d86f6f3e-e542-494c-b9b8-594e1d1c09b8",
+  "name": "Cynthia",
+  "heightCm": 194,
+  "weightKg": 139,
+  "eyeColor": "Blue",
+  "hairColor": "Silver",
+  "breed": "Suri",
+  "placeOfBirth": "East Sabrinaport, Romania",
+  "description": "Cynthia is a blue-eyed llama with silver hair, standing 194 cm tall. Originally from East Sabrinaport, Romania, Cynthia enjoys cooking, dancing, reading. Known for their shy and energetic personality, Cynthia is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "262cb814-ed18-423c-b45a-e29f72a62ad9",
+    "relationship": "15th cousin 9th removed"
+  }
+}

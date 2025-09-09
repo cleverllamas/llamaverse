@@ -1,0 +1,15 @@
+{
+  "id": "281fb88a-8e44-4fd4-94d5-0ca1b202fb4b",
+  "name": "Ashley",
+  "heightCm": 169,
+  "weightKg": 159,
+  "eyeColor": "Gray",
+  "hairColor": "Black",
+  "breed": "Suri",
+  "placeOfBirth": "North Jessicatown, Moldova",
+  "description": "Ashley is a gray-eyed llama with black hair, standing 169 cm tall. Originally from North Jessicatown, Moldova, Ashley enjoys dancing, knitting, reading. Known for their playful and shy personality, Ashley is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "11d817a0-c010-4a55-9557-1959f687b36c",
+    "relationship": "great uncle"
+  }
+}

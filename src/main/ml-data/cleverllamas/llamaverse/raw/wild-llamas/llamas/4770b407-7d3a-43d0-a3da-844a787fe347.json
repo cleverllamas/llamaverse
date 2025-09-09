@@ -1,0 +1,15 @@
+{
+  "id": "4770b407-7d3a-43d0-a3da-844a787fe347",
+  "name": "Daniel",
+  "heightCm": 109,
+  "weightKg": 141,
+  "eyeColor": "Green",
+  "hairColor": "Black",
+  "breed": "Suri",
+  "placeOfBirth": "East Jennifertown, Brazil",
+  "description": "Daniel is a green-eyed llama with black hair, standing 109 cm tall. Originally from East Jennifertown, Brazil, Daniel enjoys gardening, dancing, painting. Known for their friendly and shy personality, Daniel is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "d2b26e69-e7c5-4f2d-8e62-8d1821afaece",
+    "relationship": "15th cousin 9th removed"
+  }
+}

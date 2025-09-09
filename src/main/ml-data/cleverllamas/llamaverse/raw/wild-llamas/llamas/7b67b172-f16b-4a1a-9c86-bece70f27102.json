@@ -1,0 +1,15 @@
+{
+  "id": "7b67b172-f16b-4a1a-9c86-bece70f27102",
+  "name": "Brian",
+  "heightCm": 159,
+  "weightKg": 182,
+  "eyeColor": "Blue",
+  "hairColor": "Silver",
+  "breed": "Suri",
+  "placeOfBirth": "Laurenfurt, Cook Islands",
+  "description": "Brian is a blue-eyed llama with silver hair, standing 159 cm tall. Originally from Laurenfurt, Cook Islands, Brian enjoys gardening, hiking, singing. Known for their gentle and energetic personality, Brian is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "bb347933-2835-4f79-b1f7-8f5c68519838",
+    "relationship": "mother"
+  }
+}

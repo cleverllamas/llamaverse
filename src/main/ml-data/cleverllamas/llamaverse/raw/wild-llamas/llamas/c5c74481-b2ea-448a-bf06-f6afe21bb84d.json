@@ -1,0 +1,15 @@
+{
+  "id": "c5c74481-b2ea-448a-bf06-f6afe21bb84d",
+  "name": "Kevin",
+  "heightCm": 106,
+  "weightKg": 159,
+  "eyeColor": "Amber",
+  "hairColor": "White",
+  "breed": "Huacaya",
+  "placeOfBirth": "Annamouth, Tunisia",
+  "description": "Kevin is a amber-eyed llama with white hair, standing 106 cm tall. Originally from Annamouth, Tunisia, Kevin enjoys hiking, singing, gardening. Known for their shy and curious personality, Kevin is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "d5b725e2-079d-49a1-8b9f-a44039343669",
+    "relationship": "mother"
+  }
+}

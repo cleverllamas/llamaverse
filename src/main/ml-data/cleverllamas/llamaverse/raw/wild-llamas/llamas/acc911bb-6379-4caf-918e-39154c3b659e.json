@@ -1,0 +1,15 @@
+{
+  "id": "acc911bb-6379-4caf-918e-39154c3b659e",
+  "name": "Jessica",
+  "heightCm": 127,
+  "weightKg": 131,
+  "eyeColor": "Gray",
+  "hairColor": "Black",
+  "breed": "Suri",
+  "placeOfBirth": "New Jason, Samoa",
+  "description": "Jessica is a gray-eyed llama with black hair, standing 127 cm tall. Originally from New Jason, Samoa, Jessica enjoys dancing, cooking, hiking. Known for their shy and gentle personality, Jessica is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "e86f8ed9-9fa0-4255-96bc-f071d63e6568",
+    "relationship": "15th cousin 9th removed"
+  }
+}

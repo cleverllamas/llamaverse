@@ -1,0 +1,15 @@
+{
+  "id": "14fb0883-c0e4-4436-80e4-e1368652d6e0",
+  "name": "Brittany",
+  "heightCm": 122,
+  "weightKg": 144,
+  "eyeColor": "Hazel",
+  "hairColor": "Red",
+  "breed": "Huacaya",
+  "placeOfBirth": "Marcusside, Palestinian Territory",
+  "description": "Brittany is a hazel-eyed llama with red hair, standing 122 cm tall. Originally from Marcusside, Palestinian Territory, Brittany enjoys cooking, singing, hiking. Known for their gentle and mischievous personality, Brittany is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "806371e6-3124-4b5c-a45f-c151ac618b39",
+    "relationship": "great uncle"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "4737b4dd-6784-4efc-94ef-ea039fde2a4a",
+  "name": "Anthony",
+  "heightCm": 132,
+  "weightKg": 199,
+  "eyeColor": "Green",
+  "hairColor": "Gray",
+  "breed": "Suri",
+  "placeOfBirth": "Lake Mauricestad, Zimbabwe",
+  "description": "Anthony is a green-eyed llama with gray hair, standing 132 cm tall. Originally from Lake Mauricestad, Zimbabwe, Anthony enjoys cooking, hiking, reading. Known for their playful and playful personality, Anthony is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "9811c301-8db5-4475-a494-96d34a482e39",
+    "relationship": "cousin"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "c39ed5e9-ee6f-4cbc-9845-21c842a94568",
+  "name": "Priscilla",
+  "heightCm": 152,
+  "weightKg": 141,
+  "eyeColor": "Blue",
+  "hairColor": "Black",
+  "breed": "Hybrid",
+  "placeOfBirth": "West Tracymouth, Myanmar",
+  "description": "Priscilla is a blue-eyed llama with black hair, standing 152 cm tall. Originally from West Tracymouth, Myanmar, Priscilla enjoys reading, painting, dancing. Known for their gentle and playful personality, Priscilla is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "bb08db67-c5af-4f05-aeee-04b5828ca6ea",
+    "relationship": "15th cousin 9th removed"
+  }
+}

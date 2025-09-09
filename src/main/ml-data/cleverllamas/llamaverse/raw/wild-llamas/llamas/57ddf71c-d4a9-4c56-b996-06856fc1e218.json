@@ -1,0 +1,15 @@
+{
+  "id": "57ddf71c-d4a9-4c56-b996-06856fc1e218",
+  "name": "Kenneth",
+  "heightCm": 145,
+  "weightKg": 133,
+  "eyeColor": "Green",
+  "hairColor": "Red",
+  "breed": "Hybrid",
+  "placeOfBirth": "New Ashleyhaven, Nauru",
+  "description": "Kenneth is a green-eyed llama with red hair, standing 145 cm tall. Originally from New Ashleyhaven, Nauru, Kenneth enjoys gardening, cooking, reading. Known for their friendly and gentle personality, Kenneth is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "9405fffb-6939-4ccc-a624-d57d0156c1df",
+    "relationship": "cousin"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "a0b08c07-94da-4c74-9d72-3e042289dce0",
+  "name": "Theodore",
+  "heightCm": 120,
+  "weightKg": 138,
+  "eyeColor": "Green",
+  "hairColor": "Gray",
+  "breed": "Hybrid",
+  "placeOfBirth": "Rioschester, Papua New Guinea",
+  "description": "Theodore is a green-eyed llama with gray hair, standing 120 cm tall. Originally from Rioschester, Papua New Guinea, Theodore enjoys gardening, cooking, knitting. Known for their friendly and energetic personality, Theodore is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "466f79b3-ee15-4ece-976f-4474d7cb9cfd",
+    "relationship": "grandparent"
+  }
+}

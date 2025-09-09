@@ -1,0 +1,15 @@
+{
+  "id": "7a2feed4-8183-49f8-aa77-989454f116e0",
+  "name": "Jillian",
+  "heightCm": 154,
+  "weightKg": 162,
+  "eyeColor": "Green",
+  "hairColor": "Gray",
+  "breed": "Huacaya",
+  "placeOfBirth": "Huffton, Montserrat",
+  "description": "Jillian is a green-eyed llama with gray hair, standing 154 cm tall. Originally from Huffton, Montserrat, Jillian enjoys knitting, singing, reading. Known for their friendly and mischievous personality, Jillian is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "f0cbf915-fb3a-4028-9bfb-6635a8cfd7be",
+    "relationship": "sister"
+  }
+}

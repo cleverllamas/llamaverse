@@ -1,0 +1,15 @@
+{
+  "id": "8b0858fd-56e1-45f3-9a0c-8af829d9792b",
+  "name": "Robert",
+  "heightCm": 114,
+  "weightKg": 193,
+  "eyeColor": "Gray",
+  "hairColor": "Brown",
+  "breed": "Hybrid",
+  "placeOfBirth": "Carterside, Chile",
+  "description": "Robert is a gray-eyed llama with brown hair, standing 114 cm tall. Originally from Carterside, Chile, Robert enjoys wood carving, dancing, hiking. Known for their mischievous and mischievous personality, Robert is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "9a4d409a-0560-485b-afee-0f0bc07d37ed",
+    "relationship": "cousin"
+  }
+}

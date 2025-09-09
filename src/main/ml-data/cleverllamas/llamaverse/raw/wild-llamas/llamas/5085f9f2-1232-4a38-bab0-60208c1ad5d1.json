@@ -1,0 +1,15 @@
+{
+  "id": "5085f9f2-1232-4a38-bab0-60208c1ad5d1",
+  "name": "Robert",
+  "heightCm": 155,
+  "weightKg": 157,
+  "eyeColor": "Amber",
+  "hairColor": "Silver",
+  "breed": "Suri",
+  "placeOfBirth": "Port Michaelbury, Germany",
+  "description": "Robert is a amber-eyed llama with silver hair, standing 155 cm tall. Originally from Port Michaelbury, Germany, Robert enjoys cooking, wood carving, gardening. Known for their playful and shy personality, Robert is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "31af312a-9fa2-4d67-86d8-ab7688261814",
+    "relationship": "cousin"
+  }
+}

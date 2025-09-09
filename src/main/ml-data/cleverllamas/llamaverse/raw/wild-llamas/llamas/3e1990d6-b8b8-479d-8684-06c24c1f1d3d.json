@@ -1,0 +1,15 @@
+{
+  "id": "3e1990d6-b8b8-479d-8684-06c24c1f1d3d",
+  "name": "Pamela",
+  "heightCm": 112,
+  "weightKg": 145,
+  "eyeColor": "Green",
+  "hairColor": "Silver",
+  "breed": "Suri",
+  "placeOfBirth": "Lake Pamelaside, United States Minor Outlying Islands",
+  "description": "Pamela is a green-eyed llama with silver hair, standing 112 cm tall. Originally from Lake Pamelaside, United States Minor Outlying Islands, Pamela enjoys dancing, hiking, knitting. Known for their playful and friendly personality, Pamela is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "a7e27736-5af0-4018-b19a-683d291d1b5b",
+    "relationship": "15th cousin 9th removed"
+  }
+}

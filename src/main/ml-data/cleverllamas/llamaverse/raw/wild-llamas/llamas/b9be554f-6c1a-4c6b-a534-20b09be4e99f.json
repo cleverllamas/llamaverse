@@ -1,0 +1,15 @@
+{
+  "id": "b9be554f-6c1a-4c6b-a534-20b09be4e99f",
+  "name": "Crystal",
+  "heightCm": 116,
+  "weightKg": 171,
+  "eyeColor": "Hazel",
+  "hairColor": "Black",
+  "breed": "Hybrid",
+  "placeOfBirth": "Jamesport, Botswana",
+  "description": "Crystal is a hazel-eyed llama with black hair, standing 116 cm tall. Originally from Jamesport, Botswana, Crystal enjoys cooking, reading, knitting. Known for their friendly and gentle personality, Crystal is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "45237735-441f-423e-bdbe-558f0a7a4654",
+    "relationship": "grandparent"
+  }
+}

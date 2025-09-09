@@ -1,0 +1,15 @@
+{
+  "id": "945ceced-c57f-465d-93de-256edbb11710",
+  "name": "Robert",
+  "heightCm": 196,
+  "weightKg": 194,
+  "eyeColor": "Gray",
+  "hairColor": "Brown",
+  "breed": "Suri",
+  "placeOfBirth": "Lucasberg, Algeria",
+  "description": "Robert is a gray-eyed llama with brown hair, standing 196 cm tall. Originally from Lucasberg, Algeria, Robert enjoys reading, painting, gardening. Known for their playful and calm personality, Robert is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "db59c757-2415-4f5f-81d0-0d457f64fabb",
+    "relationship": "mother"
+  }
+}

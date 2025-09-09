@@ -1,0 +1,15 @@
+{
+  "id": "b1fe5aa1-5f9c-4285-9332-091e136ef5fb",
+  "name": "Teresa",
+  "heightCm": 200,
+  "weightKg": 191,
+  "eyeColor": "Green",
+  "hairColor": "Black",
+  "breed": "Suri",
+  "placeOfBirth": "South Kyleport, Tokelau",
+  "description": "Teresa is a green-eyed llama with black hair, standing 200 cm tall. Originally from South Kyleport, Tokelau, Teresa enjoys knitting, cooking, gardening. Known for their curious and friendly personality, Teresa is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "e43b8e88-01fe-4129-bbb0-e80b8f4474fd",
+    "relationship": "great uncle"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "f3b6cd05-c2c1-43c7-b875-72d742e4bdfe",
+  "name": "Rhonda",
+  "heightCm": 176,
+  "weightKg": 181,
+  "eyeColor": "Blue",
+  "hairColor": "Gray",
+  "breed": "Hybrid",
+  "placeOfBirth": "Valdezview, Costa Rica",
+  "description": "Rhonda is a blue-eyed llama with gray hair, standing 176 cm tall. Originally from Valdezview, Costa Rica, Rhonda enjoys gardening, reading, painting. Known for their gentle and playful personality, Rhonda is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "1b4d7e02-e2e7-4d44-819b-d657c6eb816b",
+    "relationship": "great uncle"
+  }
+}

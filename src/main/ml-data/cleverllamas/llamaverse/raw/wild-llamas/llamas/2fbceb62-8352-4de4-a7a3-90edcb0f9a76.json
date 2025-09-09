@@ -1,0 +1,15 @@
+{
+  "id": "2fbceb62-8352-4de4-a7a3-90edcb0f9a76",
+  "name": "Carrie",
+  "heightCm": 126,
+  "weightKg": 194,
+  "eyeColor": "Hazel",
+  "hairColor": "Silver",
+  "breed": "Huacaya",
+  "placeOfBirth": "East Samantha, Faroe Islands",
+  "description": "Carrie is a hazel-eyed llama with silver hair, standing 126 cm tall. Originally from East Samantha, Faroe Islands, Carrie enjoys cooking, wood carving, gardening. Known for their calm and energetic personality, Carrie is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "45171014-977f-45d9-859c-87f5c8b5c6d1",
+    "relationship": "grandparent"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "827568d6-b17d-4381-9f62-a6ac949b0a0b",
+  "name": "Roger",
+  "heightCm": 108,
+  "weightKg": 187,
+  "eyeColor": "Brown",
+  "hairColor": "Blonde",
+  "breed": "Huacaya",
+  "placeOfBirth": "Grantshire, Saudi Arabia",
+  "description": "Roger is a brown-eyed llama with blonde hair, standing 108 cm tall. Originally from Grantshire, Saudi Arabia, Roger enjoys painting, wood carving, singing. Known for their playful and curious personality, Roger is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "2c277ae1-499f-4fbe-9f04-c91635d96c26",
+    "relationship": "grandparent"
+  }
+}

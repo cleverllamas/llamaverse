@@ -1,0 +1,15 @@
+{
+  "id": "693c4c48-3294-4d39-acc2-7e6568705ac1",
+  "name": "Karl",
+  "heightCm": 167,
+  "weightKg": 159,
+  "eyeColor": "Green",
+  "hairColor": "Brown",
+  "breed": "Huacaya",
+  "placeOfBirth": "Port Rachel, Tanzania",
+  "description": "Karl is a green-eyed llama with brown hair, standing 167 cm tall. Originally from Port Rachel, Tanzania, Karl enjoys dancing, wood carving, cooking. Known for their calm and curious personality, Karl is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "9e24b921-4ce4-4aa5-a180-c72f4b99a8e7",
+    "relationship": "aunt"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "c71a9b98-a124-431f-8a4f-c9b1c8573a34",
+  "name": "Jorge",
+  "heightCm": 110,
+  "weightKg": 185,
+  "eyeColor": "Amber",
+  "hairColor": "Brown",
+  "breed": "Hybrid",
+  "placeOfBirth": "Robertstad, Comoros",
+  "description": "Jorge is a amber-eyed llama with brown hair, standing 110 cm tall. Originally from Robertstad, Comoros, Jorge enjoys reading, singing, wood carving. Known for their playful and energetic personality, Jorge is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "2018d2c2-08a3-40e9-abbf-aef437430be0",
+    "relationship": "grandparent"
+  }
+}

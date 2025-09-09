@@ -1,0 +1,15 @@
+{
+  "id": "38f0793c-a9cf-48df-8522-73664792f74d",
+  "name": "Christine",
+  "heightCm": 197,
+  "weightKg": 139,
+  "eyeColor": "Amber",
+  "hairColor": "Brown",
+  "breed": "Hybrid",
+  "placeOfBirth": "Wilsonside, Cote d'Ivoire",
+  "description": "Christine is a amber-eyed llama with brown hair, standing 197 cm tall. Originally from Wilsonside, Cote d'Ivoire, Christine enjoys hiking, painting, knitting. Known for their energetic and mischievous personality, Christine is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "3ff6dbdf-2b15-4895-a1c9-0901474c3e03",
+    "relationship": "cousin"
+  }
+}

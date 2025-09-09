@@ -1,0 +1,15 @@
+{
+  "id": "4ef4e8e5-639c-4adf-8a11-f54872766f0e",
+  "name": "Larry",
+  "heightCm": 153,
+  "weightKg": 139,
+  "eyeColor": "Green",
+  "hairColor": "Blonde",
+  "breed": "Huacaya",
+  "placeOfBirth": "Port Matthewhaven, Oman",
+  "description": "Larry is a green-eyed llama with blonde hair, standing 153 cm tall. Originally from Port Matthewhaven, Oman, Larry enjoys painting, knitting, hiking. Known for their playful and friendly personality, Larry is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "ec38ce5f-7c9c-4dfd-9048-ef74e80827a2",
+    "relationship": "uncle"
+  }
+}

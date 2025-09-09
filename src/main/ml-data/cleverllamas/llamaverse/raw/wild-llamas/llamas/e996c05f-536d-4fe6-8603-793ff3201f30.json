@@ -1,0 +1,15 @@
+{
+  "id": "e996c05f-536d-4fe6-8603-793ff3201f30",
+  "name": "James",
+  "heightCm": 106,
+  "weightKg": 187,
+  "eyeColor": "Blue",
+  "hairColor": "Red",
+  "breed": "Hybrid",
+  "placeOfBirth": "Joshuatown, Christmas Island",
+  "description": "James is a blue-eyed llama with red hair, standing 106 cm tall. Originally from Joshuatown, Christmas Island, James enjoys cooking, dancing, hiking. Known for their playful and friendly personality, James is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "ef8b51d6-5935-43a6-a285-002639521bc2",
+    "relationship": "great uncle"
+  }
+}

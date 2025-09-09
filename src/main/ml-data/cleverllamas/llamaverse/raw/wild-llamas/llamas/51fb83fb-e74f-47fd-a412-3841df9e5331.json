@@ -1,0 +1,15 @@
+{
+  "id": "51fb83fb-e74f-47fd-a412-3841df9e5331",
+  "name": "Christopher",
+  "heightCm": 114,
+  "weightKg": 142,
+  "eyeColor": "Amber",
+  "hairColor": "White",
+  "breed": "Suri",
+  "placeOfBirth": "Kennethhaven, Sweden",
+  "description": "Christopher is a amber-eyed llama with white hair, standing 114 cm tall. Originally from Kennethhaven, Sweden, Christopher enjoys hiking, singing, dancing. Known for their curious and playful personality, Christopher is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "f539f1c8-7667-4f1c-875b-12d9d5ffb5d1",
+    "relationship": "cousin"
+  }
+}

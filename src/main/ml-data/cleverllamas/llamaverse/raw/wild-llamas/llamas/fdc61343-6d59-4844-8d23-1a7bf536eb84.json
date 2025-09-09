@@ -1,0 +1,15 @@
+{
+  "id": "fdc61343-6d59-4844-8d23-1a7bf536eb84",
+  "name": "Ann",
+  "heightCm": 179,
+  "weightKg": 168,
+  "eyeColor": "Amber",
+  "hairColor": "Red",
+  "breed": "Huacaya",
+  "placeOfBirth": "Soniaborough, Zimbabwe",
+  "description": "Ann is a amber-eyed llama with red hair, standing 179 cm tall. Originally from Soniaborough, Zimbabwe, Ann enjoys wood carving, knitting, hiking. Known for their mischievous and curious personality, Ann is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "21dfcd4e-8ca5-4989-803d-142910003c6d",
+    "relationship": "grandparent"
+  }
+}

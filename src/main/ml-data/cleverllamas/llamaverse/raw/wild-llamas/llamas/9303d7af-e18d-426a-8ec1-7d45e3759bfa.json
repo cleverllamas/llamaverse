@@ -1,0 +1,15 @@
+{
+  "id": "9303d7af-e18d-426a-8ec1-7d45e3759bfa",
+  "name": "Terri",
+  "heightCm": 198,
+  "weightKg": 195,
+  "eyeColor": "Brown",
+  "hairColor": "Brown",
+  "breed": "Huacaya",
+  "placeOfBirth": "North Lauraville, Holy See (Vatican City State)",
+  "description": "Terri is a brown-eyed llama with brown hair, standing 198 cm tall. Originally from North Lauraville, Holy See (Vatican City State), Terri enjoys knitting, painting, hiking. Known for their shy and playful personality, Terri is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "7ba104d3-ff0e-4237-b451-42f8564cdd1a",
+    "relationship": "grandparent"
+  }
+}

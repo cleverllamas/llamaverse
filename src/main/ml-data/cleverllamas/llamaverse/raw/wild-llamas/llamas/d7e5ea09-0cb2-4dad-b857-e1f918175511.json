@@ -1,0 +1,15 @@
+{
+  "id": "d7e5ea09-0cb2-4dad-b857-e1f918175511",
+  "name": "Brittany",
+  "heightCm": 175,
+  "weightKg": 196,
+  "eyeColor": "Blue",
+  "hairColor": "Brown",
+  "breed": "Suri",
+  "placeOfBirth": "North Deannaland, Isle of Man",
+  "description": "Brittany is a blue-eyed llama with brown hair, standing 175 cm tall. Originally from North Deannaland, Isle of Man, Brittany enjoys knitting, wood carving, singing. Known for their mischievous and calm personality, Brittany is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "68c1d47e-5ad1-4088-8d16-0b9ca2f7850c",
+    "relationship": "second cousin"
+  }
+}

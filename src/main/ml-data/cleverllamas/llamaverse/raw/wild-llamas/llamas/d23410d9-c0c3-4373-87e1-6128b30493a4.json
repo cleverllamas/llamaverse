@@ -1,0 +1,15 @@
+{
+  "id": "d23410d9-c0c3-4373-87e1-6128b30493a4",
+  "name": "Steven",
+  "heightCm": 166,
+  "weightKg": 131,
+  "eyeColor": "Blue",
+  "hairColor": "Blonde",
+  "breed": "Suri",
+  "placeOfBirth": "New Lisa, French Polynesia",
+  "description": "Steven is a blue-eyed llama with blonde hair, standing 166 cm tall. Originally from New Lisa, French Polynesia, Steven enjoys cooking, reading, knitting. Known for their energetic and curious personality, Steven is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "f07c3a03-8db9-48fa-9238-1cd16d280a14",
+    "relationship": "uncle"
+  }
+}

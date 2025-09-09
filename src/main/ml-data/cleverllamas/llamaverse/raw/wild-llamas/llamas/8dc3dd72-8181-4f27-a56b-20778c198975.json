@@ -1,0 +1,15 @@
+{
+  "id": "8dc3dd72-8181-4f27-a56b-20778c198975",
+  "name": "Brandon",
+  "heightCm": 119,
+  "weightKg": 159,
+  "eyeColor": "Amber",
+  "hairColor": "Black",
+  "breed": "Huacaya",
+  "placeOfBirth": "Millerhaven, Burundi",
+  "description": "Brandon is a amber-eyed llama with black hair, standing 119 cm tall. Originally from Millerhaven, Burundi, Brandon enjoys dancing, knitting, wood carving. Known for their curious and playful personality, Brandon is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "81262d42-dcd4-42a1-8455-f3abb9d83105",
+    "relationship": "mother"
+  }
+}

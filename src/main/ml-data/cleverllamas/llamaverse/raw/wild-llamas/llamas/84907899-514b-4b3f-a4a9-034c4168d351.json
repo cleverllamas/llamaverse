@@ -1,0 +1,15 @@
+{
+  "id": "84907899-514b-4b3f-a4a9-034c4168d351",
+  "name": "Monique",
+  "heightCm": 183,
+  "weightKg": 194,
+  "eyeColor": "Brown",
+  "hairColor": "Black",
+  "breed": "Hybrid",
+  "placeOfBirth": "Derrickberg, Singapore",
+  "description": "Monique is a brown-eyed llama with black hair, standing 183 cm tall. Originally from Derrickberg, Singapore, Monique enjoys knitting, singing, dancing. Known for their friendly and curious personality, Monique is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "6c37cba4-6d4a-4aaf-962e-b3148c50369f",
+    "relationship": "great uncle"
+  }
+}

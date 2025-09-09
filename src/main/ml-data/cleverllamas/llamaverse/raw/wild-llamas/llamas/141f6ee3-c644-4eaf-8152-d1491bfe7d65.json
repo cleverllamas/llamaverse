@@ -1,0 +1,15 @@
+{
+  "id": "141f6ee3-c644-4eaf-8152-d1491bfe7d65",
+  "name": "Sarah",
+  "heightCm": 165,
+  "weightKg": 161,
+  "eyeColor": "Amber",
+  "hairColor": "White",
+  "breed": "Huacaya",
+  "placeOfBirth": "Marytown, Nigeria",
+  "description": "Sarah is a amber-eyed llama with white hair, standing 165 cm tall. Originally from Marytown, Nigeria, Sarah enjoys gardening, painting, hiking. Known for their energetic and calm personality, Sarah is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "00863414-306e-49cb-acd0-6579bea5421e",
+    "relationship": "cousin"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "5ce83072-c43e-4390-beef-4c93771bd987",
+  "name": "Melissa",
+  "heightCm": 172,
+  "weightKg": 147,
+  "eyeColor": "Blue",
+  "hairColor": "Black",
+  "breed": "Hybrid",
+  "placeOfBirth": "Sheppardside, Morocco",
+  "description": "Melissa is a blue-eyed llama with black hair, standing 172 cm tall. Originally from Sheppardside, Morocco, Melissa enjoys hiking, knitting, painting. Known for their calm and gentle personality, Melissa is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "b143ea0c-02b1-45f1-9073-9c4574771136",
+    "relationship": "mother"
+  }
+}

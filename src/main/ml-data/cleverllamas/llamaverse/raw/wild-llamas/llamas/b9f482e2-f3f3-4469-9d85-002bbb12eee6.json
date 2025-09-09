@@ -1,0 +1,15 @@
+{
+  "id": "b9f482e2-f3f3-4469-9d85-002bbb12eee6",
+  "name": "Felicia",
+  "heightCm": 162,
+  "weightKg": 171,
+  "eyeColor": "Gray",
+  "hairColor": "Black",
+  "breed": "Hybrid",
+  "placeOfBirth": "Matthewstad, Macao",
+  "description": "Felicia is a gray-eyed llama with black hair, standing 162 cm tall. Originally from Matthewstad, Macao, Felicia enjoys dancing, singing, gardening. Known for their curious and energetic personality, Felicia is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "8473c3df-cfe6-4f29-8f75-55c0fd2c0595",
+    "relationship": "second cousin"
+  }
+}

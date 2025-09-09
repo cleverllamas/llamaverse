@@ -1,0 +1,15 @@
+{
+  "id": "e3db9d58-01be-49ec-aad4-b6ffc2c879ab",
+  "name": "Laura",
+  "heightCm": 121,
+  "weightKg": 157,
+  "eyeColor": "Hazel",
+  "hairColor": "Black",
+  "breed": "Suri",
+  "placeOfBirth": "Reillyside, Grenada",
+  "description": "Laura is a hazel-eyed llama with black hair, standing 121 cm tall. Originally from Reillyside, Grenada, Laura enjoys singing, wood carving, hiking. Known for their shy and calm personality, Laura is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "028545bf-c0eb-4078-829f-ba5592b6f0ad",
+    "relationship": "cousin"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "eec6300f-840e-4106-90c8-2bd2b8dd254d",
+  "name": "Kent",
+  "heightCm": 175,
+  "weightKg": 163,
+  "eyeColor": "Amber",
+  "hairColor": "Red",
+  "breed": "Hybrid",
+  "placeOfBirth": "Port Williamview, Belize",
+  "description": "Kent is a amber-eyed llama with red hair, standing 175 cm tall. Originally from Port Williamview, Belize, Kent enjoys cooking, dancing, singing. Known for their playful and friendly personality, Kent is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "5bb2b8f6-2564-4307-8398-5cca885f34bf",
+    "relationship": "cousin"
+  }
+}

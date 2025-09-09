@@ -1,0 +1,15 @@
+{
+  "id": "2624d327-ad38-4021-b192-efa1e9b2bbd1",
+  "name": "Jennifer",
+  "heightCm": 192,
+  "weightKg": 198,
+  "eyeColor": "Blue",
+  "hairColor": "White",
+  "breed": "Suri",
+  "placeOfBirth": "Ballbury, United States Virgin Islands",
+  "description": "Jennifer is a blue-eyed llama with white hair, standing 192 cm tall. Originally from Ballbury, United States Virgin Islands, Jennifer enjoys singing, dancing, reading. Known for their energetic and mischievous personality, Jennifer is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "b8f1de20-9f5e-47a5-919f-c631b7b744a7",
+    "relationship": "cousin"
+  }
+}

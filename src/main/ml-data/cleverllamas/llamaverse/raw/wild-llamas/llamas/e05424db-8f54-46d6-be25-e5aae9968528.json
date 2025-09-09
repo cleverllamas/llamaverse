@@ -1,0 +1,15 @@
+{
+  "id": "e05424db-8f54-46d6-be25-e5aae9968528",
+  "name": "James",
+  "heightCm": 136,
+  "weightKg": 134,
+  "eyeColor": "Gray",
+  "hairColor": "Red",
+  "breed": "Suri",
+  "placeOfBirth": "South Jamesborough, Malta",
+  "description": "James is a gray-eyed llama with red hair, standing 136 cm tall. Originally from South Jamesborough, Malta, James enjoys cooking, dancing, hiking. Known for their mischievous and playful personality, James is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "5cec9b71-a15e-44d5-9f16-cc2acf12e392",
+    "relationship": "third cousin twice removed"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "11c9b5d1-d726-4d01-9c05-9395529310f4",
+  "name": "Shawn",
+  "heightCm": 149,
+  "weightKg": 191,
+  "eyeColor": "Hazel",
+  "hairColor": "White",
+  "breed": "Huacaya",
+  "placeOfBirth": "Robersonview, Morocco",
+  "description": "Shawn is a hazel-eyed llama with white hair, standing 149 cm tall. Originally from Robersonview, Morocco, Shawn enjoys knitting, hiking, cooking. Known for their playful and mischievous personality, Shawn is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "0542567a-1d8b-4341-93c5-07d39220cb22",
+    "relationship": "cousin"
+  }
+}

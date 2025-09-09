@@ -1,0 +1,15 @@
+{
+  "id": "78323f91-7e6a-43eb-b151-6361fa3ec98a",
+  "name": "Teresa",
+  "heightCm": 170,
+  "weightKg": 194,
+  "eyeColor": "Brown",
+  "hairColor": "Black",
+  "breed": "Huacaya",
+  "placeOfBirth": "West Jasonside, Morocco",
+  "description": "Teresa is a brown-eyed llama with black hair, standing 170 cm tall. Originally from West Jasonside, Morocco, Teresa enjoys painting, cooking, gardening. Known for their friendly and energetic personality, Teresa is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "991a4f0c-1352-4320-995b-4f64d760f976",
+    "relationship": "15th cousin 9th removed"
+  }
+}

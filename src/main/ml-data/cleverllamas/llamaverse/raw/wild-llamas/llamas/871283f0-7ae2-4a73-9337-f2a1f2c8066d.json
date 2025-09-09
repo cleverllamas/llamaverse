@@ -1,0 +1,15 @@
+{
+  "id": "871283f0-7ae2-4a73-9337-f2a1f2c8066d",
+  "name": "Carrie",
+  "heightCm": 190,
+  "weightKg": 191,
+  "eyeColor": "Hazel",
+  "hairColor": "Black",
+  "breed": "Hybrid",
+  "placeOfBirth": "Port Jeffreyland, Falkland Islands (Malvinas)",
+  "description": "Carrie is a hazel-eyed llama with black hair, standing 190 cm tall. Originally from Port Jeffreyland, Falkland Islands (Malvinas), Carrie enjoys gardening, hiking, reading. Known for their friendly and mischievous personality, Carrie is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "7d279d62-3d34-40d5-98c8-8a168c8568e6",
+    "relationship": "uncle"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "4e14e7fd-8bf2-417c-beb4-ed9720e34aae",
+  "name": "Heather",
+  "heightCm": 119,
+  "weightKg": 147,
+  "eyeColor": "Brown",
+  "hairColor": "Black",
+  "breed": "Huacaya",
+  "placeOfBirth": "Courtneyburgh, Cape Verde",
+  "description": "Heather is a brown-eyed llama with black hair, standing 119 cm tall. Originally from Courtneyburgh, Cape Verde, Heather enjoys singing, cooking, knitting. Known for their calm and mischievous personality, Heather is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "159849ee-284c-47b3-8e25-2ca82a51b006",
+    "relationship": "uncle"
+  }
+}

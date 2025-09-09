@@ -1,0 +1,15 @@
+{
+  "id": "6d4add13-28f3-4491-a8db-7abc751c2f37",
+  "name": "Matthew",
+  "heightCm": 106,
+  "weightKg": 196,
+  "eyeColor": "Green",
+  "hairColor": "White",
+  "breed": "Huacaya",
+  "placeOfBirth": "New Markhaven, Luxembourg",
+  "description": "Matthew is a green-eyed llama with white hair, standing 106 cm tall. Originally from New Markhaven, Luxembourg, Matthew enjoys knitting, painting, hiking. Known for their calm and mischievous personality, Matthew is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "d86f6f3e-e542-494c-b9b8-594e1d1c09b8",
+    "relationship": "4th cousin once removed"
+  }
+}

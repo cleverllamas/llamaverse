@@ -1,0 +1,15 @@
+{
+  "id": "93196122-6cd2-4c1e-884d-f766c3c9489b",
+  "name": "Jennifer",
+  "heightCm": 120,
+  "weightKg": 182,
+  "eyeColor": "Brown",
+  "hairColor": "Silver",
+  "breed": "Hybrid",
+  "placeOfBirth": "West John, Syrian Arab Republic",
+  "description": "Jennifer is a brown-eyed llama with silver hair, standing 120 cm tall. Originally from West John, Syrian Arab Republic, Jennifer enjoys singing, gardening, dancing. Known for their curious and mischievous personality, Jennifer is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "a18fd3ea-7f30-40f4-8d44-77d6a63fa6ae",
+    "relationship": "cousin"
+  }
+}

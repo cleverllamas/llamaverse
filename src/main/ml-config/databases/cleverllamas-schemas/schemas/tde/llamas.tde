@@ -1,0 +1,68 @@
+{
+  "template": {
+    "context": "/envelope/instance/llamas",
+    "rows": [
+      {
+        "schemaName": "llamaverse",
+        "viewName": "llamas",
+        "columns": [
+          {
+            "name": "id",
+            "scalarType": "string",
+            "val": "id"
+          },
+          {
+            "name": "name",
+            "scalarType": "string",
+            "val": "name"
+          },
+          {
+            "name": "heightCm",
+            "scalarType": "int",
+            "val": "heightCm"
+          },
+          {
+            "name": "weightKg",
+            "scalarType": "int",
+            "val": "weightKg"
+          },
+          {
+            "name": "eyeColor",
+            "scalarType": "string",
+            "val": "eyeColor"
+          },
+          {
+            "name": "hairColor",
+            "scalarType": "string",
+            "val": "hairColor"
+          },
+          {
+            "name": "breed",
+            "scalarType": "string",
+            "val": "breed"
+          },
+          {
+            "name": "placeOfBirth",
+            "scalarType": "string",
+            "val": "placeOfBirth"
+          },
+          {
+            "name": "medicalCondition",
+            "scalarType": "string",
+            "val": "(medicalCondition/name, 'none')[last()]"
+          },          
+          {
+            "name": "secretPowerId",
+            "scalarType": "string",
+            "val": "secretPower/id"
+          },
+          {
+            "name": "description",
+            "scalarType": "string",
+            "val": "description"
+          }
+        ]
+      }
+    ]
+  }
+}

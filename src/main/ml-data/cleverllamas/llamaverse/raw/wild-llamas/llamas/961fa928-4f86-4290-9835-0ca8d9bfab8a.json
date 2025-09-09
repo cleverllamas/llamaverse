@@ -1,0 +1,15 @@
+{
+  "id": "961fa928-4f86-4290-9835-0ca8d9bfab8a",
+  "name": "Maria",
+  "heightCm": 101,
+  "weightKg": 171,
+  "eyeColor": "Gray",
+  "hairColor": "Gray",
+  "breed": "Huacaya",
+  "placeOfBirth": "East Jessicafort, Niue",
+  "description": "Maria is a gray-eyed llama with gray hair, standing 101 cm tall. Originally from East Jessicafort, Niue, Maria enjoys singing, knitting, wood carving. Known for their friendly and energetic personality, Maria is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "807ede5c-cce7-4fc0-98c8-3e9f745b5fee",
+    "relationship": "brother"
+  }
+}

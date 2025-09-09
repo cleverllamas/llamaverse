@@ -1,0 +1,15 @@
+{
+  "id": "a5bb418e-2d4a-4993-be37-b047644fc68a",
+  "name": "Karen",
+  "heightCm": 184,
+  "weightKg": 136,
+  "eyeColor": "Brown",
+  "hairColor": "White",
+  "breed": "Suri",
+  "placeOfBirth": "Lake Daniel, Czech Republic",
+  "description": "Karen is a brown-eyed llama with white hair, standing 184 cm tall. Originally from Lake Daniel, Czech Republic, Karen enjoys reading, painting, knitting. Known for their calm and gentle personality, Karen is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "c0a7cc59-11c2-41d7-a289-fe9487d5ac54",
+    "relationship": "cousin"
+  }
+}

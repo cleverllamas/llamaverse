@@ -1,0 +1,15 @@
+{
+  "id": "8520c251-7abe-4eb4-a0e8-6706bf5c2397",
+  "name": "Marilyn",
+  "heightCm": 121,
+  "weightKg": 178,
+  "eyeColor": "Blue",
+  "hairColor": "Silver",
+  "breed": "Hybrid",
+  "placeOfBirth": "New Joseph, Saint Barthelemy",
+  "description": "Marilyn is a blue-eyed llama with silver hair, standing 121 cm tall. Originally from New Joseph, Saint Barthelemy, Marilyn enjoys hiking, dancing, singing. Known for their playful and energetic personality, Marilyn is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "992ebdc4-bed3-4978-bc53-7178992bffa7",
+    "relationship": "uncle"
+  }
+}

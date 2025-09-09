@@ -1,0 +1,15 @@
+{
+  "id": "1b9185a2-dd70-4f6e-a979-0ea5d432e4ad",
+  "name": "Joseph",
+  "heightCm": 160,
+  "weightKg": 166,
+  "eyeColor": "Gray",
+  "hairColor": "Gray",
+  "breed": "Hybrid",
+  "placeOfBirth": "South Brittany, Cameroon",
+  "description": "Joseph is a gray-eyed llama with gray hair, standing 160 cm tall. Originally from South Brittany, Cameroon, Joseph enjoys dancing, cooking, gardening. Known for their mischievous and calm personality, Joseph is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "5e56ddfe-8fc0-4b05-9ba2-6237e3873381",
+    "relationship": "brother"
+  }
+}

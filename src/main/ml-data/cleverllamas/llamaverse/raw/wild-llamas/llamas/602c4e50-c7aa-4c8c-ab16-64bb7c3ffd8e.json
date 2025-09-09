@@ -1,0 +1,15 @@
+{
+  "id": "602c4e50-c7aa-4c8c-ab16-64bb7c3ffd8e",
+  "name": "Nicole",
+  "heightCm": 160,
+  "weightKg": 171,
+  "eyeColor": "Brown",
+  "hairColor": "White",
+  "breed": "Suri",
+  "placeOfBirth": "Miguelbury, Lao People's Democratic Republic",
+  "description": "Nicole is a brown-eyed llama with white hair, standing 160 cm tall. Originally from Miguelbury, Lao People's Democratic Republic, Nicole enjoys painting, knitting, gardening. Known for their calm and energetic personality, Nicole is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "46d3fec7-d6ff-4b1f-9a59-2011e96390c8",
+    "relationship": "uncle"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "dd877ec8-f081-4c9d-a117-0552e7f94909",
+  "name": "Elizabeth",
+  "heightCm": 194,
+  "weightKg": 156,
+  "eyeColor": "Hazel",
+  "hairColor": "Silver",
+  "breed": "Hybrid",
+  "placeOfBirth": "Amandaville, Bhutan",
+  "description": "Elizabeth is a hazel-eyed llama with silver hair, standing 194 cm tall. Originally from Amandaville, Bhutan, Elizabeth enjoys gardening, dancing, singing. Known for their mischievous and shy personality, Elizabeth is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "733c4b1c-b871-420c-9866-e07a33ccb05f",
+    "relationship": "cousin"
+  }
+}

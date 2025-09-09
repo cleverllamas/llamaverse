@@ -1,0 +1,15 @@
+{
+  "id": "3ccaac00-7b9a-458b-a738-85734e47589d",
+  "name": "Samantha",
+  "heightCm": 134,
+  "weightKg": 189,
+  "eyeColor": "Green",
+  "hairColor": "Brown",
+  "breed": "Hybrid",
+  "placeOfBirth": "New Marymouth, Chad",
+  "description": "Samantha is a green-eyed llama with brown hair, standing 134 cm tall. Originally from New Marymouth, Chad, Samantha enjoys reading, hiking, dancing. Known for their energetic and energetic personality, Samantha is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "ed0b310c-5ede-4a13-90df-8d550a6bf798",
+    "relationship": "mother"
+  }
+}

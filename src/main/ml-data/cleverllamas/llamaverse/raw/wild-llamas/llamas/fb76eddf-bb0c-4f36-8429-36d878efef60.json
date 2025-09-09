@@ -1,0 +1,15 @@
+{
+  "id": "fb76eddf-bb0c-4f36-8429-36d878efef60",
+  "name": "Mark",
+  "heightCm": 105,
+  "weightKg": 151,
+  "eyeColor": "Hazel",
+  "hairColor": "White",
+  "breed": "Huacaya",
+  "placeOfBirth": "Greenechester, Timor-Leste",
+  "description": "Mark is a hazel-eyed llama with white hair, standing 105 cm tall. Originally from Greenechester, Timor-Leste, Mark enjoys hiking, knitting, cooking. Known for their shy and gentle personality, Mark is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "41b130ca-6bc1-4b8f-8599-1775647f163d",
+    "relationship": "uncle"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e6bc11ef-e558-40d1-a691-d8858848744e",
+  "name": "Stephanie",
+  "heightCm": 124,
+  "weightKg": 196,
+  "eyeColor": "Green",
+  "hairColor": "Blonde",
+  "breed": "Huacaya",
+  "placeOfBirth": "East Amyland, Tajikistan",
+  "description": "Stephanie is a green-eyed llama with blonde hair, standing 124 cm tall. Originally from East Amyland, Tajikistan, Stephanie enjoys cooking, dancing, hiking. Known for their gentle and friendly personality, Stephanie is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "6d994899-9f94-4d0d-a14d-3c28184787ed",
+    "relationship": "third cousin twice removed"
+  }
+}

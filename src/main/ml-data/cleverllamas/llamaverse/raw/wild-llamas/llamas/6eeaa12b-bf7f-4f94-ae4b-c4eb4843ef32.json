@@ -1,0 +1,15 @@
+{
+  "id": "6eeaa12b-bf7f-4f94-ae4b-c4eb4843ef32",
+  "name": "Jordan",
+  "heightCm": 145,
+  "weightKg": 137,
+  "eyeColor": "Blue",
+  "hairColor": "White",
+  "breed": "Huacaya",
+  "placeOfBirth": "Williamfurt, El Salvador",
+  "description": "Jordan is a blue-eyed llama with white hair, standing 145 cm tall. Originally from Williamfurt, El Salvador, Jordan enjoys gardening, wood carving, hiking. Known for their energetic and energetic personality, Jordan is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "61494f5d-e331-46e3-9525-83ab840fe136",
+    "relationship": "second cousin"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e38797c2-acc9-48ec-b261-c52608800d86",
+  "name": "Jennifer",
+  "heightCm": 109,
+  "weightKg": 185,
+  "eyeColor": "Amber",
+  "hairColor": "Brown",
+  "breed": "Huacaya",
+  "placeOfBirth": "New Mary, Switzerland",
+  "description": "Jennifer is a amber-eyed llama with brown hair, standing 109 cm tall. Originally from New Mary, Switzerland, Jennifer enjoys knitting, gardening, painting. Known for their gentle and mischievous personality, Jennifer is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "47b1067d-7013-451f-8065-31c80c15d130",
+    "relationship": "cousin"
+  }
+}

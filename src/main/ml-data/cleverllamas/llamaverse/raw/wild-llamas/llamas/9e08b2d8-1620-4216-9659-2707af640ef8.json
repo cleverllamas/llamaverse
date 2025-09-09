@@ -1,0 +1,15 @@
+{
+  "id": "9e08b2d8-1620-4216-9659-2707af640ef8",
+  "name": "Jason",
+  "heightCm": 171,
+  "weightKg": 155,
+  "eyeColor": "Hazel",
+  "hairColor": "Brown",
+  "breed": "Suri",
+  "placeOfBirth": "Port Troymouth, Korea",
+  "description": "Jason is a hazel-eyed llama with brown hair, standing 171 cm tall. Originally from Port Troymouth, Korea, Jason enjoys singing, dancing, cooking. Known for their energetic and curious personality, Jason is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "a3796b58-6310-484c-a5ee-9661468ba831",
+    "relationship": "father"
+  }
+}

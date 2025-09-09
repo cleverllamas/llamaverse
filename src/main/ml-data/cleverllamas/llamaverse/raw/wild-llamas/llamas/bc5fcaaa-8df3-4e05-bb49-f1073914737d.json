@@ -1,0 +1,15 @@
+{
+  "id": "bc5fcaaa-8df3-4e05-bb49-f1073914737d",
+  "name": "Brian",
+  "heightCm": 111,
+  "weightKg": 178,
+  "eyeColor": "Brown",
+  "hairColor": "White",
+  "breed": "Hybrid",
+  "placeOfBirth": "Kathyside, Romania",
+  "description": "Brian is a brown-eyed llama with white hair, standing 111 cm tall. Originally from Kathyside, Romania, Brian enjoys singing, reading, knitting. Known for their gentle and mischievous personality, Brian is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "3bec284e-f57f-4320-8da2-5341c5b6a5ff",
+    "relationship": "mother"
+  }
+}

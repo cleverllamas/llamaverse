@@ -1,0 +1,15 @@
+{
+  "id": "7f2981c0-ebfa-4ca9-93fc-43aeae60deb0",
+  "name": "Amanda",
+  "heightCm": 134,
+  "weightKg": 155,
+  "eyeColor": "Gray",
+  "hairColor": "Red",
+  "breed": "Suri",
+  "placeOfBirth": "North Davidtown, Colombia",
+  "description": "Amanda is a gray-eyed llama with red hair, standing 134 cm tall. Originally from North Davidtown, Colombia, Amanda enjoys reading, cooking, singing. Known for their shy and energetic personality, Amanda is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "45171014-977f-45d9-859c-87f5c8b5c6d1",
+    "relationship": "brother"
+  }
+}

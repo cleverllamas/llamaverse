@@ -1,0 +1,15 @@
+{
+  "id": "aa6420ae-1e0f-4cd0-8ea8-f87e87b7dd05",
+  "name": "Jackie",
+  "heightCm": 123,
+  "weightKg": 161,
+  "eyeColor": "Blue",
+  "hairColor": "Blonde",
+  "breed": "Suri",
+  "placeOfBirth": "South Josephside, Namibia",
+  "description": "Jackie is a blue-eyed llama with blonde hair, standing 123 cm tall. Originally from South Josephside, Namibia, Jackie enjoys gardening, wood carving, cooking. Known for their gentle and playful personality, Jackie is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "e1d1e7d7-fd9f-4559-ac9f-ae9023d8cdbc",
+    "relationship": "father"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "2907708f-5108-4c42-9c51-12875f796aa7",
+  "name": "Amy",
+  "heightCm": 163,
+  "weightKg": 138,
+  "eyeColor": "Green",
+  "hairColor": "Black",
+  "breed": "Huacaya",
+  "placeOfBirth": "New Mollyport, Uganda",
+  "description": "Amy is a green-eyed llama with black hair, standing 163 cm tall. Originally from New Mollyport, Uganda, Amy enjoys dancing, reading, knitting. Known for their playful and mischievous personality, Amy is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "421e30cd-fa28-41e0-a707-557525748ae4",
+    "relationship": "great uncle"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "9b1b7aae-cd6b-4290-9902-fa8b2997c7ad",
+  "name": "Chad",
+  "heightCm": 170,
+  "weightKg": 182,
+  "eyeColor": "Blue",
+  "hairColor": "White",
+  "breed": "Huacaya",
+  "placeOfBirth": "South Jasonborough, Netherlands",
+  "description": "Chad is a blue-eyed llama with white hair, standing 170 cm tall. Originally from South Jasonborough, Netherlands, Chad enjoys knitting, wood carving, painting. Known for their calm and curious personality, Chad is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "7e40ae01-06a2-4932-b177-c25357963440",
+    "relationship": "grandparent"
+  }
+}

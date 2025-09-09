@@ -1,0 +1,15 @@
+{
+  "id": "05f71f30-293d-447d-a7fb-269873b87e93",
+  "name": "Margaret",
+  "heightCm": 195,
+  "weightKg": 155,
+  "eyeColor": "Amber",
+  "hairColor": "Gray",
+  "breed": "Hybrid",
+  "placeOfBirth": "East Andres, British Indian Ocean Territory (Chagos Archipelago)",
+  "description": "Margaret is a amber-eyed llama with gray hair, standing 195 cm tall. Originally from East Andres, British Indian Ocean Territory (Chagos Archipelago), Margaret enjoys dancing, gardening, knitting. Known for their curious and mischievous personality, Margaret is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "598ec5c1-589c-4290-86c8-5247fd53ae3c",
+    "relationship": "15th cousin 9th removed"
+  }
+}

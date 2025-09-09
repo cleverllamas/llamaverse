@@ -1,0 +1,15 @@
+{
+  "id": "951f4832-868e-4041-9ab9-84b7e00c47e0",
+  "name": "Rachel",
+  "heightCm": 172,
+  "weightKg": 191,
+  "eyeColor": "Brown",
+  "hairColor": "Red",
+  "breed": "Huacaya",
+  "placeOfBirth": "Robertfurt, Martinique",
+  "description": "Rachel is a brown-eyed llama with red hair, standing 172 cm tall. Originally from Robertfurt, Martinique, Rachel enjoys knitting, painting, singing. Known for their energetic and mischievous personality, Rachel is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "b0adb795-bbc0-4e67-9f83-c0c90e31652e",
+    "relationship": "second cousin"
+  }
+}

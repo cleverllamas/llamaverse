@@ -1,0 +1,15 @@
+{
+  "id": "ef90fe01-b641-4cbf-bd9d-35608068358e",
+  "name": "Ashley",
+  "heightCm": 144,
+  "weightKg": 138,
+  "eyeColor": "Hazel",
+  "hairColor": "Black",
+  "breed": "Suri",
+  "placeOfBirth": "New Michelle, China",
+  "description": "Ashley is a hazel-eyed llama with black hair, standing 144 cm tall. Originally from New Michelle, China, Ashley enjoys hiking, knitting, reading. Known for their calm and curious personality, Ashley is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "5bb2b8f6-2564-4307-8398-5cca885f34bf",
+    "relationship": "great uncle"
+  }
+}

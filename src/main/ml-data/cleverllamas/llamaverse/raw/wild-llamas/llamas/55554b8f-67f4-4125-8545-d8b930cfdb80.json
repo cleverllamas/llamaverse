@@ -1,0 +1,15 @@
+{
+  "id": "55554b8f-67f4-4125-8545-d8b930cfdb80",
+  "name": "Nichole",
+  "heightCm": 164,
+  "weightKg": 151,
+  "eyeColor": "Blue",
+  "hairColor": "Red",
+  "breed": "Suri",
+  "placeOfBirth": "New Stevenchester, Cuba",
+  "description": "Nichole is a blue-eyed llama with red hair, standing 164 cm tall. Originally from New Stevenchester, Cuba, Nichole enjoys reading, singing, painting. Known for their curious and curious personality, Nichole is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "88804b9d-f0d5-4366-ab0a-0624a8586a7f",
+    "relationship": "father"
+  }
+}

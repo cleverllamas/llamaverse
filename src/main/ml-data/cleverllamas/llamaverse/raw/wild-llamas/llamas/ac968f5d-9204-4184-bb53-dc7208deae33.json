@@ -1,0 +1,15 @@
+{
+  "id": "ac968f5d-9204-4184-bb53-dc7208deae33",
+  "name": "Michael",
+  "heightCm": 138,
+  "weightKg": 172,
+  "eyeColor": "Amber",
+  "hairColor": "Brown",
+  "breed": "Huacaya",
+  "placeOfBirth": "West Sarah, Armenia",
+  "description": "Michael is a amber-eyed llama with brown hair, standing 138 cm tall. Originally from West Sarah, Armenia, Michael enjoys reading, cooking, singing. Known for their curious and curious personality, Michael is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "11d817a0-c010-4a55-9557-1959f687b36c",
+    "relationship": "cousin"
+  }
+}

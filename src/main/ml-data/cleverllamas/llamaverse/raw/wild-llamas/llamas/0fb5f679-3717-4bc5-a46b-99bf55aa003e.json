@@ -1,0 +1,15 @@
+{
+  "id": "0fb5f679-3717-4bc5-a46b-99bf55aa003e",
+  "name": "Travis",
+  "heightCm": 126,
+  "weightKg": 192,
+  "eyeColor": "Blue",
+  "hairColor": "Brown",
+  "breed": "Hybrid",
+  "placeOfBirth": "Javiertown, Guernsey",
+  "description": "Travis is a blue-eyed llama with brown hair, standing 126 cm tall. Originally from Javiertown, Guernsey, Travis enjoys hiking, painting, singing. Known for their curious and shy personality, Travis is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "134fb124-33fb-42c8-b8d4-e695147cb0ba",
+    "relationship": "uncle"
+  }
+}

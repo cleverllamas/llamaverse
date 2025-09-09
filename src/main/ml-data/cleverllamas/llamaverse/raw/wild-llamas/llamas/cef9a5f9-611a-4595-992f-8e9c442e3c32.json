@@ -1,0 +1,15 @@
+{
+  "id": "cef9a5f9-611a-4595-992f-8e9c442e3c32",
+  "name": "Danny",
+  "heightCm": 187,
+  "weightKg": 146,
+  "eyeColor": "Blue",
+  "hairColor": "Red",
+  "breed": "Suri",
+  "placeOfBirth": "Lisaland, Tonga",
+  "description": "Danny is a blue-eyed llama with red hair, standing 187 cm tall. Originally from Lisaland, Tonga, Danny enjoys reading, dancing, knitting. Known for their mischievous and gentle personality, Danny is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "cbb73243-af6c-4843-9738-ad618cfd4480",
+    "relationship": "grandparent"
+  }
+}

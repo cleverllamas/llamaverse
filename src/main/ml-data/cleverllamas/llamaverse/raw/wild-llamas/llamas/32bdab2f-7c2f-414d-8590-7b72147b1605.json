@@ -1,0 +1,15 @@
+{
+  "id": "32bdab2f-7c2f-414d-8590-7b72147b1605",
+  "name": "Ryan",
+  "heightCm": 188,
+  "weightKg": 187,
+  "eyeColor": "Blue",
+  "hairColor": "Silver",
+  "breed": "Suri",
+  "placeOfBirth": "Espinozashire, French Polynesia",
+  "description": "Ryan is a blue-eyed llama with silver hair, standing 188 cm tall. Originally from Espinozashire, French Polynesia, Ryan enjoys singing, reading, painting. Known for their energetic and playful personality, Ryan is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "2630bd82-e408-4b0e-8629-8093ceb77c92",
+    "relationship": "cousin"
+  }
+}

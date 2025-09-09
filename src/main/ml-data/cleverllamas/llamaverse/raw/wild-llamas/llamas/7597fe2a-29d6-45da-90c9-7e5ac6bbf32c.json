@@ -1,0 +1,15 @@
+{
+  "id": "7597fe2a-29d6-45da-90c9-7e5ac6bbf32c",
+  "name": "Carol",
+  "heightCm": 159,
+  "weightKg": 151,
+  "eyeColor": "Amber",
+  "hairColor": "Blonde",
+  "breed": "Huacaya",
+  "placeOfBirth": "East Spencertown, American Samoa",
+  "description": "Carol is a amber-eyed llama with blonde hair, standing 159 cm tall. Originally from East Spencertown, American Samoa, Carol enjoys painting, cooking, reading. Known for their curious and shy personality, Carol is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "0ae009db-aa94-4dce-966e-867702621afc",
+    "relationship": "uncle"
+  }
+}

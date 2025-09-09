@@ -1,0 +1,15 @@
+{
+  "id": "8d11e478-0b70-4f60-adab-4184e9c8d345",
+  "name": "Charles",
+  "heightCm": 178,
+  "weightKg": 181,
+  "eyeColor": "Blue",
+  "hairColor": "Silver",
+  "breed": "Suri",
+  "placeOfBirth": "South Davidmouth, Montserrat",
+  "description": "Charles is a blue-eyed llama with silver hair, standing 178 cm tall. Originally from South Davidmouth, Montserrat, Charles enjoys painting, reading, hiking. Known for their energetic and calm personality, Charles is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "c41107c9-bc8e-4b78-9fbd-674a976e33ae",
+    "relationship": "15th cousin 9th removed"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "c924439f-959a-4969-b27e-53184f7d717e",
+  "name": "John",
+  "heightCm": 151,
+  "weightKg": 177,
+  "eyeColor": "Amber",
+  "hairColor": "Silver",
+  "breed": "Suri",
+  "placeOfBirth": "South Cameronborough, Puerto Rico",
+  "description": "John is a amber-eyed llama with silver hair, standing 151 cm tall. Originally from South Cameronborough, Puerto Rico, John enjoys painting, singing, wood carving. Known for their gentle and calm personality, John is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "806371e6-3124-4b5c-a45f-c151ac618b39",
+    "relationship": "great uncle"
+  }
+}

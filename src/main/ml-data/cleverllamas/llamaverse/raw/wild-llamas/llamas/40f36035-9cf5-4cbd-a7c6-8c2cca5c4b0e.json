@@ -1,0 +1,15 @@
+{
+  "id": "40f36035-9cf5-4cbd-a7c6-8c2cca5c4b0e",
+  "name": "Manuel",
+  "heightCm": 178,
+  "weightKg": 138,
+  "eyeColor": "Amber",
+  "hairColor": "Black",
+  "breed": "Hybrid",
+  "placeOfBirth": "Samanthabury, Burkina Faso",
+  "description": "Manuel is a amber-eyed llama with black hair, standing 178 cm tall. Originally from Samanthabury, Burkina Faso, Manuel enjoys cooking, gardening, dancing. Known for their gentle and playful personality, Manuel is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "a1219783-a06f-4285-96e1-7c6c7293efe6",
+    "relationship": "father"
+  }
+}

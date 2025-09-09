@@ -1,0 +1,15 @@
+{
+  "id": "23075777-165a-4d3e-8117-7bd383e0df6b",
+  "name": "Kristin",
+  "heightCm": 163,
+  "weightKg": 140,
+  "eyeColor": "Brown",
+  "hairColor": "Blonde",
+  "breed": "Suri",
+  "placeOfBirth": "East Leahmouth, Grenada",
+  "description": "Kristin is a brown-eyed llama with blonde hair, standing 163 cm tall. Originally from East Leahmouth, Grenada, Kristin enjoys painting, knitting, gardening. Known for their calm and curious personality, Kristin is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "2573431f-506f-422c-95a3-26a24f669e45",
+    "relationship": "4th cousin once removed"
+  }
+}

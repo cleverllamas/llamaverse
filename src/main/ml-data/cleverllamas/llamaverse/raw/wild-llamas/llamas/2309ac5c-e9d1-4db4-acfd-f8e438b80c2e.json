@@ -1,0 +1,15 @@
+{
+  "id": "2309ac5c-e9d1-4db4-acfd-f8e438b80c2e",
+  "name": "Jennifer",
+  "heightCm": 116,
+  "weightKg": 179,
+  "eyeColor": "Hazel",
+  "hairColor": "White",
+  "breed": "Suri",
+  "placeOfBirth": "Jordanstad, Myanmar",
+  "description": "Jennifer is a hazel-eyed llama with white hair, standing 116 cm tall. Originally from Jordanstad, Myanmar, Jennifer enjoys hiking, cooking, dancing. Known for their calm and curious personality, Jennifer is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "c3c21df8-7149-4b04-a289-2ca5d2d8d3a6",
+    "relationship": "third cousin twice removed"
+  }
+}

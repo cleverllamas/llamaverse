@@ -1,0 +1,15 @@
+{
+  "id": "c3887965-f4bb-458e-b7a0-175ccb19ac8e",
+  "name": "Lori",
+  "heightCm": 107,
+  "weightKg": 140,
+  "eyeColor": "Blue",
+  "hairColor": "Blonde",
+  "breed": "Suri",
+  "placeOfBirth": "Ronniestad, Sudan",
+  "description": "Lori is a blue-eyed llama with blonde hair, standing 107 cm tall. Originally from Ronniestad, Sudan, Lori enjoys painting, knitting, hiking. Known for their playful and calm personality, Lori is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "5e18ccba-a1b8-4026-aeb0-d202131295d9",
+    "relationship": "second cousin"
+  }
+}

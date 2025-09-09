@@ -1,0 +1,15 @@
+{
+  "id": "d82cdf5b-d11b-4396-a577-000ab6093b5b",
+  "name": "Amanda",
+  "heightCm": 198,
+  "weightKg": 188,
+  "eyeColor": "Brown",
+  "hairColor": "Black",
+  "breed": "Suri",
+  "placeOfBirth": "Eatonburgh, Cuba",
+  "description": "Amanda is a brown-eyed llama with black hair, standing 198 cm tall. Originally from Eatonburgh, Cuba, Amanda enjoys hiking, painting, singing. Known for their curious and curious personality, Amanda is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "8f760bda-f1f4-4a74-8df9-851c1508e99f",
+    "relationship": "grandparent"
+  }
+}

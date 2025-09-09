@@ -1,0 +1,15 @@
+{
+  "id": "9567e364-04de-4bec-879b-50f34cf7adb4",
+  "name": "Tony",
+  "heightCm": 178,
+  "weightKg": 158,
+  "eyeColor": "Gray",
+  "hairColor": "Gray",
+  "breed": "Hybrid",
+  "placeOfBirth": "Jonathanland, Andorra",
+  "description": "Tony is a gray-eyed llama with gray hair, standing 178 cm tall. Originally from Jonathanland, Andorra, Tony enjoys hiking, gardening, singing. Known for their curious and shy personality, Tony is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "798a3294-c4e2-470e-a97a-7610d8ede9e9",
+    "relationship": "15th cousin 9th removed"
+  }
+}

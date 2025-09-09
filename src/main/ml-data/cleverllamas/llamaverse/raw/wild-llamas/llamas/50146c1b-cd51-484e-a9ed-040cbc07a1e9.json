@@ -1,0 +1,15 @@
+{
+  "id": "50146c1b-cd51-484e-a9ed-040cbc07a1e9",
+  "name": "Matthew",
+  "heightCm": 137,
+  "weightKg": 166,
+  "eyeColor": "Green",
+  "hairColor": "Red",
+  "breed": "Hybrid",
+  "placeOfBirth": "Mooretown, Kyrgyz Republic",
+  "description": "Matthew is a green-eyed llama with red hair, standing 137 cm tall. Originally from Mooretown, Kyrgyz Republic, Matthew enjoys wood carving, gardening, dancing. Known for their mischievous and shy personality, Matthew is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "f22b7ba0-d48d-4fdd-a6a7-bf744df8c40c",
+    "relationship": "father"
+  }
+}

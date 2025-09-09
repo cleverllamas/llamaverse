@@ -1,0 +1,15 @@
+{
+  "id": "4a64f663-c66e-47ca-b95c-876294bc728f",
+  "name": "Christopher",
+  "heightCm": 168,
+  "weightKg": 152,
+  "eyeColor": "Brown",
+  "hairColor": "Blonde",
+  "breed": "Suri",
+  "placeOfBirth": "West Alisonside, Kuwait",
+  "description": "Christopher is a brown-eyed llama with blonde hair, standing 168 cm tall. Originally from West Alisonside, Kuwait, Christopher enjoys knitting, painting, reading. Known for their mischievous and energetic personality, Christopher is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "53ba54bd-b63c-43ee-80e2-b83ecf522b14",
+    "relationship": "second cousin"
+  }
+}

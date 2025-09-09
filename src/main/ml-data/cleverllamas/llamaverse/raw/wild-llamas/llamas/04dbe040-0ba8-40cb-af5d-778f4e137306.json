@@ -1,0 +1,15 @@
+{
+  "id": "04dbe040-0ba8-40cb-af5d-778f4e137306",
+  "name": "Rebecca",
+  "heightCm": 163,
+  "weightKg": 198,
+  "eyeColor": "Hazel",
+  "hairColor": "Blonde",
+  "breed": "Hybrid",
+  "placeOfBirth": "Johnsonville, Pitcairn Islands",
+  "description": "Rebecca is a hazel-eyed llama with blonde hair, standing 163 cm tall. Originally from Johnsonville, Pitcairn Islands, Rebecca enjoys reading, wood carving, hiking. Known for their mischievous and playful personality, Rebecca is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "806371e6-3124-4b5c-a45f-c151ac618b39",
+    "relationship": "cousin"
+  }
+}

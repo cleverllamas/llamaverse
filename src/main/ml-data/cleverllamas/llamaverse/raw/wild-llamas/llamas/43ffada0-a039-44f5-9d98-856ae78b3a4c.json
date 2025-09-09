@@ -1,0 +1,15 @@
+{
+  "id": "43ffada0-a039-44f5-9d98-856ae78b3a4c",
+  "name": "Wanda",
+  "heightCm": 150,
+  "weightKg": 195,
+  "eyeColor": "Green",
+  "hairColor": "Gray",
+  "breed": "Suri",
+  "placeOfBirth": "Harrisfort, Pitcairn Islands",
+  "description": "Wanda is a green-eyed llama with gray hair, standing 150 cm tall. Originally from Harrisfort, Pitcairn Islands, Wanda enjoys dancing, singing, reading. Known for their shy and energetic personality, Wanda is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "f9f99140-9c0e-426d-8ce2-37541f1fbc0a",
+    "relationship": "mother"
+  }
+}

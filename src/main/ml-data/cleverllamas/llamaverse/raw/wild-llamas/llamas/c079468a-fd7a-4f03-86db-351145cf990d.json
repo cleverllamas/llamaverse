@@ -1,0 +1,15 @@
+{
+  "id": "c079468a-fd7a-4f03-86db-351145cf990d",
+  "name": "Scott",
+  "heightCm": 168,
+  "weightKg": 161,
+  "eyeColor": "Brown",
+  "hairColor": "Red",
+  "breed": "Huacaya",
+  "placeOfBirth": "Rubioborough, Gibraltar",
+  "description": "Scott is a brown-eyed llama with red hair, standing 168 cm tall. Originally from Rubioborough, Gibraltar, Scott enjoys gardening, singing, painting. Known for their calm and shy personality, Scott is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "c06af676-6599-411e-a749-58014ea2687f",
+    "relationship": "brother"
+  }
+}

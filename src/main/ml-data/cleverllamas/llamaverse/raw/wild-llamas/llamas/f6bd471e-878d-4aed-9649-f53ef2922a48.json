@@ -1,0 +1,15 @@
+{
+  "id": "f6bd471e-878d-4aed-9649-f53ef2922a48",
+  "name": "Kelly",
+  "heightCm": 117,
+  "weightKg": 156,
+  "eyeColor": "Blue",
+  "hairColor": "Blonde",
+  "breed": "Hybrid",
+  "placeOfBirth": "New Elizabethville, Central African Republic",
+  "description": "Kelly is a blue-eyed llama with blonde hair, standing 117 cm tall. Originally from New Elizabethville, Central African Republic, Kelly enjoys dancing, painting, cooking. Known for their friendly and curious personality, Kelly is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "c2fabf0f-4f50-44e7-9411-b43f2e5736cf",
+    "relationship": "15th cousin 9th removed"
+  }
+}

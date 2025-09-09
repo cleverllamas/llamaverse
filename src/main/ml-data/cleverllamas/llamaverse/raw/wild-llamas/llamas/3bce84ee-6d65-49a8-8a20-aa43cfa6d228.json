@@ -1,0 +1,15 @@
+{
+  "id": "3bce84ee-6d65-49a8-8a20-aa43cfa6d228",
+  "name": "Michael",
+  "heightCm": 138,
+  "weightKg": 189,
+  "eyeColor": "Amber",
+  "hairColor": "Red",
+  "breed": "Huacaya",
+  "placeOfBirth": "North Danielborough, Peru",
+  "description": "Michael is a amber-eyed llama with red hair, standing 138 cm tall. Originally from North Danielborough, Peru, Michael enjoys dancing, reading, wood carving. Known for their calm and curious personality, Michael is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "68c1d47e-5ad1-4088-8d16-0b9ca2f7850c",
+    "relationship": "4th cousin once removed"
+  }
+}

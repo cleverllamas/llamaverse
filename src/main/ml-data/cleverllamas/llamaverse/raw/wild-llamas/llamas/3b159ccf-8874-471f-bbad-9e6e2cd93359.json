@@ -1,0 +1,15 @@
+{
+  "id": "3b159ccf-8874-471f-bbad-9e6e2cd93359",
+  "name": "Michelle",
+  "heightCm": 165,
+  "weightKg": 197,
+  "eyeColor": "Amber",
+  "hairColor": "White",
+  "breed": "Suri",
+  "placeOfBirth": "South Lorrainefort, Guatemala",
+  "description": "Michelle is a amber-eyed llama with white hair, standing 165 cm tall. Originally from South Lorrainefort, Guatemala, Michelle enjoys painting, cooking, dancing. Known for their shy and friendly personality, Michelle is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "9ba80bc8-36c8-41dc-b1a8-e57d88518d57",
+    "relationship": "second cousin"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "7d48bdf9-4b64-4fa6-afeb-e2ad5755250b",
+  "name": "Theresa",
+  "heightCm": 112,
+  "weightKg": 177,
+  "eyeColor": "Brown",
+  "hairColor": "Gray",
+  "breed": "Suri",
+  "placeOfBirth": "Francismouth, Mongolia",
+  "description": "Theresa is a brown-eyed llama with gray hair, standing 112 cm tall. Originally from Francismouth, Mongolia, Theresa enjoys hiking, dancing, knitting. Known for their mischievous and shy personality, Theresa is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "733c4b1c-b871-420c-9866-e07a33ccb05f",
+    "relationship": "sister"
+  }
+}

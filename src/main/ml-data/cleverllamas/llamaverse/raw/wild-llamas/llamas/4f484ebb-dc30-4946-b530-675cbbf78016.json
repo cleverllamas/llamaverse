@@ -1,0 +1,15 @@
+{
+  "id": "4f484ebb-dc30-4946-b530-675cbbf78016",
+  "name": "Jonathan",
+  "heightCm": 138,
+  "weightKg": 185,
+  "eyeColor": "Blue",
+  "hairColor": "Blonde",
+  "breed": "Huacaya",
+  "placeOfBirth": "North Dianeland, Fiji",
+  "description": "Jonathan is a blue-eyed llama with blonde hair, standing 138 cm tall. Originally from North Dianeland, Fiji, Jonathan enjoys painting, singing, hiking. Known for their friendly and gentle personality, Jonathan is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "ecb3c568-839f-46bf-adda-092273aa336d",
+    "relationship": "second cousin"
+  }
+}

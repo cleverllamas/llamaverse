@@ -1,0 +1,15 @@
+{
+  "id": "e15d9545-7379-4775-8839-f2d7d56836d8",
+  "name": "Kristy",
+  "heightCm": 184,
+  "weightKg": 194,
+  "eyeColor": "Gray",
+  "hairColor": "Black",
+  "breed": "Hybrid",
+  "placeOfBirth": "Samanthachester, France",
+  "description": "Kristy is a gray-eyed llama with black hair, standing 184 cm tall. Originally from Samanthachester, France, Kristy enjoys reading, singing, cooking. Known for their gentle and mischievous personality, Kristy is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "c4a590ff-7967-4c31-acca-09c36e8e1c5e",
+    "relationship": "third cousin twice removed"
+  }
+}

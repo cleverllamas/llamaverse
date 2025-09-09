@@ -1,0 +1,15 @@
+{
+  "id": "3da30497-19a6-4588-bfd6-f5ad00929b25",
+  "name": "Lisa",
+  "heightCm": 198,
+  "weightKg": 198,
+  "eyeColor": "Green",
+  "hairColor": "Blonde",
+  "breed": "Huacaya",
+  "placeOfBirth": "Port Amberfurt, Belize",
+  "description": "Lisa is a green-eyed llama with blonde hair, standing 198 cm tall. Originally from Port Amberfurt, Belize, Lisa enjoys knitting, dancing, cooking. Known for their playful and curious personality, Lisa is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "5f78b84b-1450-41c9-9a52-db2fdee2c147",
+    "relationship": "cousin"
+  }
+}

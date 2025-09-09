@@ -1,0 +1,15 @@
+{
+  "id": "9e6c5d37-7129-41eb-bed9-e91af9aa63cb",
+  "name": "Keith",
+  "heightCm": 121,
+  "weightKg": 145,
+  "eyeColor": "Blue",
+  "hairColor": "Gray",
+  "breed": "Hybrid",
+  "placeOfBirth": "Justintown, Georgia",
+  "description": "Keith is a blue-eyed llama with gray hair, standing 121 cm tall. Originally from Justintown, Georgia, Keith enjoys dancing, cooking, wood carving. Known for their shy and friendly personality, Keith is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "b511be15-8b3e-4c72-821c-6e41977eeadc",
+    "relationship": "aunt"
+  }
+}

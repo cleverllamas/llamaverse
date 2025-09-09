@@ -1,0 +1,15 @@
+{
+  "id": "e36a336b-9e8d-496a-b64c-5dd39f32a9e7",
+  "name": "Christina",
+  "heightCm": 137,
+  "weightKg": 191,
+  "eyeColor": "Hazel",
+  "hairColor": "Silver",
+  "breed": "Suri",
+  "placeOfBirth": "Port Erin, Guyana",
+  "description": "Christina is a hazel-eyed llama with silver hair, standing 137 cm tall. Originally from Port Erin, Guyana, Christina enjoys wood carving, knitting, hiking. Known for their shy and curious personality, Christina is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "42f89f91-a37a-4f0a-a590-1b8dfc61b5a7",
+    "relationship": "aunt"
+  }
+}

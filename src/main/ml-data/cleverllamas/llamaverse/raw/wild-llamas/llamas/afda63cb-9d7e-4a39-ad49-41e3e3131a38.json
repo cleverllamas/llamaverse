@@ -1,0 +1,15 @@
+{
+  "id": "afda63cb-9d7e-4a39-ad49-41e3e3131a38",
+  "name": "John",
+  "heightCm": 162,
+  "weightKg": 182,
+  "eyeColor": "Amber",
+  "hairColor": "Gray",
+  "breed": "Huacaya",
+  "placeOfBirth": "Lake Tiffany, Hungary",
+  "description": "John is a amber-eyed llama with gray hair, standing 162 cm tall. Originally from Lake Tiffany, Hungary, John enjoys painting, dancing, wood carving. Known for their mischievous and energetic personality, John is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "ac968f5d-9204-4184-bb53-dc7208deae33",
+    "relationship": "15th cousin 9th removed"
+  }
+}

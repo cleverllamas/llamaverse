@@ -1,0 +1,15 @@
+{
+  "id": "91921129-de06-4d70-8df1-57bd4a073096",
+  "name": "Phillip",
+  "heightCm": 198,
+  "weightKg": 165,
+  "eyeColor": "Brown",
+  "hairColor": "White",
+  "breed": "Huacaya",
+  "placeOfBirth": "Margaretton, Liechtenstein",
+  "description": "Phillip is a brown-eyed llama with white hair, standing 198 cm tall. Originally from Margaretton, Liechtenstein, Phillip enjoys painting, dancing, reading. Known for their friendly and shy personality, Phillip is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "bd51b517-2bfb-4900-80c0-e801d5a30324",
+    "relationship": "sister"
+  }
+}

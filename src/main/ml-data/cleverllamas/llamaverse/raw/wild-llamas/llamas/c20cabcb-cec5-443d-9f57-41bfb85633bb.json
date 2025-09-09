@@ -1,0 +1,15 @@
+{
+  "id": "c20cabcb-cec5-443d-9f57-41bfb85633bb",
+  "name": "Tonya",
+  "heightCm": 178,
+  "weightKg": 190,
+  "eyeColor": "Blue",
+  "hairColor": "Silver",
+  "breed": "Hybrid",
+  "placeOfBirth": "Hendrixville, Peru",
+  "description": "Tonya is a blue-eyed llama with silver hair, standing 178 cm tall. Originally from Hendrixville, Peru, Tonya enjoys hiking, painting, reading. Known for their gentle and curious personality, Tonya is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "7f0f59d8-d9ae-4c88-8c51-27f30b976b12",
+    "relationship": "4th cousin once removed"
+  }
+}

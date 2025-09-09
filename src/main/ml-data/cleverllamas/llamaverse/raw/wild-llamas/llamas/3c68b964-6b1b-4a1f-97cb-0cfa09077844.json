@@ -1,0 +1,15 @@
+{
+  "id": "3c68b964-6b1b-4a1f-97cb-0cfa09077844",
+  "name": "Matthew",
+  "heightCm": 189,
+  "weightKg": 149,
+  "eyeColor": "Amber",
+  "hairColor": "Gray",
+  "breed": "Huacaya",
+  "placeOfBirth": "Michaelfort, Libyan Arab Jamahiriya",
+  "description": "Matthew is a amber-eyed llama with gray hair, standing 189 cm tall. Originally from Michaelfort, Libyan Arab Jamahiriya, Matthew enjoys reading, painting, wood carving. Known for their shy and shy personality, Matthew is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "2f9b90a0-78c8-4877-9a5d-0ce97d8dead1",
+    "relationship": "4th cousin once removed"
+  }
+}

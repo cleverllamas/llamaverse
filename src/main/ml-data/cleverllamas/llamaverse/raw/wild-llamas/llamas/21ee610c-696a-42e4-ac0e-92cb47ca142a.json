@@ -1,0 +1,15 @@
+{
+  "id": "21ee610c-696a-42e4-ac0e-92cb47ca142a",
+  "name": "Shannon",
+  "heightCm": 144,
+  "weightKg": 194,
+  "eyeColor": "Brown",
+  "hairColor": "Red",
+  "breed": "Huacaya",
+  "placeOfBirth": "Bonniefurt, Turkey",
+  "description": "Shannon is a brown-eyed llama with red hair, standing 144 cm tall. Originally from Bonniefurt, Turkey, Shannon enjoys hiking, painting, reading. Known for their calm and friendly personality, Shannon is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "f0b8545b-053b-435e-ad52-781fe1677c6b",
+    "relationship": "brother"
+  }
+}

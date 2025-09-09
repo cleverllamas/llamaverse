@@ -1,0 +1,15 @@
+{
+  "id": "a14989d9-0e13-46f1-91a0-d72f0891e744",
+  "name": "Kathleen",
+  "heightCm": 172,
+  "weightKg": 130,
+  "eyeColor": "Gray",
+  "hairColor": "Silver",
+  "breed": "Hybrid",
+  "placeOfBirth": "Kimberlyview, Saudi Arabia",
+  "description": "Kathleen is a gray-eyed llama with silver hair, standing 172 cm tall. Originally from Kimberlyview, Saudi Arabia, Kathleen enjoys knitting, painting, cooking. Known for their mischievous and gentle personality, Kathleen is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "6120aa48-b3e7-4b6c-9ea3-43690eb78f2c",
+    "relationship": "uncle"
+  }
+}

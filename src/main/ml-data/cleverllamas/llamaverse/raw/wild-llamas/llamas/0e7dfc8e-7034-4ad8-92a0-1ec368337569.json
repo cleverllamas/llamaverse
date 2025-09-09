@@ -1,0 +1,15 @@
+{
+  "id": "0e7dfc8e-7034-4ad8-92a0-1ec368337569",
+  "name": "James",
+  "heightCm": 122,
+  "weightKg": 197,
+  "eyeColor": "Amber",
+  "hairColor": "Red",
+  "breed": "Suri",
+  "placeOfBirth": "South Ryan, Japan",
+  "description": "James is a amber-eyed llama with red hair, standing 122 cm tall. Originally from South Ryan, Japan, James enjoys dancing, wood carving, gardening. Known for their playful and shy personality, James is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "46ec7207-983d-4c69-8e55-bdea0f5232ab",
+    "relationship": "father"
+  }
+}

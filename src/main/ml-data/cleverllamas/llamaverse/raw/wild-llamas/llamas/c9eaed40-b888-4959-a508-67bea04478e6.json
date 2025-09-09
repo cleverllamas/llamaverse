@@ -1,0 +1,15 @@
+{
+  "id": "c9eaed40-b888-4959-a508-67bea04478e6",
+  "name": "Timothy",
+  "heightCm": 136,
+  "weightKg": 158,
+  "eyeColor": "Blue",
+  "hairColor": "Blonde",
+  "breed": "Hybrid",
+  "placeOfBirth": "South Cassandra, Finland",
+  "description": "Timothy is a blue-eyed llama with blonde hair, standing 136 cm tall. Originally from South Cassandra, Finland, Timothy enjoys wood carving, singing, hiking. Known for their curious and shy personality, Timothy is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "37c40239-35e4-4aa2-8a63-45337527dedd",
+    "relationship": "third cousin twice removed"
+  }
+}

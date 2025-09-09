@@ -1,0 +1,15 @@
+{
+  "id": "132822f7-d3b0-4a97-bf54-110266fec72a",
+  "name": "Michael",
+  "heightCm": 152,
+  "weightKg": 166,
+  "eyeColor": "Brown",
+  "hairColor": "Gray",
+  "breed": "Huacaya",
+  "placeOfBirth": "Peterfort, Dominican Republic",
+  "description": "Michael is a brown-eyed llama with gray hair, standing 152 cm tall. Originally from Peterfort, Dominican Republic, Michael enjoys knitting, singing, hiking. Known for their playful and friendly personality, Michael is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "5893ef3c-71d4-4a4e-a157-832ef407d965",
+    "relationship": "mother"
+  }
+}

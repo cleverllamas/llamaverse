@@ -1,0 +1,15 @@
+{
+  "id": "a56edf2d-d234-44b0-bc0f-21aecff3a04e",
+  "name": "Lindsay",
+  "heightCm": 182,
+  "weightKg": 167,
+  "eyeColor": "Green",
+  "hairColor": "Black",
+  "breed": "Hybrid",
+  "placeOfBirth": "Lake Miguel, Antigua and Barbuda",
+  "description": "Lindsay is a green-eyed llama with black hair, standing 182 cm tall. Originally from Lake Miguel, Antigua and Barbuda, Lindsay enjoys knitting, cooking, dancing. Known for their gentle and playful personality, Lindsay is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "a017262f-9f88-4c70-8368-5f5c3c843e73",
+    "relationship": "cousin"
+  }
+}

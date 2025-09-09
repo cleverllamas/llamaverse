@@ -1,0 +1,15 @@
+{
+  "id": "e8bba571-2535-4ac9-8b68-7ee95774ae7d",
+  "name": "Miguel",
+  "heightCm": 173,
+  "weightKg": 136,
+  "eyeColor": "Brown",
+  "hairColor": "White",
+  "breed": "Suri",
+  "placeOfBirth": "Port Rebecca, Qatar",
+  "description": "Miguel is a brown-eyed llama with white hair, standing 173 cm tall. Originally from Port Rebecca, Qatar, Miguel enjoys hiking, painting, singing. Known for their playful and energetic personality, Miguel is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "d67c5233-e225-4107-81a0-37e6c2ac9ee1",
+    "relationship": "second cousin"
+  }
+}

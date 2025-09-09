@@ -1,0 +1,15 @@
+{
+  "id": "e5baaf32-9f90-4bce-85ff-bf0c8a260379",
+  "name": "Alfred",
+  "heightCm": 150,
+  "weightKg": 177,
+  "eyeColor": "Gray",
+  "hairColor": "Brown",
+  "breed": "Hybrid",
+  "placeOfBirth": "Newtonborough, Papua New Guinea",
+  "description": "Alfred is a gray-eyed llama with brown hair, standing 150 cm tall. Originally from Newtonborough, Papua New Guinea, Alfred enjoys cooking, hiking, singing. Known for their shy and playful personality, Alfred is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "40541e0c-7301-425c-b329-ea2fcb92f83e",
+    "relationship": "15th cousin 9th removed"
+  }
+}

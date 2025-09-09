@@ -1,0 +1,15 @@
+{
+  "id": "69c74ce3-fb9f-4649-b3d5-b381553bd18c",
+  "name": "Denise",
+  "heightCm": 153,
+  "weightKg": 144,
+  "eyeColor": "Amber",
+  "hairColor": "Gray",
+  "breed": "Hybrid",
+  "placeOfBirth": "Sarahberg, Heard Island and McDonald Islands",
+  "description": "Denise is a amber-eyed llama with gray hair, standing 153 cm tall. Originally from Sarahberg, Heard Island and McDonald Islands, Denise enjoys painting, wood carving, gardening. Known for their calm and curious personality, Denise is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "6308f898-0267-4e86-95bb-3d095d5b0296",
+    "relationship": "great uncle"
+  }
+}

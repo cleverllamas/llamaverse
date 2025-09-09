@@ -1,0 +1,15 @@
+{
+  "id": "9ddc34dd-6506-4571-bb50-28aa5bc7ca5c",
+  "name": "Kevin",
+  "heightCm": 196,
+  "weightKg": 198,
+  "eyeColor": "Green",
+  "hairColor": "Silver",
+  "breed": "Suri",
+  "placeOfBirth": "Lake Tinaberg, Haiti",
+  "description": "Kevin is a green-eyed llama with silver hair, standing 196 cm tall. Originally from Lake Tinaberg, Haiti, Kevin enjoys wood carving, painting, hiking. Known for their calm and shy personality, Kevin is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "e2cccda1-5f8e-4ba4-ba3c-cf8b6fda603b",
+    "relationship": "great uncle"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "b8541a73-a94b-49de-a1c8-291340933d2a",
+  "name": "Amanda",
+  "heightCm": 149,
+  "weightKg": 196,
+  "eyeColor": "Amber",
+  "hairColor": "Brown",
+  "breed": "Suri",
+  "placeOfBirth": "Virginiatown, Hong Kong",
+  "description": "Amanda is a amber-eyed llama with brown hair, standing 149 cm tall. Originally from Virginiatown, Hong Kong, Amanda enjoys reading, dancing, knitting. Known for their shy and shy personality, Amanda is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "a21da86c-0169-45da-a860-71c428f95ae8",
+    "relationship": "aunt"
+  }
+}

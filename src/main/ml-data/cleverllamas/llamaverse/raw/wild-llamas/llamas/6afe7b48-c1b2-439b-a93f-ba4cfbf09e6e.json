@@ -1,0 +1,15 @@
+{
+  "id": "6afe7b48-c1b2-439b-a93f-ba4cfbf09e6e",
+  "name": "Adrienne",
+  "heightCm": 133,
+  "weightKg": 134,
+  "eyeColor": "Gray",
+  "hairColor": "Black",
+  "breed": "Suri",
+  "placeOfBirth": "Elijahmouth, Japan",
+  "description": "Adrienne is a gray-eyed llama with black hair, standing 133 cm tall. Originally from Elijahmouth, Japan, Adrienne enjoys hiking, wood carving, knitting. Known for their energetic and playful personality, Adrienne is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "d938b272-b896-4a05-96e8-e3a32705fcec",
+    "relationship": "cousin"
+  }
+}

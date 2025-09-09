@@ -1,0 +1,15 @@
+{
+  "id": "794699f4-6084-49c9-adf7-700211e2e70e",
+  "name": "Brian",
+  "heightCm": 198,
+  "weightKg": 184,
+  "eyeColor": "Blue",
+  "hairColor": "Blonde",
+  "breed": "Huacaya",
+  "placeOfBirth": "Buckmouth, Italy",
+  "description": "Brian is a blue-eyed llama with blonde hair, standing 198 cm tall. Originally from Buckmouth, Italy, Brian enjoys singing, dancing, painting. Known for their energetic and energetic personality, Brian is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "2afc77dd-cb1b-4888-b5aa-ac13364c1868",
+    "relationship": "grandparent"
+  }
+}

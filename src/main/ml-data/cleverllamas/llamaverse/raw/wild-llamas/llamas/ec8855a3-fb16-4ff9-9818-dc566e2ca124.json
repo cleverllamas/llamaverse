@@ -1,0 +1,15 @@
+{
+  "id": "ec8855a3-fb16-4ff9-9818-dc566e2ca124",
+  "name": "Christopher",
+  "heightCm": 179,
+  "weightKg": 184,
+  "eyeColor": "Amber",
+  "hairColor": "Black",
+  "breed": "Hybrid",
+  "placeOfBirth": "Stacyburgh, Sri Lanka",
+  "description": "Christopher is a amber-eyed llama with black hair, standing 179 cm tall. Originally from Stacyburgh, Sri Lanka, Christopher enjoys knitting, wood carving, painting. Known for their gentle and curious personality, Christopher is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "e8b90004-e267-4535-aa04-80e00145adfd",
+    "relationship": "grandparent"
+  }
+}

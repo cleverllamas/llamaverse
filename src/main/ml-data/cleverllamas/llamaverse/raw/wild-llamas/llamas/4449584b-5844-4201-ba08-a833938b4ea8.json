@@ -1,0 +1,15 @@
+{
+  "id": "4449584b-5844-4201-ba08-a833938b4ea8",
+  "name": "Jonathan",
+  "heightCm": 167,
+  "weightKg": 135,
+  "eyeColor": "Gray",
+  "hairColor": "White",
+  "breed": "Huacaya",
+  "placeOfBirth": "East Bryceshire, Liechtenstein",
+  "description": "Jonathan is a gray-eyed llama with white hair, standing 167 cm tall. Originally from East Bryceshire, Liechtenstein, Jonathan enjoys singing, hiking, dancing. Known for their shy and curious personality, Jonathan is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "01d098a8-79ac-4715-b51d-d7d4f1a6614f",
+    "relationship": "aunt"
+  }
+}

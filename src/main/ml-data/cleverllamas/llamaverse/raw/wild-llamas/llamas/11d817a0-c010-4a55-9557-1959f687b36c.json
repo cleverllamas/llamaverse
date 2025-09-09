@@ -1,0 +1,15 @@
+{
+  "id": "11d817a0-c010-4a55-9557-1959f687b36c",
+  "name": "Shane",
+  "heightCm": 121,
+  "weightKg": 194,
+  "eyeColor": "Hazel",
+  "hairColor": "Red",
+  "breed": "Huacaya",
+  "placeOfBirth": "South Seanchester, Sao Tome and Principe",
+  "description": "Shane is a hazel-eyed llama with red hair, standing 121 cm tall. Originally from South Seanchester, Sao Tome and Principe, Shane enjoys dancing, wood carving, gardening. Known for their gentle and energetic personality, Shane is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "88161934-5920-4fe9-ae2d-51c3a7ceb0ed",
+    "relationship": "third cousin twice removed"
+  }
+}

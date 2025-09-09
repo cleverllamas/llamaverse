@@ -1,0 +1,15 @@
+{
+  "id": "d3fc67a5-27fe-48e5-bc9a-af39231ae0e5",
+  "name": "Bryan",
+  "heightCm": 191,
+  "weightKg": 181,
+  "eyeColor": "Green",
+  "hairColor": "Brown",
+  "breed": "Huacaya",
+  "placeOfBirth": "Cartershire, Greece",
+  "description": "Bryan is a green-eyed llama with brown hair, standing 191 cm tall. Originally from Cartershire, Greece, Bryan enjoys wood carving, cooking, dancing. Known for their mischievous and energetic personality, Bryan is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "eb7d0939-ca23-4a60-a240-265f4513e124",
+    "relationship": "father"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "8da4fa3b-e6d1-4b73-bcb7-33ed5588adc6",
+  "name": "Kelsey",
+  "heightCm": 199,
+  "weightKg": 184,
+  "eyeColor": "Green",
+  "hairColor": "Silver",
+  "breed": "Hybrid",
+  "placeOfBirth": "Carpenterview, Greenland",
+  "description": "Kelsey is a green-eyed llama with silver hair, standing 199 cm tall. Originally from Carpenterview, Greenland, Kelsey enjoys hiking, gardening, cooking. Known for their shy and shy personality, Kelsey is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "f5c1a7b8-1eb2-4aa8-b6ac-fbed83e8ef0f",
+    "relationship": "brother"
+  }
+}

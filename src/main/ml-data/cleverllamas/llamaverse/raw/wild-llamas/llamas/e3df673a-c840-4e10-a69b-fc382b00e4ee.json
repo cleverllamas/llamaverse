@@ -1,0 +1,15 @@
+{
+  "id": "e3df673a-c840-4e10-a69b-fc382b00e4ee",
+  "name": "Daniel",
+  "heightCm": 185,
+  "weightKg": 154,
+  "eyeColor": "Amber",
+  "hairColor": "Black",
+  "breed": "Suri",
+  "placeOfBirth": "Beckmouth, Singapore",
+  "description": "Daniel is a amber-eyed llama with black hair, standing 185 cm tall. Originally from Beckmouth, Singapore, Daniel enjoys cooking, hiking, reading. Known for their friendly and energetic personality, Daniel is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "47cbae74-65f2-492e-a7cc-67c101f4afbf",
+    "relationship": "uncle"
+  }
+}

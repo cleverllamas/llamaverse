@@ -1,0 +1,15 @@
+{
+  "id": "cd745fe3-57fd-4fc1-9cd5-7fcef83b6037",
+  "name": "Joseph",
+  "heightCm": 199,
+  "weightKg": 163,
+  "eyeColor": "Amber",
+  "hairColor": "Blonde",
+  "breed": "Hybrid",
+  "placeOfBirth": "Port Shannon, Philippines",
+  "description": "Joseph is a amber-eyed llama with blonde hair, standing 199 cm tall. Originally from Port Shannon, Philippines, Joseph enjoys singing, hiking, cooking. Known for their mischievous and mischievous personality, Joseph is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "dea85a64-4201-4301-8637-68d28b62ed79",
+    "relationship": "4th cousin once removed"
+  }
+}

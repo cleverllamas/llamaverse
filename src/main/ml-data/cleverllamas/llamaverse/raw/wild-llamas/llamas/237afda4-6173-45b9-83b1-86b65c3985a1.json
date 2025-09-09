@@ -1,0 +1,15 @@
+{
+  "id": "237afda4-6173-45b9-83b1-86b65c3985a1",
+  "name": "Russell",
+  "heightCm": 192,
+  "weightKg": 189,
+  "eyeColor": "Gray",
+  "hairColor": "Blonde",
+  "breed": "Hybrid",
+  "placeOfBirth": "Ibarrachester, Israel",
+  "description": "Russell is a gray-eyed llama with blonde hair, standing 192 cm tall. Originally from Ibarrachester, Israel, Russell enjoys reading, wood carving, hiking. Known for their calm and shy personality, Russell is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "5d45c462-cbe1-4e6e-9fda-e5ac6c8c0f21",
+    "relationship": "great uncle"
+  }
+}

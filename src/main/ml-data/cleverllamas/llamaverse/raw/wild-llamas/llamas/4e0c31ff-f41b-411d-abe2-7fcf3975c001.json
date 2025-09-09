@@ -1,0 +1,15 @@
+{
+  "id": "4e0c31ff-f41b-411d-abe2-7fcf3975c001",
+  "name": "Wendy",
+  "heightCm": 131,
+  "weightKg": 190,
+  "eyeColor": "Blue",
+  "hairColor": "Brown",
+  "breed": "Huacaya",
+  "placeOfBirth": "Andersonside, Netherlands Antilles",
+  "description": "Wendy is a blue-eyed llama with brown hair, standing 131 cm tall. Originally from Andersonside, Netherlands Antilles, Wendy enjoys knitting, wood carving, hiking. Known for their energetic and mischievous personality, Wendy is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "3d98614a-dc79-4e18-bb41-2f4d682ca688",
+    "relationship": "second cousin"
+  }
+}

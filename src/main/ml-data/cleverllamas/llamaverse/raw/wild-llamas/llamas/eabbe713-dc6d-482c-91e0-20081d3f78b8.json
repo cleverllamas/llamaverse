@@ -1,0 +1,15 @@
+{
+  "id": "eabbe713-dc6d-482c-91e0-20081d3f78b8",
+  "name": "Kimberly",
+  "heightCm": 161,
+  "weightKg": 147,
+  "eyeColor": "Amber",
+  "hairColor": "Brown",
+  "breed": "Hybrid",
+  "placeOfBirth": "Sethland, China",
+  "description": "Kimberly is a amber-eyed llama with brown hair, standing 161 cm tall. Originally from Sethland, China, Kimberly enjoys hiking, dancing, cooking. Known for their energetic and mischievous personality, Kimberly is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "9bfc8b31-ceed-46e8-a55c-1d9a9f6c2072",
+    "relationship": "4th cousin once removed"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "64af1ade-27d0-48e4-84d5-8b002406ecd3",
+  "name": "Chad",
+  "heightCm": 180,
+  "weightKg": 180,
+  "eyeColor": "Green",
+  "hairColor": "Red",
+  "breed": "Hybrid",
+  "placeOfBirth": "Kelleyport, Brazil",
+  "description": "Chad is a green-eyed llama with red hair, standing 180 cm tall. Originally from Kelleyport, Brazil, Chad enjoys wood carving, painting, cooking. Known for their shy and friendly personality, Chad is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "96a64916-dba5-44e1-8953-cec455245820",
+    "relationship": "sister"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e9cf0175-9e47-487e-b48b-f2cd7219fac9",
+  "name": "David",
+  "heightCm": 149,
+  "weightKg": 164,
+  "eyeColor": "Brown",
+  "hairColor": "Black",
+  "breed": "Hybrid",
+  "placeOfBirth": "Port Lisaville, Bolivia",
+  "description": "David is a brown-eyed llama with black hair, standing 149 cm tall. Originally from Port Lisaville, Bolivia, David enjoys cooking, hiking, painting. Known for their gentle and mischievous personality, David is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "b739df00-857a-44dd-a32f-964490d7359b",
+    "relationship": "grandparent"
+  }
+}

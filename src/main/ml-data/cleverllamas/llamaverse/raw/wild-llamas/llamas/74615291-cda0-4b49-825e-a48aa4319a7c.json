@@ -1,0 +1,15 @@
+{
+  "id": "74615291-cda0-4b49-825e-a48aa4319a7c",
+  "name": "Chelsea",
+  "heightCm": 199,
+  "weightKg": 137,
+  "eyeColor": "Brown",
+  "hairColor": "Brown",
+  "breed": "Huacaya",
+  "placeOfBirth": "Doughertyfurt, Saint Barthelemy",
+  "description": "Chelsea is a brown-eyed llama with brown hair, standing 199 cm tall. Originally from Doughertyfurt, Saint Barthelemy, Chelsea enjoys gardening, singing, hiking. Known for their shy and gentle personality, Chelsea is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "5869d1ee-c40c-4c4d-92a3-1cb74e17f9da",
+    "relationship": "mother"
+  }
+}

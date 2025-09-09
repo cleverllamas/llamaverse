@@ -1,0 +1,15 @@
+{
+  "id": "fb37b616-73fc-4291-baff-1b4c1de67610",
+  "name": "Jake",
+  "heightCm": 134,
+  "weightKg": 140,
+  "eyeColor": "Amber",
+  "hairColor": "Brown",
+  "breed": "Suri",
+  "placeOfBirth": "North Douglas, Iraq",
+  "description": "Jake is a amber-eyed llama with brown hair, standing 134 cm tall. Originally from North Douglas, Iraq, Jake enjoys hiking, wood carving, reading. Known for their gentle and shy personality, Jake is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "52f3dd1a-061e-4769-a00b-239a1670e52b",
+    "relationship": "sister"
+  }
+}

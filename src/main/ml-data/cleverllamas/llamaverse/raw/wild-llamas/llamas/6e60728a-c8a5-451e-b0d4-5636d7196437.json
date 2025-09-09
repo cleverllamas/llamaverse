@@ -1,0 +1,15 @@
+{
+  "id": "6e60728a-c8a5-451e-b0d4-5636d7196437",
+  "name": "Kristin",
+  "heightCm": 101,
+  "weightKg": 132,
+  "eyeColor": "Amber",
+  "hairColor": "Brown",
+  "breed": "Huacaya",
+  "placeOfBirth": "New Debra, Korea",
+  "description": "Kristin is a amber-eyed llama with brown hair, standing 101 cm tall. Originally from New Debra, Korea, Kristin enjoys cooking, painting, knitting. Known for their calm and mischievous personality, Kristin is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "5528245e-ee87-4a7c-9558-7f8c88f85f66",
+    "relationship": "third cousin twice removed"
+  }
+}

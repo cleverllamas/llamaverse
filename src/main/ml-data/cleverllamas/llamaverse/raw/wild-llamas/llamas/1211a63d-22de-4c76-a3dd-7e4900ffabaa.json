@@ -1,0 +1,15 @@
+{
+  "id": "1211a63d-22de-4c76-a3dd-7e4900ffabaa",
+  "name": "Ryan",
+  "heightCm": 111,
+  "weightKg": 147,
+  "eyeColor": "Blue",
+  "hairColor": "Blonde",
+  "breed": "Suri",
+  "placeOfBirth": "Bakerville, Montenegro",
+  "description": "Ryan is a blue-eyed llama with blonde hair, standing 111 cm tall. Originally from Bakerville, Montenegro, Ryan enjoys dancing, hiking, singing. Known for their friendly and shy personality, Ryan is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "2cef70fb-b972-4c4b-b4b8-9e5a2197ca00",
+    "relationship": "grandparent"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "014566d5-d9c8-4caa-a5f8-07a929e004f0",
+  "name": "Jason",
+  "heightCm": 142,
+  "weightKg": 181,
+  "eyeColor": "Blue",
+  "hairColor": "Blonde",
+  "breed": "Suri",
+  "placeOfBirth": "West Emilyberg, Macao",
+  "description": "Jason is a blue-eyed llama with blonde hair, standing 142 cm tall. Originally from West Emilyberg, Macao, Jason enjoys hiking, wood carving, reading. Known for their shy and calm personality, Jason is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "5460f2f5-87f6-4243-a3de-5ca6c34d3db1",
+    "relationship": "great uncle"
+  }
+}

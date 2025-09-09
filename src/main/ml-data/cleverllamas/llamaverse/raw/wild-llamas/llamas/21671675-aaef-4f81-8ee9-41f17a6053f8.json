@@ -1,0 +1,15 @@
+{
+  "id": "21671675-aaef-4f81-8ee9-41f17a6053f8",
+  "name": "Monica",
+  "heightCm": 114,
+  "weightKg": 163,
+  "eyeColor": "Hazel",
+  "hairColor": "Red",
+  "breed": "Hybrid",
+  "placeOfBirth": "Juliaburgh, Mauritania",
+  "description": "Monica is a hazel-eyed llama with red hair, standing 114 cm tall. Originally from Juliaburgh, Mauritania, Monica enjoys knitting, dancing, reading. Known for their friendly and mischievous personality, Monica is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "a8055e50-345d-463a-8c74-7927aa8124f5",
+    "relationship": "great uncle"
+  }
+}

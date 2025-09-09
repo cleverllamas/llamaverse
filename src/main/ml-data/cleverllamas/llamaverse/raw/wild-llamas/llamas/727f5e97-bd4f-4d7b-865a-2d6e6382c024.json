@@ -1,0 +1,15 @@
+{
+  "id": "727f5e97-bd4f-4d7b-865a-2d6e6382c024",
+  "name": "Amy",
+  "heightCm": 156,
+  "weightKg": 196,
+  "eyeColor": "Gray",
+  "hairColor": "Red",
+  "breed": "Suri",
+  "placeOfBirth": "Diazburgh, Morocco",
+  "description": "Amy is a gray-eyed llama with red hair, standing 156 cm tall. Originally from Diazburgh, Morocco, Amy enjoys dancing, singing, wood carving. Known for their shy and mischievous personality, Amy is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "02becde7-855d-4986-bfbc-db7dae3ac9ae",
+    "relationship": "great uncle"
+  }
+}

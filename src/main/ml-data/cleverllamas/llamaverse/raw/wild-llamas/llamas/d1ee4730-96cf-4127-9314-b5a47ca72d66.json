@@ -1,0 +1,15 @@
+{
+  "id": "d1ee4730-96cf-4127-9314-b5a47ca72d66",
+  "name": "Michael",
+  "heightCm": 170,
+  "weightKg": 173,
+  "eyeColor": "Amber",
+  "hairColor": "Silver",
+  "breed": "Suri",
+  "placeOfBirth": "Trevorshire, Qatar",
+  "description": "Michael is a amber-eyed llama with silver hair, standing 170 cm tall. Originally from Trevorshire, Qatar, Michael enjoys painting, cooking, gardening. Known for their calm and mischievous personality, Michael is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "ca30a4fc-27cc-46eb-a6f3-e9cc25f2e5c7",
+    "relationship": "4th cousin once removed"
+  }
+}

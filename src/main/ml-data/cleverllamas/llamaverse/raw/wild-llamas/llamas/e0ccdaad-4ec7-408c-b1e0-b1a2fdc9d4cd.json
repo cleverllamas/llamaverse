@@ -1,0 +1,15 @@
+{
+  "id": "e0ccdaad-4ec7-408c-b1e0-b1a2fdc9d4cd",
+  "name": "Jennifer",
+  "heightCm": 102,
+  "weightKg": 188,
+  "eyeColor": "Amber",
+  "hairColor": "Brown",
+  "breed": "Huacaya",
+  "placeOfBirth": "Lake Catherine, Pitcairn Islands",
+  "description": "Jennifer is a amber-eyed llama with brown hair, standing 102 cm tall. Originally from Lake Catherine, Pitcairn Islands, Jennifer enjoys knitting, gardening, cooking. Known for their gentle and gentle personality, Jennifer is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "a69c4c90-8106-422a-ab96-6f93f62f1c5d",
+    "relationship": "father"
+  }
+}

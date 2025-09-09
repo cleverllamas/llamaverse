@@ -1,0 +1,15 @@
+{
+  "id": "45171014-977f-45d9-859c-87f5c8b5c6d1",
+  "name": "Anna",
+  "heightCm": 111,
+  "weightKg": 170,
+  "eyeColor": "Amber",
+  "hairColor": "Brown",
+  "breed": "Huacaya",
+  "placeOfBirth": "Webbton, Austria",
+  "description": "Anna is a amber-eyed llama with brown hair, standing 111 cm tall. Originally from Webbton, Austria, Anna enjoys hiking, cooking, singing. Known for their gentle and gentle personality, Anna is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "50e324fc-6ac4-4d91-a7ed-f228d04f46db",
+    "relationship": "uncle"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "e05802c8-1ce0-4025-88a9-f0d6e4e54295",
+  "name": "Jessica",
+  "heightCm": 162,
+  "weightKg": 183,
+  "eyeColor": "Blue",
+  "hairColor": "Red",
+  "breed": "Huacaya",
+  "placeOfBirth": "South Johnside, Netherlands",
+  "description": "Jessica is a blue-eyed llama with red hair, standing 162 cm tall. Originally from South Johnside, Netherlands, Jessica enjoys knitting, cooking, singing. Known for their shy and gentle personality, Jessica is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "569a9565-68ff-4e25-9c6e-1597d1c35897",
+    "relationship": "brother"
+  }
+}

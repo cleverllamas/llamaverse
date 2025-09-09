@@ -1,0 +1,15 @@
+{
+  "id": "c865dd74-a029-4745-867c-9dce6551851e",
+  "name": "Mark",
+  "heightCm": 148,
+  "weightKg": 183,
+  "eyeColor": "Blue",
+  "hairColor": "Blonde",
+  "breed": "Hybrid",
+  "placeOfBirth": "East Anthonymouth, Canada",
+  "description": "Mark is a blue-eyed llama with blonde hair, standing 148 cm tall. Originally from East Anthonymouth, Canada, Mark enjoys knitting, hiking, gardening. Known for their energetic and shy personality, Mark is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "5bc49cb3-80dc-403b-8602-ed974c934218",
+    "relationship": "father"
+  }
+}

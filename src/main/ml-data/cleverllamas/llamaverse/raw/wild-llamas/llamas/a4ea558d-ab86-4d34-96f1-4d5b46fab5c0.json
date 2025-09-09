@@ -1,0 +1,15 @@
+{
+  "id": "a4ea558d-ab86-4d34-96f1-4d5b46fab5c0",
+  "name": "Carmen",
+  "heightCm": 114,
+  "weightKg": 194,
+  "eyeColor": "Green",
+  "hairColor": "Red",
+  "breed": "Huacaya",
+  "placeOfBirth": "New Markhaven, Panama",
+  "description": "Carmen is a green-eyed llama with red hair, standing 114 cm tall. Originally from New Markhaven, Panama, Carmen enjoys gardening, singing, cooking. Known for their shy and friendly personality, Carmen is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "37a3e931-3d79-40e7-bbd5-05ac7438a4b9",
+    "relationship": "great uncle"
+  }
+}

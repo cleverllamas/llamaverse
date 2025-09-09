@@ -1,0 +1,15 @@
+{
+  "id": "7e3a2d2f-6ae9-4769-9d73-b3a4dd9c9dfb",
+  "name": "Allen",
+  "heightCm": 144,
+  "weightKg": 138,
+  "eyeColor": "Hazel",
+  "hairColor": "Blonde",
+  "breed": "Suri",
+  "placeOfBirth": "South Tricia, Saint Vincent and the Grenadines",
+  "description": "Allen is a hazel-eyed llama with blonde hair, standing 144 cm tall. Originally from South Tricia, Saint Vincent and the Grenadines, Allen enjoys knitting, gardening, reading. Known for their shy and calm personality, Allen is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "8abe3e97-5281-4b59-90b6-03efe1438167",
+    "relationship": "uncle"
+  }
+}

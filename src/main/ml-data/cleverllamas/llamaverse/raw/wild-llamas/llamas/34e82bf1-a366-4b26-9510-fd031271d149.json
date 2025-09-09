@@ -1,0 +1,15 @@
+{
+  "id": "34e82bf1-a366-4b26-9510-fd031271d149",
+  "name": "Andrea",
+  "heightCm": 137,
+  "weightKg": 134,
+  "eyeColor": "Amber",
+  "hairColor": "Black",
+  "breed": "Suri",
+  "placeOfBirth": "New Arielhaven, Uzbekistan",
+  "description": "Andrea is a amber-eyed llama with black hair, standing 137 cm tall. Originally from New Arielhaven, Uzbekistan, Andrea enjoys reading, gardening, painting. Known for their playful and energetic personality, Andrea is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "f8caef25-1681-4d9d-91e0-724711351df6",
+    "relationship": "cousin"
+  }
+}

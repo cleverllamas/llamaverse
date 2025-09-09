@@ -1,0 +1,15 @@
+{
+  "id": "7889a86a-50c4-4477-832a-5cebb92e7771",
+  "name": "Scott",
+  "heightCm": 135,
+  "weightKg": 179,
+  "eyeColor": "Brown",
+  "hairColor": "Red",
+  "breed": "Suri",
+  "placeOfBirth": "Robinsonchester, Marshall Islands",
+  "description": "Scott is a brown-eyed llama with red hair, standing 135 cm tall. Originally from Robinsonchester, Marshall Islands, Scott enjoys knitting, cooking, gardening. Known for their gentle and gentle personality, Scott is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "9f1415d3-12a9-469a-b627-2187a0af83a1",
+    "relationship": "grandparent"
+  }
+}

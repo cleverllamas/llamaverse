@@ -1,0 +1,15 @@
+{
+  "id": "655e403a-a51d-4d25-b63b-7f62fde8c545",
+  "name": "Alisha",
+  "heightCm": 173,
+  "weightKg": 135,
+  "eyeColor": "Hazel",
+  "hairColor": "Black",
+  "breed": "Suri",
+  "placeOfBirth": "West Andreamouth, Pitcairn Islands",
+  "description": "Alisha is a hazel-eyed llama with black hair, standing 173 cm tall. Originally from West Andreamouth, Pitcairn Islands, Alisha enjoys singing, cooking, hiking. Known for their mischievous and playful personality, Alisha is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "51c54b41-b859-4f12-9989-e245938668d5",
+    "relationship": "uncle"
+  }
+}

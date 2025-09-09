@@ -1,0 +1,15 @@
+{
+  "id": "4506cd97-deeb-47d2-9c30-48b4261d23df",
+  "name": "Kim",
+  "heightCm": 173,
+  "weightKg": 146,
+  "eyeColor": "Hazel",
+  "hairColor": "Silver",
+  "breed": "Hybrid",
+  "placeOfBirth": "East Jeremy, Venezuela",
+  "description": "Kim is a hazel-eyed llama with silver hair, standing 173 cm tall. Originally from East Jeremy, Venezuela, Kim enjoys dancing, wood carving, singing. Known for their gentle and calm personality, Kim is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "a6e2bce3-6771-43e6-95ca-c8ddec48fe0b",
+    "relationship": "great uncle"
+  }
+}

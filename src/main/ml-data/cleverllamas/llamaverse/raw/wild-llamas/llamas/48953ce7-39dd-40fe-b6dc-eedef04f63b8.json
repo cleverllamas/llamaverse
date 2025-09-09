@@ -1,0 +1,15 @@
+{
+  "id": "48953ce7-39dd-40fe-b6dc-eedef04f63b8",
+  "name": "Lori",
+  "heightCm": 154,
+  "weightKg": 192,
+  "eyeColor": "Hazel",
+  "hairColor": "Brown",
+  "breed": "Suri",
+  "placeOfBirth": "New Deanna, Wallis and Futuna",
+  "description": "Lori is a hazel-eyed llama with brown hair, standing 154 cm tall. Originally from New Deanna, Wallis and Futuna, Lori enjoys dancing, gardening, knitting. Known for their gentle and curious personality, Lori is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "22613cd8-af19-415d-bcdf-c0e47a1fb3cf",
+    "relationship": "grandparent"
+  }
+}

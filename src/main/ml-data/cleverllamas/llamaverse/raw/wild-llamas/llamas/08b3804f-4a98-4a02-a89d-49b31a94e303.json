@@ -1,0 +1,15 @@
+{
+  "id": "08b3804f-4a98-4a02-a89d-49b31a94e303",
+  "name": "Brenda",
+  "heightCm": 190,
+  "weightKg": 155,
+  "eyeColor": "Green",
+  "hairColor": "Gray",
+  "breed": "Hybrid",
+  "placeOfBirth": "South Gregory, Maldives",
+  "description": "Brenda is a green-eyed llama with gray hair, standing 190 cm tall. Originally from South Gregory, Maldives, Brenda enjoys gardening, wood carving, singing. Known for their mischievous and mischievous personality, Brenda is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "2a2e5f78-4db1-4f7d-8c11-5f8ac79c4395",
+    "relationship": "mother"
+  }
+}

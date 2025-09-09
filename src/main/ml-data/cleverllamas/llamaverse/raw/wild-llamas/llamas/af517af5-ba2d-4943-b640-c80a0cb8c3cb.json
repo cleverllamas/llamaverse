@@ -1,0 +1,15 @@
+{
+  "id": "af517af5-ba2d-4943-b640-c80a0cb8c3cb",
+  "name": "Jennifer",
+  "heightCm": 192,
+  "weightKg": 144,
+  "eyeColor": "Hazel",
+  "hairColor": "White",
+  "breed": "Huacaya",
+  "placeOfBirth": "Glennville, Belgium",
+  "description": "Jennifer is a hazel-eyed llama with white hair, standing 192 cm tall. Originally from Glennville, Belgium, Jennifer enjoys gardening, painting, reading. Known for their calm and gentle personality, Jennifer is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "6f3dc937-c535-4b6f-903b-78eb2bdd31bd",
+    "relationship": "4th cousin once removed"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "d2adfca2-6fd0-48d3-bd9f-a324821977be",
+  "name": "Mark",
+  "heightCm": 128,
+  "weightKg": 169,
+  "eyeColor": "Amber",
+  "hairColor": "White",
+  "breed": "Huacaya",
+  "placeOfBirth": "Phillipstad, Finland",
+  "description": "Mark is a amber-eyed llama with white hair, standing 128 cm tall. Originally from Phillipstad, Finland, Mark enjoys singing, reading, hiking. Known for their mischievous and curious personality, Mark is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "f998f808-8c5d-4886-a9c0-c4a52ad11c2b",
+    "relationship": "great uncle"
+  }
+}

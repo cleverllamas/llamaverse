@@ -1,0 +1,15 @@
+{
+  "id": "0f58de15-1f66-4613-9d28-99ef161a7f0e",
+  "name": "Debra",
+  "heightCm": 184,
+  "weightKg": 196,
+  "eyeColor": "Gray",
+  "hairColor": "Red",
+  "breed": "Huacaya",
+  "placeOfBirth": "Theresaview, Japan",
+  "description": "Debra is a gray-eyed llama with red hair, standing 184 cm tall. Originally from Theresaview, Japan, Debra enjoys cooking, dancing, singing. Known for their friendly and playful personality, Debra is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "bece887c-321b-496b-88d8-f8964652b617",
+    "relationship": "great uncle"
+  }
+}

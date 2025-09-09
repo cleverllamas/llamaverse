@@ -1,0 +1,15 @@
+{
+  "id": "67a87170-d718-47ab-94c6-d416c7a5b7a0",
+  "name": "James",
+  "heightCm": 147,
+  "weightKg": 169,
+  "eyeColor": "Brown",
+  "hairColor": "Red",
+  "breed": "Suri",
+  "placeOfBirth": "Hansonmouth, Spain",
+  "description": "James is a brown-eyed llama with red hair, standing 147 cm tall. Originally from Hansonmouth, Spain, James enjoys gardening, singing, cooking. Known for their mischievous and playful personality, James is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "e49e7d33-c2f5-47b4-893f-099bad10d807",
+    "relationship": "father"
+  }
+}

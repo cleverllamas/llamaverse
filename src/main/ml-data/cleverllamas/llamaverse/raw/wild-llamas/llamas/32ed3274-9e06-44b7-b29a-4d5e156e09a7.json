@@ -1,0 +1,15 @@
+{
+  "id": "32ed3274-9e06-44b7-b29a-4d5e156e09a7",
+  "name": "Timothy",
+  "heightCm": 181,
+  "weightKg": 151,
+  "eyeColor": "Gray",
+  "hairColor": "Blonde",
+  "breed": "Suri",
+  "placeOfBirth": "Lake Nicolefort, Guernsey",
+  "description": "Timothy is a gray-eyed llama with blonde hair, standing 181 cm tall. Originally from Lake Nicolefort, Guernsey, Timothy enjoys singing, cooking, reading. Known for their curious and gentle personality, Timothy is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "58354c04-e732-4cf5-8287-9a4891ee8f04",
+    "relationship": "cousin"
+  }
+}

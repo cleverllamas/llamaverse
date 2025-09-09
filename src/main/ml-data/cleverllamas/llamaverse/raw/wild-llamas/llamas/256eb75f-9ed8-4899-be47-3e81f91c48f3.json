@@ -1,0 +1,15 @@
+{
+  "id": "256eb75f-9ed8-4899-be47-3e81f91c48f3",
+  "name": "Joseph",
+  "heightCm": 145,
+  "weightKg": 190,
+  "eyeColor": "Green",
+  "hairColor": "Blonde",
+  "breed": "Huacaya",
+  "placeOfBirth": "Rodgersville, Palau",
+  "description": "Joseph is a green-eyed llama with blonde hair, standing 145 cm tall. Originally from Rodgersville, Palau, Joseph enjoys hiking, wood carving, knitting. Known for their friendly and gentle personality, Joseph is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "7bad4275-130d-4e38-84d8-821ae9e143d9",
+    "relationship": "uncle"
+  }
+}

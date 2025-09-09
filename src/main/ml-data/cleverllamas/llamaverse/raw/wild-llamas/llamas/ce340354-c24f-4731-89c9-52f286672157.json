@@ -1,0 +1,15 @@
+{
+  "id": "ce340354-c24f-4731-89c9-52f286672157",
+  "name": "Emily",
+  "heightCm": 181,
+  "weightKg": 151,
+  "eyeColor": "Amber",
+  "hairColor": "Black",
+  "breed": "Hybrid",
+  "placeOfBirth": "East Davidstad, Lesotho",
+  "description": "Emily is a amber-eyed llama with black hair, standing 181 cm tall. Originally from East Davidstad, Lesotho, Emily enjoys hiking, gardening, singing. Known for their energetic and friendly personality, Emily is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "2f08fa82-70e5-4874-9987-bca21b86d3d2",
+    "relationship": "third cousin twice removed"
+  }
+}

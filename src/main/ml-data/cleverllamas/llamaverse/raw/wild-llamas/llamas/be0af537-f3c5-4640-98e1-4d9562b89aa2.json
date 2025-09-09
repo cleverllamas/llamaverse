@@ -1,0 +1,15 @@
+{
+  "id": "be0af537-f3c5-4640-98e1-4d9562b89aa2",
+  "name": "John",
+  "heightCm": 176,
+  "weightKg": 200,
+  "eyeColor": "Blue",
+  "hairColor": "Blonde",
+  "breed": "Suri",
+  "placeOfBirth": "North Michaelborough, Grenada",
+  "description": "John is a blue-eyed llama with blonde hair, standing 176 cm tall. Originally from North Michaelborough, Grenada, John enjoys singing, hiking, gardening. Known for their shy and energetic personality, John is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "9f2d99f4-36c2-40e9-a0f8-786fe9e0d31b",
+    "relationship": "uncle"
+  }
+}

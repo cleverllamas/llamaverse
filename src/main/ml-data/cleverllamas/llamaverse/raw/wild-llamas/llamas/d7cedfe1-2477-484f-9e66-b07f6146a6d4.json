@@ -1,0 +1,15 @@
+{
+  "id": "d7cedfe1-2477-484f-9e66-b07f6146a6d4",
+  "name": "Jay",
+  "heightCm": 180,
+  "weightKg": 189,
+  "eyeColor": "Gray",
+  "hairColor": "Silver",
+  "breed": "Suri",
+  "placeOfBirth": "Campbellbury, Svalbard & Jan Mayen Islands",
+  "description": "Jay is a gray-eyed llama with silver hair, standing 180 cm tall. Originally from Campbellbury, Svalbard & Jan Mayen Islands, Jay enjoys knitting, wood carving, singing. Known for their shy and shy personality, Jay is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "12bd3df7-18d4-4257-a21c-e6d4c1f27f63",
+    "relationship": "great uncle"
+  }
+}

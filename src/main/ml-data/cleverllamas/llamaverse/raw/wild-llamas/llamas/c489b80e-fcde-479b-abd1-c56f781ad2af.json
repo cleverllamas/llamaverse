@@ -1,0 +1,15 @@
+{
+  "id": "c489b80e-fcde-479b-abd1-c56f781ad2af",
+  "name": "Kathy",
+  "heightCm": 154,
+  "weightKg": 185,
+  "eyeColor": "Amber",
+  "hairColor": "Gray",
+  "breed": "Hybrid",
+  "placeOfBirth": "Travisburgh, Denmark",
+  "description": "Kathy is a amber-eyed llama with gray hair, standing 154 cm tall. Originally from Travisburgh, Denmark, Kathy enjoys reading, gardening, hiking. Known for their shy and mischievous personality, Kathy is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "b090112d-5b52-4b93-9a1a-fcc0d7a71422",
+    "relationship": "brother"
+  }
+}

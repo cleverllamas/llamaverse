@@ -1,0 +1,15 @@
+{
+  "id": "1b0bdbf5-834d-4a90-bba5-078891950b10",
+  "name": "William",
+  "heightCm": 138,
+  "weightKg": 182,
+  "eyeColor": "Blue",
+  "hairColor": "Silver",
+  "breed": "Huacaya",
+  "placeOfBirth": "Joneston, Iran",
+  "description": "William is a blue-eyed llama with silver hair, standing 138 cm tall. Originally from Joneston, Iran, William enjoys painting, wood carving, gardening. Known for their shy and curious personality, William is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "e6ab4711-8083-48e2-a2cb-3611fa8a3fa4",
+    "relationship": "uncle"
+  }
+}

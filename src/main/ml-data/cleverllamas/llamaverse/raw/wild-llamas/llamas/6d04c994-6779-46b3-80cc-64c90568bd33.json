@@ -1,0 +1,15 @@
+{
+  "id": "6d04c994-6779-46b3-80cc-64c90568bd33",
+  "name": "Michelle",
+  "heightCm": 167,
+  "weightKg": 189,
+  "eyeColor": "Brown",
+  "hairColor": "Blonde",
+  "breed": "Suri",
+  "placeOfBirth": "North Debra, Maldives",
+  "description": "Michelle is a brown-eyed llama with blonde hair, standing 167 cm tall. Originally from North Debra, Maldives, Michelle enjoys wood carving, knitting, singing. Known for their curious and shy personality, Michelle is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "0ea5b281-1608-4b76-a867-982bc56b21d6",
+    "relationship": "aunt"
+  }
+}

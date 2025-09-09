@@ -1,0 +1,15 @@
+{
+  "id": "527e6ef3-346b-40ec-9fdc-c730ddc22a6c",
+  "name": "Savannah",
+  "heightCm": 126,
+  "weightKg": 132,
+  "eyeColor": "Gray",
+  "hairColor": "Blonde",
+  "breed": "Huacaya",
+  "placeOfBirth": "Frenchland, Lesotho",
+  "description": "Savannah is a gray-eyed llama with blonde hair, standing 126 cm tall. Originally from Frenchland, Lesotho, Savannah enjoys knitting, singing, wood carving. Known for their mischievous and calm personality, Savannah is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "db4a9803-c6f9-425a-858e-e639d2816748",
+    "relationship": "great uncle"
+  }
+}

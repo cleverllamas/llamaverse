@@ -1,0 +1,15 @@
+{
+  "id": "9bf6ba65-c5d7-4563-a2bb-8cdef47dcc2e",
+  "name": "Christopher",
+  "heightCm": 149,
+  "weightKg": 181,
+  "eyeColor": "Amber",
+  "hairColor": "Black",
+  "breed": "Huacaya",
+  "placeOfBirth": "Lake Daniellehaven, Jersey",
+  "description": "Christopher is a amber-eyed llama with black hair, standing 149 cm tall. Originally from Lake Daniellehaven, Jersey, Christopher enjoys dancing, cooking, reading. Known for their friendly and curious personality, Christopher is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "58cc4778-e161-4a4a-8256-cf9dd90377a5",
+    "relationship": "father"
+  }
+}

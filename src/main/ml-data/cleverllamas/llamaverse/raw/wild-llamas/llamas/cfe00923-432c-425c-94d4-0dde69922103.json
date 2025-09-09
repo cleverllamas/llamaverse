@@ -1,0 +1,15 @@
+{
+  "id": "cfe00923-432c-425c-94d4-0dde69922103",
+  "name": "Christopher",
+  "heightCm": 100,
+  "weightKg": 187,
+  "eyeColor": "Hazel",
+  "hairColor": "Brown",
+  "breed": "Hybrid",
+  "placeOfBirth": "South Davidshire, Cote d'Ivoire",
+  "description": "Christopher is a hazel-eyed llama with brown hair, standing 100 cm tall. Originally from South Davidshire, Cote d'Ivoire, Christopher enjoys dancing, cooking, gardening. Known for their calm and mischievous personality, Christopher is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "65885e61-60e9-4254-9088-3f9e782eaadd",
+    "relationship": "uncle"
+  }
+}

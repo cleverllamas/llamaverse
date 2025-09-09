@@ -1,0 +1,15 @@
+{
+  "id": "37a3e931-3d79-40e7-bbd5-05ac7438a4b9",
+  "name": "Katie",
+  "heightCm": 128,
+  "weightKg": 175,
+  "eyeColor": "Blue",
+  "hairColor": "Black",
+  "breed": "Suri",
+  "placeOfBirth": "Lake Tara, Congo",
+  "description": "Katie is a blue-eyed llama with black hair, standing 128 cm tall. Originally from Lake Tara, Congo, Katie enjoys hiking, gardening, dancing. Known for their curious and mischievous personality, Katie is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "06919309-2588-4d6b-ae3e-eb50d65efd5d",
+    "relationship": "uncle"
+  }
+}

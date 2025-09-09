@@ -1,0 +1,15 @@
+{
+  "id": "88a28adf-794f-4d3d-b4a8-1dbb88d115bf",
+  "name": "Carrie",
+  "heightCm": 121,
+  "weightKg": 174,
+  "eyeColor": "Green",
+  "hairColor": "Silver",
+  "breed": "Huacaya",
+  "placeOfBirth": "Lewismouth, Macedonia",
+  "description": "Carrie is a green-eyed llama with silver hair, standing 121 cm tall. Originally from Lewismouth, Macedonia, Carrie enjoys gardening, painting, singing. Known for their shy and friendly personality, Carrie is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "07a3274e-04f9-44b8-9285-1d64f7879a8e",
+    "relationship": "second cousin"
+  }
+}

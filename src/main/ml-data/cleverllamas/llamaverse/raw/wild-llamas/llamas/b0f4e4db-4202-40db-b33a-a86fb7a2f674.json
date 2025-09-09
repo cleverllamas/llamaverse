@@ -1,0 +1,15 @@
+{
+  "id": "b0f4e4db-4202-40db-b33a-a86fb7a2f674",
+  "name": "Tara",
+  "heightCm": 124,
+  "weightKg": 177,
+  "eyeColor": "Hazel",
+  "hairColor": "Blonde",
+  "breed": "Huacaya",
+  "placeOfBirth": "Alexanderfort, Kenya",
+  "description": "Tara is a hazel-eyed llama with blonde hair, standing 124 cm tall. Originally from Alexanderfort, Kenya, Tara enjoys knitting, singing, painting. Known for their energetic and calm personality, Tara is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "8827c421-0c21-4d96-998b-ff310430445f",
+    "relationship": "cousin"
+  }
+}

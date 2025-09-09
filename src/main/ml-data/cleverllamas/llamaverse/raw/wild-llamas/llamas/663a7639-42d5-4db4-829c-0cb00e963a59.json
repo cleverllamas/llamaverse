@@ -1,0 +1,15 @@
+{
+  "id": "663a7639-42d5-4db4-829c-0cb00e963a59",
+  "name": "Cassandra",
+  "heightCm": 104,
+  "weightKg": 184,
+  "eyeColor": "Blue",
+  "hairColor": "Silver",
+  "breed": "Huacaya",
+  "placeOfBirth": "Hillside, Bouvet Island (Bouvetoya)",
+  "description": "Cassandra is a blue-eyed llama with silver hair, standing 104 cm tall. Originally from Hillside, Bouvet Island (Bouvetoya), Cassandra enjoys painting, dancing, reading. Known for their gentle and calm personality, Cassandra is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "a83fc375-9920-46cd-b1ee-9aa45e8e682a",
+    "relationship": "sister"
+  }
+}

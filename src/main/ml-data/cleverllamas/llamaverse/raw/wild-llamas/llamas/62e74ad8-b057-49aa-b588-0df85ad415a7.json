@@ -1,0 +1,15 @@
+{
+  "id": "62e74ad8-b057-49aa-b588-0df85ad415a7",
+  "name": "Timothy",
+  "heightCm": 151,
+  "weightKg": 147,
+  "eyeColor": "Gray",
+  "hairColor": "Brown",
+  "breed": "Huacaya",
+  "placeOfBirth": "Jamestown, Kenya",
+  "description": "Timothy is a gray-eyed llama with brown hair, standing 151 cm tall. Originally from Jamestown, Kenya, Timothy enjoys dancing, reading, gardening. Known for their mischievous and friendly personality, Timothy is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "e4c60426-125f-4ad7-aefb-06c7296f019e",
+    "relationship": "grandparent"
+  }
+}

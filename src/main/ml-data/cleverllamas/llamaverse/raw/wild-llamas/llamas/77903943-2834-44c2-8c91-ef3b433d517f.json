@@ -1,0 +1,15 @@
+{
+  "id": "77903943-2834-44c2-8c91-ef3b433d517f",
+  "name": "Michael",
+  "heightCm": 130,
+  "weightKg": 177,
+  "eyeColor": "Brown",
+  "hairColor": "Silver",
+  "breed": "Huacaya",
+  "placeOfBirth": "Michaelton, Vietnam",
+  "description": "Michael is a brown-eyed llama with silver hair, standing 130 cm tall. Originally from Michaelton, Vietnam, Michael enjoys singing, painting, gardening. Known for their gentle and curious personality, Michael is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "134fcba5-5976-4484-baae-05d548190bfb",
+    "relationship": "second cousin"
+  }
+}

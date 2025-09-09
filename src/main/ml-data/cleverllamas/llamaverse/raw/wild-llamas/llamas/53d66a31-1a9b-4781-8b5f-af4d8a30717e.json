@@ -1,0 +1,15 @@
+{
+  "id": "53d66a31-1a9b-4781-8b5f-af4d8a30717e",
+  "name": "Edward",
+  "heightCm": 176,
+  "weightKg": 171,
+  "eyeColor": "Blue",
+  "hairColor": "Silver",
+  "breed": "Hybrid",
+  "placeOfBirth": "Villanuevashire, Switzerland",
+  "description": "Edward is a blue-eyed llama with silver hair, standing 176 cm tall. Originally from Villanuevashire, Switzerland, Edward enjoys knitting, cooking, singing. Known for their gentle and energetic personality, Edward is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "39c3b7d5-d5f6-4ea7-a4dd-32fb49337471",
+    "relationship": "uncle"
+  }
+}

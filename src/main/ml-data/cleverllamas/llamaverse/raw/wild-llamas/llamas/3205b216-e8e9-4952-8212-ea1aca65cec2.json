@@ -1,0 +1,15 @@
+{
+  "id": "3205b216-e8e9-4952-8212-ea1aca65cec2",
+  "name": "Michael",
+  "heightCm": 154,
+  "weightKg": 144,
+  "eyeColor": "Hazel",
+  "hairColor": "Silver",
+  "breed": "Suri",
+  "placeOfBirth": "Adamsfort, Falkland Islands (Malvinas)",
+  "description": "Michael is a hazel-eyed llama with silver hair, standing 154 cm tall. Originally from Adamsfort, Falkland Islands (Malvinas), Michael enjoys singing, reading, cooking. Known for their mischievous and friendly personality, Michael is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "32771ae0-6472-4d55-9c7d-d401d3f6b2f4",
+    "relationship": "father"
+  }
+}

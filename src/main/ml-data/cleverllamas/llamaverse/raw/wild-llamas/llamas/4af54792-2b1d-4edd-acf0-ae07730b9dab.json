@@ -1,0 +1,15 @@
+{
+  "id": "4af54792-2b1d-4edd-acf0-ae07730b9dab",
+  "name": "Laura",
+  "heightCm": 182,
+  "weightKg": 156,
+  "eyeColor": "Green",
+  "hairColor": "Gray",
+  "breed": "Hybrid",
+  "placeOfBirth": "Jordanfort, Syrian Arab Republic",
+  "description": "Laura is a green-eyed llama with gray hair, standing 182 cm tall. Originally from Jordanfort, Syrian Arab Republic, Laura enjoys knitting, gardening, painting. Known for their shy and friendly personality, Laura is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "e025860c-6d3d-40d3-bd77-a20a57477e15",
+    "relationship": "grandparent"
+  }
+}

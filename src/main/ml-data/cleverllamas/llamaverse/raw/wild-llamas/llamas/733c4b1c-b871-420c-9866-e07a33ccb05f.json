@@ -1,0 +1,15 @@
+{
+  "id": "733c4b1c-b871-420c-9866-e07a33ccb05f",
+  "name": "Chad",
+  "heightCm": 198,
+  "weightKg": 182,
+  "eyeColor": "Hazel",
+  "hairColor": "Brown",
+  "breed": "Huacaya",
+  "placeOfBirth": "Donnabury, Yemen",
+  "description": "Chad is a hazel-eyed llama with brown hair, standing 198 cm tall. Originally from Donnabury, Yemen, Chad enjoys hiking, singing, painting. Known for their mischievous and gentle personality, Chad is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "973a0277-ec80-423b-bfde-bd80ea58145b",
+    "relationship": "mother"
+  }
+}

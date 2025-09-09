@@ -1,0 +1,15 @@
+{
+  "id": "0d396ec1-174a-4387-95a1-69c28b72e907",
+  "name": "Cynthia",
+  "heightCm": 151,
+  "weightKg": 180,
+  "eyeColor": "Amber",
+  "hairColor": "Silver",
+  "breed": "Huacaya",
+  "placeOfBirth": "Walkerfurt, Zambia",
+  "description": "Cynthia is a amber-eyed llama with silver hair, standing 151 cm tall. Originally from Walkerfurt, Zambia, Cynthia enjoys dancing, gardening, knitting. Known for their calm and shy personality, Cynthia is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "09a8611d-1095-4610-aa40-437eca6c877f",
+    "relationship": "mother"
+  }
+}

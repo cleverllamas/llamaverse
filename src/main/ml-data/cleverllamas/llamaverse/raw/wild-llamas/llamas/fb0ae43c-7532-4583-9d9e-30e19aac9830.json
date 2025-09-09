@@ -1,0 +1,15 @@
+{
+  "id": "fb0ae43c-7532-4583-9d9e-30e19aac9830",
+  "name": "Troy",
+  "heightCm": 145,
+  "weightKg": 130,
+  "eyeColor": "Gray",
+  "hairColor": "Blonde",
+  "breed": "Hybrid",
+  "placeOfBirth": "North Sheenaton, Mexico",
+  "description": "Troy is a gray-eyed llama with blonde hair, standing 145 cm tall. Originally from North Sheenaton, Mexico, Troy enjoys gardening, reading, knitting. Known for their shy and friendly personality, Troy is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "526e3786-2c93-4c6f-9191-b90a694e47e6",
+    "relationship": "cousin"
+  }
+}

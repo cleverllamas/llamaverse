@@ -1,4 +1,23 @@
 {
 	"database-name": "%%mlAppName%%-content",
-	"schema-database": "%%mlAppName%%-schemas"
+	"schema-database": "%%mlAppName%%-schemas",
+	  "range-element-index": [
+    {
+      "scalar-type": "string",
+      "collation": "http://marklogic.com/collation/",
+      "namespace-uri": "",
+      "localname": "breed",
+      "range-value-positions": false,
+      "invalid-values": "reject"
+    }
+  ],
+	"range-path-index": [
+    {
+      "scalar-type": "string",
+      "path-expression": "/id",
+      "collation": "http://marklogic.com/collation/",
+      "range-value-positions": false,
+      "invalid-values": "reject"
+    }
+  ]
 }

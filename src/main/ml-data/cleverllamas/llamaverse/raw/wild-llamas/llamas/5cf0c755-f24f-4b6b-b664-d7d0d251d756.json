@@ -1,0 +1,15 @@
+{
+  "id": "5cf0c755-f24f-4b6b-b664-d7d0d251d756",
+  "name": "Peter",
+  "heightCm": 159,
+  "weightKg": 171,
+  "eyeColor": "Green",
+  "hairColor": "Blonde",
+  "breed": "Suri",
+  "placeOfBirth": "New Sherri, Italy",
+  "description": "Peter is a green-eyed llama with blonde hair, standing 159 cm tall. Originally from New Sherri, Italy, Peter enjoys gardening, dancing, painting. Known for their energetic and shy personality, Peter is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "3662945f-2d55-4f90-85bf-e3fbd9b63afb",
+    "relationship": "second cousin"
+  }
+}

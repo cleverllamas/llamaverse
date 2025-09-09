@@ -1,0 +1,15 @@
+{
+  "id": "ce555dc2-b24a-4905-a135-7d2c7e7e1562",
+  "name": "Donald",
+  "heightCm": 177,
+  "weightKg": 171,
+  "eyeColor": "Blue",
+  "hairColor": "Blonde",
+  "breed": "Suri",
+  "placeOfBirth": "Curtisstad, El Salvador",
+  "description": "Donald is a blue-eyed llama with blonde hair, standing 177 cm tall. Originally from Curtisstad, El Salvador, Donald enjoys gardening, painting, dancing. Known for their gentle and calm personality, Donald is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "e8c4468d-60a1-4e4e-bc04-dd2d5b63d0e7",
+    "relationship": "4th cousin once removed"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "728bc19a-4045-4243-9618-613d8eb11c27",
+  "name": "William",
+  "heightCm": 174,
+  "weightKg": 195,
+  "eyeColor": "Blue",
+  "hairColor": "Black",
+  "breed": "Suri",
+  "placeOfBirth": "Barnesfort, South Georgia and the South Sandwich Islands",
+  "description": "William is a blue-eyed llama with black hair, standing 174 cm tall. Originally from Barnesfort, South Georgia and the South Sandwich Islands, William enjoys dancing, hiking, wood carving. Known for their calm and shy personality, William is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "5cc6eb19-956f-4b85-bb78-7034480bdb79",
+    "relationship": "cousin"
+  }
+}

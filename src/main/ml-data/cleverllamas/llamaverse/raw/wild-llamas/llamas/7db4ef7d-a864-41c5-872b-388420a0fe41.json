@@ -1,0 +1,15 @@
+{
+  "id": "7db4ef7d-a864-41c5-872b-388420a0fe41",
+  "name": "Richard",
+  "heightCm": 173,
+  "weightKg": 171,
+  "eyeColor": "Amber",
+  "hairColor": "Gray",
+  "breed": "Suri",
+  "placeOfBirth": "Warrenton, American Samoa",
+  "description": "Richard is a amber-eyed llama with gray hair, standing 173 cm tall. Originally from Warrenton, American Samoa, Richard enjoys wood carving, hiking, gardening. Known for their shy and calm personality, Richard is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "b8541a73-a94b-49de-a1c8-291340933d2a",
+    "relationship": "brother"
+  }
+}

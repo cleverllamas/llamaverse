@@ -1,0 +1,15 @@
+{
+  "id": "39c3b7d5-d5f6-4ea7-a4dd-32fb49337471",
+  "name": "Donald",
+  "heightCm": 119,
+  "weightKg": 197,
+  "eyeColor": "Amber",
+  "hairColor": "White",
+  "breed": "Suri",
+  "placeOfBirth": "East Daniel, Yemen",
+  "description": "Donald is a amber-eyed llama with white hair, standing 119 cm tall. Originally from East Daniel, Yemen, Donald enjoys wood carving, dancing, cooking. Known for their mischievous and playful personality, Donald is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "d50a73a0-c096-4f79-99a0-8bd05a426416",
+    "relationship": "grandparent"
+  }
+}

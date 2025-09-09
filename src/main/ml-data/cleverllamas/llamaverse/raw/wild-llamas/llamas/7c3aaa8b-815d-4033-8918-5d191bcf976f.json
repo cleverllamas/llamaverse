@@ -1,0 +1,15 @@
+{
+  "id": "7c3aaa8b-815d-4033-8918-5d191bcf976f",
+  "name": "Adam",
+  "heightCm": 169,
+  "weightKg": 197,
+  "eyeColor": "Green",
+  "hairColor": "Silver",
+  "breed": "Hybrid",
+  "placeOfBirth": "Darrellbury, Oman",
+  "description": "Adam is a green-eyed llama with silver hair, standing 169 cm tall. Originally from Darrellbury, Oman, Adam enjoys gardening, knitting, wood carving. Known for their energetic and shy personality, Adam is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "6714ecfe-1f82-46c4-ac45-e3b25251d303",
+    "relationship": "aunt"
+  }
+}

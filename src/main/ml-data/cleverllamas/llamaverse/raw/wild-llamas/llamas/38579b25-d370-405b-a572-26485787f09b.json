@@ -1,0 +1,15 @@
+{
+  "id": "38579b25-d370-405b-a572-26485787f09b",
+  "name": "Clarence",
+  "heightCm": 183,
+  "weightKg": 159,
+  "eyeColor": "Amber",
+  "hairColor": "Silver",
+  "breed": "Suri",
+  "placeOfBirth": "Wattstown, Mauritius",
+  "description": "Clarence is a amber-eyed llama with silver hair, standing 183 cm tall. Originally from Wattstown, Mauritius, Clarence enjoys painting, cooking, hiking. Known for their energetic and calm personality, Clarence is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "c1781111-b2ec-496a-8309-c9e0f11ec933",
+    "relationship": "father"
+  }
+}

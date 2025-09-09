@@ -1,0 +1,15 @@
+{
+  "id": "5469b8d2-263f-4785-8490-59888eebd478",
+  "name": "Kathleen",
+  "heightCm": 186,
+  "weightKg": 162,
+  "eyeColor": "Blue",
+  "hairColor": "Red",
+  "breed": "Suri",
+  "placeOfBirth": "East Jennifer, India",
+  "description": "Kathleen is a blue-eyed llama with red hair, standing 186 cm tall. Originally from East Jennifer, India, Kathleen enjoys knitting, cooking, gardening. Known for their gentle and playful personality, Kathleen is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "9848ec35-346d-477f-902f-f97baa474dd0",
+    "relationship": "third cousin twice removed"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "549ac300-9d2b-403a-9fdd-5c67cf2d27d5",
+  "name": "Laura",
+  "heightCm": 184,
+  "weightKg": 139,
+  "eyeColor": "Amber",
+  "hairColor": "Gray",
+  "breed": "Hybrid",
+  "placeOfBirth": "East Tanya, Saint Barthelemy",
+  "description": "Laura is a amber-eyed llama with gray hair, standing 184 cm tall. Originally from East Tanya, Saint Barthelemy, Laura enjoys dancing, wood carving, cooking. Known for their curious and curious personality, Laura is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "e01efb69-0e30-4034-8444-060455829719",
+    "relationship": "brother"
+  }
+}

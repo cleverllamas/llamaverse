@@ -1,0 +1,15 @@
+{
+  "id": "e1f5aeb3-2570-4476-b51d-e0456ab6b2b7",
+  "name": "Brenda",
+  "heightCm": 129,
+  "weightKg": 154,
+  "eyeColor": "Brown",
+  "hairColor": "Silver",
+  "breed": "Huacaya",
+  "placeOfBirth": "Anthonyville, Anguilla",
+  "description": "Brenda is a brown-eyed llama with silver hair, standing 129 cm tall. Originally from Anthonyville, Anguilla, Brenda enjoys hiking, reading, cooking. Known for their energetic and playful personality, Brenda is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "3205b216-e8e9-4952-8212-ea1aca65cec2",
+    "relationship": "great uncle"
+  }
+}

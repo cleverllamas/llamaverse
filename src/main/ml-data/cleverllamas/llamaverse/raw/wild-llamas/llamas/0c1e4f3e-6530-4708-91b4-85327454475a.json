@@ -1,0 +1,15 @@
+{
+  "id": "0c1e4f3e-6530-4708-91b4-85327454475a",
+  "name": "Elizabeth",
+  "heightCm": 162,
+  "weightKg": 132,
+  "eyeColor": "Brown",
+  "hairColor": "Red",
+  "breed": "Hybrid",
+  "placeOfBirth": "Snyderfort, Japan",
+  "description": "Elizabeth is a brown-eyed llama with red hair, standing 162 cm tall. Originally from Snyderfort, Japan, Elizabeth enjoys dancing, gardening, reading. Known for their friendly and gentle personality, Elizabeth is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "291af8b4-fd6e-42f3-a37a-03c8505272b3",
+    "relationship": "uncle"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "3acf2c48-b85f-479e-b0ed-f490437baa4e",
+  "name": "Emily",
+  "heightCm": 122,
+  "weightKg": 151,
+  "eyeColor": "Gray",
+  "hairColor": "Brown",
+  "breed": "Hybrid",
+  "placeOfBirth": "Port Christopher, South Africa",
+  "description": "Emily is a gray-eyed llama with brown hair, standing 122 cm tall. Originally from Port Christopher, South Africa, Emily enjoys gardening, hiking, wood carving. Known for their shy and calm personality, Emily is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "973a0277-ec80-423b-bfde-bd80ea58145b",
+    "relationship": "aunt"
+  }
+}

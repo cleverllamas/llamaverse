@@ -1,0 +1,15 @@
+{
+  "id": "d1478430-70fc-4abd-9623-c96bbdde5d8b",
+  "name": "Toni",
+  "heightCm": 192,
+  "weightKg": 130,
+  "eyeColor": "Gray",
+  "hairColor": "Brown",
+  "breed": "Hybrid",
+  "placeOfBirth": "South Tamara, Trinidad and Tobago",
+  "description": "Toni is a gray-eyed llama with brown hair, standing 192 cm tall. Originally from South Tamara, Trinidad and Tobago, Toni enjoys gardening, cooking, reading. Known for their curious and playful personality, Toni is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "967b815b-784f-41c5-94bc-a07b3efcfc43",
+    "relationship": "aunt"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "ce3232bb-7aaa-4a99-893b-fdc2638fc2df",
+  "name": "Norman",
+  "heightCm": 115,
+  "weightKg": 188,
+  "eyeColor": "Hazel",
+  "hairColor": "Gray",
+  "breed": "Hybrid",
+  "placeOfBirth": "South Sierra, Marshall Islands",
+  "description": "Norman is a hazel-eyed llama with gray hair, standing 115 cm tall. Originally from South Sierra, Marshall Islands, Norman enjoys knitting, wood carving, singing. Known for their playful and gentle personality, Norman is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "728bc19a-4045-4243-9618-613d8eb11c27",
+    "relationship": "4th cousin once removed"
+  }
+}

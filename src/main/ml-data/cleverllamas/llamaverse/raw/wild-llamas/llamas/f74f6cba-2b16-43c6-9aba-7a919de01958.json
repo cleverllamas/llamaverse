@@ -1,0 +1,15 @@
+{
+  "id": "f74f6cba-2b16-43c6-9aba-7a919de01958",
+  "name": "Jason",
+  "heightCm": 196,
+  "weightKg": 154,
+  "eyeColor": "Hazel",
+  "hairColor": "White",
+  "breed": "Suri",
+  "placeOfBirth": "Lake Haley, United States of America",
+  "description": "Jason is a hazel-eyed llama with white hair, standing 196 cm tall. Originally from Lake Haley, United States of America, Jason enjoys cooking, knitting, singing. Known for their curious and friendly personality, Jason is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "d3136225-5c5c-489c-88a1-ac719e4f8e9c",
+    "relationship": "sister"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "ee5393d9-511a-46c1-a70a-aad0f7027689",
+  "name": "Elizabeth",
+  "heightCm": 169,
+  "weightKg": 189,
+  "eyeColor": "Amber",
+  "hairColor": "Black",
+  "breed": "Huacaya",
+  "placeOfBirth": "Allisonview, Indonesia",
+  "description": "Elizabeth is a amber-eyed llama with black hair, standing 169 cm tall. Originally from Allisonview, Indonesia, Elizabeth enjoys painting, hiking, knitting. Known for their mischievous and calm personality, Elizabeth is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "77fa6eb7-decb-4e7e-9ba4-b99031c1f758",
+    "relationship": "third cousin twice removed"
+  }
+}

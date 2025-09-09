@@ -1,0 +1,15 @@
+{
+  "id": "711264c7-4777-4683-aa09-18df905da1ed",
+  "name": "Victoria",
+  "heightCm": 172,
+  "weightKg": 175,
+  "eyeColor": "Brown",
+  "hairColor": "Blonde",
+  "breed": "Huacaya",
+  "placeOfBirth": "Traceybury, Mali",
+  "description": "Victoria is a brown-eyed llama with blonde hair, standing 172 cm tall. Originally from Traceybury, Mali, Victoria enjoys painting, reading, cooking. Known for their mischievous and playful personality, Victoria is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "d44e5241-9fdc-4f43-a435-144d74d70bfd",
+    "relationship": "15th cousin 9th removed"
+  }
+}

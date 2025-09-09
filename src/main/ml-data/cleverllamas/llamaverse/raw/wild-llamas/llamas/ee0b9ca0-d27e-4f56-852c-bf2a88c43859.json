@@ -1,0 +1,15 @@
+{
+  "id": "ee0b9ca0-d27e-4f56-852c-bf2a88c43859",
+  "name": "Zachary",
+  "heightCm": 146,
+  "weightKg": 165,
+  "eyeColor": "Gray",
+  "hairColor": "Blonde",
+  "breed": "Hybrid",
+  "placeOfBirth": "West Sherri, Sierra Leone",
+  "description": "Zachary is a gray-eyed llama with blonde hair, standing 146 cm tall. Originally from West Sherri, Sierra Leone, Zachary enjoys cooking, gardening, painting. Known for their shy and shy personality, Zachary is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "de56b4f2-31ae-406a-990e-f507491e74b2",
+    "relationship": "sister"
+  }
+}

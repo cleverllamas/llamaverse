@@ -1,0 +1,15 @@
+{
+  "id": "d08d26a2-07e9-43db-a4e3-d3667786e409",
+  "name": "Vincent",
+  "heightCm": 176,
+  "weightKg": 168,
+  "eyeColor": "Hazel",
+  "hairColor": "White",
+  "breed": "Suri",
+  "placeOfBirth": "North Nicholasstad, Saint Barthelemy",
+  "description": "Vincent is a hazel-eyed llama with white hair, standing 176 cm tall. Originally from North Nicholasstad, Saint Barthelemy, Vincent enjoys reading, gardening, painting. Known for their friendly and energetic personality, Vincent is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "df111bce-46a4-41d9-adf7-e1ba823d1da8",
+    "relationship": "brother"
+  }
+}

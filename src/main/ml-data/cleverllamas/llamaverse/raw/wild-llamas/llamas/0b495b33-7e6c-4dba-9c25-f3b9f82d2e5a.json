@@ -1,0 +1,15 @@
+{
+  "id": "0b495b33-7e6c-4dba-9c25-f3b9f82d2e5a",
+  "name": "Leslie",
+  "heightCm": 135,
+  "weightKg": 150,
+  "eyeColor": "Gray",
+  "hairColor": "Brown",
+  "breed": "Suri",
+  "placeOfBirth": "North Sean, Sri Lanka",
+  "description": "Leslie is a gray-eyed llama with brown hair, standing 135 cm tall. Originally from North Sean, Sri Lanka, Leslie enjoys reading, painting, wood carving. Known for their friendly and shy personality, Leslie is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "9e2cb9ad-55a3-4dff-a867-dca4217b8b3c",
+    "relationship": "brother"
+  }
+}

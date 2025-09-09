@@ -1,0 +1,15 @@
+{
+  "id": "0d2f7cee-e3b1-43c0-9c29-377d8b4b26fb",
+  "name": "Jason",
+  "heightCm": 141,
+  "weightKg": 192,
+  "eyeColor": "Blue",
+  "hairColor": "White",
+  "breed": "Huacaya",
+  "placeOfBirth": "Andreafurt, Cyprus",
+  "description": "Jason is a blue-eyed llama with white hair, standing 141 cm tall. Originally from Andreafurt, Cyprus, Jason enjoys cooking, gardening, singing. Known for their friendly and gentle personality, Jason is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "8bc7f44f-84d1-4ab5-9aa3-1dc85bd5190d",
+    "relationship": "third cousin twice removed"
+  }
+}

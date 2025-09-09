@@ -1,0 +1,15 @@
+{
+  "id": "f9f99140-9c0e-426d-8ce2-37541f1fbc0a",
+  "name": "Daniel",
+  "heightCm": 113,
+  "weightKg": 178,
+  "eyeColor": "Gray",
+  "hairColor": "Silver",
+  "breed": "Suri",
+  "placeOfBirth": "West Victoriafort, Burundi",
+  "description": "Daniel is a gray-eyed llama with silver hair, standing 113 cm tall. Originally from West Victoriafort, Burundi, Daniel enjoys singing, hiking, gardening. Known for their gentle and curious personality, Daniel is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "cad9b801-1f20-4400-88d1-6ba8bb0c9b39",
+    "relationship": "15th cousin 9th removed"
+  }
+}

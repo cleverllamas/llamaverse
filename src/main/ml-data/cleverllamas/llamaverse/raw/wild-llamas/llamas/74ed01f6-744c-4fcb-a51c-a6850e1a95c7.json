@@ -1,0 +1,15 @@
+{
+  "id": "74ed01f6-744c-4fcb-a51c-a6850e1a95c7",
+  "name": "Daniel",
+  "heightCm": 158,
+  "weightKg": 163,
+  "eyeColor": "Blue",
+  "hairColor": "Black",
+  "breed": "Hybrid",
+  "placeOfBirth": "Port Angela, Djibouti",
+  "description": "Daniel is a blue-eyed llama with black hair, standing 158 cm tall. Originally from Port Angela, Djibouti, Daniel enjoys reading, cooking, dancing. Known for their shy and calm personality, Daniel is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "42a5ee87-de52-4a10-99a3-ef540c768c7b",
+    "relationship": "mother"
+  }
+}

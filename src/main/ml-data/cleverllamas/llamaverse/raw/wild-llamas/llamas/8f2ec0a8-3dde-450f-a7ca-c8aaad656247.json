@@ -1,0 +1,15 @@
+{
+  "id": "8f2ec0a8-3dde-450f-a7ca-c8aaad656247",
+  "name": "Dennis",
+  "heightCm": 101,
+  "weightKg": 183,
+  "eyeColor": "Gray",
+  "hairColor": "White",
+  "breed": "Huacaya",
+  "placeOfBirth": "West Derrick, New Caledonia",
+  "description": "Dennis is a gray-eyed llama with white hair, standing 101 cm tall. Originally from West Derrick, New Caledonia, Dennis enjoys gardening, painting, cooking. Known for their calm and energetic personality, Dennis is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "4119ef67-407d-48d5-b78c-58b9cac319a9",
+    "relationship": "15th cousin 9th removed"
+  }
+}

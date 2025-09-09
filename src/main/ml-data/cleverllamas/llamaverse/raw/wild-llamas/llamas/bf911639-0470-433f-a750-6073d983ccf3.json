@@ -1,0 +1,15 @@
+{
+  "id": "bf911639-0470-433f-a750-6073d983ccf3",
+  "name": "William",
+  "heightCm": 166,
+  "weightKg": 142,
+  "eyeColor": "Blue",
+  "hairColor": "Blonde",
+  "breed": "Suri",
+  "placeOfBirth": "Samuelberg, Tunisia",
+  "description": "William is a blue-eyed llama with blonde hair, standing 166 cm tall. Originally from Samuelberg, Tunisia, William enjoys painting, cooking, wood carving. Known for their energetic and curious personality, William is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "7747664b-8ec0-46b6-9b8d-9f6061a273ba",
+    "relationship": "uncle"
+  }
+}

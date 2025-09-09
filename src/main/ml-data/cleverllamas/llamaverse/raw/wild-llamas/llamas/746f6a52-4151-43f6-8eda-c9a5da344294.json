@@ -1,0 +1,15 @@
+{
+  "id": "746f6a52-4151-43f6-8eda-c9a5da344294",
+  "name": "Tammy",
+  "heightCm": 140,
+  "weightKg": 153,
+  "eyeColor": "Gray",
+  "hairColor": "Gray",
+  "breed": "Huacaya",
+  "placeOfBirth": "Kaylaport, Romania",
+  "description": "Tammy is a gray-eyed llama with gray hair, standing 140 cm tall. Originally from Kaylaport, Romania, Tammy enjoys hiking, knitting, dancing. Known for their curious and playful personality, Tammy is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "aca6729b-7ae7-4831-88d8-9b3bdf9df304",
+    "relationship": "aunt"
+  }
+}

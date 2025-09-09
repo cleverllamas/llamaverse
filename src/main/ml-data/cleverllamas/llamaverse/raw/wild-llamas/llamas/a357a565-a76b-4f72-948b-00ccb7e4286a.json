@@ -1,0 +1,15 @@
+{
+  "id": "a357a565-a76b-4f72-948b-00ccb7e4286a",
+  "name": "Ariel",
+  "heightCm": 113,
+  "weightKg": 191,
+  "eyeColor": "Green",
+  "hairColor": "Blonde",
+  "breed": "Suri",
+  "placeOfBirth": "Torresburgh, Norfolk Island",
+  "description": "Ariel is a green-eyed llama with blonde hair, standing 113 cm tall. Originally from Torresburgh, Norfolk Island, Ariel enjoys singing, dancing, reading. Known for their energetic and friendly personality, Ariel is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "bf85541b-3d4d-4030-884d-bcde75dec1a8",
+    "relationship": "4th cousin once removed"
+  }
+}

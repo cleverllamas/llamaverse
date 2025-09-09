@@ -1,0 +1,15 @@
+{
+  "id": "26cd0b8f-6083-48bf-98fe-2f5e4ae4b2d2",
+  "name": "Michael",
+  "heightCm": 194,
+  "weightKg": 147,
+  "eyeColor": "Hazel",
+  "hairColor": "Brown",
+  "breed": "Suri",
+  "placeOfBirth": "West Christopherberg, Aruba",
+  "description": "Michael is a hazel-eyed llama with brown hair, standing 194 cm tall. Originally from West Christopherberg, Aruba, Michael enjoys painting, cooking, dancing. Known for their calm and mischievous personality, Michael is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "7945c3ac-b370-4f5e-ba8d-54114c5321b9",
+    "relationship": "sister"
+  }
+}

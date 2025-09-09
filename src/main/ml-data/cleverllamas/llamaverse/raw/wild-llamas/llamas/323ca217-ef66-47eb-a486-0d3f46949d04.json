@@ -1,0 +1,15 @@
+{
+  "id": "323ca217-ef66-47eb-a486-0d3f46949d04",
+  "name": "Jerome",
+  "heightCm": 135,
+  "weightKg": 186,
+  "eyeColor": "Brown",
+  "hairColor": "Silver",
+  "breed": "Hybrid",
+  "placeOfBirth": "Ronaldburgh, Germany",
+  "description": "Jerome is a brown-eyed llama with silver hair, standing 135 cm tall. Originally from Ronaldburgh, Germany, Jerome enjoys knitting, wood carving, painting. Known for their mischievous and mischievous personality, Jerome is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "421e30cd-fa28-41e0-a707-557525748ae4",
+    "relationship": "aunt"
+  }
+}

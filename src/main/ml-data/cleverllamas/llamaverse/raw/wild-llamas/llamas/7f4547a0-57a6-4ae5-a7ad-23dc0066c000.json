@@ -1,0 +1,15 @@
+{
+  "id": "7f4547a0-57a6-4ae5-a7ad-23dc0066c000",
+  "name": "Sarah",
+  "heightCm": 200,
+  "weightKg": 186,
+  "eyeColor": "Hazel",
+  "hairColor": "Brown",
+  "breed": "Hybrid",
+  "placeOfBirth": "Michaelhaven, Lesotho",
+  "description": "Sarah is a hazel-eyed llama with brown hair, standing 200 cm tall. Originally from Michaelhaven, Lesotho, Sarah enjoys gardening, singing, knitting. Known for their shy and mischievous personality, Sarah is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "3205b216-e8e9-4952-8212-ea1aca65cec2",
+    "relationship": "mother"
+  }
+}

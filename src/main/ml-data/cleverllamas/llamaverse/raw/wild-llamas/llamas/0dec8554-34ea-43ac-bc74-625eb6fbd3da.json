@@ -1,0 +1,15 @@
+{
+  "id": "0dec8554-34ea-43ac-bc74-625eb6fbd3da",
+  "name": "Catherine",
+  "heightCm": 165,
+  "weightKg": 165,
+  "eyeColor": "Gray",
+  "hairColor": "Gray",
+  "breed": "Suri",
+  "placeOfBirth": "Barrerashire, Germany",
+  "description": "Catherine is a gray-eyed llama with gray hair, standing 165 cm tall. Originally from Barrerashire, Germany, Catherine enjoys hiking, dancing, gardening. Known for their mischievous and curious personality, Catherine is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "6626e610-368c-472b-8eb2-7208533d18f5",
+    "relationship": "sister"
+  }
+}

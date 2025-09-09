@@ -1,0 +1,15 @@
+{
+  "id": "c22658ff-a85e-4953-8d62-86cd6e637618",
+  "name": "Diana",
+  "heightCm": 146,
+  "weightKg": 133,
+  "eyeColor": "Amber",
+  "hairColor": "White",
+  "breed": "Huacaya",
+  "placeOfBirth": "Millerside, Serbia",
+  "description": "Diana is a amber-eyed llama with white hair, standing 146 cm tall. Originally from Millerside, Serbia, Diana enjoys reading, painting, hiking. Known for their curious and gentle personality, Diana is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "8c536c8f-d144-4e24-ba98-de7f5d5fec76",
+    "relationship": "mother"
+  }
+}

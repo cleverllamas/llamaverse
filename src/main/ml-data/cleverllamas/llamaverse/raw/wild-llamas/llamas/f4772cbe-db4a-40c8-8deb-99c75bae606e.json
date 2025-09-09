@@ -1,0 +1,15 @@
+{
+  "id": "f4772cbe-db4a-40c8-8deb-99c75bae606e",
+  "name": "Jeanette",
+  "heightCm": 103,
+  "weightKg": 195,
+  "eyeColor": "Brown",
+  "hairColor": "Brown",
+  "breed": "Hybrid",
+  "placeOfBirth": "West Sandra, Iraq",
+  "description": "Jeanette is a brown-eyed llama with brown hair, standing 103 cm tall. Originally from West Sandra, Iraq, Jeanette enjoys reading, hiking, gardening. Known for their shy and gentle personality, Jeanette is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "f22b7ba0-d48d-4fdd-a6a7-bf744df8c40c",
+    "relationship": "great uncle"
+  }
+}

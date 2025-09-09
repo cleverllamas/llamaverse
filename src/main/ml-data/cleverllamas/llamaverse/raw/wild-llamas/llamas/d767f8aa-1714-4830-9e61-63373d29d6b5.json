@@ -1,0 +1,15 @@
+{
+  "id": "d767f8aa-1714-4830-9e61-63373d29d6b5",
+  "name": "Rebecca",
+  "heightCm": 101,
+  "weightKg": 163,
+  "eyeColor": "Brown",
+  "hairColor": "Black",
+  "breed": "Huacaya",
+  "placeOfBirth": "Loganborough, Kiribati",
+  "description": "Rebecca is a brown-eyed llama with black hair, standing 101 cm tall. Originally from Loganborough, Kiribati, Rebecca enjoys wood carving, reading, dancing. Known for their shy and shy personality, Rebecca is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "8e722e37-73f1-4737-b912-482bc77df028",
+    "relationship": "great uncle"
+  }
+}

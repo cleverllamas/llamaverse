@@ -1,0 +1,15 @@
+{
+  "id": "0300e2ed-06db-427d-9435-b162fa47c9e6",
+  "name": "Erica",
+  "heightCm": 148,
+  "weightKg": 195,
+  "eyeColor": "Gray",
+  "hairColor": "Black",
+  "breed": "Suri",
+  "placeOfBirth": "Frenchtown, United Arab Emirates",
+  "description": "Erica is a gray-eyed llama with black hair, standing 148 cm tall. Originally from Frenchtown, United Arab Emirates, Erica enjoys reading, gardening, cooking. Known for their gentle and playful personality, Erica is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "e05802c8-1ce0-4025-88a9-f0d6e4e54295",
+    "relationship": "15th cousin 9th removed"
+  }
+}

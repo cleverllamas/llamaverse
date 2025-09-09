@@ -1,0 +1,15 @@
+{
+  "id": "708357d8-f059-4218-95d3-9eabf094875d",
+  "name": "Steve",
+  "heightCm": 103,
+  "weightKg": 184,
+  "eyeColor": "Green",
+  "hairColor": "Gray",
+  "breed": "Huacaya",
+  "placeOfBirth": "Joelmouth, Seychelles",
+  "description": "Steve is a green-eyed llama with gray hair, standing 103 cm tall. Originally from Joelmouth, Seychelles, Steve enjoys painting, dancing, reading. Known for their curious and friendly personality, Steve is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "9f906464-4da9-48d2-8912-bb45780924da",
+    "relationship": "brother"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "c30cfb20-0dd9-4a07-bd69-0bf5d48af83f",
+  "name": "Michael",
+  "heightCm": 126,
+  "weightKg": 180,
+  "eyeColor": "Green",
+  "hairColor": "White",
+  "breed": "Huacaya",
+  "placeOfBirth": "Cherylside, Malta",
+  "description": "Michael is a green-eyed llama with white hair, standing 126 cm tall. Originally from Cherylside, Malta, Michael enjoys cooking, painting, singing. Known for their friendly and gentle personality, Michael is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "b6b42b7d-d131-4925-9306-0abc7c2d5e82",
+    "relationship": "father"
+  }
+}

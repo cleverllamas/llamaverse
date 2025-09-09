@@ -1,0 +1,15 @@
+{
+  "id": "ef97727b-5e6d-4e33-986a-526951a75ef2",
+  "name": "Jenny",
+  "heightCm": 160,
+  "weightKg": 177,
+  "eyeColor": "Hazel",
+  "hairColor": "Brown",
+  "breed": "Hybrid",
+  "placeOfBirth": "Gregorystad, New Zealand",
+  "description": "Jenny is a hazel-eyed llama with brown hair, standing 160 cm tall. Originally from Gregorystad, New Zealand, Jenny enjoys hiking, dancing, gardening. Known for their energetic and mischievous personality, Jenny is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "b0c9bacb-ca33-445c-9a81-6eb097834268",
+    "relationship": "sister"
+  }
+}

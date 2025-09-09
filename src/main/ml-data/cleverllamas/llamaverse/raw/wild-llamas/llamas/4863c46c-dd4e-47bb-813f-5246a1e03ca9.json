@@ -1,0 +1,15 @@
+{
+  "id": "4863c46c-dd4e-47bb-813f-5246a1e03ca9",
+  "name": "Alicia",
+  "heightCm": 127,
+  "weightKg": 171,
+  "eyeColor": "Amber",
+  "hairColor": "White",
+  "breed": "Huacaya",
+  "placeOfBirth": "Lake Richardshire, Colombia",
+  "description": "Alicia is a amber-eyed llama with white hair, standing 127 cm tall. Originally from Lake Richardshire, Colombia, Alicia enjoys hiking, wood carving, cooking. Known for their curious and curious personality, Alicia is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "994fdad0-fe65-48ac-86c7-45cb82f8083a",
+    "relationship": "15th cousin 9th removed"
+  }
+}

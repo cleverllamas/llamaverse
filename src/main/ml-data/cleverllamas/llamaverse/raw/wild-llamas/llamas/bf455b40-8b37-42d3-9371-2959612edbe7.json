@@ -1,0 +1,15 @@
+{
+  "id": "bf455b40-8b37-42d3-9371-2959612edbe7",
+  "name": "Kevin",
+  "heightCm": 149,
+  "weightKg": 192,
+  "eyeColor": "Blue",
+  "hairColor": "Blonde",
+  "breed": "Huacaya",
+  "placeOfBirth": "West Kelly, Wallis and Futuna",
+  "description": "Kevin is a blue-eyed llama with blonde hair, standing 149 cm tall. Originally from West Kelly, Wallis and Futuna, Kevin enjoys gardening, knitting, wood carving. Known for their curious and curious personality, Kevin is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "63a6122f-014f-4727-8dcb-93ec36516416",
+    "relationship": "cousin"
+  }
+}

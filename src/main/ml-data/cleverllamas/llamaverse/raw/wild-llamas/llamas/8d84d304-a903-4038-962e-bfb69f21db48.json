@@ -1,0 +1,15 @@
+{
+  "id": "8d84d304-a903-4038-962e-bfb69f21db48",
+  "name": "Matthew",
+  "heightCm": 102,
+  "weightKg": 185,
+  "eyeColor": "Green",
+  "hairColor": "White",
+  "breed": "Hybrid",
+  "placeOfBirth": "Kellyborough, Armenia",
+  "description": "Matthew is a green-eyed llama with white hair, standing 102 cm tall. Originally from Kellyborough, Armenia, Matthew enjoys reading, cooking, dancing. Known for their gentle and curious personality, Matthew is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "db1b0304-a961-481d-b6dd-121efa660d1e",
+    "relationship": "4th cousin once removed"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "85823831-0287-431f-81e6-9397b54be73f",
+  "name": "Alexander",
+  "heightCm": 174,
+  "weightKg": 152,
+  "eyeColor": "Amber",
+  "hairColor": "Red",
+  "breed": "Huacaya",
+  "placeOfBirth": "New Corymouth, Liberia",
+  "description": "Alexander is a amber-eyed llama with red hair, standing 174 cm tall. Originally from New Corymouth, Liberia, Alexander enjoys reading, wood carving, painting. Known for their calm and mischievous personality, Alexander is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "6e872f9f-da41-418a-b6db-7db035663b03",
+    "relationship": "uncle"
+  }
+}

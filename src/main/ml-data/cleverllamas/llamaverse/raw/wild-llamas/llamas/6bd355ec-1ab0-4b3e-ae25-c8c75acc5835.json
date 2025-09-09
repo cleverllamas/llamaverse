@@ -1,0 +1,15 @@
+{
+  "id": "6bd355ec-1ab0-4b3e-ae25-c8c75acc5835",
+  "name": "George",
+  "heightCm": 166,
+  "weightKg": 147,
+  "eyeColor": "Green",
+  "hairColor": "Red",
+  "breed": "Suri",
+  "placeOfBirth": "New Angela, Japan",
+  "description": "George is a green-eyed llama with red hair, standing 166 cm tall. Originally from New Angela, Japan, George enjoys painting, hiking, cooking. Known for their calm and calm personality, George is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "a927bc64-6de3-468c-8272-80784eea40b3",
+    "relationship": "cousin"
+  }
+}

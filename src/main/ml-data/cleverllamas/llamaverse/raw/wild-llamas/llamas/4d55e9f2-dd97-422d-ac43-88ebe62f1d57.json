@@ -1,0 +1,15 @@
+{
+  "id": "4d55e9f2-dd97-422d-ac43-88ebe62f1d57",
+  "name": "Michaela",
+  "heightCm": 100,
+  "weightKg": 192,
+  "eyeColor": "Gray",
+  "hairColor": "Red",
+  "breed": "Huacaya",
+  "placeOfBirth": "Greentown, El Salvador",
+  "description": "Michaela is a gray-eyed llama with red hair, standing 100 cm tall. Originally from Greentown, El Salvador, Michaela enjoys hiking, dancing, cooking. Known for their calm and friendly personality, Michaela is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "b25b79af-34f6-47f6-aeb1-d84ba2afcb08",
+    "relationship": "cousin"
+  }
+}

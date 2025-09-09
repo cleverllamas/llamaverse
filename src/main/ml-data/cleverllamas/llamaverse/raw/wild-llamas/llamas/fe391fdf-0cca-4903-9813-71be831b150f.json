@@ -1,0 +1,15 @@
+{
+  "id": "fe391fdf-0cca-4903-9813-71be831b150f",
+  "name": "Paul",
+  "heightCm": 180,
+  "weightKg": 140,
+  "eyeColor": "Gray",
+  "hairColor": "Brown",
+  "breed": "Huacaya",
+  "placeOfBirth": "Lake Josephbury, Bolivia",
+  "description": "Paul is a gray-eyed llama with brown hair, standing 180 cm tall. Originally from Lake Josephbury, Bolivia, Paul enjoys painting, hiking, knitting. Known for their calm and calm personality, Paul is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "5c63669e-ddcc-4c9a-87bc-bf00bcdc9c2f",
+    "relationship": "cousin"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "413e3f0a-3dca-44a4-bdb0-f20d00be5051",
+  "name": "Chad",
+  "heightCm": 133,
+  "weightKg": 171,
+  "eyeColor": "Amber",
+  "hairColor": "Brown",
+  "breed": "Suri",
+  "placeOfBirth": "New Ginaside, Bangladesh",
+  "description": "Chad is a amber-eyed llama with brown hair, standing 133 cm tall. Originally from New Ginaside, Bangladesh, Chad enjoys painting, reading, knitting. Known for their gentle and energetic personality, Chad is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "b559f85f-9848-48ff-868e-56c53110d8cd",
+    "relationship": "uncle"
+  }
+}

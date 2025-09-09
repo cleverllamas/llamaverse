@@ -1,0 +1,15 @@
+{
+  "id": "da20eae0-512d-4e24-aeb4-2349200649b3",
+  "name": "Trevor",
+  "heightCm": 142,
+  "weightKg": 170,
+  "eyeColor": "Blue",
+  "hairColor": "Black",
+  "breed": "Huacaya",
+  "placeOfBirth": "Danielside, Palestinian Territory",
+  "description": "Trevor is a blue-eyed llama with black hair, standing 142 cm tall. Originally from Danielside, Palestinian Territory, Trevor enjoys knitting, wood carving, cooking. Known for their curious and playful personality, Trevor is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "a74b242e-62b0-4397-b8cf-d634085e6e1c",
+    "relationship": "cousin"
+  }
+}

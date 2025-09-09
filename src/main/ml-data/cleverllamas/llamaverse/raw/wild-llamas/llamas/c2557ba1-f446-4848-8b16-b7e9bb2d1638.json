@@ -1,0 +1,15 @@
+{
+  "id": "c2557ba1-f446-4848-8b16-b7e9bb2d1638",
+  "name": "Maria",
+  "heightCm": 150,
+  "weightKg": 167,
+  "eyeColor": "Blue",
+  "hairColor": "Gray",
+  "breed": "Hybrid",
+  "placeOfBirth": "Port Ritaport, Belize",
+  "description": "Maria is a blue-eyed llama with gray hair, standing 150 cm tall. Originally from Port Ritaport, Belize, Maria enjoys hiking, reading, dancing. Known for their mischievous and gentle personality, Maria is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "6891ce41-accf-48e8-9fee-3e6ccabaa5cd",
+    "relationship": "great uncle"
+  }
+}

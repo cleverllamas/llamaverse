@@ -1,0 +1,15 @@
+{
+  "id": "973a0277-ec80-423b-bfde-bd80ea58145b",
+  "name": "Jessica",
+  "heightCm": 137,
+  "weightKg": 179,
+  "eyeColor": "Brown",
+  "hairColor": "Black",
+  "breed": "Suri",
+  "placeOfBirth": "Thompsonshire, Guadeloupe",
+  "description": "Jessica is a brown-eyed llama with black hair, standing 137 cm tall. Originally from Thompsonshire, Guadeloupe, Jessica enjoys dancing, knitting, reading. Known for their curious and playful personality, Jessica is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "b56682e6-2818-4d3d-af8d-1ef62d121e32",
+    "relationship": "grandparent"
+  }
+}

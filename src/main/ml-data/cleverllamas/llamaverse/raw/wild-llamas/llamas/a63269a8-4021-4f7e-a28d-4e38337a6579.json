@@ -1,0 +1,15 @@
+{
+  "id": "a63269a8-4021-4f7e-a28d-4e38337a6579",
+  "name": "Darrell",
+  "heightCm": 106,
+  "weightKg": 191,
+  "eyeColor": "Blue",
+  "hairColor": "Blonde",
+  "breed": "Huacaya",
+  "placeOfBirth": "Armstrongburgh, Wallis and Futuna",
+  "description": "Darrell is a blue-eyed llama with blonde hair, standing 106 cm tall. Originally from Armstrongburgh, Wallis and Futuna, Darrell enjoys dancing, reading, cooking. Known for their energetic and calm personality, Darrell is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "a703d71f-43c9-4a32-a7f6-1118fc3cf6b3",
+    "relationship": "sister"
+  }
+}

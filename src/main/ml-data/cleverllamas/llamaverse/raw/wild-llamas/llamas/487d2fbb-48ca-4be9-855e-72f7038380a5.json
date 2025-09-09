@@ -1,0 +1,15 @@
+{
+  "id": "487d2fbb-48ca-4be9-855e-72f7038380a5",
+  "name": "Teresa",
+  "heightCm": 133,
+  "weightKg": 132,
+  "eyeColor": "Blue",
+  "hairColor": "Blonde",
+  "breed": "Hybrid",
+  "placeOfBirth": "East Raymond, Tonga",
+  "description": "Teresa is a blue-eyed llama with blonde hair, standing 133 cm tall. Originally from East Raymond, Tonga, Teresa enjoys wood carving, singing, knitting. Known for their energetic and playful personality, Teresa is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "02a577bf-43a1-461a-90aa-ec3b168cc26e",
+    "relationship": "cousin"
+  }
+}

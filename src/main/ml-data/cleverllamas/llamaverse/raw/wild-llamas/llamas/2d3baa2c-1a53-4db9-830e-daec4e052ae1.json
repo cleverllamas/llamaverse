@@ -1,0 +1,15 @@
+{
+  "id": "2d3baa2c-1a53-4db9-830e-daec4e052ae1",
+  "name": "Rebecca",
+  "heightCm": 163,
+  "weightKg": 199,
+  "eyeColor": "Gray",
+  "hairColor": "Black",
+  "breed": "Hybrid",
+  "placeOfBirth": "Floresmouth, Belize",
+  "description": "Rebecca is a gray-eyed llama with black hair, standing 163 cm tall. Originally from Floresmouth, Belize, Rebecca enjoys dancing, painting, reading. Known for their mischievous and shy personality, Rebecca is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "d5c6df60-e21f-4feb-ae10-282805ac3011",
+    "relationship": "15th cousin 9th removed"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "c0705d0c-81bc-4259-8666-dde05cd7c5d0",
+  "name": "Hunter",
+  "heightCm": 200,
+  "weightKg": 190,
+  "eyeColor": "Amber",
+  "hairColor": "Silver",
+  "breed": "Huacaya",
+  "placeOfBirth": "Lake Terriborough, Kenya",
+  "description": "Hunter is a amber-eyed llama with silver hair, standing 200 cm tall. Originally from Lake Terriborough, Kenya, Hunter enjoys reading, knitting, cooking. Known for their friendly and playful personality, Hunter is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "e5a221dd-5b7a-478c-86ac-017d729b6b1a",
+    "relationship": "4th cousin once removed"
+  }
+}

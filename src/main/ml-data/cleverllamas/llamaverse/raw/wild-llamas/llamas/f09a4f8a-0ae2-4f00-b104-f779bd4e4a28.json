@@ -1,0 +1,15 @@
+{
+  "id": "f09a4f8a-0ae2-4f00-b104-f779bd4e4a28",
+  "name": "Bryan",
+  "heightCm": 163,
+  "weightKg": 199,
+  "eyeColor": "Brown",
+  "hairColor": "Blonde",
+  "breed": "Hybrid",
+  "placeOfBirth": "East Misty, Norway",
+  "description": "Bryan is a brown-eyed llama with blonde hair, standing 163 cm tall. Originally from East Misty, Norway, Bryan enjoys knitting, cooking, painting. Known for their curious and calm personality, Bryan is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "54dc2a0f-619e-4de8-a8ae-45adfdde488d",
+    "relationship": "4th cousin once removed"
+  }
+}

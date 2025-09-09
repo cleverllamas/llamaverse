@@ -1,0 +1,15 @@
+{
+  "id": "3e65eac6-6cab-4183-9783-1e7cb13fc6eb",
+  "name": "Justin",
+  "heightCm": 146,
+  "weightKg": 173,
+  "eyeColor": "Gray",
+  "hairColor": "Blonde",
+  "breed": "Huacaya",
+  "placeOfBirth": "Lake Danaborough, Chile",
+  "description": "Justin is a gray-eyed llama with blonde hair, standing 146 cm tall. Originally from Lake Danaborough, Chile, Justin enjoys reading, singing, cooking. Known for their calm and gentle personality, Justin is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "ce7d4c22-fa6b-452b-b0c4-6af7865f9fdc",
+    "relationship": "uncle"
+  }
+}

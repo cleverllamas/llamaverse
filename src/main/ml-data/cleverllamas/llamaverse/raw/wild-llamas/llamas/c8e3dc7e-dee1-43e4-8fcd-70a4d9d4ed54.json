@@ -1,0 +1,15 @@
+{
+  "id": "c8e3dc7e-dee1-43e4-8fcd-70a4d9d4ed54",
+  "name": "Darrell",
+  "heightCm": 104,
+  "weightKg": 187,
+  "eyeColor": "Green",
+  "hairColor": "White",
+  "breed": "Huacaya",
+  "placeOfBirth": "Sellersport, Poland",
+  "description": "Darrell is a green-eyed llama with white hair, standing 104 cm tall. Originally from Sellersport, Poland, Darrell enjoys wood carving, singing, hiking. Known for their curious and mischievous personality, Darrell is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "7d147957-4257-43f3-b814-49c14021cec3",
+    "relationship": "cousin"
+  }
+}

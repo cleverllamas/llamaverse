@@ -1,0 +1,15 @@
+{
+  "id": "851f4cf2-6f0e-4037-922b-fafc87d4b7ee",
+  "name": "Joseph",
+  "heightCm": 166,
+  "weightKg": 190,
+  "eyeColor": "Gray",
+  "hairColor": "Red",
+  "breed": "Hybrid",
+  "placeOfBirth": "Edwardsburgh, Mauritius",
+  "description": "Joseph is a gray-eyed llama with red hair, standing 166 cm tall. Originally from Edwardsburgh, Mauritius, Joseph enjoys wood carving, hiking, cooking. Known for their friendly and calm personality, Joseph is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "54f2a64e-8892-4d18-861e-df859133f6bf",
+    "relationship": "cousin"
+  }
+}

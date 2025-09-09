@@ -1,0 +1,15 @@
+{
+  "id": "4d3c80bf-a821-430a-ab1c-506724572609",
+  "name": "Leroy",
+  "heightCm": 126,
+  "weightKg": 200,
+  "eyeColor": "Hazel",
+  "hairColor": "Black",
+  "breed": "Suri",
+  "placeOfBirth": "Melissafort, Jamaica",
+  "description": "Leroy is a hazel-eyed llama with black hair, standing 126 cm tall. Originally from Melissafort, Jamaica, Leroy enjoys knitting, hiking, cooking. Known for their curious and calm personality, Leroy is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "13c68802-ca70-45b4-a295-59854c11e26a",
+    "relationship": "mother"
+  }
+}

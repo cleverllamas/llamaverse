@@ -1,0 +1,15 @@
+{
+  "id": "2b871186-a49a-4d5e-a7f9-c8085cfb6a68",
+  "name": "Traci",
+  "heightCm": 116,
+  "weightKg": 173,
+  "eyeColor": "Amber",
+  "hairColor": "Brown",
+  "breed": "Hybrid",
+  "placeOfBirth": "Hullland, Philippines",
+  "description": "Traci is a amber-eyed llama with brown hair, standing 116 cm tall. Originally from Hullland, Philippines, Traci enjoys singing, gardening, dancing. Known for their friendly and shy personality, Traci is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "c156347e-26d3-4e4d-9478-1efd61dfb788",
+    "relationship": "brother"
+  }
+}

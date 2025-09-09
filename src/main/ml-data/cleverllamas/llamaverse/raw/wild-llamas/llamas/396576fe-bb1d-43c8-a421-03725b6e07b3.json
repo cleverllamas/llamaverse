@@ -1,0 +1,15 @@
+{
+  "id": "396576fe-bb1d-43c8-a421-03725b6e07b3",
+  "name": "Dana",
+  "heightCm": 200,
+  "weightKg": 177,
+  "eyeColor": "Green",
+  "hairColor": "White",
+  "breed": "Suri",
+  "placeOfBirth": "Bensonport, Bulgaria",
+  "description": "Dana is a green-eyed llama with white hair, standing 200 cm tall. Originally from Bensonport, Bulgaria, Dana enjoys reading, singing, cooking. Known for their shy and shy personality, Dana is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "018d2660-aa31-4c97-bb5e-175f48832511",
+    "relationship": "father"
+  }
+}

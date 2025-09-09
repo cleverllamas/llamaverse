@@ -1,0 +1,15 @@
+{
+  "id": "02a577bf-43a1-461a-90aa-ec3b168cc26e",
+  "name": "Jennifer",
+  "heightCm": 147,
+  "weightKg": 151,
+  "eyeColor": "Amber",
+  "hairColor": "Brown",
+  "breed": "Suri",
+  "placeOfBirth": "New Kenneth, Kiribati",
+  "description": "Jennifer is a amber-eyed llama with brown hair, standing 147 cm tall. Originally from New Kenneth, Kiribati, Jennifer enjoys singing, cooking, knitting. Known for their mischievous and playful personality, Jennifer is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "2ac79f93-6b07-47e0-a839-3991afa73bd2",
+    "relationship": "4th cousin once removed"
+  }
+}

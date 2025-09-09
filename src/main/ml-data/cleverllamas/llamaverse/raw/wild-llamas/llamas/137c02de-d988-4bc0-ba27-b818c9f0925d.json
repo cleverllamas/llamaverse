@@ -1,0 +1,15 @@
+{
+  "id": "137c02de-d988-4bc0-ba27-b818c9f0925d",
+  "name": "Vincent",
+  "heightCm": 111,
+  "weightKg": 137,
+  "eyeColor": "Green",
+  "hairColor": "Red",
+  "breed": "Huacaya",
+  "placeOfBirth": "Mackburgh, Myanmar",
+  "description": "Vincent is a green-eyed llama with red hair, standing 111 cm tall. Originally from Mackburgh, Myanmar, Vincent enjoys wood carving, gardening, reading. Known for their friendly and playful personality, Vincent is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "07005b75-3056-43d4-98e1-4646f5692d60",
+    "relationship": "4th cousin once removed"
+  }
+}

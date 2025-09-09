@@ -1,0 +1,15 @@
+{
+  "id": "87e3bb65-e4ed-496b-98c3-013f00fb9286",
+  "name": "Elizabeth",
+  "heightCm": 147,
+  "weightKg": 197,
+  "eyeColor": "Amber",
+  "hairColor": "Blonde",
+  "breed": "Huacaya",
+  "placeOfBirth": "Lake Aaron, Tuvalu",
+  "description": "Elizabeth is a amber-eyed llama with blonde hair, standing 147 cm tall. Originally from Lake Aaron, Tuvalu, Elizabeth enjoys cooking, reading, wood carving. Known for their friendly and shy personality, Elizabeth is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "c5d2a4fa-098c-4660-95fa-1ae82a3e35dd",
+    "relationship": "mother"
+  }
+}

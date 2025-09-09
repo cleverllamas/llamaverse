@@ -1,0 +1,15 @@
+{
+  "id": "5b579f9c-cf6e-4af5-a242-4899579a81d7",
+  "name": "Roger",
+  "heightCm": 174,
+  "weightKg": 152,
+  "eyeColor": "Green",
+  "hairColor": "Blonde",
+  "breed": "Huacaya",
+  "placeOfBirth": "East Leah, Netherlands Antilles",
+  "description": "Roger is a green-eyed llama with blonde hair, standing 174 cm tall. Originally from East Leah, Netherlands Antilles, Roger enjoys dancing, knitting, wood carving. Known for their curious and gentle personality, Roger is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "25c3f30e-25ff-475d-a255-3a34af8028d8",
+    "relationship": "third cousin twice removed"
+  }
+}

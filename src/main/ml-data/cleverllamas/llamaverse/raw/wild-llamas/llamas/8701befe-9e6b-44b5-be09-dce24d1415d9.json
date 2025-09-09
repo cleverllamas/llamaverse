@@ -1,0 +1,15 @@
+{
+  "id": "8701befe-9e6b-44b5-be09-dce24d1415d9",
+  "name": "Yolanda",
+  "heightCm": 120,
+  "weightKg": 198,
+  "eyeColor": "Blue",
+  "hairColor": "Blonde",
+  "breed": "Suri",
+  "placeOfBirth": "South Erikashire, New Zealand",
+  "description": "Yolanda is a blue-eyed llama with blonde hair, standing 120 cm tall. Originally from South Erikashire, New Zealand, Yolanda enjoys hiking, dancing, singing. Known for their calm and energetic personality, Yolanda is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "d1ace004-eb10-4e33-a89e-6184d3674af7",
+    "relationship": "great uncle"
+  }
+}

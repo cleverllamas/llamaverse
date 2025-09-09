@@ -1,0 +1,15 @@
+{
+  "id": "8f584ab8-2926-4ab3-b26a-1595e2f01d78",
+  "name": "Susan",
+  "heightCm": 153,
+  "weightKg": 199,
+  "eyeColor": "Blue",
+  "hairColor": "Red",
+  "breed": "Huacaya",
+  "placeOfBirth": "North Jamie, Maldives",
+  "description": "Susan is a blue-eyed llama with red hair, standing 153 cm tall. Originally from North Jamie, Maldives, Susan enjoys singing, hiking, dancing. Known for their curious and calm personality, Susan is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "526cdbfe-f099-4632-bf49-725ecc028e04",
+    "relationship": "4th cousin once removed"
+  }
+}

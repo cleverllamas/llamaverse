@@ -1,0 +1,15 @@
+{
+  "id": "8062b9b1-9648-40d4-bc0c-2cff7ca318ce",
+  "name": "Timothy",
+  "heightCm": 113,
+  "weightKg": 140,
+  "eyeColor": "Hazel",
+  "hairColor": "Blonde",
+  "breed": "Huacaya",
+  "placeOfBirth": "South Jeremy, Kazakhstan",
+  "description": "Timothy is a hazel-eyed llama with blonde hair, standing 113 cm tall. Originally from South Jeremy, Kazakhstan, Timothy enjoys hiking, dancing, reading. Known for their playful and friendly personality, Timothy is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "b5b472dd-42c1-4a2c-b023-75917bf7736b",
+    "relationship": "mother"
+  }
+}

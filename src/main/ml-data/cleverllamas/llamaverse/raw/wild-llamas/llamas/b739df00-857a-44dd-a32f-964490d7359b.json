@@ -1,0 +1,15 @@
+{
+  "id": "b739df00-857a-44dd-a32f-964490d7359b",
+  "name": "Kathryn",
+  "heightCm": 149,
+  "weightKg": 134,
+  "eyeColor": "Blue",
+  "hairColor": "Gray",
+  "breed": "Hybrid",
+  "placeOfBirth": "Port Brittanystad, Papua New Guinea",
+  "description": "Kathryn is a blue-eyed llama with gray hair, standing 149 cm tall. Originally from Port Brittanystad, Papua New Guinea, Kathryn enjoys cooking, dancing, wood carving. Known for their gentle and gentle personality, Kathryn is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "2efc35a9-ccf3-46c4-80ab-4a5d86729873",
+    "relationship": "father"
+  }
+}

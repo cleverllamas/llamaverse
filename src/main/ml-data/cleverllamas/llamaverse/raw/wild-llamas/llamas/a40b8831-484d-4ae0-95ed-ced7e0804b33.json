@@ -1,0 +1,15 @@
+{
+  "id": "a40b8831-484d-4ae0-95ed-ced7e0804b33",
+  "name": "Ashlee",
+  "heightCm": 126,
+  "weightKg": 159,
+  "eyeColor": "Gray",
+  "hairColor": "Gray",
+  "breed": "Suri",
+  "placeOfBirth": "Carriemouth, Georgia",
+  "description": "Ashlee is a gray-eyed llama with gray hair, standing 126 cm tall. Originally from Carriemouth, Georgia, Ashlee enjoys knitting, dancing, gardening. Known for their curious and friendly personality, Ashlee is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "37a3e931-3d79-40e7-bbd5-05ac7438a4b9",
+    "relationship": "great uncle"
+  }
+}

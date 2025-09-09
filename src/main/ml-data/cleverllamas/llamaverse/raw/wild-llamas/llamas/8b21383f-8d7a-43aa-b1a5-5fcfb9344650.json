@@ -1,0 +1,15 @@
+{
+  "id": "8b21383f-8d7a-43aa-b1a5-5fcfb9344650",
+  "name": "Edward",
+  "heightCm": 176,
+  "weightKg": 147,
+  "eyeColor": "Amber",
+  "hairColor": "White",
+  "breed": "Suri",
+  "placeOfBirth": "Keithstad, Gibraltar",
+  "description": "Edward is a amber-eyed llama with white hair, standing 176 cm tall. Originally from Keithstad, Gibraltar, Edward enjoys hiking, singing, gardening. Known for their playful and playful personality, Edward is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "bf757554-0497-4e77-a2a8-afba9588fba3",
+    "relationship": "4th cousin once removed"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "0cbf5765-37c5-4565-ab12-77b1098273d6",
+  "name": "Antonio",
+  "heightCm": 118,
+  "weightKg": 154,
+  "eyeColor": "Green",
+  "hairColor": "Red",
+  "breed": "Hybrid",
+  "placeOfBirth": "Kevinhaven, Saint Martin",
+  "description": "Antonio is a green-eyed llama with red hair, standing 118 cm tall. Originally from Kevinhaven, Saint Martin, Antonio enjoys hiking, painting, wood carving. Known for their mischievous and mischievous personality, Antonio is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "72be268b-49f8-49b5-9ebf-9a85649138d9",
+    "relationship": "father"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "00d80680-7f0c-4613-a58d-db38fcdbc22c",
+  "name": "Henry",
+  "heightCm": 180,
+  "weightKg": 185,
+  "eyeColor": "Green",
+  "hairColor": "Blonde",
+  "breed": "Hybrid",
+  "placeOfBirth": "Lake Michaelberg, Togo",
+  "description": "Henry is a green-eyed llama with blonde hair, standing 180 cm tall. Originally from Lake Michaelberg, Togo, Henry enjoys dancing, wood carving, hiking. Known for their calm and gentle personality, Henry is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "5ae73a1c-2d00-4cbc-b60b-5784f37f998c",
+    "relationship": "aunt"
+  }
+}

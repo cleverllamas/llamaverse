@@ -1,0 +1,15 @@
+{
+  "id": "b25b79af-34f6-47f6-aeb1-d84ba2afcb08",
+  "name": "Jeffrey",
+  "heightCm": 111,
+  "weightKg": 154,
+  "eyeColor": "Gray",
+  "hairColor": "White",
+  "breed": "Huacaya",
+  "placeOfBirth": "South Jeremybury, Cambodia",
+  "description": "Jeffrey is a gray-eyed llama with white hair, standing 111 cm tall. Originally from South Jeremybury, Cambodia, Jeffrey enjoys hiking, knitting, reading. Known for their shy and friendly personality, Jeffrey is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "a9c28dc0-db82-4a68-aa39-245d6198706c",
+    "relationship": "15th cousin 9th removed"
+  }
+}

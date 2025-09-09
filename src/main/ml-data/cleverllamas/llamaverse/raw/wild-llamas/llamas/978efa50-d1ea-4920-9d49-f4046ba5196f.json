@@ -1,0 +1,15 @@
+{
+  "id": "978efa50-d1ea-4920-9d49-f4046ba5196f",
+  "name": "Jimmy",
+  "heightCm": 102,
+  "weightKg": 176,
+  "eyeColor": "Hazel",
+  "hairColor": "Black",
+  "breed": "Hybrid",
+  "placeOfBirth": "Joshuamouth, Guinea",
+  "description": "Jimmy is a hazel-eyed llama with black hair, standing 102 cm tall. Originally from Joshuamouth, Guinea, Jimmy enjoys painting, reading, wood carving. Known for their calm and calm personality, Jimmy is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "328b9008-f12d-4934-9a12-56d51fe9e7da",
+    "relationship": "mother"
+  }
+}

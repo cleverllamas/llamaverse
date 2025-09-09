@@ -1,0 +1,15 @@
+{
+  "id": "201ab820-5576-4dd8-ac7c-1593bb1ebd99",
+  "name": "Timothy",
+  "heightCm": 110,
+  "weightKg": 179,
+  "eyeColor": "Hazel",
+  "hairColor": "Red",
+  "breed": "Huacaya",
+  "placeOfBirth": "South Aaronport, Algeria",
+  "description": "Timothy is a hazel-eyed llama with red hair, standing 110 cm tall. Originally from South Aaronport, Algeria, Timothy enjoys singing, cooking, dancing. Known for their energetic and mischievous personality, Timothy is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "8ee6e559-6460-489e-8f30-9366f9bbf41c",
+    "relationship": "great uncle"
+  }
+}

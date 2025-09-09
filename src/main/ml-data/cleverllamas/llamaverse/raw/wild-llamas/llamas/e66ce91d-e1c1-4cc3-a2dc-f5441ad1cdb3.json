@@ -1,0 +1,15 @@
+{
+  "id": "e66ce91d-e1c1-4cc3-a2dc-f5441ad1cdb3",
+  "name": "Charles",
+  "heightCm": 116,
+  "weightKg": 192,
+  "eyeColor": "Hazel",
+  "hairColor": "Brown",
+  "breed": "Suri",
+  "placeOfBirth": "Lake Joshua, Uzbekistan",
+  "description": "Charles is a hazel-eyed llama with brown hair, standing 116 cm tall. Originally from Lake Joshua, Uzbekistan, Charles enjoys dancing, reading, gardening. Known for their playful and friendly personality, Charles is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "9002a3b6-d4d1-4c99-94b7-ae18a7c7e9b2",
+    "relationship": "second cousin"
+  }
+}

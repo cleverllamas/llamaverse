@@ -1,0 +1,15 @@
+{
+  "id": "32771ae0-6472-4d55-9c7d-d401d3f6b2f4",
+  "name": "Timothy",
+  "heightCm": 161,
+  "weightKg": 155,
+  "eyeColor": "Green",
+  "hairColor": "White",
+  "breed": "Suri",
+  "placeOfBirth": "Alexbury, Cape Verde",
+  "description": "Timothy is a green-eyed llama with white hair, standing 161 cm tall. Originally from Alexbury, Cape Verde, Timothy enjoys wood carving, singing, reading. Known for their shy and gentle personality, Timothy is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "61e1a2ac-18d7-48f2-aacd-c6c6fee47c2a",
+    "relationship": "uncle"
+  }
+}

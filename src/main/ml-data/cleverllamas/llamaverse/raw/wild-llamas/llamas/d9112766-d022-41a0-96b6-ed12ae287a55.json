@@ -1,0 +1,15 @@
+{
+  "id": "d9112766-d022-41a0-96b6-ed12ae287a55",
+  "name": "Nicole",
+  "heightCm": 148,
+  "weightKg": 160,
+  "eyeColor": "Green",
+  "hairColor": "Black",
+  "breed": "Suri",
+  "placeOfBirth": "New Misty, Tajikistan",
+  "description": "Nicole is a green-eyed llama with black hair, standing 148 cm tall. Originally from New Misty, Tajikistan, Nicole enjoys cooking, reading, singing. Known for their mischievous and calm personality, Nicole is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "bdaeafc1-e4f8-4e44-a3c2-d5540621ccf0",
+    "relationship": "mother"
+  }
+}

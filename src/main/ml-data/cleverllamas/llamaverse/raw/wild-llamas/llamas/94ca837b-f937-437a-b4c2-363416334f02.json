@@ -1,0 +1,15 @@
+{
+  "id": "94ca837b-f937-437a-b4c2-363416334f02",
+  "name": "Raven",
+  "heightCm": 197,
+  "weightKg": 172,
+  "eyeColor": "Gray",
+  "hairColor": "Black",
+  "breed": "Huacaya",
+  "placeOfBirth": "Jefferyburgh, Tanzania",
+  "description": "Raven is a gray-eyed llama with black hair, standing 197 cm tall. Originally from Jefferyburgh, Tanzania, Raven enjoys gardening, painting, knitting. Known for their shy and friendly personality, Raven is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "288cbff7-3e5d-4dea-be01-9dc76a00c9bd",
+    "relationship": "cousin"
+  }
+}

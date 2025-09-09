@@ -1,0 +1,15 @@
+{
+  "id": "886c1baa-cfdc-469c-8acd-8d6156494c1e",
+  "name": "Mary",
+  "heightCm": 112,
+  "weightKg": 165,
+  "eyeColor": "Green",
+  "hairColor": "Brown",
+  "breed": "Hybrid",
+  "placeOfBirth": "Port Kevinhaven, Burundi",
+  "description": "Mary is a green-eyed llama with brown hair, standing 112 cm tall. Originally from Port Kevinhaven, Burundi, Mary enjoys hiking, gardening, dancing. Known for their mischievous and mischievous personality, Mary is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "a321ce61-bc56-4110-8f88-02911ec30f26",
+    "relationship": "father"
+  }
+}

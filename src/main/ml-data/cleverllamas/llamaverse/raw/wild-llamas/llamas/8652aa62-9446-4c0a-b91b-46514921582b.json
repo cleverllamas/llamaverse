@@ -1,0 +1,15 @@
+{
+  "id": "8652aa62-9446-4c0a-b91b-46514921582b",
+  "name": "Kyle",
+  "heightCm": 190,
+  "weightKg": 168,
+  "eyeColor": "Hazel",
+  "hairColor": "Red",
+  "breed": "Huacaya",
+  "placeOfBirth": "West Shirleyburgh, Aruba",
+  "description": "Kyle is a hazel-eyed llama with red hair, standing 190 cm tall. Originally from West Shirleyburgh, Aruba, Kyle enjoys knitting, dancing, wood carving. Known for their shy and shy personality, Kyle is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "0a2c30cc-3f6d-4cef-9387-e382544bbc3a",
+    "relationship": "sister"
+  }
+}

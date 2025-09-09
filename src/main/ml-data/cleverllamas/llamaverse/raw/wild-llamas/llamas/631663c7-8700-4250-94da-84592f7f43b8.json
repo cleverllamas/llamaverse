@@ -1,0 +1,15 @@
+{
+  "id": "631663c7-8700-4250-94da-84592f7f43b8",
+  "name": "Christopher",
+  "heightCm": 145,
+  "weightKg": 183,
+  "eyeColor": "Blue",
+  "hairColor": "Silver",
+  "breed": "Huacaya",
+  "placeOfBirth": "Carpentershire, Lebanon",
+  "description": "Christopher is a blue-eyed llama with silver hair, standing 145 cm tall. Originally from Carpentershire, Lebanon, Christopher enjoys gardening, hiking, painting. Known for their energetic and calm personality, Christopher is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "c4197046-1d62-4475-a3a2-9185e166141f",
+    "relationship": "second cousin"
+  }
+}

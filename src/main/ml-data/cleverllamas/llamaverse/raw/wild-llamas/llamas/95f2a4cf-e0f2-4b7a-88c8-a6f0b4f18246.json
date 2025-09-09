@@ -1,0 +1,15 @@
+{
+  "id": "95f2a4cf-e0f2-4b7a-88c8-a6f0b4f18246",
+  "name": "Jennifer",
+  "heightCm": 175,
+  "weightKg": 147,
+  "eyeColor": "Blue",
+  "hairColor": "White",
+  "breed": "Suri",
+  "placeOfBirth": "New Karenmouth, Saint Martin",
+  "description": "Jennifer is a blue-eyed llama with white hair, standing 175 cm tall. Originally from New Karenmouth, Saint Martin, Jennifer enjoys gardening, reading, painting. Known for their gentle and calm personality, Jennifer is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "0c80f6f0-9ee7-4821-b4ea-bb8ec2ebecb4",
+    "relationship": "great uncle"
+  }
+}

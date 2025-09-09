@@ -1,0 +1,15 @@
+{
+  "id": "c3d321fa-3bf5-4645-b895-86d01759b7cd",
+  "name": "Linda",
+  "heightCm": 171,
+  "weightKg": 164,
+  "eyeColor": "Gray",
+  "hairColor": "Silver",
+  "breed": "Huacaya",
+  "placeOfBirth": "West Joseph, Indonesia",
+  "description": "Linda is a gray-eyed llama with silver hair, standing 171 cm tall. Originally from West Joseph, Indonesia, Linda enjoys painting, gardening, dancing. Known for their curious and gentle personality, Linda is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "8613bcb0-aa6d-4c20-9c41-1fb90861170e",
+    "relationship": "great uncle"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "59d0abf1-90e6-4adf-8fb3-782205ade918",
+  "name": "Jerome",
+  "heightCm": 140,
+  "weightKg": 182,
+  "eyeColor": "Gray",
+  "hairColor": "Red",
+  "breed": "Hybrid",
+  "placeOfBirth": "Lake Charles, Kenya",
+  "description": "Jerome is a gray-eyed llama with red hair, standing 140 cm tall. Originally from Lake Charles, Kenya, Jerome enjoys dancing, singing, gardening. Known for their mischievous and energetic personality, Jerome is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "41105276-011a-41f7-839e-c91189a9f356",
+    "relationship": "4th cousin once removed"
+  }
+}

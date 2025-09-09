@@ -1,0 +1,15 @@
+{
+  "id": "cc578557-46ed-4836-b0f1-9c97fec304cc",
+  "name": "Mike",
+  "heightCm": 158,
+  "weightKg": 172,
+  "eyeColor": "Brown",
+  "hairColor": "White",
+  "breed": "Hybrid",
+  "placeOfBirth": "Garrettbury, Singapore",
+  "description": "Mike is a brown-eyed llama with white hair, standing 158 cm tall. Originally from Garrettbury, Singapore, Mike enjoys dancing, singing, reading. Known for their playful and playful personality, Mike is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "1d3c539f-eec6-4a77-822d-d343b6ec0e48",
+    "relationship": "aunt"
+  }
+}

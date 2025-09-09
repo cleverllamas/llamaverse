@@ -1,0 +1,15 @@
+{
+  "id": "8abe3e97-5281-4b59-90b6-03efe1438167",
+  "name": "William",
+  "heightCm": 129,
+  "weightKg": 185,
+  "eyeColor": "Green",
+  "hairColor": "Brown",
+  "breed": "Suri",
+  "placeOfBirth": "Port Alexisshire, Iraq",
+  "description": "William is a green-eyed llama with brown hair, standing 129 cm tall. Originally from Port Alexisshire, Iraq, William enjoys knitting, singing, cooking. Known for their friendly and mischievous personality, William is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "f058a49e-08a2-4f53-b66d-2b3601854889",
+    "relationship": "4th cousin once removed"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "92978805-a908-490b-853b-7e8220cff69d",
+  "name": "Shannon",
+  "heightCm": 127,
+  "weightKg": 191,
+  "eyeColor": "Hazel",
+  "hairColor": "Black",
+  "breed": "Suri",
+  "placeOfBirth": "Sullivanstad, Swaziland",
+  "description": "Shannon is a hazel-eyed llama with black hair, standing 127 cm tall. Originally from Sullivanstad, Swaziland, Shannon enjoys knitting, gardening, painting. Known for their playful and mischievous personality, Shannon is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "d07bd3f3-1a93-4e8e-8d6b-3c34d2f8711d",
+    "relationship": "brother"
+  }
+}

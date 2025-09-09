@@ -1,0 +1,15 @@
+{
+  "id": "85a23d16-3b74-49fb-994e-0af43e1f7013",
+  "name": "James",
+  "heightCm": 188,
+  "weightKg": 135,
+  "eyeColor": "Gray",
+  "hairColor": "Red",
+  "breed": "Suri",
+  "placeOfBirth": "West Colin, Iran",
+  "description": "James is a gray-eyed llama with red hair, standing 188 cm tall. Originally from West Colin, Iran, James enjoys wood carving, singing, reading. Known for their calm and playful personality, James is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "678a3834-5211-499d-87ed-5fdc648f09c8",
+    "relationship": "15th cousin 9th removed"
+  }
+}

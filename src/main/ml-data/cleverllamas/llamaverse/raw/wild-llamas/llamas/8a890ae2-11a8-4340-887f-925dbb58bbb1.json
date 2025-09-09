@@ -1,0 +1,15 @@
+{
+  "id": "8a890ae2-11a8-4340-887f-925dbb58bbb1",
+  "name": "Laura",
+  "heightCm": 192,
+  "weightKg": 186,
+  "eyeColor": "Blue",
+  "hairColor": "Black",
+  "breed": "Hybrid",
+  "placeOfBirth": "Alexandraland, South Africa",
+  "description": "Laura is a blue-eyed llama with black hair, standing 192 cm tall. Originally from Alexandraland, South Africa, Laura enjoys gardening, singing, dancing. Known for their gentle and shy personality, Laura is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "02496cbf-98a1-49c2-8bdf-91c95775b6d0",
+    "relationship": "second cousin"
+  }
+}

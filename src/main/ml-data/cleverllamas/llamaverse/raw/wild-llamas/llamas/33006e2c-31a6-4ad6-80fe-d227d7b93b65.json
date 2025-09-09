@@ -1,0 +1,15 @@
+{
+  "id": "33006e2c-31a6-4ad6-80fe-d227d7b93b65",
+  "name": "Michael",
+  "heightCm": 149,
+  "weightKg": 194,
+  "eyeColor": "Brown",
+  "hairColor": "Red",
+  "breed": "Hybrid",
+  "placeOfBirth": "Port Shelbyfurt, Bulgaria",
+  "description": "Michael is a brown-eyed llama with red hair, standing 149 cm tall. Originally from Port Shelbyfurt, Bulgaria, Michael enjoys cooking, wood carving, painting. Known for their energetic and energetic personality, Michael is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "fd9fce8e-df81-4679-8c09-4b5920f4fe87",
+    "relationship": "cousin"
+  }
+}

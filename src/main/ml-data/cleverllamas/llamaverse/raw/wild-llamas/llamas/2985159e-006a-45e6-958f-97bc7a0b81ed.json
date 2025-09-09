@@ -1,0 +1,15 @@
+{
+  "id": "2985159e-006a-45e6-958f-97bc7a0b81ed",
+  "name": "Timothy",
+  "heightCm": 145,
+  "weightKg": 195,
+  "eyeColor": "Blue",
+  "hairColor": "Brown",
+  "breed": "Suri",
+  "placeOfBirth": "South Edwardberg, Wallis and Futuna",
+  "description": "Timothy is a blue-eyed llama with brown hair, standing 145 cm tall. Originally from South Edwardberg, Wallis and Futuna, Timothy enjoys singing, wood carving, reading. Known for their calm and friendly personality, Timothy is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "266a0e42-090b-4a2b-9b9a-3b90946dc61f",
+    "relationship": "second cousin"
+  }
+}

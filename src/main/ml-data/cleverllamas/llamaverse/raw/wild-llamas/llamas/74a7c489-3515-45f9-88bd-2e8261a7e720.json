@@ -1,0 +1,15 @@
+{
+  "id": "74a7c489-3515-45f9-88bd-2e8261a7e720",
+  "name": "Tanner",
+  "heightCm": 143,
+  "weightKg": 196,
+  "eyeColor": "Gray",
+  "hairColor": "White",
+  "breed": "Huacaya",
+  "placeOfBirth": "Port Lori, Paraguay",
+  "description": "Tanner is a gray-eyed llama with white hair, standing 143 cm tall. Originally from Port Lori, Paraguay, Tanner enjoys painting, singing, knitting. Known for their shy and energetic personality, Tanner is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "a63269a8-4021-4f7e-a28d-4e38337a6579",
+    "relationship": "uncle"
+  }
+}

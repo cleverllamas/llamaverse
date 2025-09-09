@@ -1,0 +1,15 @@
+{
+  "id": "e58c8655-12b4-40b1-b235-36bfe21fc626",
+  "name": "Christine",
+  "heightCm": 100,
+  "weightKg": 155,
+  "eyeColor": "Gray",
+  "hairColor": "Blonde",
+  "breed": "Hybrid",
+  "placeOfBirth": "Garciashire, Namibia",
+  "description": "Christine is a gray-eyed llama with blonde hair, standing 100 cm tall. Originally from Garciashire, Namibia, Christine enjoys cooking, dancing, painting. Known for their calm and friendly personality, Christine is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "85b5c7fa-b965-4b00-bda1-625c905d56b6",
+    "relationship": "cousin"
+  }
+}

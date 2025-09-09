@@ -1,0 +1,15 @@
+{
+  "id": "9e24b921-4ce4-4aa5-a180-c72f4b99a8e7",
+  "name": "Olivia",
+  "heightCm": 179,
+  "weightKg": 174,
+  "eyeColor": "Green",
+  "hairColor": "Black",
+  "breed": "Huacaya",
+  "placeOfBirth": "Jamesborough, Romania",
+  "description": "Olivia is a green-eyed llama with black hair, standing 179 cm tall. Originally from Jamesborough, Romania, Olivia enjoys gardening, singing, cooking. Known for their shy and energetic personality, Olivia is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "c39c5c9c-a9ac-43a5-a728-13d7672e925e",
+    "relationship": "uncle"
+  }
+}

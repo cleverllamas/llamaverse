@@ -1,0 +1,15 @@
+{
+  "id": "748de8ec-c7f3-43b7-81de-da679250b765",
+  "name": "Beth",
+  "heightCm": 147,
+  "weightKg": 147,
+  "eyeColor": "Blue",
+  "hairColor": "Silver",
+  "breed": "Hybrid",
+  "placeOfBirth": "East Brandonfurt, Norfolk Island",
+  "description": "Beth is a blue-eyed llama with silver hair, standing 147 cm tall. Originally from East Brandonfurt, Norfolk Island, Beth enjoys cooking, hiking, knitting. Known for their curious and playful personality, Beth is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "473cf855-0554-42a3-bf35-b0eb3d9a9a9a",
+    "relationship": "third cousin twice removed"
+  }
+}

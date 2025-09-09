@@ -1,0 +1,15 @@
+{
+  "id": "d2e8537e-fce0-4b74-a617-a331b1fa6943",
+  "name": "Sarah",
+  "heightCm": 173,
+  "weightKg": 176,
+  "eyeColor": "Gray",
+  "hairColor": "Red",
+  "breed": "Huacaya",
+  "placeOfBirth": "Davidstad, Monaco",
+  "description": "Sarah is a gray-eyed llama with red hair, standing 173 cm tall. Originally from Davidstad, Monaco, Sarah enjoys wood carving, reading, gardening. Known for their calm and mischievous personality, Sarah is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "1f1155fe-9c6d-437b-ae16-ce66b58a3502",
+    "relationship": "cousin"
+  }
+}

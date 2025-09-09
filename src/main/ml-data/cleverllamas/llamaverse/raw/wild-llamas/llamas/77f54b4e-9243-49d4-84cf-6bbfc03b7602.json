@@ -1,0 +1,15 @@
+{
+  "id": "77f54b4e-9243-49d4-84cf-6bbfc03b7602",
+  "name": "Matthew",
+  "heightCm": 129,
+  "weightKg": 142,
+  "eyeColor": "Amber",
+  "hairColor": "White",
+  "breed": "Suri",
+  "placeOfBirth": "Frankburgh, Bouvet Island (Bouvetoya)",
+  "description": "Matthew is a amber-eyed llama with white hair, standing 129 cm tall. Originally from Frankburgh, Bouvet Island (Bouvetoya), Matthew enjoys wood carving, cooking, singing. Known for their shy and mischievous personality, Matthew is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "69f387cd-37c7-46b7-8532-cd1567eb0353",
+    "relationship": "sister"
+  }
+}

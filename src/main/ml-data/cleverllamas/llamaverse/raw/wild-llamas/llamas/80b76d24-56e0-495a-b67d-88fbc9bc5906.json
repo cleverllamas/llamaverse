@@ -1,0 +1,15 @@
+{
+  "id": "80b76d24-56e0-495a-b67d-88fbc9bc5906",
+  "name": "John",
+  "heightCm": 169,
+  "weightKg": 161,
+  "eyeColor": "Blue",
+  "hairColor": "Blonde",
+  "breed": "Huacaya",
+  "placeOfBirth": "Davidfort, Israel",
+  "description": "John is a blue-eyed llama with blonde hair, standing 169 cm tall. Originally from Davidfort, Israel, John enjoys cooking, dancing, reading. Known for their shy and shy personality, John is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "22ce35b9-bf01-49f5-a9be-7dcc80b671df",
+    "relationship": "15th cousin 9th removed"
+  }
+}

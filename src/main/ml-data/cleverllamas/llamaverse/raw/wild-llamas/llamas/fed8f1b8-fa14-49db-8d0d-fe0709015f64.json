@@ -1,0 +1,15 @@
+{
+  "id": "fed8f1b8-fa14-49db-8d0d-fe0709015f64",
+  "name": "Jennifer",
+  "heightCm": 159,
+  "weightKg": 147,
+  "eyeColor": "Hazel",
+  "hairColor": "Black",
+  "breed": "Suri",
+  "placeOfBirth": "Wilsonton, Sao Tome and Principe",
+  "description": "Jennifer is a hazel-eyed llama with black hair, standing 159 cm tall. Originally from Wilsonton, Sao Tome and Principe, Jennifer enjoys singing, cooking, dancing. Known for their gentle and curious personality, Jennifer is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "aca6729b-7ae7-4831-88d8-9b3bdf9df304",
+    "relationship": "father"
+  }
+}

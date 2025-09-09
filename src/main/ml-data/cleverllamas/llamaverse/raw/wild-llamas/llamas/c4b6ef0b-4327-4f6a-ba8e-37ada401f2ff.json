@@ -1,0 +1,15 @@
+{
+  "id": "c4b6ef0b-4327-4f6a-ba8e-37ada401f2ff",
+  "name": "Colleen",
+  "heightCm": 143,
+  "weightKg": 157,
+  "eyeColor": "Gray",
+  "hairColor": "Silver",
+  "breed": "Huacaya",
+  "placeOfBirth": "Port Andrew, Sudan",
+  "description": "Colleen is a gray-eyed llama with silver hair, standing 143 cm tall. Originally from Port Andrew, Sudan, Colleen enjoys gardening, reading, wood carving. Known for their playful and curious personality, Colleen is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "45841661-23fa-4524-a01d-cd80ab2ce55c",
+    "relationship": "grandparent"
+  }
+}

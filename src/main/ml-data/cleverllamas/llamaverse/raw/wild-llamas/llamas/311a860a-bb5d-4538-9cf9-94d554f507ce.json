@@ -1,0 +1,15 @@
+{
+  "id": "311a860a-bb5d-4538-9cf9-94d554f507ce",
+  "name": "Thomas",
+  "heightCm": 200,
+  "weightKg": 174,
+  "eyeColor": "Amber",
+  "hairColor": "Blonde",
+  "breed": "Suri",
+  "placeOfBirth": "Jenniferstad, Serbia",
+  "description": "Thomas is a amber-eyed llama with blonde hair, standing 200 cm tall. Originally from Jenniferstad, Serbia, Thomas enjoys wood carving, dancing, reading. Known for their energetic and curious personality, Thomas is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "9d0b59d7-d493-45ad-bd5e-c2cc607cd390",
+    "relationship": "father"
+  }
+}

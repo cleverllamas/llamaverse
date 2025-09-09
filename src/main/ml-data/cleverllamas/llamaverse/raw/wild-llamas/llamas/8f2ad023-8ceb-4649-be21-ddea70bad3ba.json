@@ -1,0 +1,15 @@
+{
+  "id": "8f2ad023-8ceb-4649-be21-ddea70bad3ba",
+  "name": "Michael",
+  "heightCm": 177,
+  "weightKg": 134,
+  "eyeColor": "Brown",
+  "hairColor": "White",
+  "breed": "Huacaya",
+  "placeOfBirth": "Williamville, Cocos (Keeling) Islands",
+  "description": "Michael is a brown-eyed llama with white hair, standing 177 cm tall. Originally from Williamville, Cocos (Keeling) Islands, Michael enjoys cooking, singing, dancing. Known for their curious and playful personality, Michael is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "55ee4e34-1e02-49a8-9094-f1cc41533121",
+    "relationship": "third cousin twice removed"
+  }
+}

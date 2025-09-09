@@ -1,0 +1,15 @@
+{
+  "id": "b04a4cf3-4e3a-48b0-9dc8-9b8fecc399d7",
+  "name": "Janet",
+  "heightCm": 196,
+  "weightKg": 189,
+  "eyeColor": "Amber",
+  "hairColor": "Red",
+  "breed": "Suri",
+  "placeOfBirth": "West Nancyside, Slovenia",
+  "description": "Janet is a amber-eyed llama with red hair, standing 196 cm tall. Originally from West Nancyside, Slovenia, Janet enjoys wood carving, hiking, knitting. Known for their shy and energetic personality, Janet is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "617b7009-0883-4833-a46b-adfa848aabb4",
+    "relationship": "uncle"
+  }
+}

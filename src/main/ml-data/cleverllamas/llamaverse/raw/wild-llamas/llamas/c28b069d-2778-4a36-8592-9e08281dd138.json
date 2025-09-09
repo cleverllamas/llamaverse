@@ -1,0 +1,15 @@
+{
+  "id": "c28b069d-2778-4a36-8592-9e08281dd138",
+  "name": "Norman",
+  "heightCm": 197,
+  "weightKg": 138,
+  "eyeColor": "Green",
+  "hairColor": "Brown",
+  "breed": "Huacaya",
+  "placeOfBirth": "West Elizabeth, Saint Kitts and Nevis",
+  "description": "Norman is a green-eyed llama with brown hair, standing 197 cm tall. Originally from West Elizabeth, Saint Kitts and Nevis, Norman enjoys painting, cooking, singing. Known for their friendly and curious personality, Norman is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "64bc9ea8-a33c-44af-9032-7ce36974117e",
+    "relationship": "mother"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "7a98943d-a320-4c40-b90e-eb54b985de41",
+  "name": "Katherine",
+  "heightCm": 176,
+  "weightKg": 190,
+  "eyeColor": "Brown",
+  "hairColor": "Red",
+  "breed": "Huacaya",
+  "placeOfBirth": "Cherylburgh, Anguilla",
+  "description": "Katherine is a brown-eyed llama with red hair, standing 176 cm tall. Originally from Cherylburgh, Anguilla, Katherine enjoys hiking, painting, singing. Known for their curious and playful personality, Katherine is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "41b130ca-6bc1-4b8f-8599-1775647f163d",
+    "relationship": "uncle"
+  }
+}

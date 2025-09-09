@@ -1,0 +1,15 @@
+{
+  "id": "7b6da453-c643-4a73-a142-1532198ec17c",
+  "name": "Sonya",
+  "heightCm": 158,
+  "weightKg": 154,
+  "eyeColor": "Blue",
+  "hairColor": "Red",
+  "breed": "Huacaya",
+  "placeOfBirth": "Salinasbury, Kazakhstan",
+  "description": "Sonya is a blue-eyed llama with red hair, standing 158 cm tall. Originally from Salinasbury, Kazakhstan, Sonya enjoys cooking, hiking, knitting. Known for their energetic and friendly personality, Sonya is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "14c86c94-2f68-481a-a20f-7825cdda5361",
+    "relationship": "grandparent"
+  }
+}

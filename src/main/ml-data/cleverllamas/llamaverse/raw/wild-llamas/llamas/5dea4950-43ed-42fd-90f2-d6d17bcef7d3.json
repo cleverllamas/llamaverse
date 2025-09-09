@@ -1,0 +1,15 @@
+{
+  "id": "5dea4950-43ed-42fd-90f2-d6d17bcef7d3",
+  "name": "David",
+  "heightCm": 186,
+  "weightKg": 170,
+  "eyeColor": "Hazel",
+  "hairColor": "White",
+  "breed": "Huacaya",
+  "placeOfBirth": "New Michaelborough, Congo",
+  "description": "David is a hazel-eyed llama with white hair, standing 186 cm tall. Originally from New Michaelborough, Congo, David enjoys cooking, reading, painting. Known for their playful and calm personality, David is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "f7fa9368-60c4-4f28-81d9-ee8bf9cf0f50",
+    "relationship": "grandparent"
+  }
+}

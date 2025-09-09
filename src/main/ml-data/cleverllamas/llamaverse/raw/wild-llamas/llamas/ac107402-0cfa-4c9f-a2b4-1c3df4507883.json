@@ -1,0 +1,15 @@
+{
+  "id": "ac107402-0cfa-4c9f-a2b4-1c3df4507883",
+  "name": "Erin",
+  "heightCm": 117,
+  "weightKg": 166,
+  "eyeColor": "Amber",
+  "hairColor": "Black",
+  "breed": "Suri",
+  "placeOfBirth": "Jamieborough, Wallis and Futuna",
+  "description": "Erin is a amber-eyed llama with black hair, standing 117 cm tall. Originally from Jamieborough, Wallis and Futuna, Erin enjoys cooking, knitting, painting. Known for their gentle and calm personality, Erin is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "cc603ad3-59d7-4ddc-84f3-d514bb5f4986",
+    "relationship": "third cousin twice removed"
+  }
+}

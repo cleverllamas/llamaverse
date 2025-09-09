@@ -1,0 +1,15 @@
+{
+  "id": "b5bb5416-ce76-4cb6-b1cb-fc46859314cf",
+  "name": "Tiffany",
+  "heightCm": 161,
+  "weightKg": 133,
+  "eyeColor": "Blue",
+  "hairColor": "Blonde",
+  "breed": "Hybrid",
+  "placeOfBirth": "West Savannahburgh, Uganda",
+  "description": "Tiffany is a blue-eyed llama with blonde hair, standing 161 cm tall. Originally from West Savannahburgh, Uganda, Tiffany enjoys dancing, singing, hiking. Known for their mischievous and shy personality, Tiffany is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "414b1ab7-0638-44cb-871c-d5554903cc73",
+    "relationship": "15th cousin 9th removed"
+  }
+}

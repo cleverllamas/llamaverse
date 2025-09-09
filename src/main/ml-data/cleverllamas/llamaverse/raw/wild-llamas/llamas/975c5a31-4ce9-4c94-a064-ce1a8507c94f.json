@@ -1,0 +1,15 @@
+{
+  "id": "975c5a31-4ce9-4c94-a064-ce1a8507c94f",
+  "name": "Edward",
+  "heightCm": 171,
+  "weightKg": 154,
+  "eyeColor": "Green",
+  "hairColor": "Blonde",
+  "breed": "Huacaya",
+  "placeOfBirth": "South Amanda, Malawi",
+  "description": "Edward is a green-eyed llama with blonde hair, standing 171 cm tall. Originally from South Amanda, Malawi, Edward enjoys wood carving, singing, hiking. Known for their shy and mischievous personality, Edward is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "3cfb05af-83dc-4f31-8271-47515fc374de",
+    "relationship": "mother"
+  }
+}

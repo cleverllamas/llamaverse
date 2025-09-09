@@ -1,0 +1,15 @@
+{
+  "id": "25c3f30e-25ff-475d-a255-3a34af8028d8",
+  "name": "Ashley",
+  "heightCm": 119,
+  "weightKg": 189,
+  "eyeColor": "Blue",
+  "hairColor": "Gray",
+  "breed": "Hybrid",
+  "placeOfBirth": "North Kyleton, Mongolia",
+  "description": "Ashley is a blue-eyed llama with gray hair, standing 119 cm tall. Originally from North Kyleton, Mongolia, Ashley enjoys reading, dancing, cooking. Known for their playful and energetic personality, Ashley is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "741fd42b-b4ec-4043-a793-e23c3040e7af",
+    "relationship": "brother"
+  }
+}

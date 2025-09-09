@@ -1,0 +1,15 @@
+{
+  "id": "dc1c43be-4e59-4003-8302-0e5fa6a27bcc",
+  "name": "Tracy",
+  "heightCm": 167,
+  "weightKg": 150,
+  "eyeColor": "Hazel",
+  "hairColor": "Red",
+  "breed": "Hybrid",
+  "placeOfBirth": "West Luis, Cocos (Keeling) Islands",
+  "description": "Tracy is a hazel-eyed llama with red hair, standing 167 cm tall. Originally from West Luis, Cocos (Keeling) Islands, Tracy enjoys cooking, knitting, reading. Known for their energetic and playful personality, Tracy is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "02becde7-855d-4986-bfbc-db7dae3ac9ae",
+    "relationship": "third cousin twice removed"
+  }
+}

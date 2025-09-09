@@ -1,0 +1,15 @@
+{
+  "id": "d1ed4f7d-1924-4097-9e31-25442308967b",
+  "name": "Susan",
+  "heightCm": 112,
+  "weightKg": 162,
+  "eyeColor": "Gray",
+  "hairColor": "Black",
+  "breed": "Huacaya",
+  "placeOfBirth": "Lake Samantha, Saint Pierre and Miquelon",
+  "description": "Susan is a gray-eyed llama with black hair, standing 112 cm tall. Originally from Lake Samantha, Saint Pierre and Miquelon, Susan enjoys dancing, painting, wood carving. Known for their calm and playful personality, Susan is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "ab418de9-c5e2-493f-a711-94e013d66e1c",
+    "relationship": "sister"
+  }
+}

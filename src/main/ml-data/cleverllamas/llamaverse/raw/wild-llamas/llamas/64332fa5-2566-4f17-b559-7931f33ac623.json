@@ -1,0 +1,15 @@
+{
+  "id": "64332fa5-2566-4f17-b559-7931f33ac623",
+  "name": "Margaret",
+  "heightCm": 183,
+  "weightKg": 163,
+  "eyeColor": "Green",
+  "hairColor": "Gray",
+  "breed": "Hybrid",
+  "placeOfBirth": "Callahanville, Gambia",
+  "description": "Margaret is a green-eyed llama with gray hair, standing 183 cm tall. Originally from Callahanville, Gambia, Margaret enjoys knitting, cooking, painting. Known for their friendly and mischievous personality, Margaret is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "0e4c3f69-beb9-4a64-ae72-d7ffc0419263",
+    "relationship": "cousin"
+  }
+}

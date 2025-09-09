@@ -1,0 +1,15 @@
+{
+  "id": "39f1fe00-0164-45da-bd76-55cafb438333",
+  "name": "Julie",
+  "heightCm": 106,
+  "weightKg": 130,
+  "eyeColor": "Gray",
+  "hairColor": "White",
+  "breed": "Huacaya",
+  "placeOfBirth": "Port Denise, Gambia",
+  "description": "Julie is a gray-eyed llama with white hair, standing 106 cm tall. Originally from Port Denise, Gambia, Julie enjoys gardening, cooking, hiking. Known for their energetic and gentle personality, Julie is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "64b70e92-1a6b-4645-a2c2-51907d5d149f",
+    "relationship": "third cousin twice removed"
+  }
+}

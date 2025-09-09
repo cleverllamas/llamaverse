@@ -1,0 +1,15 @@
+{
+  "id": "2e25d2bc-ac69-4901-88b6-4b20bd346acb",
+  "name": "Amanda",
+  "heightCm": 169,
+  "weightKg": 157,
+  "eyeColor": "Amber",
+  "hairColor": "White",
+  "breed": "Suri",
+  "placeOfBirth": "Davisshire, India",
+  "description": "Amanda is a amber-eyed llama with white hair, standing 169 cm tall. Originally from Davisshire, India, Amanda enjoys knitting, reading, gardening. Known for their friendly and shy personality, Amanda is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "cf546b57-dc6d-4e06-8f6c-c57b9e359304",
+    "relationship": "15th cousin 9th removed"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "81b4b169-9638-4604-81b2-2a8a1bd2fbd8",
+  "name": "Audrey",
+  "heightCm": 135,
+  "weightKg": 140,
+  "eyeColor": "Gray",
+  "hairColor": "White",
+  "breed": "Hybrid",
+  "placeOfBirth": "Rodriguezport, Panama",
+  "description": "Audrey is a gray-eyed llama with white hair, standing 135 cm tall. Originally from Rodriguezport, Panama, Audrey enjoys reading, singing, gardening. Known for their friendly and curious personality, Audrey is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "9ebbf1e3-b87f-4358-a8dc-caf6740da264",
+    "relationship": "second cousin"
+  }
+}

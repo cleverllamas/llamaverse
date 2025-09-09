@@ -1,0 +1,15 @@
+{
+  "id": "9787664e-b931-48df-a2ad-5245d0b86a43",
+  "name": "Kelly",
+  "heightCm": 185,
+  "weightKg": 200,
+  "eyeColor": "Amber",
+  "hairColor": "Black",
+  "breed": "Hybrid",
+  "placeOfBirth": "Samanthabury, Montserrat",
+  "description": "Kelly is a amber-eyed llama with black hair, standing 185 cm tall. Originally from Samanthabury, Montserrat, Kelly enjoys reading, knitting, gardening. Known for their curious and energetic personality, Kelly is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "39f1fe00-0164-45da-bd76-55cafb438333",
+    "relationship": "cousin"
+  }
+}

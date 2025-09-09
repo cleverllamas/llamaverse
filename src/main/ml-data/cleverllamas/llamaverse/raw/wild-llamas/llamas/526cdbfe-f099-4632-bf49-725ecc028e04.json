@@ -1,0 +1,15 @@
+{
+  "id": "526cdbfe-f099-4632-bf49-725ecc028e04",
+  "name": "Regina",
+  "heightCm": 157,
+  "weightKg": 150,
+  "eyeColor": "Blue",
+  "hairColor": "Black",
+  "breed": "Hybrid",
+  "placeOfBirth": "Sarahview, Uruguay",
+  "description": "Regina is a blue-eyed llama with black hair, standing 157 cm tall. Originally from Sarahview, Uruguay, Regina enjoys wood carving, knitting, gardening. Known for their energetic and shy personality, Regina is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "7b1de50d-4d0d-43eb-9cfb-2643dc4b9bc5",
+    "relationship": "great uncle"
+  }
+}

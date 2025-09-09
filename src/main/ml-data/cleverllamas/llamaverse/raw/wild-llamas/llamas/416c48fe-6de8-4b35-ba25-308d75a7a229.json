@@ -1,0 +1,15 @@
+{
+  "id": "416c48fe-6de8-4b35-ba25-308d75a7a229",
+  "name": "Justin",
+  "heightCm": 164,
+  "weightKg": 138,
+  "eyeColor": "Brown",
+  "hairColor": "Black",
+  "breed": "Hybrid",
+  "placeOfBirth": "Amandabury, Congo",
+  "description": "Justin is a brown-eyed llama with black hair, standing 164 cm tall. Originally from Amandabury, Congo, Justin enjoys dancing, painting, cooking. Known for their shy and curious personality, Justin is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "42b8b857-1df0-484b-9d64-ed02e045e2c1",
+    "relationship": "sister"
+  }
+}

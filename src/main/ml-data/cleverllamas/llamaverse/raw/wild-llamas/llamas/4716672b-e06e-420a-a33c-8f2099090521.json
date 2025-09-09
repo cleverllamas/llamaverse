@@ -1,0 +1,15 @@
+{
+  "id": "4716672b-e06e-420a-a33c-8f2099090521",
+  "name": "Jonathan",
+  "heightCm": 108,
+  "weightKg": 190,
+  "eyeColor": "Blue",
+  "hairColor": "Red",
+  "breed": "Suri",
+  "placeOfBirth": "Aimeehaven, Ukraine",
+  "description": "Jonathan is a blue-eyed llama with red hair, standing 108 cm tall. Originally from Aimeehaven, Ukraine, Jonathan enjoys painting, knitting, dancing. Known for their playful and mischievous personality, Jonathan is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "2eb432d5-db2e-40cc-9fbf-35e38fa1041c",
+    "relationship": "4th cousin once removed"
+  }
+}

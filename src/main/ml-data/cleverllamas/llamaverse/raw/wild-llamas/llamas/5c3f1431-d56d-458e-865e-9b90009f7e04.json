@@ -1,0 +1,15 @@
+{
+  "id": "5c3f1431-d56d-458e-865e-9b90009f7e04",
+  "name": "Valerie",
+  "heightCm": 153,
+  "weightKg": 188,
+  "eyeColor": "Brown",
+  "hairColor": "Red",
+  "breed": "Suri",
+  "placeOfBirth": "North Robertville, United States of America",
+  "description": "Valerie is a brown-eyed llama with red hair, standing 153 cm tall. Originally from North Robertville, United States of America, Valerie enjoys reading, painting, wood carving. Known for their energetic and playful personality, Valerie is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "8217c67b-a0b4-478c-a934-93a4e75b683f",
+    "relationship": "father"
+  }
+}

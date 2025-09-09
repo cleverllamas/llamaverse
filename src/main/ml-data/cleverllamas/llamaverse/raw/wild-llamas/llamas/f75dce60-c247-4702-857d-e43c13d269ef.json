@@ -1,0 +1,15 @@
+{
+  "id": "f75dce60-c247-4702-857d-e43c13d269ef",
+  "name": "Austin",
+  "heightCm": 155,
+  "weightKg": 200,
+  "eyeColor": "Hazel",
+  "hairColor": "Blonde",
+  "breed": "Huacaya",
+  "placeOfBirth": "South Kimberlyfort, Romania",
+  "description": "Austin is a hazel-eyed llama with blonde hair, standing 155 cm tall. Originally from South Kimberlyfort, Romania, Austin enjoys gardening, painting, cooking. Known for their curious and playful personality, Austin is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "d6edfabe-ae7d-40e1-bce2-89046a09ecd5",
+    "relationship": "sister"
+  }
+}

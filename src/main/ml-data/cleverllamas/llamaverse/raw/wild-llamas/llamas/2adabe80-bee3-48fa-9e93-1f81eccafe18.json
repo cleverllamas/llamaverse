@@ -1,0 +1,15 @@
+{
+  "id": "2adabe80-bee3-48fa-9e93-1f81eccafe18",
+  "name": "Ryan",
+  "heightCm": 153,
+  "weightKg": 143,
+  "eyeColor": "Hazel",
+  "hairColor": "Silver",
+  "breed": "Suri",
+  "placeOfBirth": "Lake Christy, Iceland",
+  "description": "Ryan is a hazel-eyed llama with silver hair, standing 153 cm tall. Originally from Lake Christy, Iceland, Ryan enjoys singing, wood carving, painting. Known for their mischievous and energetic personality, Ryan is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "d3ff8a26-434e-40ac-8151-3313b0bac69c",
+    "relationship": "15th cousin 9th removed"
+  }
+}

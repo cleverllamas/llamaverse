@@ -1,0 +1,15 @@
+{
+  "id": "fc037e78-be61-43ec-aa40-15e89d1d6470",
+  "name": "Christopher",
+  "heightCm": 107,
+  "weightKg": 176,
+  "eyeColor": "Amber",
+  "hairColor": "Silver",
+  "breed": "Hybrid",
+  "placeOfBirth": "Rhondamouth, Peru",
+  "description": "Christopher is a amber-eyed llama with silver hair, standing 107 cm tall. Originally from Rhondamouth, Peru, Christopher enjoys knitting, wood carving, singing. Known for their playful and friendly personality, Christopher is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "49f616f0-5472-4ddc-8a9d-118261bbfd26",
+    "relationship": "uncle"
+  }
+}

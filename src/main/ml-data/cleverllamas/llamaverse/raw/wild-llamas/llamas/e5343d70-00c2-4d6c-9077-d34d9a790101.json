@@ -1,0 +1,15 @@
+{
+  "id": "e5343d70-00c2-4d6c-9077-d34d9a790101",
+  "name": "Samuel",
+  "heightCm": 150,
+  "weightKg": 162,
+  "eyeColor": "Hazel",
+  "hairColor": "Black",
+  "breed": "Huacaya",
+  "placeOfBirth": "Reillystad, United States Virgin Islands",
+  "description": "Samuel is a hazel-eyed llama with black hair, standing 150 cm tall. Originally from Reillystad, United States Virgin Islands, Samuel enjoys knitting, cooking, singing. Known for their playful and curious personality, Samuel is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "adfe2ef3-6b69-457e-a743-f0549ef738ad",
+    "relationship": "grandparent"
+  }
+}

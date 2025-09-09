@@ -1,0 +1,15 @@
+{
+  "id": "b4d4446a-2fca-4c6e-b29b-439588266813",
+  "name": "Patricia",
+  "heightCm": 177,
+  "weightKg": 139,
+  "eyeColor": "Blue",
+  "hairColor": "Red",
+  "breed": "Hybrid",
+  "placeOfBirth": "Steventon, Azerbaijan",
+  "description": "Patricia is a blue-eyed llama with red hair, standing 177 cm tall. Originally from Steventon, Azerbaijan, Patricia enjoys cooking, gardening, wood carving. Known for their calm and gentle personality, Patricia is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "e49e7d33-c2f5-47b4-893f-099bad10d807",
+    "relationship": "mother"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "018d2660-aa31-4c97-bb5e-175f48832511",
+  "name": "William",
+  "heightCm": 100,
+  "weightKg": 146,
+  "eyeColor": "Green",
+  "hairColor": "Black",
+  "breed": "Huacaya",
+  "placeOfBirth": "West Anthonyside, Fiji",
+  "description": "William is a green-eyed llama with black hair, standing 100 cm tall. Originally from West Anthonyside, Fiji, William enjoys gardening, painting, reading. Known for their calm and playful personality, William is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "ce56bf2e-1df8-408d-afd0-718ff07fda4a",
+    "relationship": "mother"
+  }
+}

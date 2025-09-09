@@ -1,0 +1,15 @@
+{
+  "id": "aae9f68f-0cb3-471f-b573-668233289a45",
+  "name": "Melissa",
+  "heightCm": 126,
+  "weightKg": 133,
+  "eyeColor": "Gray",
+  "hairColor": "Silver",
+  "breed": "Suri",
+  "placeOfBirth": "Port Tammy, Nigeria",
+  "description": "Melissa is a gray-eyed llama with silver hair, standing 126 cm tall. Originally from Port Tammy, Nigeria, Melissa enjoys dancing, hiking, painting. Known for their friendly and shy personality, Melissa is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "c3887965-f4bb-458e-b7a0-175ccb19ac8e",
+    "relationship": "cousin"
+  }
+}

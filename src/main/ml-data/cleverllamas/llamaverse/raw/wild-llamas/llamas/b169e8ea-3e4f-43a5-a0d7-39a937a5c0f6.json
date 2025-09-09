@@ -1,0 +1,15 @@
+{
+  "id": "b169e8ea-3e4f-43a5-a0d7-39a937a5c0f6",
+  "name": "Robert",
+  "heightCm": 129,
+  "weightKg": 179,
+  "eyeColor": "Amber",
+  "hairColor": "White",
+  "breed": "Huacaya",
+  "placeOfBirth": "West Zacharystad, Burundi",
+  "description": "Robert is a amber-eyed llama with white hair, standing 129 cm tall. Originally from West Zacharystad, Burundi, Robert enjoys wood carving, cooking, painting. Known for their mischievous and calm personality, Robert is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "5c82ff79-61c6-44b4-9665-6c0099c6a0b2",
+    "relationship": "third cousin twice removed"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "526eb9ca-97bd-400c-9007-fb714beb0cb4",
+  "name": "Wendy",
+  "heightCm": 161,
+  "weightKg": 167,
+  "eyeColor": "Hazel",
+  "hairColor": "Gray",
+  "breed": "Hybrid",
+  "placeOfBirth": "Lindatown, Liberia",
+  "description": "Wendy is a hazel-eyed llama with gray hair, standing 161 cm tall. Originally from Lindatown, Liberia, Wendy enjoys cooking, wood carving, hiking. Known for their energetic and energetic personality, Wendy is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "6bf7758e-fb8e-4486-98b8-587de89160f7",
+    "relationship": "cousin"
+  }
+}

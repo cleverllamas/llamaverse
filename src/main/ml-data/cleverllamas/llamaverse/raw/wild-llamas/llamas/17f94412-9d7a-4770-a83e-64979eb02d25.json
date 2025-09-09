@@ -1,0 +1,15 @@
+{
+  "id": "17f94412-9d7a-4770-a83e-64979eb02d25",
+  "name": "Lisa",
+  "heightCm": 165,
+  "weightKg": 139,
+  "eyeColor": "Gray",
+  "hairColor": "Black",
+  "breed": "Suri",
+  "placeOfBirth": "New Cherylhaven, Uzbekistan",
+  "description": "Lisa is a gray-eyed llama with black hair, standing 165 cm tall. Originally from New Cherylhaven, Uzbekistan, Lisa enjoys cooking, knitting, wood carving. Known for their playful and gentle personality, Lisa is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "6124619f-4c3d-491b-9038-b172e9c0939a",
+    "relationship": "mother"
+  }
+}

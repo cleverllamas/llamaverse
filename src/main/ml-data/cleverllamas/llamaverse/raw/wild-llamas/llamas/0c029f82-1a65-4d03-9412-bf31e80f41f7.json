@@ -1,0 +1,15 @@
+{
+  "id": "0c029f82-1a65-4d03-9412-bf31e80f41f7",
+  "name": "Ryan",
+  "heightCm": 134,
+  "weightKg": 164,
+  "eyeColor": "Amber",
+  "hairColor": "Gray",
+  "breed": "Huacaya",
+  "placeOfBirth": "Jenniferhaven, Liechtenstein",
+  "description": "Ryan is a amber-eyed llama with gray hair, standing 134 cm tall. Originally from Jenniferhaven, Liechtenstein, Ryan enjoys gardening, dancing, knitting. Known for their friendly and gentle personality, Ryan is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "df6a0ca5-f291-4748-b547-39ebdea81ee8",
+    "relationship": "father"
+  }
+}

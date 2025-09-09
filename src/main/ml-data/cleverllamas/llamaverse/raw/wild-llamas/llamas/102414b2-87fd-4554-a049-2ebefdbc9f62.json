@@ -1,0 +1,15 @@
+{
+  "id": "102414b2-87fd-4554-a049-2ebefdbc9f62",
+  "name": "Kelly",
+  "heightCm": 161,
+  "weightKg": 197,
+  "eyeColor": "Blue",
+  "hairColor": "Brown",
+  "breed": "Hybrid",
+  "placeOfBirth": "Leeland, Belgium",
+  "description": "Kelly is a blue-eyed llama with brown hair, standing 161 cm tall. Originally from Leeland, Belgium, Kelly enjoys gardening, singing, reading. Known for their friendly and playful personality, Kelly is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "684083aa-07d0-4724-aa17-7dbdbfc0dccc",
+    "relationship": "aunt"
+  }
+}

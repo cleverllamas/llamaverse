@@ -1,0 +1,15 @@
+{
+  "id": "01b388ac-b3a8-43ec-90a1-7d32da04f3e0",
+  "name": "Jeffrey",
+  "heightCm": 142,
+  "weightKg": 189,
+  "eyeColor": "Brown",
+  "hairColor": "Gray",
+  "breed": "Hybrid",
+  "placeOfBirth": "Leahland, Sierra Leone",
+  "description": "Jeffrey is a brown-eyed llama with gray hair, standing 142 cm tall. Originally from Leahland, Sierra Leone, Jeffrey enjoys singing, wood carving, painting. Known for their energetic and calm personality, Jeffrey is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "dbd0c001-41f9-4b24-b732-1a82554f3102",
+    "relationship": "uncle"
+  }
+}

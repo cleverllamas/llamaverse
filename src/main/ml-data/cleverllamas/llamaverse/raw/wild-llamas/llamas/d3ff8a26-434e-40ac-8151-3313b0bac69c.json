@@ -1,0 +1,15 @@
+{
+  "id": "d3ff8a26-434e-40ac-8151-3313b0bac69c",
+  "name": "John",
+  "heightCm": 186,
+  "weightKg": 172,
+  "eyeColor": "Brown",
+  "hairColor": "Blonde",
+  "breed": "Suri",
+  "placeOfBirth": "Laurenton, United Kingdom",
+  "description": "John is a brown-eyed llama with blonde hair, standing 186 cm tall. Originally from Laurenton, United Kingdom, John enjoys gardening, wood carving, cooking. Known for their mischievous and energetic personality, John is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "85863847-8092-438f-9a11-a3223a9a2dc0",
+    "relationship": "third cousin twice removed"
+  }
+}

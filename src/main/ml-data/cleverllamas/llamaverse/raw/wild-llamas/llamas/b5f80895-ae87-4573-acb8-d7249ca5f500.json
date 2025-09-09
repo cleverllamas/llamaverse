@@ -1,0 +1,15 @@
+{
+  "id": "b5f80895-ae87-4573-acb8-d7249ca5f500",
+  "name": "Sara",
+  "heightCm": 102,
+  "weightKg": 164,
+  "eyeColor": "Green",
+  "hairColor": "Gray",
+  "breed": "Suri",
+  "placeOfBirth": "West Kristin, Nicaragua",
+  "description": "Sara is a green-eyed llama with gray hair, standing 102 cm tall. Originally from West Kristin, Nicaragua, Sara enjoys wood carving, painting, singing. Known for their playful and energetic personality, Sara is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "3e1990d6-b8b8-479d-8684-06c24c1f1d3d",
+    "relationship": "third cousin twice removed"
+  }
+}

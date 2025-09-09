@@ -1,0 +1,15 @@
+{
+  "id": "fb861760-5ba6-4380-8056-901dffffe9af",
+  "name": "Mark",
+  "heightCm": 151,
+  "weightKg": 195,
+  "eyeColor": "Amber",
+  "hairColor": "Blonde",
+  "breed": "Huacaya",
+  "placeOfBirth": "Port Peter, Denmark",
+  "description": "Mark is a amber-eyed llama with blonde hair, standing 151 cm tall. Originally from Port Peter, Denmark, Mark enjoys wood carving, dancing, reading. Known for their calm and calm personality, Mark is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "4995c1ab-e05b-4e57-889d-63fd1ad90999",
+    "relationship": "sister"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "235e3737-02ab-45b8-86c0-fecacb714dd1",
+  "name": "William",
+  "heightCm": 189,
+  "weightKg": 163,
+  "eyeColor": "Green",
+  "hairColor": "White",
+  "breed": "Suri",
+  "placeOfBirth": "North Geraldtown, Lao People's Democratic Republic",
+  "description": "William is a green-eyed llama with white hair, standing 189 cm tall. Originally from North Geraldtown, Lao People's Democratic Republic, William enjoys cooking, knitting, wood carving. Known for their mischievous and curious personality, William is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "7d5f5cb6-52c9-4876-bdd4-756f8dd1c702",
+    "relationship": "15th cousin 9th removed"
+  }
+}

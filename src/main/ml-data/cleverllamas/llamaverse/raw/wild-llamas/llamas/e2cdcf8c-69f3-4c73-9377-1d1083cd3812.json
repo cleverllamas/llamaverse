@@ -1,0 +1,15 @@
+{
+  "id": "e2cdcf8c-69f3-4c73-9377-1d1083cd3812",
+  "name": "Kathleen",
+  "heightCm": 105,
+  "weightKg": 165,
+  "eyeColor": "Hazel",
+  "hairColor": "White",
+  "breed": "Suri",
+  "placeOfBirth": "Blackwellshire, Lao People's Democratic Republic",
+  "description": "Kathleen is a hazel-eyed llama with white hair, standing 105 cm tall. Originally from Blackwellshire, Lao People's Democratic Republic, Kathleen enjoys painting, reading, dancing. Known for their friendly and mischievous personality, Kathleen is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "41105276-011a-41f7-839e-c91189a9f356",
+    "relationship": "15th cousin 9th removed"
+  }
+}

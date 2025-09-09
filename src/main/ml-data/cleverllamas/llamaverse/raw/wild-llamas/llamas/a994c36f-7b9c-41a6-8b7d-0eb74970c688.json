@@ -1,0 +1,15 @@
+{
+  "id": "a994c36f-7b9c-41a6-8b7d-0eb74970c688",
+  "name": "Elizabeth",
+  "heightCm": 182,
+  "weightKg": 158,
+  "eyeColor": "Brown",
+  "hairColor": "Blonde",
+  "breed": "Huacaya",
+  "placeOfBirth": "Tanyaton, United States Virgin Islands",
+  "description": "Elizabeth is a brown-eyed llama with blonde hair, standing 182 cm tall. Originally from Tanyaton, United States Virgin Islands, Elizabeth enjoys cooking, singing, reading. Known for their mischievous and friendly personality, Elizabeth is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "93478213-3bd8-4362-99e2-818517b2bf67",
+    "relationship": "mother"
+  }
+}

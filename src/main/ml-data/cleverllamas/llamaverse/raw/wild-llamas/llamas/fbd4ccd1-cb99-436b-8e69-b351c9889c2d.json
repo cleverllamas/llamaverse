@@ -1,0 +1,15 @@
+{
+  "id": "fbd4ccd1-cb99-436b-8e69-b351c9889c2d",
+  "name": "Kathy",
+  "heightCm": 162,
+  "weightKg": 159,
+  "eyeColor": "Blue",
+  "hairColor": "Silver",
+  "breed": "Huacaya",
+  "placeOfBirth": "Daviston, Antarctica (the territory South of 60 deg S)",
+  "description": "Kathy is a blue-eyed llama with silver hair, standing 162 cm tall. Originally from Daviston, Antarctica (the territory South of 60 deg S), Kathy enjoys dancing, reading, cooking. Known for their gentle and energetic personality, Kathy is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "a8d7f11e-22c3-4ab3-b88c-4bd568c325c9",
+    "relationship": "third cousin twice removed"
+  }
+}

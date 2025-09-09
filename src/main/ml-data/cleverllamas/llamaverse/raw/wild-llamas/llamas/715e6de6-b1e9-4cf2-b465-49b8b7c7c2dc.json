@@ -1,0 +1,15 @@
+{
+  "id": "715e6de6-b1e9-4cf2-b465-49b8b7c7c2dc",
+  "name": "Jacob",
+  "heightCm": 103,
+  "weightKg": 181,
+  "eyeColor": "Brown",
+  "hairColor": "Black",
+  "breed": "Huacaya",
+  "placeOfBirth": "East Anthony, Slovenia",
+  "description": "Jacob is a brown-eyed llama with black hair, standing 103 cm tall. Originally from East Anthony, Slovenia, Jacob enjoys cooking, knitting, gardening. Known for their energetic and gentle personality, Jacob is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "74e5a988-2b90-4c4d-a5b5-80c3857cc0ba",
+    "relationship": "sister"
+  }
+}

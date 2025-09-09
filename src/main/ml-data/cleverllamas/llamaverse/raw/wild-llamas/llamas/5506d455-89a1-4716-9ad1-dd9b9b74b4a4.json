@@ -1,0 +1,15 @@
+{
+  "id": "5506d455-89a1-4716-9ad1-dd9b9b74b4a4",
+  "name": "Hayley",
+  "heightCm": 131,
+  "weightKg": 144,
+  "eyeColor": "Brown",
+  "hairColor": "Blonde",
+  "breed": "Hybrid",
+  "placeOfBirth": "Sanchezfurt, Serbia",
+  "description": "Hayley is a brown-eyed llama with blonde hair, standing 131 cm tall. Originally from Sanchezfurt, Serbia, Hayley enjoys painting, gardening, wood carving. Known for their curious and calm personality, Hayley is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "0ae009db-aa94-4dce-966e-867702621afc",
+    "relationship": "father"
+  }
+}

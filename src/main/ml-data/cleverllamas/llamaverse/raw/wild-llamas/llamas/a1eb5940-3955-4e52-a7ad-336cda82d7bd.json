@@ -1,0 +1,15 @@
+{
+  "id": "a1eb5940-3955-4e52-a7ad-336cda82d7bd",
+  "name": "James",
+  "heightCm": 196,
+  "weightKg": 184,
+  "eyeColor": "Brown",
+  "hairColor": "Gray",
+  "breed": "Huacaya",
+  "placeOfBirth": "Spencermouth, Kyrgyz Republic",
+  "description": "James is a brown-eyed llama with gray hair, standing 196 cm tall. Originally from Spencermouth, Kyrgyz Republic, James enjoys knitting, reading, gardening. Known for their shy and gentle personality, James is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "8706c402-aff5-420d-aa46-ac9fccc7b72d",
+    "relationship": "father"
+  }
+}

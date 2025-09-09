@@ -1,0 +1,15 @@
+{
+  "id": "ab866206-7ed4-49ed-b02c-f3b691fd3c54",
+  "name": "Michael",
+  "heightCm": 147,
+  "weightKg": 146,
+  "eyeColor": "Green",
+  "hairColor": "White",
+  "breed": "Suri",
+  "placeOfBirth": "South Carriemouth, Togo",
+  "description": "Michael is a green-eyed llama with white hair, standing 147 cm tall. Originally from South Carriemouth, Togo, Michael enjoys painting, gardening, dancing. Known for their shy and gentle personality, Michael is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "09fbec24-5eba-4ef2-92ce-099e6c777e6f",
+    "relationship": "great uncle"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "b270d448-79d3-48d3-9e3a-d3a9d2f295af",
+  "name": "Maureen",
+  "heightCm": 175,
+  "weightKg": 141,
+  "eyeColor": "Hazel",
+  "hairColor": "Gray",
+  "breed": "Suri",
+  "placeOfBirth": "Sandraview, Monaco",
+  "description": "Maureen is a hazel-eyed llama with gray hair, standing 175 cm tall. Originally from Sandraview, Monaco, Maureen enjoys wood carving, gardening, cooking. Known for their gentle and playful personality, Maureen is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "95986fdb-b62a-4b90-80f9-3dd16fa6020d",
+    "relationship": "second cousin"
+  }
+}

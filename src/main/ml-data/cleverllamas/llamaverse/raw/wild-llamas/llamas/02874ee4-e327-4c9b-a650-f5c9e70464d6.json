@@ -1,0 +1,15 @@
+{
+  "id": "02874ee4-e327-4c9b-a650-f5c9e70464d6",
+  "name": "Carlos",
+  "heightCm": 142,
+  "weightKg": 165,
+  "eyeColor": "Green",
+  "hairColor": "Gray",
+  "breed": "Hybrid",
+  "placeOfBirth": "West Jill, Madagascar",
+  "description": "Carlos is a green-eyed llama with gray hair, standing 142 cm tall. Originally from West Jill, Madagascar, Carlos enjoys gardening, dancing, painting. Known for their shy and gentle personality, Carlos is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "2a7b7512-eed2-46e7-9564-8633d6d6bc69",
+    "relationship": "uncle"
+  }
+}

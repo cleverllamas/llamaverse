@@ -1,0 +1,15 @@
+{
+  "id": "16317ce1-4a9c-4352-9866-5a7235836351",
+  "name": "Daniel",
+  "heightCm": 155,
+  "weightKg": 169,
+  "eyeColor": "Amber",
+  "hairColor": "Blonde",
+  "breed": "Huacaya",
+  "placeOfBirth": "Nelsonmouth, Korea",
+  "description": "Daniel is a amber-eyed llama with blonde hair, standing 155 cm tall. Originally from Nelsonmouth, Korea, Daniel enjoys reading, wood carving, cooking. Known for their gentle and gentle personality, Daniel is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "66ab5852-83a8-40c0-bf7b-0528c7586d82",
+    "relationship": "mother"
+  }
+}

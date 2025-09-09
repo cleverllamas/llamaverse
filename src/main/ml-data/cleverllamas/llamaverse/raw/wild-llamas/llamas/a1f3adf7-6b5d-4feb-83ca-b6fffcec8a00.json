@@ -1,0 +1,15 @@
+{
+  "id": "a1f3adf7-6b5d-4feb-83ca-b6fffcec8a00",
+  "name": "Karina",
+  "heightCm": 150,
+  "weightKg": 137,
+  "eyeColor": "Amber",
+  "hairColor": "Gray",
+  "breed": "Huacaya",
+  "placeOfBirth": "Lake Becky, Ukraine",
+  "description": "Karina is a amber-eyed llama with gray hair, standing 150 cm tall. Originally from Lake Becky, Ukraine, Karina enjoys reading, gardening, dancing. Known for their calm and calm personality, Karina is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "21671675-aaef-4f81-8ee9-41f17a6053f8",
+    "relationship": "father"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "a3796b58-6310-484c-a5ee-9661468ba831",
+  "name": "Stephen",
+  "heightCm": 190,
+  "weightKg": 198,
+  "eyeColor": "Amber",
+  "hairColor": "Red",
+  "breed": "Huacaya",
+  "placeOfBirth": "New Christopherfurt, Maldives",
+  "description": "Stephen is a amber-eyed llama with red hair, standing 190 cm tall. Originally from New Christopherfurt, Maldives, Stephen enjoys cooking, dancing, reading. Known for their energetic and calm personality, Stephen is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "126c4b68-c346-4113-8928-b0b4fb1f3f97",
+    "relationship": "second cousin"
+  }
+}

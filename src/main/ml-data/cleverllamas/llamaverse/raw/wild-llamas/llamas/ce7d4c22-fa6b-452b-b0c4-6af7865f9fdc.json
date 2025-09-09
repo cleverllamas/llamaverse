@@ -1,0 +1,15 @@
+{
+  "id": "ce7d4c22-fa6b-452b-b0c4-6af7865f9fdc",
+  "name": "Sharon",
+  "heightCm": 177,
+  "weightKg": 169,
+  "eyeColor": "Hazel",
+  "hairColor": "Red",
+  "breed": "Suri",
+  "placeOfBirth": "South Jodystad, Liechtenstein",
+  "description": "Sharon is a hazel-eyed llama with red hair, standing 177 cm tall. Originally from South Jodystad, Liechtenstein, Sharon enjoys knitting, singing, cooking. Known for their energetic and mischievous personality, Sharon is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "3c1ff5ab-d324-4ede-b219-3538f807d273",
+    "relationship": "uncle"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "63ccff35-1353-4994-9303-33069aa2eaad",
+  "name": "Peter",
+  "heightCm": 182,
+  "weightKg": 166,
+  "eyeColor": "Amber",
+  "hairColor": "Gray",
+  "breed": "Hybrid",
+  "placeOfBirth": "Johnsport, Paraguay",
+  "description": "Peter is a amber-eyed llama with gray hair, standing 182 cm tall. Originally from Johnsport, Paraguay, Peter enjoys gardening, hiking, wood carving. Known for their shy and energetic personality, Peter is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "5bc49cb3-80dc-403b-8602-ed974c934218",
+    "relationship": "grandparent"
+  }
+}

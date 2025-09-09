@@ -1,0 +1,15 @@
+{
+  "id": "9405fffb-6939-4ccc-a624-d57d0156c1df",
+  "name": "Jesus",
+  "heightCm": 173,
+  "weightKg": 172,
+  "eyeColor": "Green",
+  "hairColor": "Blonde",
+  "breed": "Hybrid",
+  "placeOfBirth": "Lake Rebecca, Svalbard & Jan Mayen Islands",
+  "description": "Jesus is a green-eyed llama with blonde hair, standing 173 cm tall. Originally from Lake Rebecca, Svalbard & Jan Mayen Islands, Jesus enjoys reading, wood carving, hiking. Known for their gentle and playful personality, Jesus is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "5e18ccba-a1b8-4026-aeb0-d202131295d9",
+    "relationship": "4th cousin once removed"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "56827e2a-e767-4c11-99ea-ef4feb919f14",
+  "name": "Keith",
+  "heightCm": 101,
+  "weightKg": 132,
+  "eyeColor": "Blue",
+  "hairColor": "Red",
+  "breed": "Huacaya",
+  "placeOfBirth": "Debraland, Croatia",
+  "description": "Keith is a blue-eyed llama with red hair, standing 101 cm tall. Originally from Debraland, Croatia, Keith enjoys knitting, dancing, wood carving. Known for their gentle and shy personality, Keith is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "50b57cec-6fb9-44fd-bdc8-b80ff5c1162d",
+    "relationship": "mother"
+  }
+}

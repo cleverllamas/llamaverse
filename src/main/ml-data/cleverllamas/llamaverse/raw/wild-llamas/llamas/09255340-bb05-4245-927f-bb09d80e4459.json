@@ -1,0 +1,15 @@
+{
+  "id": "09255340-bb05-4245-927f-bb09d80e4459",
+  "name": "Deborah",
+  "heightCm": 143,
+  "weightKg": 199,
+  "eyeColor": "Blue",
+  "hairColor": "Brown",
+  "breed": "Hybrid",
+  "placeOfBirth": "Jenniferbury, Isle of Man",
+  "description": "Deborah is a blue-eyed llama with brown hair, standing 143 cm tall. Originally from Jenniferbury, Isle of Man, Deborah enjoys knitting, reading, dancing. Known for their shy and curious personality, Deborah is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "bdaeafc1-e4f8-4e44-a3c2-d5540621ccf0",
+    "relationship": "second cousin"
+  }
+}

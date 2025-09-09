@@ -1,0 +1,15 @@
+{
+  "id": "c4c41b35-6701-4c5d-afff-d3a3055b048e",
+  "name": "Calvin",
+  "heightCm": 186,
+  "weightKg": 192,
+  "eyeColor": "Hazel",
+  "hairColor": "Brown",
+  "breed": "Huacaya",
+  "placeOfBirth": "South Pamela, Sweden",
+  "description": "Calvin is a hazel-eyed llama with brown hair, standing 186 cm tall. Originally from South Pamela, Sweden, Calvin enjoys reading, wood carving, dancing. Known for their playful and gentle personality, Calvin is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "7dec2596-8a4b-4cc8-a0bb-45416b2f6297",
+    "relationship": "grandparent"
+  }
+}

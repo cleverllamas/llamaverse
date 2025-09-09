@@ -1,0 +1,15 @@
+{
+  "id": "56633496-b433-4528-b33d-66157bb220cd",
+  "name": "Jessica",
+  "heightCm": 114,
+  "weightKg": 179,
+  "eyeColor": "Blue",
+  "hairColor": "Gray",
+  "breed": "Suri",
+  "placeOfBirth": "Harrisfort, Gibraltar",
+  "description": "Jessica is a blue-eyed llama with gray hair, standing 114 cm tall. Originally from Harrisfort, Gibraltar, Jessica enjoys singing, reading, gardening. Known for their curious and friendly personality, Jessica is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "5e18ccba-a1b8-4026-aeb0-d202131295d9",
+    "relationship": "cousin"
+  }
+}

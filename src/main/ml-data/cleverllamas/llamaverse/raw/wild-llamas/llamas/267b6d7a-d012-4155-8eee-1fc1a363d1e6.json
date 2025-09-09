@@ -1,0 +1,15 @@
+{
+  "id": "267b6d7a-d012-4155-8eee-1fc1a363d1e6",
+  "name": "Nicole",
+  "heightCm": 122,
+  "weightKg": 191,
+  "eyeColor": "Green",
+  "hairColor": "Blonde",
+  "breed": "Hybrid",
+  "placeOfBirth": "East Richardstad, Libyan Arab Jamahiriya",
+  "description": "Nicole is a green-eyed llama with blonde hair, standing 122 cm tall. Originally from East Richardstad, Libyan Arab Jamahiriya, Nicole enjoys cooking, gardening, wood carving. Known for their mischievous and friendly personality, Nicole is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "b1df759a-2670-4486-9470-7c2085ba2f92",
+    "relationship": "grandparent"
+  }
+}

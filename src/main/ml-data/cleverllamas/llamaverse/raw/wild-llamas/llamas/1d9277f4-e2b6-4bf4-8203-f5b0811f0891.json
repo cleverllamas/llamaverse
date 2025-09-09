@@ -1,0 +1,15 @@
+{
+  "id": "1d9277f4-e2b6-4bf4-8203-f5b0811f0891",
+  "name": "Katherine",
+  "heightCm": 176,
+  "weightKg": 133,
+  "eyeColor": "Gray",
+  "hairColor": "Black",
+  "breed": "Suri",
+  "placeOfBirth": "New Nicole, Myanmar",
+  "description": "Katherine is a gray-eyed llama with black hair, standing 176 cm tall. Originally from New Nicole, Myanmar, Katherine enjoys wood carving, knitting, cooking. Known for their curious and mischievous personality, Katherine is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "1fce7c61-9d43-466e-a608-d01f35c3265e",
+    "relationship": "second cousin"
+  }
+}

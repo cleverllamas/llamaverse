@@ -1,0 +1,15 @@
+{
+  "id": "ea5ebbd4-fe2b-4002-b299-4ca96791177a",
+  "name": "Devin",
+  "heightCm": 101,
+  "weightKg": 200,
+  "eyeColor": "Green",
+  "hairColor": "Brown",
+  "breed": "Suri",
+  "placeOfBirth": "South Juan, Holy See (Vatican City State)",
+  "description": "Devin is a green-eyed llama with brown hair, standing 101 cm tall. Originally from South Juan, Holy See (Vatican City State), Devin enjoys singing, gardening, knitting. Known for their mischievous and energetic personality, Devin is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "1ca2c485-e9c1-46f1-82da-452e66da91e1",
+    "relationship": "great uncle"
+  }
+}

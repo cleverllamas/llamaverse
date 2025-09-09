@@ -1,0 +1,15 @@
+{
+  "id": "1d497bd3-3e0e-4e40-bc5c-b40eb7312983",
+  "name": "Ryan",
+  "heightCm": 176,
+  "weightKg": 146,
+  "eyeColor": "Brown",
+  "hairColor": "Black",
+  "breed": "Huacaya",
+  "placeOfBirth": "West Julia, Montserrat",
+  "description": "Ryan is a brown-eyed llama with black hair, standing 176 cm tall. Originally from West Julia, Montserrat, Ryan enjoys wood carving, reading, dancing. Known for their energetic and mischievous personality, Ryan is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "80d76e92-1f3d-4b04-a9c7-ae6ca26306e0",
+    "relationship": "aunt"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "7cdff952-53a6-450f-8e0b-649ccf4c486f",
+  "name": "Isabella",
+  "heightCm": 112,
+  "weightKg": 150,
+  "eyeColor": "Blue",
+  "hairColor": "Red",
+  "breed": "Hybrid",
+  "placeOfBirth": "East Phyllisstad, Congo",
+  "description": "Isabella is a blue-eyed llama with red hair, standing 112 cm tall. Originally from East Phyllisstad, Congo, Isabella enjoys wood carving, cooking, knitting. Known for their gentle and curious personality, Isabella is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "e91a2291-519d-45a6-af41-7c8d4d142382",
+    "relationship": "second cousin"
+  }
+}

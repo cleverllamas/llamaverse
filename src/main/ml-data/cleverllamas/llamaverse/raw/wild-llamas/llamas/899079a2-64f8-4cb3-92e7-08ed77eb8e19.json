@@ -1,0 +1,15 @@
+{
+  "id": "899079a2-64f8-4cb3-92e7-08ed77eb8e19",
+  "name": "Debbie",
+  "heightCm": 116,
+  "weightKg": 162,
+  "eyeColor": "Hazel",
+  "hairColor": "Gray",
+  "breed": "Hybrid",
+  "placeOfBirth": "Hancockborough, Guinea",
+  "description": "Debbie is a hazel-eyed llama with gray hair, standing 116 cm tall. Originally from Hancockborough, Guinea, Debbie enjoys dancing, cooking, reading. Known for their mischievous and curious personality, Debbie is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "8f2ec0a8-3dde-450f-a7ca-c8aaad656247",
+    "relationship": "brother"
+  }
+}

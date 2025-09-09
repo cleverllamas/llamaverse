@@ -1,0 +1,15 @@
+{
+  "id": "fdf42284-65bd-4156-a6a9-a65b9d1f3bf2",
+  "name": "Veronica",
+  "heightCm": 173,
+  "weightKg": 197,
+  "eyeColor": "Hazel",
+  "hairColor": "Brown",
+  "breed": "Suri",
+  "placeOfBirth": "Andersonfort, Swaziland",
+  "description": "Veronica is a hazel-eyed llama with brown hair, standing 173 cm tall. Originally from Andersonfort, Swaziland, Veronica enjoys dancing, wood carving, reading. Known for their shy and gentle personality, Veronica is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "e6ab4711-8083-48e2-a2cb-3611fa8a3fa4",
+    "relationship": "father"
+  }
+}

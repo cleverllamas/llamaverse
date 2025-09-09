@@ -1,0 +1,15 @@
+{
+  "id": "35111df5-76e6-494b-bdd5-260dd893ac64",
+  "name": "Nicholas",
+  "heightCm": 116,
+  "weightKg": 165,
+  "eyeColor": "Amber",
+  "hairColor": "White",
+  "breed": "Suri",
+  "placeOfBirth": "Anthonytown, Central African Republic",
+  "description": "Nicholas is a amber-eyed llama with white hair, standing 116 cm tall. Originally from Anthonytown, Central African Republic, Nicholas enjoys wood carving, cooking, singing. Known for their calm and curious personality, Nicholas is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "d433ad27-52a4-4b76-b3c5-e426c1c13b23",
+    "relationship": "sister"
+  }
+}

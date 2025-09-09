@@ -1,0 +1,15 @@
+{
+  "id": "d532edaf-ca1d-4cc1-bfc9-bf40d6fa6b1b",
+  "name": "Elizabeth",
+  "heightCm": 123,
+  "weightKg": 153,
+  "eyeColor": "Brown",
+  "hairColor": "Blonde",
+  "breed": "Suri",
+  "placeOfBirth": "Onealburgh, Denmark",
+  "description": "Elizabeth is a brown-eyed llama with blonde hair, standing 123 cm tall. Originally from Onealburgh, Denmark, Elizabeth enjoys wood carving, dancing, gardening. Known for their mischievous and shy personality, Elizabeth is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "48ebc73f-6e8d-449a-af01-d5af116daed2",
+    "relationship": "sister"
+  }
+}

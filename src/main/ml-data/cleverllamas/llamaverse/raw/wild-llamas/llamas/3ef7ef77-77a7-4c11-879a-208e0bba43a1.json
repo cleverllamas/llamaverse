@@ -1,0 +1,15 @@
+{
+  "id": "3ef7ef77-77a7-4c11-879a-208e0bba43a1",
+  "name": "Angela",
+  "heightCm": 101,
+  "weightKg": 198,
+  "eyeColor": "Hazel",
+  "hairColor": "Gray",
+  "breed": "Huacaya",
+  "placeOfBirth": "Lake Lisa, Cape Verde",
+  "description": "Angela is a hazel-eyed llama with gray hair, standing 101 cm tall. Originally from Lake Lisa, Cape Verde, Angela enjoys painting, dancing, cooking. Known for their calm and friendly personality, Angela is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "5bbcc697-46bf-43ea-a680-70823aa2e806",
+    "relationship": "15th cousin 9th removed"
+  }
+}

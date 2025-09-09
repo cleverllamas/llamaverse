@@ -1,0 +1,15 @@
+{
+  "id": "06523d82-0f5c-4137-bfea-aaca2caea861",
+  "name": "Melissa",
+  "heightCm": 132,
+  "weightKg": 189,
+  "eyeColor": "Amber",
+  "hairColor": "Black",
+  "breed": "Suri",
+  "placeOfBirth": "Sandrafurt, Tanzania",
+  "description": "Melissa is a amber-eyed llama with black hair, standing 132 cm tall. Originally from Sandrafurt, Tanzania, Melissa enjoys gardening, dancing, wood carving. Known for their calm and gentle personality, Melissa is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "ee35297c-6940-4a69-9dca-4e65e03f0188",
+    "relationship": "third cousin twice removed"
+  }
+}

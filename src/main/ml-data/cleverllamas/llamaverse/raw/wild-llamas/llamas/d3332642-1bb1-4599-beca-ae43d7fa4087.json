@@ -1,0 +1,15 @@
+{
+  "id": "d3332642-1bb1-4599-beca-ae43d7fa4087",
+  "name": "Jared",
+  "heightCm": 137,
+  "weightKg": 130,
+  "eyeColor": "Gray",
+  "hairColor": "Gray",
+  "breed": "Suri",
+  "placeOfBirth": "Gutierrezfort, Costa Rica",
+  "description": "Jared is a gray-eyed llama with gray hair, standing 137 cm tall. Originally from Gutierrezfort, Costa Rica, Jared enjoys gardening, painting, dancing. Known for their mischievous and energetic personality, Jared is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "92ec398e-99db-41d8-96c0-cc01700371a8",
+    "relationship": "great uncle"
+  }
+}

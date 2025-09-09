@@ -1,0 +1,15 @@
+{
+  "id": "e767c531-d3d8-4882-9779-60058c281556",
+  "name": "Patrick",
+  "heightCm": 104,
+  "weightKg": 167,
+  "eyeColor": "Amber",
+  "hairColor": "White",
+  "breed": "Huacaya",
+  "placeOfBirth": "North Sharonborough, Colombia",
+  "description": "Patrick is a amber-eyed llama with white hair, standing 104 cm tall. Originally from North Sharonborough, Colombia, Patrick enjoys reading, cooking, wood carving. Known for their gentle and shy personality, Patrick is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "65885e61-60e9-4254-9088-3f9e782eaadd",
+    "relationship": "uncle"
+  }
+}

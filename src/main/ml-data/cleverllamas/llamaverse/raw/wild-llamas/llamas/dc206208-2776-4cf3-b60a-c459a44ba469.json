@@ -1,0 +1,15 @@
+{
+  "id": "dc206208-2776-4cf3-b60a-c459a44ba469",
+  "name": "Jason",
+  "heightCm": 191,
+  "weightKg": 198,
+  "eyeColor": "Green",
+  "hairColor": "Gray",
+  "breed": "Huacaya",
+  "placeOfBirth": "New Daniel, Afghanistan",
+  "description": "Jason is a green-eyed llama with gray hair, standing 191 cm tall. Originally from New Daniel, Afghanistan, Jason enjoys painting, singing, reading. Known for their playful and friendly personality, Jason is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "15f599f0-bcf7-474e-82f8-ef2a6c9e932b",
+    "relationship": "cousin"
+  }
+}

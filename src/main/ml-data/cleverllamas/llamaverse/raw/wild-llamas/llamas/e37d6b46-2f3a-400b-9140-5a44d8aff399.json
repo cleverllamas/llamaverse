@@ -1,0 +1,15 @@
+{
+  "id": "e37d6b46-2f3a-400b-9140-5a44d8aff399",
+  "name": "Noah",
+  "heightCm": 136,
+  "weightKg": 182,
+  "eyeColor": "Gray",
+  "hairColor": "Silver",
+  "breed": "Huacaya",
+  "placeOfBirth": "Terryton, Cyprus",
+  "description": "Noah is a gray-eyed llama with silver hair, standing 136 cm tall. Originally from Terryton, Cyprus, Noah enjoys singing, knitting, cooking. Known for their gentle and shy personality, Noah is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "c5a6715b-312e-44bb-8fd9-f652fc07a182",
+    "relationship": "cousin"
+  }
+}

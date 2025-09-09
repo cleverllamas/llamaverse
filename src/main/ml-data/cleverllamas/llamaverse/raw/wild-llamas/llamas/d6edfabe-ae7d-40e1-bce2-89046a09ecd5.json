@@ -1,0 +1,15 @@
+{
+  "id": "d6edfabe-ae7d-40e1-bce2-89046a09ecd5",
+  "name": "Leah",
+  "heightCm": 154,
+  "weightKg": 173,
+  "eyeColor": "Amber",
+  "hairColor": "Black",
+  "breed": "Suri",
+  "placeOfBirth": "Tammyfurt, Isle of Man",
+  "description": "Leah is a amber-eyed llama with black hair, standing 154 cm tall. Originally from Tammyfurt, Isle of Man, Leah enjoys cooking, wood carving, hiking. Known for their energetic and mischievous personality, Leah is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "cab2190a-f0f9-4b24-9d52-70e29513de9c",
+    "relationship": "15th cousin 9th removed"
+  }
+}

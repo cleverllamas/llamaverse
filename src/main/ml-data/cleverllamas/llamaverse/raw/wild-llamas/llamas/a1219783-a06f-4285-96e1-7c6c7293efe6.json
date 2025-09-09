@@ -1,0 +1,15 @@
+{
+  "id": "a1219783-a06f-4285-96e1-7c6c7293efe6",
+  "name": "James",
+  "heightCm": 166,
+  "weightKg": 167,
+  "eyeColor": "Hazel",
+  "hairColor": "Brown",
+  "breed": "Huacaya",
+  "placeOfBirth": "Burgesston, Saint Vincent and the Grenadines",
+  "description": "James is a hazel-eyed llama with brown hair, standing 166 cm tall. Originally from Burgesston, Saint Vincent and the Grenadines, James enjoys wood carving, cooking, knitting. Known for their mischievous and friendly personality, James is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "f8c80ff1-4099-4e8b-a1c9-e3e5dbf575fe",
+    "relationship": "cousin"
+  }
+}

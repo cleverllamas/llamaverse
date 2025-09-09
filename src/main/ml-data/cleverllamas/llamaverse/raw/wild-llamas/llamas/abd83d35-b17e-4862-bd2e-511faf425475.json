@@ -1,0 +1,15 @@
+{
+  "id": "abd83d35-b17e-4862-bd2e-511faf425475",
+  "name": "Michael",
+  "heightCm": 155,
+  "weightKg": 200,
+  "eyeColor": "Blue",
+  "hairColor": "White",
+  "breed": "Huacaya",
+  "placeOfBirth": "West Meganside, Lesotho",
+  "description": "Michael is a blue-eyed llama with white hair, standing 155 cm tall. Originally from West Meganside, Lesotho, Michael enjoys reading, painting, knitting. Known for their curious and shy personality, Michael is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "c2a622fb-6647-4bcc-8573-facc4eb1bdea",
+    "relationship": "4th cousin once removed"
+  }
+}

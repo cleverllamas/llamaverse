@@ -1,0 +1,15 @@
+{
+  "id": "216c03ca-0000-4452-9750-34209fb6accf",
+  "name": "Daniel",
+  "heightCm": 185,
+  "weightKg": 175,
+  "eyeColor": "Gray",
+  "hairColor": "White",
+  "breed": "Huacaya",
+  "placeOfBirth": "Brendabury, French Polynesia",
+  "description": "Daniel is a gray-eyed llama with white hair, standing 185 cm tall. Originally from Brendabury, French Polynesia, Daniel enjoys knitting, singing, cooking. Known for their energetic and shy personality, Daniel is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "e05802c8-1ce0-4025-88a9-f0d6e4e54295",
+    "relationship": "4th cousin once removed"
+  }
+}

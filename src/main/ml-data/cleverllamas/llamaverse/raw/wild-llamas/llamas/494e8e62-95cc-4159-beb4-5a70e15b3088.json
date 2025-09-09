@@ -1,0 +1,15 @@
+{
+  "id": "494e8e62-95cc-4159-beb4-5a70e15b3088",
+  "name": "John",
+  "heightCm": 114,
+  "weightKg": 135,
+  "eyeColor": "Amber",
+  "hairColor": "Brown",
+  "breed": "Huacaya",
+  "placeOfBirth": "North Deborah, Lithuania",
+  "description": "John is a amber-eyed llama with brown hair, standing 114 cm tall. Originally from North Deborah, Lithuania, John enjoys dancing, gardening, knitting. Known for their mischievous and mischievous personality, John is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "d82cdf5b-d11b-4396-a577-000ab6093b5b",
+    "relationship": "brother"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "c904daff-334d-4139-a81d-6b718e051485",
+  "name": "Dawn",
+  "heightCm": 178,
+  "weightKg": 194,
+  "eyeColor": "Green",
+  "hairColor": "Brown",
+  "breed": "Hybrid",
+  "placeOfBirth": "South Tylerhaven, Macedonia",
+  "description": "Dawn is a green-eyed llama with brown hair, standing 178 cm tall. Originally from South Tylerhaven, Macedonia, Dawn enjoys painting, wood carving, reading. Known for their gentle and gentle personality, Dawn is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "72818409-0280-4f7c-ac95-957144f14a92",
+    "relationship": "mother"
+  }
+}

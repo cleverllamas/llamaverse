@@ -1,0 +1,15 @@
+{
+  "id": "8de9414b-e68e-4c3d-b085-4040f9aa6f86",
+  "name": "Amanda",
+  "heightCm": 130,
+  "weightKg": 174,
+  "eyeColor": "Blue",
+  "hairColor": "Gray",
+  "breed": "Suri",
+  "placeOfBirth": "East Willieport, Bouvet Island (Bouvetoya)",
+  "description": "Amanda is a blue-eyed llama with gray hair, standing 130 cm tall. Originally from East Willieport, Bouvet Island (Bouvetoya), Amanda enjoys painting, reading, cooking. Known for their playful and playful personality, Amanda is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "1d187353-a73c-4eaf-a0f0-85ffc9798db2",
+    "relationship": "sister"
+  }
+}

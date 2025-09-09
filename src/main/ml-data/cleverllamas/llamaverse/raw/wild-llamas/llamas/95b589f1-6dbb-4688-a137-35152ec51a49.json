@@ -1,0 +1,15 @@
+{
+  "id": "95b589f1-6dbb-4688-a137-35152ec51a49",
+  "name": "Ryan",
+  "heightCm": 116,
+  "weightKg": 178,
+  "eyeColor": "Amber",
+  "hairColor": "Gray",
+  "breed": "Hybrid",
+  "placeOfBirth": "Hughesville, Guatemala",
+  "description": "Ryan is a amber-eyed llama with gray hair, standing 116 cm tall. Originally from Hughesville, Guatemala, Ryan enjoys gardening, painting, dancing. Known for their friendly and energetic personality, Ryan is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "0bcc65f5-b7c2-41dc-8ca8-fc4e32d00635",
+    "relationship": "mother"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "da1536d9-a497-4a80-acf9-55e7f0166efe",
+  "name": "Reginald",
+  "heightCm": 172,
+  "weightKg": 133,
+  "eyeColor": "Hazel",
+  "hairColor": "Gray",
+  "breed": "Hybrid",
+  "placeOfBirth": "South Gregory, Svalbard & Jan Mayen Islands",
+  "description": "Reginald is a hazel-eyed llama with gray hair, standing 172 cm tall. Originally from South Gregory, Svalbard & Jan Mayen Islands, Reginald enjoys reading, singing, knitting. Known for their energetic and calm personality, Reginald is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "2f08fa82-70e5-4874-9987-bca21b86d3d2",
+    "relationship": "aunt"
+  }
+}

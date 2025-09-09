@@ -1,0 +1,15 @@
+{
+  "id": "a7b70df6-2004-4329-8b7f-42e90111d009",
+  "name": "Rose",
+  "heightCm": 115,
+  "weightKg": 147,
+  "eyeColor": "Green",
+  "hairColor": "Black",
+  "breed": "Suri",
+  "placeOfBirth": "Johnsonstad, Cote d'Ivoire",
+  "description": "Rose is a green-eyed llama with black hair, standing 115 cm tall. Originally from Johnsonstad, Cote d'Ivoire, Rose enjoys cooking, knitting, painting. Known for their mischievous and curious personality, Rose is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "d7cf90cc-4a1e-4f51-8b3c-030ea0410ee7",
+    "relationship": "brother"
+  }
+}

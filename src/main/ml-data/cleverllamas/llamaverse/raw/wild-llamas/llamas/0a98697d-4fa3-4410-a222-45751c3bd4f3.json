@@ -1,0 +1,15 @@
+{
+  "id": "0a98697d-4fa3-4410-a222-45751c3bd4f3",
+  "name": "Jay",
+  "heightCm": 155,
+  "weightKg": 187,
+  "eyeColor": "Gray",
+  "hairColor": "Blonde",
+  "breed": "Hybrid",
+  "placeOfBirth": "Port Parkerhaven, Guadeloupe",
+  "description": "Jay is a gray-eyed llama with blonde hair, standing 155 cm tall. Originally from Port Parkerhaven, Guadeloupe, Jay enjoys dancing, wood carving, cooking. Known for their friendly and mischievous personality, Jay is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "897ceb1f-4de0-4a4a-9076-dc33360b7320",
+    "relationship": "brother"
+  }
+}

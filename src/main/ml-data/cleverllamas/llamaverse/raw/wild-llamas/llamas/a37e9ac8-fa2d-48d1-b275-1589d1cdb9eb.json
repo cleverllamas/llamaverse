@@ -1,0 +1,15 @@
+{
+  "id": "a37e9ac8-fa2d-48d1-b275-1589d1cdb9eb",
+  "name": "Sharon",
+  "heightCm": 148,
+  "weightKg": 156,
+  "eyeColor": "Green",
+  "hairColor": "Black",
+  "breed": "Huacaya",
+  "placeOfBirth": "Martinezland, Saint Pierre and Miquelon",
+  "description": "Sharon is a green-eyed llama with black hair, standing 148 cm tall. Originally from Martinezland, Saint Pierre and Miquelon, Sharon enjoys wood carving, painting, gardening. Known for their shy and friendly personality, Sharon is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "b0b33ecd-fc1c-4f85-a3d7-8ce970f03d11",
+    "relationship": "third cousin twice removed"
+  }
+}

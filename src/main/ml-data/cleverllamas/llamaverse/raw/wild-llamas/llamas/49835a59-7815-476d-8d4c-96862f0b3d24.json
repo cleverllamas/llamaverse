@@ -1,0 +1,15 @@
+{
+  "id": "49835a59-7815-476d-8d4c-96862f0b3d24",
+  "name": "Nicholas",
+  "heightCm": 114,
+  "weightKg": 186,
+  "eyeColor": "Blue",
+  "hairColor": "White",
+  "breed": "Huacaya",
+  "placeOfBirth": "New Kathrynmouth, Pitcairn Islands",
+  "description": "Nicholas is a blue-eyed llama with white hair, standing 114 cm tall. Originally from New Kathrynmouth, Pitcairn Islands, Nicholas enjoys gardening, dancing, knitting. Known for their energetic and curious personality, Nicholas is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "62dc3180-0627-4a09-b78e-4526162eb6e6",
+    "relationship": "15th cousin 9th removed"
+  }
+}

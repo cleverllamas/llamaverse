@@ -1,0 +1,15 @@
+{
+  "id": "8527de26-58aa-43d2-8c6c-e6bae6b3849d",
+  "name": "Karen",
+  "heightCm": 120,
+  "weightKg": 161,
+  "eyeColor": "Brown",
+  "hairColor": "Gray",
+  "breed": "Hybrid",
+  "placeOfBirth": "Nicolefort, Pakistan",
+  "description": "Karen is a brown-eyed llama with gray hair, standing 120 cm tall. Originally from Nicolefort, Pakistan, Karen enjoys painting, knitting, singing. Known for their calm and curious personality, Karen is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "2a7e9cc0-bb19-43c5-9458-756c89359931",
+    "relationship": "grandparent"
+  }
+}

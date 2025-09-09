@@ -1,0 +1,15 @@
+{
+  "id": "3e779438-d569-47f3-8971-97bd8361a23b",
+  "name": "Lawrence",
+  "heightCm": 167,
+  "weightKg": 183,
+  "eyeColor": "Brown",
+  "hairColor": "Brown",
+  "breed": "Huacaya",
+  "placeOfBirth": "Walkerport, Austria",
+  "description": "Lawrence is a brown-eyed llama with brown hair, standing 167 cm tall. Originally from Walkerport, Austria, Lawrence enjoys knitting, cooking, gardening. Known for their playful and mischievous personality, Lawrence is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "cf546b57-dc6d-4e06-8f6c-c57b9e359304",
+    "relationship": "mother"
+  }
+}

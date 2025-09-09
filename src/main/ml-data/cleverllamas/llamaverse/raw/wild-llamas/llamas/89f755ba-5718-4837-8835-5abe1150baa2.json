@@ -1,0 +1,15 @@
+{
+  "id": "89f755ba-5718-4837-8835-5abe1150baa2",
+  "name": "Sandra",
+  "heightCm": 162,
+  "weightKg": 172,
+  "eyeColor": "Brown",
+  "hairColor": "White",
+  "breed": "Suri",
+  "placeOfBirth": "East Ronald, Pakistan",
+  "description": "Sandra is a brown-eyed llama with white hair, standing 162 cm tall. Originally from East Ronald, Pakistan, Sandra enjoys painting, gardening, reading. Known for their energetic and playful personality, Sandra is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "9811c301-8db5-4475-a494-96d34a482e39",
+    "relationship": "4th cousin once removed"
+  }
+}

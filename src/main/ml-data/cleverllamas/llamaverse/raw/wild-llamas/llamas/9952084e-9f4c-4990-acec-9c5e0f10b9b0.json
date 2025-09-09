@@ -1,0 +1,15 @@
+{
+  "id": "9952084e-9f4c-4990-acec-9c5e0f10b9b0",
+  "name": "Amanda",
+  "heightCm": 189,
+  "weightKg": 164,
+  "eyeColor": "Brown",
+  "hairColor": "Silver",
+  "breed": "Huacaya",
+  "placeOfBirth": "Boyerville, Portugal",
+  "description": "Amanda is a brown-eyed llama with silver hair, standing 189 cm tall. Originally from Boyerville, Portugal, Amanda enjoys reading, painting, dancing. Known for their energetic and energetic personality, Amanda is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "db5542a7-5398-411b-bf7f-7b43d0a14c2b",
+    "relationship": "aunt"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "6a673551-a9b6-4f9b-9cff-59cdf34112d4",
+  "name": "Katherine",
+  "heightCm": 165,
+  "weightKg": 160,
+  "eyeColor": "Hazel",
+  "hairColor": "Black",
+  "breed": "Hybrid",
+  "placeOfBirth": "West Kristen, British Virgin Islands",
+  "description": "Katherine is a hazel-eyed llama with black hair, standing 165 cm tall. Originally from West Kristen, British Virgin Islands, Katherine enjoys knitting, reading, hiking. Known for their shy and calm personality, Katherine is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "78225507-cbeb-46c3-bebb-c12356ec26ea",
+    "relationship": "father"
+  }
+}

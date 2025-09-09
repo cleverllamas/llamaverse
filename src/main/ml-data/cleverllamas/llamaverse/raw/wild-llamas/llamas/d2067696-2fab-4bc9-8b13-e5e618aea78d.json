@@ -1,0 +1,15 @@
+{
+  "id": "d2067696-2fab-4bc9-8b13-e5e618aea78d",
+  "name": "Caleb",
+  "heightCm": 100,
+  "weightKg": 145,
+  "eyeColor": "Brown",
+  "hairColor": "Red",
+  "breed": "Suri",
+  "placeOfBirth": "New Chasestad, Tokelau",
+  "description": "Caleb is a brown-eyed llama with red hair, standing 100 cm tall. Originally from New Chasestad, Tokelau, Caleb enjoys gardening, hiking, wood carving. Known for their calm and curious personality, Caleb is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "b1108979-2568-427a-990c-32766c6aba60",
+    "relationship": "sister"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "662472f3-487a-4cfb-8c39-bd914fe1b18c",
+  "name": "Jessica",
+  "heightCm": 114,
+  "weightKg": 151,
+  "eyeColor": "Gray",
+  "hairColor": "Black",
+  "breed": "Huacaya",
+  "placeOfBirth": "East Nicole, El Salvador",
+  "description": "Jessica is a gray-eyed llama with black hair, standing 114 cm tall. Originally from East Nicole, El Salvador, Jessica enjoys knitting, hiking, painting. Known for their curious and calm personality, Jessica is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "01f0650e-41da-4f6a-a4d3-6477394a46c1",
+    "relationship": "uncle"
+  }
+}

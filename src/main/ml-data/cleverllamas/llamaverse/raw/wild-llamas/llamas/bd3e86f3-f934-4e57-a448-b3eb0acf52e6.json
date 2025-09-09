@@ -1,0 +1,15 @@
+{
+  "id": "bd3e86f3-f934-4e57-a448-b3eb0acf52e6",
+  "name": "Harold",
+  "heightCm": 106,
+  "weightKg": 169,
+  "eyeColor": "Green",
+  "hairColor": "Brown",
+  "breed": "Huacaya",
+  "placeOfBirth": "Housemouth, Suriname",
+  "description": "Harold is a green-eyed llama with brown hair, standing 106 cm tall. Originally from Housemouth, Suriname, Harold enjoys cooking, dancing, reading. Known for their friendly and energetic personality, Harold is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "e46634f1-77ae-47ef-86b8-80a37477e41c",
+    "relationship": "cousin"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "79d2e34d-260f-4291-94a6-a7eb15eb40fa",
+  "name": "Heather",
+  "heightCm": 147,
+  "weightKg": 160,
+  "eyeColor": "Blue",
+  "hairColor": "Gray",
+  "breed": "Huacaya",
+  "placeOfBirth": "East Brianna, Australia",
+  "description": "Heather is a blue-eyed llama with gray hair, standing 147 cm tall. Originally from East Brianna, Australia, Heather enjoys hiking, singing, gardening. Known for their calm and gentle personality, Heather is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "95309f25-1bff-4aaa-a553-063c01bddd90",
+    "relationship": "15th cousin 9th removed"
+  }
+}

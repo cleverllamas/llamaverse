@@ -1,0 +1,15 @@
+{
+  "id": "e79b5aae-123b-4aea-9bc8-691684551bc9",
+  "name": "Cody",
+  "heightCm": 137,
+  "weightKg": 195,
+  "eyeColor": "Blue",
+  "hairColor": "White",
+  "breed": "Suri",
+  "placeOfBirth": "Williamsmouth, Serbia",
+  "description": "Cody is a blue-eyed llama with white hair, standing 137 cm tall. Originally from Williamsmouth, Serbia, Cody enjoys hiking, gardening, singing. Known for their playful and curious personality, Cody is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "684083aa-07d0-4724-aa17-7dbdbfc0dccc",
+    "relationship": "15th cousin 9th removed"
+  }
+}

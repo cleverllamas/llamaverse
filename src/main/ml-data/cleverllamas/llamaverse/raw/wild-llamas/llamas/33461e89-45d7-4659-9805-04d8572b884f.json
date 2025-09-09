@@ -1,0 +1,15 @@
+{
+  "id": "33461e89-45d7-4659-9805-04d8572b884f",
+  "name": "John",
+  "heightCm": 192,
+  "weightKg": 138,
+  "eyeColor": "Gray",
+  "hairColor": "Brown",
+  "breed": "Suri",
+  "placeOfBirth": "Karahaven, Bahamas",
+  "description": "John is a gray-eyed llama with brown hair, standing 192 cm tall. Originally from Karahaven, Bahamas, John enjoys reading, knitting, gardening. Known for their calm and playful personality, John is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "2b871186-a49a-4d5e-a7f9-c8085cfb6a68",
+    "relationship": "uncle"
+  }
+}

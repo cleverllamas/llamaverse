@@ -1,0 +1,15 @@
+{
+  "id": "47c3c7b4-563a-42e7-9902-9d7b2a718ca1",
+  "name": "Katrina",
+  "heightCm": 172,
+  "weightKg": 155,
+  "eyeColor": "Gray",
+  "hairColor": "Silver",
+  "breed": "Suri",
+  "placeOfBirth": "Johnberg, Morocco",
+  "description": "Katrina is a gray-eyed llama with silver hair, standing 172 cm tall. Originally from Johnberg, Morocco, Katrina enjoys cooking, knitting, hiking. Known for their playful and energetic personality, Katrina is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "1258d6df-5369-4c40-a717-fb18dff63580",
+    "relationship": "grandparent"
+  }
+}

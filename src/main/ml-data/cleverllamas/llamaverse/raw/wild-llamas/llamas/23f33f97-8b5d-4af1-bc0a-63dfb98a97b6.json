@@ -1,0 +1,15 @@
+{
+  "id": "23f33f97-8b5d-4af1-bc0a-63dfb98a97b6",
+  "name": "Matthew",
+  "heightCm": 150,
+  "weightKg": 168,
+  "eyeColor": "Gray",
+  "hairColor": "Red",
+  "breed": "Suri",
+  "placeOfBirth": "North Shannonside, Saint Helena",
+  "description": "Matthew is a gray-eyed llama with red hair, standing 150 cm tall. Originally from North Shannonside, Saint Helena, Matthew enjoys dancing, gardening, wood carving. Known for their mischievous and curious personality, Matthew is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "9e936bfe-d40c-4180-a0a1-076b70134e27",
+    "relationship": "second cousin"
+  }
+}

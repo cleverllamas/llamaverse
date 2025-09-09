@@ -1,0 +1,15 @@
+{
+  "id": "148b94e0-1d81-40f9-b02c-9d6e89433d91",
+  "name": "Anthony",
+  "heightCm": 123,
+  "weightKg": 178,
+  "eyeColor": "Gray",
+  "hairColor": "White",
+  "breed": "Hybrid",
+  "placeOfBirth": "Wigginsbury, American Samoa",
+  "description": "Anthony is a gray-eyed llama with white hair, standing 123 cm tall. Originally from Wigginsbury, American Samoa, Anthony enjoys hiking, reading, dancing. Known for their calm and playful personality, Anthony is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "2985159e-006a-45e6-958f-97bc7a0b81ed",
+    "relationship": "third cousin twice removed"
+  }
+}

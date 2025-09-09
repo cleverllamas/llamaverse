@@ -1,0 +1,15 @@
+{
+  "id": "5c5a03c2-335a-4f28-8603-56eb0d11da35",
+  "name": "Marie",
+  "heightCm": 140,
+  "weightKg": 166,
+  "eyeColor": "Brown",
+  "hairColor": "Gray",
+  "breed": "Suri",
+  "placeOfBirth": "Lake Cynthia, Suriname",
+  "description": "Marie is a brown-eyed llama with gray hair, standing 140 cm tall. Originally from Lake Cynthia, Suriname, Marie enjoys knitting, painting, gardening. Known for their energetic and friendly personality, Marie is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "fbe6e3c6-ff7c-4e1a-abf0-44cb66be97c6",
+    "relationship": "grandparent"
+  }
+}

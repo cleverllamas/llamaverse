@@ -1,0 +1,15 @@
+{
+  "id": "d6162bc0-fb4a-48f3-9395-1de96870d16a",
+  "name": "Michael",
+  "heightCm": 179,
+  "weightKg": 144,
+  "eyeColor": "Hazel",
+  "hairColor": "Black",
+  "breed": "Huacaya",
+  "placeOfBirth": "Wendyton, Burkina Faso",
+  "description": "Michael is a hazel-eyed llama with black hair, standing 179 cm tall. Originally from Wendyton, Burkina Faso, Michael enjoys gardening, cooking, dancing. Known for their friendly and energetic personality, Michael is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "2b871186-a49a-4d5e-a7f9-c8085cfb6a68",
+    "relationship": "grandparent"
+  }
+}

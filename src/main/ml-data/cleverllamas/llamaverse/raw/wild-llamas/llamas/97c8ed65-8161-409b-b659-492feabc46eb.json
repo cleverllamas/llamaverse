@@ -1,0 +1,15 @@
+{
+  "id": "97c8ed65-8161-409b-b659-492feabc46eb",
+  "name": "Jessica",
+  "heightCm": 100,
+  "weightKg": 180,
+  "eyeColor": "Amber",
+  "hairColor": "Blonde",
+  "breed": "Suri",
+  "placeOfBirth": "Moorechester, Macao",
+  "description": "Jessica is a amber-eyed llama with blonde hair, standing 100 cm tall. Originally from Moorechester, Macao, Jessica enjoys reading, dancing, cooking. Known for their energetic and energetic personality, Jessica is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "4a6131e3-fa8b-4210-9765-602ad9a8b8a6",
+    "relationship": "4th cousin once removed"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "74ba90c8-c0cd-483a-ad2b-b51d71605f56",
+  "name": "Carrie",
+  "heightCm": 118,
+  "weightKg": 153,
+  "eyeColor": "Gray",
+  "hairColor": "White",
+  "breed": "Suri",
+  "placeOfBirth": "Scottchester, Cayman Islands",
+  "description": "Carrie is a gray-eyed llama with white hair, standing 118 cm tall. Originally from Scottchester, Cayman Islands, Carrie enjoys dancing, wood carving, painting. Known for their calm and shy personality, Carrie is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "95866fa5-2830-445e-87c7-f12a9f9bf412",
+    "relationship": "cousin"
+  }
+}

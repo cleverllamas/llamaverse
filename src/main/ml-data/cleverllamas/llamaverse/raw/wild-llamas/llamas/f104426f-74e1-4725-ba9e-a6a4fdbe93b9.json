@@ -1,0 +1,15 @@
+{
+  "id": "f104426f-74e1-4725-ba9e-a6a4fdbe93b9",
+  "name": "Kyle",
+  "heightCm": 113,
+  "weightKg": 197,
+  "eyeColor": "Brown",
+  "hairColor": "White",
+  "breed": "Suri",
+  "placeOfBirth": "Catherineside, Luxembourg",
+  "description": "Kyle is a brown-eyed llama with white hair, standing 113 cm tall. Originally from Catherineside, Luxembourg, Kyle enjoys gardening, singing, hiking. Known for their calm and energetic personality, Kyle is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "7f4547a0-57a6-4ae5-a7ad-23dc0066c000",
+    "relationship": "great uncle"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "8585fe46-5bee-40aa-a5b3-619dddee4981",
+  "name": "Gina",
+  "heightCm": 195,
+  "weightKg": 187,
+  "eyeColor": "Hazel",
+  "hairColor": "Black",
+  "breed": "Huacaya",
+  "placeOfBirth": "West Edwardshire, Mauritania",
+  "description": "Gina is a hazel-eyed llama with black hair, standing 195 cm tall. Originally from West Edwardshire, Mauritania, Gina enjoys dancing, singing, hiking. Known for their mischievous and gentle personality, Gina is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "f2e5dc7c-4383-4ad7-8600-31ae6f6feab6",
+    "relationship": "great uncle"
+  }
+}

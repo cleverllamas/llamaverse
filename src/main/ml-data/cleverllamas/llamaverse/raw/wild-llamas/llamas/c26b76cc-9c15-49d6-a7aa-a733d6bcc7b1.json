@@ -1,0 +1,15 @@
+{
+  "id": "c26b76cc-9c15-49d6-a7aa-a733d6bcc7b1",
+  "name": "Michael",
+  "heightCm": 123,
+  "weightKg": 170,
+  "eyeColor": "Hazel",
+  "hairColor": "Gray",
+  "breed": "Huacaya",
+  "placeOfBirth": "East Jennifer, Uruguay",
+  "description": "Michael is a hazel-eyed llama with gray hair, standing 123 cm tall. Originally from East Jennifer, Uruguay, Michael enjoys reading, hiking, gardening. Known for their energetic and energetic personality, Michael is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "3a10cce4-c631-4baa-bb36-4bb6a2776a89",
+    "relationship": "uncle"
+  }
+}

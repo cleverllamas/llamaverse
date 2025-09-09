@@ -1,0 +1,15 @@
+{
+  "id": "400a0b2a-8f81-4b9b-b559-727fe20f3c07",
+  "name": "Cathy",
+  "heightCm": 165,
+  "weightKg": 200,
+  "eyeColor": "Hazel",
+  "hairColor": "White",
+  "breed": "Huacaya",
+  "placeOfBirth": "Wallacechester, French Southern Territories",
+  "description": "Cathy is a hazel-eyed llama with white hair, standing 165 cm tall. Originally from Wallacechester, French Southern Territories, Cathy enjoys singing, cooking, dancing. Known for their playful and mischievous personality, Cathy is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "36850fb0-a209-40f9-b640-a8e46872caa3",
+    "relationship": "4th cousin once removed"
+  }
+}

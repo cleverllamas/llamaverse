@@ -1,0 +1,15 @@
+{
+  "id": "6fa26d48-d285-4f47-a32e-d9e6c2eaf4ae",
+  "name": "Hannah",
+  "heightCm": 154,
+  "weightKg": 140,
+  "eyeColor": "Brown",
+  "hairColor": "Silver",
+  "breed": "Hybrid",
+  "placeOfBirth": "Hudsontown, Monaco",
+  "description": "Hannah is a brown-eyed llama with silver hair, standing 154 cm tall. Originally from Hudsontown, Monaco, Hannah enjoys cooking, knitting, hiking. Known for their curious and gentle personality, Hannah is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "45f16138-674c-4f80-bcb7-b3ac9e402e38",
+    "relationship": "sister"
+  }
+}

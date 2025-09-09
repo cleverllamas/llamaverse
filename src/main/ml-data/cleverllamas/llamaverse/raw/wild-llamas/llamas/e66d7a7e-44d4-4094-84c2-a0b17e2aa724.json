@@ -1,0 +1,15 @@
+{
+  "id": "e66d7a7e-44d4-4094-84c2-a0b17e2aa724",
+  "name": "Kelly",
+  "heightCm": 133,
+  "weightKg": 185,
+  "eyeColor": "Gray",
+  "hairColor": "White",
+  "breed": "Hybrid",
+  "placeOfBirth": "Gibsonton, Malaysia",
+  "description": "Kelly is a gray-eyed llama with white hair, standing 133 cm tall. Originally from Gibsonton, Malaysia, Kelly enjoys cooking, singing, wood carving. Known for their friendly and calm personality, Kelly is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "da1536d9-a497-4a80-acf9-55e7f0166efe",
+    "relationship": "great uncle"
+  }
+}

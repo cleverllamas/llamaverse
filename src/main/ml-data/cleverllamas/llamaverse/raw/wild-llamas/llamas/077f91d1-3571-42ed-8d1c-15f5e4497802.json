@@ -1,0 +1,15 @@
+{
+  "id": "077f91d1-3571-42ed-8d1c-15f5e4497802",
+  "name": "Michael",
+  "heightCm": 147,
+  "weightKg": 135,
+  "eyeColor": "Gray",
+  "hairColor": "Silver",
+  "breed": "Huacaya",
+  "placeOfBirth": "West Steven, Bosnia and Herzegovina",
+  "description": "Michael is a gray-eyed llama with silver hair, standing 147 cm tall. Originally from West Steven, Bosnia and Herzegovina, Michael enjoys singing, dancing, wood carving. Known for their playful and gentle personality, Michael is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "fc012a1d-aa6f-4001-a0d3-4d8ff9727a5a",
+    "relationship": "4th cousin once removed"
+  }
+}

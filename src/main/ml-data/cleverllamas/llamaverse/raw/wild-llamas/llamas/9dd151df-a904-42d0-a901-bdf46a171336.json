@@ -1,0 +1,15 @@
+{
+  "id": "9dd151df-a904-42d0-a901-bdf46a171336",
+  "name": "Autumn",
+  "heightCm": 135,
+  "weightKg": 193,
+  "eyeColor": "Amber",
+  "hairColor": "Blonde",
+  "breed": "Suri",
+  "placeOfBirth": "Lake Kelsey, Christmas Island",
+  "description": "Autumn is a amber-eyed llama with blonde hair, standing 135 cm tall. Originally from Lake Kelsey, Christmas Island, Autumn enjoys painting, singing, wood carving. Known for their curious and energetic personality, Autumn is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "25ce0853-22a6-4768-bc82-3da4ded18ca6",
+    "relationship": "aunt"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "dcc47a2a-0871-4fce-b57a-8f679e10a33c",
+  "name": "Emily",
+  "heightCm": 127,
+  "weightKg": 144,
+  "eyeColor": "Amber",
+  "hairColor": "Gray",
+  "breed": "Suri",
+  "placeOfBirth": "Lake Michaelton, Lebanon",
+  "description": "Emily is a amber-eyed llama with gray hair, standing 127 cm tall. Originally from Lake Michaelton, Lebanon, Emily enjoys reading, singing, wood carving. Known for their mischievous and shy personality, Emily is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "40b9b0c9-74ab-4944-85b9-d081607ce1c2",
+    "relationship": "brother"
+  }
+}

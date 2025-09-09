@@ -1,0 +1,15 @@
+{
+  "id": "afc85789-7045-46b2-9db0-681812923d8b",
+  "name": "Laura",
+  "heightCm": 137,
+  "weightKg": 199,
+  "eyeColor": "Blue",
+  "hairColor": "Blonde",
+  "breed": "Huacaya",
+  "placeOfBirth": "North Victoria, Croatia",
+  "description": "Laura is a blue-eyed llama with blonde hair, standing 137 cm tall. Originally from North Victoria, Croatia, Laura enjoys knitting, dancing, painting. Known for their curious and playful personality, Laura is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "01f02cbd-8570-4c67-a926-2016bfc40b0a",
+    "relationship": "second cousin"
+  }
+}

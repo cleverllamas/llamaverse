@@ -1,0 +1,15 @@
+{
+  "id": "35e228cc-a569-43ed-8585-ce737ce87d64",
+  "name": "Erik",
+  "heightCm": 144,
+  "weightKg": 187,
+  "eyeColor": "Brown",
+  "hairColor": "Red",
+  "breed": "Huacaya",
+  "placeOfBirth": "Morenoshire, India",
+  "description": "Erik is a brown-eyed llama with red hair, standing 144 cm tall. Originally from Morenoshire, India, Erik enjoys knitting, singing, reading. Known for their mischievous and gentle personality, Erik is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "371148d6-4cc8-4277-8110-c9c4105cb3d1",
+    "relationship": "mother"
+  }
+}

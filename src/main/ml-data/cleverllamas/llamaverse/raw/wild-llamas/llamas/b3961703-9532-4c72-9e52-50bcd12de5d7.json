@@ -1,0 +1,15 @@
+{
+  "id": "b3961703-9532-4c72-9e52-50bcd12de5d7",
+  "name": "Laura",
+  "heightCm": 169,
+  "weightKg": 172,
+  "eyeColor": "Amber",
+  "hairColor": "Red",
+  "breed": "Suri",
+  "placeOfBirth": "Johnsonton, Fiji",
+  "description": "Laura is a amber-eyed llama with red hair, standing 169 cm tall. Originally from Johnsonton, Fiji, Laura enjoys dancing, reading, gardening. Known for their friendly and shy personality, Laura is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "62e74ad8-b057-49aa-b588-0df85ad415a7",
+    "relationship": "mother"
+  }
+}

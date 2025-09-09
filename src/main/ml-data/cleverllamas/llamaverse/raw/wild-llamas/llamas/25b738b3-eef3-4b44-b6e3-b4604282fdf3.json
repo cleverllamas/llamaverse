@@ -1,0 +1,15 @@
+{
+  "id": "25b738b3-eef3-4b44-b6e3-b4604282fdf3",
+  "name": "Linda",
+  "heightCm": 149,
+  "weightKg": 165,
+  "eyeColor": "Hazel",
+  "hairColor": "Blonde",
+  "breed": "Suri",
+  "placeOfBirth": "Byrdberg, Thailand",
+  "description": "Linda is a hazel-eyed llama with blonde hair, standing 149 cm tall. Originally from Byrdberg, Thailand, Linda enjoys wood carving, cooking, singing. Known for their mischievous and calm personality, Linda is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "5c45d534-c665-4b5a-8fb8-462017f6bc33",
+    "relationship": "aunt"
+  }
+}

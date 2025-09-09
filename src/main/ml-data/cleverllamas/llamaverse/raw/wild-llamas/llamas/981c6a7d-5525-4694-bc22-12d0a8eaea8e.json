@@ -1,0 +1,15 @@
+{
+  "id": "981c6a7d-5525-4694-bc22-12d0a8eaea8e",
+  "name": "Mary",
+  "heightCm": 172,
+  "weightKg": 181,
+  "eyeColor": "Hazel",
+  "hairColor": "Blonde",
+  "breed": "Suri",
+  "placeOfBirth": "Lindaborough, United States Virgin Islands",
+  "description": "Mary is a hazel-eyed llama with blonde hair, standing 172 cm tall. Originally from Lindaborough, United States Virgin Islands, Mary enjoys singing, dancing, hiking. Known for their playful and playful personality, Mary is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "3a72b872-c335-4d6a-a5dd-32107243ff35",
+    "relationship": "uncle"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "24dd1d01-e160-4b4b-a36d-701e3673d197",
+  "name": "Wesley",
+  "heightCm": 107,
+  "weightKg": 178,
+  "eyeColor": "Amber",
+  "hairColor": "Silver",
+  "breed": "Huacaya",
+  "placeOfBirth": "Laurafort, Iceland",
+  "description": "Wesley is a amber-eyed llama with silver hair, standing 107 cm tall. Originally from Laurafort, Iceland, Wesley enjoys painting, gardening, reading. Known for their calm and gentle personality, Wesley is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "d94b7cc6-865d-4e70-8daa-21065d095f5e",
+    "relationship": "great uncle"
+  }
+}

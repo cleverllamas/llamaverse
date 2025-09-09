@@ -1,0 +1,15 @@
+{
+  "id": "0c80f6f0-9ee7-4821-b4ea-bb8ec2ebecb4",
+  "name": "Teresa",
+  "heightCm": 157,
+  "weightKg": 197,
+  "eyeColor": "Blue",
+  "hairColor": "Blonde",
+  "breed": "Huacaya",
+  "placeOfBirth": "Port Patrick, Tunisia",
+  "description": "Teresa is a blue-eyed llama with blonde hair, standing 157 cm tall. Originally from Port Patrick, Tunisia, Teresa enjoys knitting, singing, reading. Known for their gentle and friendly personality, Teresa is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "65fa4531-40ba-4576-869e-440956cf90ec",
+    "relationship": "15th cousin 9th removed"
+  }
+}

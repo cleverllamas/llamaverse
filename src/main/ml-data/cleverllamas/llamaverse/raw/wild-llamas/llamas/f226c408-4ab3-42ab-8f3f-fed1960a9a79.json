@@ -1,0 +1,15 @@
+{
+  "id": "f226c408-4ab3-42ab-8f3f-fed1960a9a79",
+  "name": "Robert",
+  "heightCm": 187,
+  "weightKg": 173,
+  "eyeColor": "Gray",
+  "hairColor": "Silver",
+  "breed": "Hybrid",
+  "placeOfBirth": "Crawfordton, Uruguay",
+  "description": "Robert is a gray-eyed llama with silver hair, standing 187 cm tall. Originally from Crawfordton, Uruguay, Robert enjoys singing, cooking, gardening. Known for their calm and mischievous personality, Robert is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "a5d3fe7a-4b51-4514-a3e1-2a43ebb491ff",
+    "relationship": "father"
+  }
+}

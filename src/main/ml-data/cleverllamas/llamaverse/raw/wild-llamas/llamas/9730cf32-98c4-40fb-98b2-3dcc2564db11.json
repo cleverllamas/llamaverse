@@ -1,0 +1,15 @@
+{
+  "id": "9730cf32-98c4-40fb-98b2-3dcc2564db11",
+  "name": "Sarah",
+  "heightCm": 187,
+  "weightKg": 198,
+  "eyeColor": "Green",
+  "hairColor": "Brown",
+  "breed": "Suri",
+  "placeOfBirth": "Port Courtney, Monaco",
+  "description": "Sarah is a green-eyed llama with brown hair, standing 187 cm tall. Originally from Port Courtney, Monaco, Sarah enjoys knitting, reading, painting. Known for their calm and shy personality, Sarah is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "e0965a69-e972-493f-b9bd-0caaf0d87b87",
+    "relationship": "4th cousin once removed"
+  }
+}

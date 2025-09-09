@@ -1,0 +1,15 @@
+{
+  "id": "bd770709-3248-49f7-be55-3640fa5d7e7c",
+  "name": "Sandra",
+  "heightCm": 126,
+  "weightKg": 169,
+  "eyeColor": "Brown",
+  "hairColor": "Brown",
+  "breed": "Suri",
+  "placeOfBirth": "Port Mary, British Virgin Islands",
+  "description": "Sandra is a brown-eyed llama with brown hair, standing 126 cm tall. Originally from Port Mary, British Virgin Islands, Sandra enjoys gardening, hiking, reading. Known for their shy and playful personality, Sandra is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "510d1a1e-f20c-4674-9d7c-25fbe16470a1",
+    "relationship": "uncle"
+  }
+}

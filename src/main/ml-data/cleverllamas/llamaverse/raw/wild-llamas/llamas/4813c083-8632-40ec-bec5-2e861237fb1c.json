@@ -1,0 +1,15 @@
+{
+  "id": "4813c083-8632-40ec-bec5-2e861237fb1c",
+  "name": "Deborah",
+  "heightCm": 193,
+  "weightKg": 143,
+  "eyeColor": "Brown",
+  "hairColor": "Black",
+  "breed": "Suri",
+  "placeOfBirth": "New Nicole, Solomon Islands",
+  "description": "Deborah is a brown-eyed llama with black hair, standing 193 cm tall. Originally from New Nicole, Solomon Islands, Deborah enjoys gardening, hiking, reading. Known for their gentle and shy personality, Deborah is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "713b6c88-315d-40d7-9d0d-a541f0ee0338",
+    "relationship": "brother"
+  }
+}

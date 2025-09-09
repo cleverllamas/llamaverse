@@ -1,0 +1,15 @@
+{
+  "id": "b239d144-780c-42de-82da-71054ff7b632",
+  "name": "Chad",
+  "heightCm": 156,
+  "weightKg": 169,
+  "eyeColor": "Hazel",
+  "hairColor": "Blonde",
+  "breed": "Hybrid",
+  "placeOfBirth": "North Heathermouth, Central African Republic",
+  "description": "Chad is a hazel-eyed llama with blonde hair, standing 156 cm tall. Originally from North Heathermouth, Central African Republic, Chad enjoys wood carving, painting, knitting. Known for their playful and mischievous personality, Chad is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "c3887965-f4bb-458e-b7a0-175ccb19ac8e",
+    "relationship": "aunt"
+  }
+}

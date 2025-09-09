@@ -1,0 +1,15 @@
+{
+  "id": "dc1044eb-2b8e-43a3-8529-a57057a73579",
+  "name": "Janet",
+  "heightCm": 138,
+  "weightKg": 195,
+  "eyeColor": "Blue",
+  "hairColor": "White",
+  "breed": "Suri",
+  "placeOfBirth": "North Allisonside, Brazil",
+  "description": "Janet is a blue-eyed llama with white hair, standing 138 cm tall. Originally from North Allisonside, Brazil, Janet enjoys painting, wood carving, hiking. Known for their calm and shy personality, Janet is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "29625ba3-96b6-443c-9a93-ccf8a08ab36b",
+    "relationship": "third cousin twice removed"
+  }
+}

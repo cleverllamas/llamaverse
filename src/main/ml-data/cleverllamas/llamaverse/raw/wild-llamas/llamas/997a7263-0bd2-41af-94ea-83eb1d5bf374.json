@@ -1,0 +1,15 @@
+{
+  "id": "997a7263-0bd2-41af-94ea-83eb1d5bf374",
+  "name": "Wendy",
+  "heightCm": 111,
+  "weightKg": 169,
+  "eyeColor": "Green",
+  "hairColor": "Silver",
+  "breed": "Hybrid",
+  "placeOfBirth": "Paynehaven, Latvia",
+  "description": "Wendy is a green-eyed llama with silver hair, standing 111 cm tall. Originally from Paynehaven, Latvia, Wendy enjoys singing, wood carving, cooking. Known for their gentle and curious personality, Wendy is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "528c752a-05eb-4ad6-82a8-234f00e9ffab",
+    "relationship": "4th cousin once removed"
+  }
+}

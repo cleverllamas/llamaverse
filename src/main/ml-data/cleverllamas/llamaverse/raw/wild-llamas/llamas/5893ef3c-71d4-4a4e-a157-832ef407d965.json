@@ -1,0 +1,15 @@
+{
+  "id": "5893ef3c-71d4-4a4e-a157-832ef407d965",
+  "name": "Lisa",
+  "heightCm": 178,
+  "weightKg": 199,
+  "eyeColor": "Amber",
+  "hairColor": "Blonde",
+  "breed": "Hybrid",
+  "placeOfBirth": "Moodyburgh, Puerto Rico",
+  "description": "Lisa is a amber-eyed llama with blonde hair, standing 178 cm tall. Originally from Moodyburgh, Puerto Rico, Lisa enjoys singing, cooking, wood carving. Known for their energetic and playful personality, Lisa is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "74b395f0-e11f-415f-ad0b-29d431544389",
+    "relationship": "father"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "fd9fce8e-df81-4679-8c09-4b5920f4fe87",
+  "name": "Margaret",
+  "heightCm": 101,
+  "weightKg": 181,
+  "eyeColor": "Green",
+  "hairColor": "Gray",
+  "breed": "Suri",
+  "placeOfBirth": "Port Natalie, Swaziland",
+  "description": "Margaret is a green-eyed llama with gray hair, standing 101 cm tall. Originally from Port Natalie, Swaziland, Margaret enjoys reading, wood carving, dancing. Known for their mischievous and calm personality, Margaret is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "1cc5e357-1ed1-4b76-9eb5-17fff506432d",
+    "relationship": "15th cousin 9th removed"
+  }
+}

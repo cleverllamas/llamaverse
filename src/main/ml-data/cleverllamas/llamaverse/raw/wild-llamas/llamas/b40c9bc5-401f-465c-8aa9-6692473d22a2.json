@@ -1,0 +1,15 @@
+{
+  "id": "b40c9bc5-401f-465c-8aa9-6692473d22a2",
+  "name": "Christine",
+  "heightCm": 159,
+  "weightKg": 181,
+  "eyeColor": "Brown",
+  "hairColor": "Brown",
+  "breed": "Hybrid",
+  "placeOfBirth": "Lake Carolbury, Antigua and Barbuda",
+  "description": "Christine is a brown-eyed llama with brown hair, standing 159 cm tall. Originally from Lake Carolbury, Antigua and Barbuda, Christine enjoys wood carving, gardening, knitting. Known for their mischievous and curious personality, Christine is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "e1d1e7d7-fd9f-4559-ac9f-ae9023d8cdbc",
+    "relationship": "father"
+  }
+}

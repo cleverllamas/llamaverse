@@ -1,0 +1,15 @@
+{
+  "id": "192afc22-2099-41b2-905c-9dfb20190d17",
+  "name": "George",
+  "heightCm": 182,
+  "weightKg": 150,
+  "eyeColor": "Amber",
+  "hairColor": "Black",
+  "breed": "Suri",
+  "placeOfBirth": "Travischester, Isle of Man",
+  "description": "George is a amber-eyed llama with black hair, standing 182 cm tall. Originally from Travischester, Isle of Man, George enjoys knitting, singing, wood carving. Known for their shy and curious personality, George is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "4e3b37de-197b-44b1-aa9c-be6dd86f5ee5",
+    "relationship": "second cousin"
+  }
+}

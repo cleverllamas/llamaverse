@@ -1,0 +1,15 @@
+{
+  "id": "987b1c72-c422-45c8-93bf-28fadab7fdf0",
+  "name": "Jessica",
+  "heightCm": 123,
+  "weightKg": 148,
+  "eyeColor": "Blue",
+  "hairColor": "Red",
+  "breed": "Huacaya",
+  "placeOfBirth": "Palmermouth, Western Sahara",
+  "description": "Jessica is a blue-eyed llama with red hair, standing 123 cm tall. Originally from Palmermouth, Western Sahara, Jessica enjoys cooking, wood carving, reading. Known for their shy and curious personality, Jessica is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "b5f35ce1-241e-4583-bc87-8faaa4848a17",
+    "relationship": "15th cousin 9th removed"
+  }
+}

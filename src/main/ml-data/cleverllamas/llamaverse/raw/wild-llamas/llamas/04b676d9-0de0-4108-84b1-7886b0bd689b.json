@@ -1,0 +1,15 @@
+{
+  "id": "04b676d9-0de0-4108-84b1-7886b0bd689b",
+  "name": "Mark",
+  "heightCm": 169,
+  "weightKg": 145,
+  "eyeColor": "Amber",
+  "hairColor": "Silver",
+  "breed": "Hybrid",
+  "placeOfBirth": "East Rachelmouth, Costa Rica",
+  "description": "Mark is a amber-eyed llama with silver hair, standing 169 cm tall. Originally from East Rachelmouth, Costa Rica, Mark enjoys hiking, reading, gardening. Known for their playful and mischievous personality, Mark is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "05aaf3a1-e567-4eae-8dc8-e9c27c6a2a37",
+    "relationship": "grandparent"
+  }
+}

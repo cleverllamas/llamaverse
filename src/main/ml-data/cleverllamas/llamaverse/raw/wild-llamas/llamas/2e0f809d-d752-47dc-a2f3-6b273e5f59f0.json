@@ -1,0 +1,15 @@
+{
+  "id": "2e0f809d-d752-47dc-a2f3-6b273e5f59f0",
+  "name": "Joel",
+  "heightCm": 101,
+  "weightKg": 138,
+  "eyeColor": "Gray",
+  "hairColor": "Silver",
+  "breed": "Huacaya",
+  "placeOfBirth": "Derrickport, Mauritania",
+  "description": "Joel is a gray-eyed llama with silver hair, standing 101 cm tall. Originally from Derrickport, Mauritania, Joel enjoys dancing, knitting, hiking. Known for their calm and shy personality, Joel is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "3327bbf3-e2ba-4222-9a44-a16e48a21655",
+    "relationship": "mother"
+  }
+}

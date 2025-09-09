@@ -1,0 +1,15 @@
+{
+  "id": "346d4365-f0f7-44df-8f03-a1ce916fbcd6",
+  "name": "Abigail",
+  "heightCm": 138,
+  "weightKg": 156,
+  "eyeColor": "Brown",
+  "hairColor": "Black",
+  "breed": "Hybrid",
+  "placeOfBirth": "Jessicafurt, Andorra",
+  "description": "Abigail is a brown-eyed llama with black hair, standing 138 cm tall. Originally from Jessicafurt, Andorra, Abigail enjoys wood carving, cooking, dancing. Known for their energetic and mischievous personality, Abigail is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "72d7973d-70eb-42f3-b863-3fee1d6d93cc",
+    "relationship": "4th cousin once removed"
+  }
+}

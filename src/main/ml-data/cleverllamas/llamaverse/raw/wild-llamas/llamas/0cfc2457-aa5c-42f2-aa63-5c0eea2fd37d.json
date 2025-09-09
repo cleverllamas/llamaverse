@@ -1,0 +1,15 @@
+{
+  "id": "0cfc2457-aa5c-42f2-aa63-5c0eea2fd37d",
+  "name": "Bryan",
+  "heightCm": 147,
+  "weightKg": 197,
+  "eyeColor": "Gray",
+  "hairColor": "Silver",
+  "breed": "Hybrid",
+  "placeOfBirth": "West Victoria, Isle of Man",
+  "description": "Bryan is a gray-eyed llama with silver hair, standing 147 cm tall. Originally from West Victoria, Isle of Man, Bryan enjoys cooking, gardening, dancing. Known for their energetic and playful personality, Bryan is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "ce1f43e8-bb5f-40de-ad33-0f5d5b548166",
+    "relationship": "4th cousin once removed"
+  }
+}

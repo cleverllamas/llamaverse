@@ -1,0 +1,15 @@
+{
+  "id": "c8350f88-1435-4066-a5ba-b9fd8744b24a",
+  "name": "Julie",
+  "heightCm": 112,
+  "weightKg": 137,
+  "eyeColor": "Gray",
+  "hairColor": "White",
+  "breed": "Suri",
+  "placeOfBirth": "Port Jasonchester, Qatar",
+  "description": "Julie is a gray-eyed llama with white hair, standing 112 cm tall. Originally from Port Jasonchester, Qatar, Julie enjoys cooking, wood carving, singing. Known for their friendly and gentle personality, Julie is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "d2b26e69-e7c5-4f2d-8e62-8d1821afaece",
+    "relationship": "brother"
+  }
+}

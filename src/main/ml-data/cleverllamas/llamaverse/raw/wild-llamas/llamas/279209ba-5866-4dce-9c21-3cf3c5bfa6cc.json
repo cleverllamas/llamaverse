@@ -1,0 +1,15 @@
+{
+  "id": "279209ba-5866-4dce-9c21-3cf3c5bfa6cc",
+  "name": "Anna",
+  "heightCm": 186,
+  "weightKg": 170,
+  "eyeColor": "Amber",
+  "hairColor": "Brown",
+  "breed": "Hybrid",
+  "placeOfBirth": "Willisland, Kuwait",
+  "description": "Anna is a amber-eyed llama with brown hair, standing 186 cm tall. Originally from Willisland, Kuwait, Anna enjoys gardening, hiking, knitting. Known for their gentle and gentle personality, Anna is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "9787664e-b931-48df-a2ad-5245d0b86a43",
+    "relationship": "second cousin"
+  }
+}

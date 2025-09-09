@@ -1,0 +1,15 @@
+{
+  "id": "01be86ce-b01a-42f3-9795-b182a85aa925",
+  "name": "Maureen",
+  "heightCm": 108,
+  "weightKg": 143,
+  "eyeColor": "Brown",
+  "hairColor": "Red",
+  "breed": "Huacaya",
+  "placeOfBirth": "New Carrie, Costa Rica",
+  "description": "Maureen is a brown-eyed llama with red hair, standing 108 cm tall. Originally from New Carrie, Costa Rica, Maureen enjoys painting, hiking, reading. Known for their energetic and shy personality, Maureen is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "fbd4ccd1-cb99-436b-8e69-b351c9889c2d",
+    "relationship": "sister"
+  }
+}

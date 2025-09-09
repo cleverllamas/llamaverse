@@ -1,0 +1,15 @@
+{
+  "id": "0f701182-b3c3-43a5-9716-69b9e7a6daa1",
+  "name": "Taylor",
+  "heightCm": 164,
+  "weightKg": 188,
+  "eyeColor": "Blue",
+  "hairColor": "Silver",
+  "breed": "Huacaya",
+  "placeOfBirth": "Kimberlytown, British Virgin Islands",
+  "description": "Taylor is a blue-eyed llama with silver hair, standing 164 cm tall. Originally from Kimberlytown, British Virgin Islands, Taylor enjoys singing, reading, knitting. Known for their friendly and energetic personality, Taylor is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "78225507-cbeb-46c3-bebb-c12356ec26ea",
+    "relationship": "sister"
+  }
+}

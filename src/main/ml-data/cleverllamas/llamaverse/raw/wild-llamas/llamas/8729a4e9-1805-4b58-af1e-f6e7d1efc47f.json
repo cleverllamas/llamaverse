@@ -1,0 +1,15 @@
+{
+  "id": "8729a4e9-1805-4b58-af1e-f6e7d1efc47f",
+  "name": "Brandon",
+  "heightCm": 131,
+  "weightKg": 168,
+  "eyeColor": "Amber",
+  "hairColor": "White",
+  "breed": "Huacaya",
+  "placeOfBirth": "Lake Zachary, Saint Kitts and Nevis",
+  "description": "Brandon is a amber-eyed llama with white hair, standing 131 cm tall. Originally from Lake Zachary, Saint Kitts and Nevis, Brandon enjoys painting, singing, cooking. Known for their curious and energetic personality, Brandon is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "6d4fc109-80cc-425d-aa50-970a667b1d68",
+    "relationship": "brother"
+  }
+}

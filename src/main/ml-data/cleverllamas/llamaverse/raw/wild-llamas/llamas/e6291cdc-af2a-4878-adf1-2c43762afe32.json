@@ -1,0 +1,15 @@
+{
+  "id": "e6291cdc-af2a-4878-adf1-2c43762afe32",
+  "name": "Willie",
+  "heightCm": 103,
+  "weightKg": 177,
+  "eyeColor": "Blue",
+  "hairColor": "Black",
+  "breed": "Suri",
+  "placeOfBirth": "Livingstonshire, Bangladesh",
+  "description": "Willie is a blue-eyed llama with black hair, standing 103 cm tall. Originally from Livingstonshire, Bangladesh, Willie enjoys gardening, dancing, singing. Known for their mischievous and calm personality, Willie is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "3f910f49-937e-4865-af4b-ad8a9b1d2e7b",
+    "relationship": "mother"
+  }
+}

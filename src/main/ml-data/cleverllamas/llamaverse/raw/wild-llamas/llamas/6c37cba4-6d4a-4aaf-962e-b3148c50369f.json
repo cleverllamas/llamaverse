@@ -1,0 +1,15 @@
+{
+  "id": "6c37cba4-6d4a-4aaf-962e-b3148c50369f",
+  "name": "Ashley",
+  "heightCm": 111,
+  "weightKg": 153,
+  "eyeColor": "Green",
+  "hairColor": "Blonde",
+  "breed": "Huacaya",
+  "placeOfBirth": "Michaelton, Falkland Islands (Malvinas)",
+  "description": "Ashley is a green-eyed llama with blonde hair, standing 111 cm tall. Originally from Michaelton, Falkland Islands (Malvinas), Ashley enjoys gardening, hiking, singing. Known for their curious and friendly personality, Ashley is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "371148d6-4cc8-4277-8110-c9c4105cb3d1",
+    "relationship": "4th cousin once removed"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "22ce35b9-bf01-49f5-a9be-7dcc80b671df",
+  "name": "Julie",
+  "heightCm": 180,
+  "weightKg": 162,
+  "eyeColor": "Amber",
+  "hairColor": "Blonde",
+  "breed": "Suri",
+  "placeOfBirth": "New Deanburgh, Guyana",
+  "description": "Julie is a amber-eyed llama with blonde hair, standing 180 cm tall. Originally from New Deanburgh, Guyana, Julie enjoys painting, singing, reading. Known for their playful and gentle personality, Julie is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "17c86713-a6bc-4d1b-abd2-97ada0dd2d07",
+    "relationship": "mother"
+  }
+}

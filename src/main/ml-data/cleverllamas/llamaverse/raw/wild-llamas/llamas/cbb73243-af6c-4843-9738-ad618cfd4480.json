@@ -1,0 +1,15 @@
+{
+  "id": "cbb73243-af6c-4843-9738-ad618cfd4480",
+  "name": "Ashley",
+  "heightCm": 187,
+  "weightKg": 200,
+  "eyeColor": "Green",
+  "hairColor": "Silver",
+  "breed": "Hybrid",
+  "placeOfBirth": "Danielstad, Egypt",
+  "description": "Ashley is a green-eyed llama with silver hair, standing 187 cm tall. Originally from Danielstad, Egypt, Ashley enjoys dancing, knitting, hiking. Known for their energetic and shy personality, Ashley is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "24a25bb9-b35f-48b3-b01c-d8f4a64d7a2d",
+    "relationship": "aunt"
+  }
+}

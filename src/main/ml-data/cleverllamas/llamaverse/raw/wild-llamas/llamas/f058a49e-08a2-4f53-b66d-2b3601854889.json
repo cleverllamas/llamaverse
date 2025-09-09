@@ -1,0 +1,15 @@
+{
+  "id": "f058a49e-08a2-4f53-b66d-2b3601854889",
+  "name": "Joel",
+  "heightCm": 173,
+  "weightKg": 136,
+  "eyeColor": "Gray",
+  "hairColor": "Black",
+  "breed": "Suri",
+  "placeOfBirth": "South William, Antigua and Barbuda",
+  "description": "Joel is a gray-eyed llama with black hair, standing 173 cm tall. Originally from South William, Antigua and Barbuda, Joel enjoys reading, painting, wood carving. Known for their gentle and energetic personality, Joel is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "75a8c23e-960b-41df-9be5-a0544b93301c",
+    "relationship": "4th cousin once removed"
+  }
+}

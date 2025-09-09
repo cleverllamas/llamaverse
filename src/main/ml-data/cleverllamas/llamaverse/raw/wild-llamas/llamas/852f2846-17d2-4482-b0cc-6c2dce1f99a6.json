@@ -1,0 +1,15 @@
+{
+  "id": "852f2846-17d2-4482-b0cc-6c2dce1f99a6",
+  "name": "Kaitlyn",
+  "heightCm": 107,
+  "weightKg": 132,
+  "eyeColor": "Gray",
+  "hairColor": "Silver",
+  "breed": "Huacaya",
+  "placeOfBirth": "Wellsmouth, Palestinian Territory",
+  "description": "Kaitlyn is a gray-eyed llama with silver hair, standing 107 cm tall. Originally from Wellsmouth, Palestinian Territory, Kaitlyn enjoys reading, gardening, knitting. Known for their calm and playful personality, Kaitlyn is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "c477c7e3-24fc-4744-919b-74362a9d9938",
+    "relationship": "great uncle"
+  }
+}

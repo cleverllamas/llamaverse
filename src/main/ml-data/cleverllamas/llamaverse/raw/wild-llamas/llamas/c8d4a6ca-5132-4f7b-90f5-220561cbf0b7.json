@@ -1,0 +1,15 @@
+{
+  "id": "c8d4a6ca-5132-4f7b-90f5-220561cbf0b7",
+  "name": "Jacob",
+  "heightCm": 107,
+  "weightKg": 164,
+  "eyeColor": "Hazel",
+  "hairColor": "White",
+  "breed": "Hybrid",
+  "placeOfBirth": "North Margaret, Azerbaijan",
+  "description": "Jacob is a hazel-eyed llama with white hair, standing 107 cm tall. Originally from North Margaret, Azerbaijan, Jacob enjoys reading, singing, painting. Known for their energetic and playful personality, Jacob is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "aee2fbc8-4d63-472f-b4fb-47be321e12ce",
+    "relationship": "15th cousin 9th removed"
+  }
+}

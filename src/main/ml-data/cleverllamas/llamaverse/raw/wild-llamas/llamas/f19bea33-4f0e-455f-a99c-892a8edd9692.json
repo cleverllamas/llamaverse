@@ -1,0 +1,15 @@
+{
+  "id": "f19bea33-4f0e-455f-a99c-892a8edd9692",
+  "name": "Henry",
+  "heightCm": 149,
+  "weightKg": 189,
+  "eyeColor": "Green",
+  "hairColor": "Blonde",
+  "breed": "Hybrid",
+  "placeOfBirth": "Burkeside, Suriname",
+  "description": "Henry is a green-eyed llama with blonde hair, standing 149 cm tall. Originally from Burkeside, Suriname, Henry enjoys dancing, reading, hiking. Known for their mischievous and shy personality, Henry is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "ab1d4e0b-baf3-4ea3-883b-1b023698c64c",
+    "relationship": "aunt"
+  }
+}

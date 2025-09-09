@@ -1,0 +1,15 @@
+{
+  "id": "383ab418-a78a-42dd-a711-892c6ad151be",
+  "name": "Cheryl",
+  "heightCm": 120,
+  "weightKg": 197,
+  "eyeColor": "Gray",
+  "hairColor": "Black",
+  "breed": "Hybrid",
+  "placeOfBirth": "Browntown, Sudan",
+  "description": "Cheryl is a gray-eyed llama with black hair, standing 120 cm tall. Originally from Browntown, Sudan, Cheryl enjoys painting, hiking, knitting. Known for their playful and gentle personality, Cheryl is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "ce3062cf-d8ca-419a-977c-3558073b8da9",
+    "relationship": "uncle"
+  }
+}

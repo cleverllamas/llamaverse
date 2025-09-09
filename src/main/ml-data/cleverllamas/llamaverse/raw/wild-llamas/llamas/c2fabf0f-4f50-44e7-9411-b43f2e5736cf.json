@@ -1,0 +1,15 @@
+{
+  "id": "c2fabf0f-4f50-44e7-9411-b43f2e5736cf",
+  "name": "Stacey",
+  "heightCm": 133,
+  "weightKg": 181,
+  "eyeColor": "Blue",
+  "hairColor": "Silver",
+  "breed": "Hybrid",
+  "placeOfBirth": "Port Nicholas, Indonesia",
+  "description": "Stacey is a blue-eyed llama with silver hair, standing 133 cm tall. Originally from Port Nicholas, Indonesia, Stacey enjoys knitting, cooking, singing. Known for their calm and mischievous personality, Stacey is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "9848ec35-346d-477f-902f-f97baa474dd0",
+    "relationship": "cousin"
+  }
+}

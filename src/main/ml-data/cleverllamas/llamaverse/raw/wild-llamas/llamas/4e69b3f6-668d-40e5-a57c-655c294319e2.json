@@ -1,0 +1,15 @@
+{
+  "id": "4e69b3f6-668d-40e5-a57c-655c294319e2",
+  "name": "Vanessa",
+  "heightCm": 150,
+  "weightKg": 196,
+  "eyeColor": "Brown",
+  "hairColor": "Gray",
+  "breed": "Huacaya",
+  "placeOfBirth": "Alexahaven, Benin",
+  "description": "Vanessa is a brown-eyed llama with gray hair, standing 150 cm tall. Originally from Alexahaven, Benin, Vanessa enjoys hiking, reading, singing. Known for their shy and friendly personality, Vanessa is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "bece887c-321b-496b-88d8-f8964652b617",
+    "relationship": "sister"
+  }
+}

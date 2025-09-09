@@ -1,0 +1,15 @@
+{
+  "id": "f9155e73-d9a1-4253-b13e-d39f6b6377e4",
+  "name": "Anne",
+  "heightCm": 109,
+  "weightKg": 134,
+  "eyeColor": "Hazel",
+  "hairColor": "Red",
+  "breed": "Huacaya",
+  "placeOfBirth": "East Michelemouth, United States Minor Outlying Islands",
+  "description": "Anne is a hazel-eyed llama with red hair, standing 109 cm tall. Originally from East Michelemouth, United States Minor Outlying Islands, Anne enjoys cooking, singing, wood carving. Known for their energetic and playful personality, Anne is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "a308f516-deb7-4749-9260-a4806b172e6b",
+    "relationship": "4th cousin once removed"
+  }
+}

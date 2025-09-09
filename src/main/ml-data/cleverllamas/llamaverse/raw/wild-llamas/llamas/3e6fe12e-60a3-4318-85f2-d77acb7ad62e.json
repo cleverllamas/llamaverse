@@ -1,0 +1,15 @@
+{
+  "id": "3e6fe12e-60a3-4318-85f2-d77acb7ad62e",
+  "name": "Kimberly",
+  "heightCm": 146,
+  "weightKg": 154,
+  "eyeColor": "Blue",
+  "hairColor": "Silver",
+  "breed": "Hybrid",
+  "placeOfBirth": "Port Thomasstad, Kazakhstan",
+  "description": "Kimberly is a blue-eyed llama with silver hair, standing 146 cm tall. Originally from Port Thomasstad, Kazakhstan, Kimberly enjoys singing, knitting, wood carving. Known for their playful and energetic personality, Kimberly is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "8a94f311-b68b-4d23-a3af-85d8c5f3f5bd",
+    "relationship": "father"
+  }
+}

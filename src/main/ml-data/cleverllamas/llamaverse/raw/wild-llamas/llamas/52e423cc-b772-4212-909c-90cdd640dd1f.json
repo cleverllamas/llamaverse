@@ -1,0 +1,15 @@
+{
+  "id": "52e423cc-b772-4212-909c-90cdd640dd1f",
+  "name": "Jason",
+  "heightCm": 134,
+  "weightKg": 178,
+  "eyeColor": "Blue",
+  "hairColor": "Brown",
+  "breed": "Huacaya",
+  "placeOfBirth": "Olivertown, Angola",
+  "description": "Jason is a blue-eyed llama with brown hair, standing 134 cm tall. Originally from Olivertown, Angola, Jason enjoys knitting, wood carving, singing. Known for their energetic and mischievous personality, Jason is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "817ca411-6b4f-4667-af46-9ee964e9d816",
+    "relationship": "mother"
+  }
+}

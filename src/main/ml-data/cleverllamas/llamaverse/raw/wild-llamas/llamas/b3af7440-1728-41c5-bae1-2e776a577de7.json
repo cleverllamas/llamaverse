@@ -1,0 +1,15 @@
+{
+  "id": "b3af7440-1728-41c5-bae1-2e776a577de7",
+  "name": "Matthew",
+  "heightCm": 170,
+  "weightKg": 196,
+  "eyeColor": "Brown",
+  "hairColor": "Silver",
+  "breed": "Hybrid",
+  "placeOfBirth": "Angelicaborough, Ukraine",
+  "description": "Matthew is a brown-eyed llama with silver hair, standing 170 cm tall. Originally from Angelicaborough, Ukraine, Matthew enjoys knitting, gardening, painting. Known for their calm and playful personality, Matthew is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "b0340ebd-be40-4854-975a-b5eacd0b6741",
+    "relationship": "sister"
+  }
+}

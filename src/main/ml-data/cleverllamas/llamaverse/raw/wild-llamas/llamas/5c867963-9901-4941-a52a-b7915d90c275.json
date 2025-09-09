@@ -1,0 +1,15 @@
+{
+  "id": "5c867963-9901-4941-a52a-b7915d90c275",
+  "name": "James",
+  "heightCm": 106,
+  "weightKg": 144,
+  "eyeColor": "Green",
+  "hairColor": "Brown",
+  "breed": "Hybrid",
+  "placeOfBirth": "East Brian, Timor-Leste",
+  "description": "James is a green-eyed llama with brown hair, standing 106 cm tall. Originally from East Brian, Timor-Leste, James enjoys painting, singing, wood carving. Known for their gentle and mischievous personality, James is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "b5050069-01b3-4097-a0b7-2fd2f312f603",
+    "relationship": "4th cousin once removed"
+  }
+}

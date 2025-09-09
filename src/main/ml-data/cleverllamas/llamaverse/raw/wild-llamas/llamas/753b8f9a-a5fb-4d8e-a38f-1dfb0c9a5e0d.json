@@ -1,0 +1,15 @@
+{
+  "id": "753b8f9a-a5fb-4d8e-a38f-1dfb0c9a5e0d",
+  "name": "Audrey",
+  "heightCm": 121,
+  "weightKg": 175,
+  "eyeColor": "Blue",
+  "hairColor": "Silver",
+  "breed": "Suri",
+  "placeOfBirth": "Balltown, Pakistan",
+  "description": "Audrey is a blue-eyed llama with silver hair, standing 121 cm tall. Originally from Balltown, Pakistan, Audrey enjoys knitting, cooking, painting. Known for their curious and curious personality, Audrey is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "a613c8e6-41e3-4817-b9c1-00729155c191",
+    "relationship": "uncle"
+  }
+}

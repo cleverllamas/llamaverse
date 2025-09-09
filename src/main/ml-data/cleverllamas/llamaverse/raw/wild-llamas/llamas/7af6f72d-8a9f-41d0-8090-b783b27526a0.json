@@ -1,0 +1,15 @@
+{
+  "id": "7af6f72d-8a9f-41d0-8090-b783b27526a0",
+  "name": "Paul",
+  "heightCm": 153,
+  "weightKg": 169,
+  "eyeColor": "Brown",
+  "hairColor": "Black",
+  "breed": "Suri",
+  "placeOfBirth": "Murphyhaven, Lesotho",
+  "description": "Paul is a brown-eyed llama with black hair, standing 153 cm tall. Originally from Murphyhaven, Lesotho, Paul enjoys knitting, painting, hiking. Known for their friendly and friendly personality, Paul is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "6e13c2b4-1946-4abb-b2aa-7b3ad4d11c88",
+    "relationship": "cousin"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "88a34435-b719-48ab-b677-e4c66e5f04d9",
+  "name": "Rick",
+  "heightCm": 199,
+  "weightKg": 172,
+  "eyeColor": "Amber",
+  "hairColor": "Silver",
+  "breed": "Suri",
+  "placeOfBirth": "Butlerton, Israel",
+  "description": "Rick is a amber-eyed llama with silver hair, standing 199 cm tall. Originally from Butlerton, Israel, Rick enjoys wood carving, hiking, reading. Known for their mischievous and calm personality, Rick is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "7d0f7005-ec3f-42c7-8f85-f053bee841ac",
+    "relationship": "father"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "1fe71025-bfa0-4c07-8a84-3e5c01637eb9",
+  "name": "Brian",
+  "heightCm": 183,
+  "weightKg": 174,
+  "eyeColor": "Blue",
+  "hairColor": "Gray",
+  "breed": "Huacaya",
+  "placeOfBirth": "Lake Vanessaton, French Guiana",
+  "description": "Brian is a blue-eyed llama with gray hair, standing 183 cm tall. Originally from Lake Vanessaton, French Guiana, Brian enjoys hiking, dancing, wood carving. Known for their shy and playful personality, Brian is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "bd25ab50-3009-4043-b14d-a38f56db073e",
+    "relationship": "brother"
+  }
+}

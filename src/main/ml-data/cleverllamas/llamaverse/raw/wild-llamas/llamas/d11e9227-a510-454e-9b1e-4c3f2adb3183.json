@@ -1,0 +1,15 @@
+{
+  "id": "d11e9227-a510-454e-9b1e-4c3f2adb3183",
+  "name": "Anthony",
+  "heightCm": 148,
+  "weightKg": 199,
+  "eyeColor": "Hazel",
+  "hairColor": "Red",
+  "breed": "Suri",
+  "placeOfBirth": "Port Paul, India",
+  "description": "Anthony is a hazel-eyed llama with red hair, standing 148 cm tall. Originally from Port Paul, India, Anthony enjoys dancing, knitting, cooking. Known for their calm and curious personality, Anthony is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "b751e524-da93-4b4c-bfaf-e0aa84af321c",
+    "relationship": "15th cousin 9th removed"
+  }
+}

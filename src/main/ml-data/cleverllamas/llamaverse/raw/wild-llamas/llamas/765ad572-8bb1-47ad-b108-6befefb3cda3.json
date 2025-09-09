@@ -1,0 +1,15 @@
+{
+  "id": "765ad572-8bb1-47ad-b108-6befefb3cda3",
+  "name": "Alexis",
+  "heightCm": 111,
+  "weightKg": 144,
+  "eyeColor": "Hazel",
+  "hairColor": "Black",
+  "breed": "Suri",
+  "placeOfBirth": "North Davidtown, Luxembourg",
+  "description": "Alexis is a hazel-eyed llama with black hair, standing 111 cm tall. Originally from North Davidtown, Luxembourg, Alexis enjoys painting, hiking, knitting. Known for their gentle and energetic personality, Alexis is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "04d85b8b-ee39-4920-8b12-0232d863e26b",
+    "relationship": "15th cousin 9th removed"
+  }
+}

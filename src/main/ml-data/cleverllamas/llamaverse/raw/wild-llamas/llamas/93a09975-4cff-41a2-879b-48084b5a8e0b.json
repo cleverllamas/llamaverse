@@ -1,0 +1,15 @@
+{
+  "id": "93a09975-4cff-41a2-879b-48084b5a8e0b",
+  "name": "Tyler",
+  "heightCm": 183,
+  "weightKg": 181,
+  "eyeColor": "Hazel",
+  "hairColor": "Silver",
+  "breed": "Suri",
+  "placeOfBirth": "New David, Equatorial Guinea",
+  "description": "Tyler is a hazel-eyed llama with silver hair, standing 183 cm tall. Originally from New David, Equatorial Guinea, Tyler enjoys dancing, hiking, reading. Known for their calm and playful personality, Tyler is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "96f5c7bc-9b18-483e-b4e5-e32e000611aa",
+    "relationship": "third cousin twice removed"
+  }
+}

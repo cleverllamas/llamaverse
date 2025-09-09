@@ -1,0 +1,15 @@
+{
+  "id": "6cdc6129-a474-4f30-8f26-eba4836c7453",
+  "name": "Mary",
+  "heightCm": 131,
+  "weightKg": 183,
+  "eyeColor": "Hazel",
+  "hairColor": "Silver",
+  "breed": "Hybrid",
+  "placeOfBirth": "Lake Jason, Madagascar",
+  "description": "Mary is a hazel-eyed llama with silver hair, standing 131 cm tall. Originally from Lake Jason, Madagascar, Mary enjoys hiking, painting, gardening. Known for their friendly and playful personality, Mary is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "267b6d7a-d012-4155-8eee-1fc1a363d1e6",
+    "relationship": "grandparent"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "54ed3693-b7b5-4002-b75d-10bdbe529e7c",
+  "name": "Emily",
+  "heightCm": 138,
+  "weightKg": 196,
+  "eyeColor": "Brown",
+  "hairColor": "Red",
+  "breed": "Huacaya",
+  "placeOfBirth": "Lake Laura, Syrian Arab Republic",
+  "description": "Emily is a brown-eyed llama with red hair, standing 138 cm tall. Originally from Lake Laura, Syrian Arab Republic, Emily enjoys painting, dancing, singing. Known for their shy and gentle personality, Emily is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "5355c287-47ad-4b99-a5ab-476d5929a870",
+    "relationship": "mother"
+  }
+}

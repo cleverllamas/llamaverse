@@ -1,0 +1,15 @@
+{
+  "id": "5d0c5afb-adf1-490f-a945-506eac2e1ee2",
+  "name": "Randall",
+  "heightCm": 101,
+  "weightKg": 186,
+  "eyeColor": "Amber",
+  "hairColor": "Black",
+  "breed": "Suri",
+  "placeOfBirth": "Port Brandyport, Pitcairn Islands",
+  "description": "Randall is a amber-eyed llama with black hair, standing 101 cm tall. Originally from Port Brandyport, Pitcairn Islands, Randall enjoys gardening, knitting, hiking. Known for their shy and friendly personality, Randall is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "7de9bfb2-d3ad-4647-99e8-2f3e14922bfa",
+    "relationship": "sister"
+  }
+}

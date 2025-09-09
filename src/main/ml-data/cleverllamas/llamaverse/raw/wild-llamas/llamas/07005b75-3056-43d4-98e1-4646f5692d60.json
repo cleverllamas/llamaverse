@@ -1,0 +1,15 @@
+{
+  "id": "07005b75-3056-43d4-98e1-4646f5692d60",
+  "name": "Lori",
+  "heightCm": 113,
+  "weightKg": 166,
+  "eyeColor": "Gray",
+  "hairColor": "White",
+  "breed": "Suri",
+  "placeOfBirth": "East Melinda, Pakistan",
+  "description": "Lori is a gray-eyed llama with white hair, standing 113 cm tall. Originally from East Melinda, Pakistan, Lori enjoys cooking, knitting, wood carving. Known for their playful and energetic personality, Lori is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "5ce83072-c43e-4390-beef-4c93771bd987",
+    "relationship": "uncle"
+  }
+}

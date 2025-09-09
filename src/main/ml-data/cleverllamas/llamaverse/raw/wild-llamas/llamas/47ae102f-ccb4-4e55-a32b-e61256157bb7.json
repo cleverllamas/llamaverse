@@ -1,0 +1,15 @@
+{
+  "id": "47ae102f-ccb4-4e55-a32b-e61256157bb7",
+  "name": "John",
+  "heightCm": 156,
+  "weightKg": 173,
+  "eyeColor": "Hazel",
+  "hairColor": "White",
+  "breed": "Suri",
+  "placeOfBirth": "Melanieberg, South Africa",
+  "description": "John is a hazel-eyed llama with white hair, standing 156 cm tall. Originally from Melanieberg, South Africa, John enjoys gardening, reading, wood carving. Known for their energetic and mischievous personality, John is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "b4726165-00ac-4437-b7b1-8bf40342bb31",
+    "relationship": "father"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "57c91982-613d-4e3c-918b-f96804bd4d95",
+  "name": "Cynthia",
+  "heightCm": 168,
+  "weightKg": 154,
+  "eyeColor": "Green",
+  "hairColor": "Blonde",
+  "breed": "Huacaya",
+  "placeOfBirth": "Wilsonmouth, El Salvador",
+  "description": "Cynthia is a green-eyed llama with blonde hair, standing 168 cm tall. Originally from Wilsonmouth, El Salvador, Cynthia enjoys painting, wood carving, singing. Known for their playful and gentle personality, Cynthia is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "31973e2a-749c-4a59-8b80-388972f6291e",
+    "relationship": "father"
+  }
+}

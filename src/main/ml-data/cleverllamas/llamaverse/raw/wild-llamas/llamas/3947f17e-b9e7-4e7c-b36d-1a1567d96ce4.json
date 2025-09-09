@@ -1,0 +1,15 @@
+{
+  "id": "3947f17e-b9e7-4e7c-b36d-1a1567d96ce4",
+  "name": "Jeffrey",
+  "heightCm": 159,
+  "weightKg": 165,
+  "eyeColor": "Blue",
+  "hairColor": "Blonde",
+  "breed": "Huacaya",
+  "placeOfBirth": "Lake Austin, Micronesia",
+  "description": "Jeffrey is a blue-eyed llama with blonde hair, standing 159 cm tall. Originally from Lake Austin, Micronesia, Jeffrey enjoys hiking, gardening, wood carving. Known for their mischievous and gentle personality, Jeffrey is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "ffd33344-7a50-4fc2-baa2-21d5effb3a4f",
+    "relationship": "grandparent"
+  }
+}

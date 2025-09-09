@@ -1,0 +1,15 @@
+{
+  "id": "a3bdcfe1-ffce-4c1b-b9c4-50978f9aa052",
+  "name": "Jeff",
+  "heightCm": 118,
+  "weightKg": 132,
+  "eyeColor": "Blue",
+  "hairColor": "Brown",
+  "breed": "Huacaya",
+  "placeOfBirth": "Mcguireport, Montenegro",
+  "description": "Jeff is a blue-eyed llama with brown hair, standing 118 cm tall. Originally from Mcguireport, Montenegro, Jeff enjoys cooking, singing, hiking. Known for their friendly and energetic personality, Jeff is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "2199103e-5b9a-4f78-905f-ecc7ab175b53",
+    "relationship": "cousin"
+  }
+}

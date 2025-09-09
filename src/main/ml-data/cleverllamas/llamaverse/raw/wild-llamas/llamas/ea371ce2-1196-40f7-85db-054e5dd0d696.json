@@ -1,0 +1,15 @@
+{
+  "id": "ea371ce2-1196-40f7-85db-054e5dd0d696",
+  "name": "Matthew",
+  "heightCm": 155,
+  "weightKg": 184,
+  "eyeColor": "Amber",
+  "hairColor": "Gray",
+  "breed": "Hybrid",
+  "placeOfBirth": "North Robert, Norfolk Island",
+  "description": "Matthew is a amber-eyed llama with gray hair, standing 155 cm tall. Originally from North Robert, Norfolk Island, Matthew enjoys dancing, cooking, wood carving. Known for their mischievous and energetic personality, Matthew is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "9e2cb9ad-55a3-4dff-a867-dca4217b8b3c",
+    "relationship": "15th cousin 9th removed"
+  }
+}

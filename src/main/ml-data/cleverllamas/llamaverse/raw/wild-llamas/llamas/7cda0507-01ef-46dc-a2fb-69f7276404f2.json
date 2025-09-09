@@ -1,0 +1,15 @@
+{
+  "id": "7cda0507-01ef-46dc-a2fb-69f7276404f2",
+  "name": "Kimberly",
+  "heightCm": 134,
+  "weightKg": 155,
+  "eyeColor": "Brown",
+  "hairColor": "Gray",
+  "breed": "Suri",
+  "placeOfBirth": "Jeffreymouth, Cayman Islands",
+  "description": "Kimberly is a brown-eyed llama with gray hair, standing 134 cm tall. Originally from Jeffreymouth, Cayman Islands, Kimberly enjoys cooking, painting, hiking. Known for their calm and mischievous personality, Kimberly is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "bca2c854-5a06-4026-810c-23189c9669be",
+    "relationship": "aunt"
+  }
+}

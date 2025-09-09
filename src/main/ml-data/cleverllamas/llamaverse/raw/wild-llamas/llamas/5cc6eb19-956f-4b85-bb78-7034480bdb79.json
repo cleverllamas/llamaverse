@@ -1,0 +1,15 @@
+{
+  "id": "5cc6eb19-956f-4b85-bb78-7034480bdb79",
+  "name": "Dylan",
+  "heightCm": 191,
+  "weightKg": 135,
+  "eyeColor": "Green",
+  "hairColor": "White",
+  "breed": "Hybrid",
+  "placeOfBirth": "Adamfurt, Bolivia",
+  "description": "Dylan is a green-eyed llama with white hair, standing 191 cm tall. Originally from Adamfurt, Bolivia, Dylan enjoys singing, dancing, painting. Known for their calm and friendly personality, Dylan is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "e1b795b8-403a-44dd-88ed-70043ef0aab0",
+    "relationship": "aunt"
+  }
+}

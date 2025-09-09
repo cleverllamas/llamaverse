@@ -1,0 +1,15 @@
+{
+  "id": "9ebcdef2-4b94-4f96-8b27-a929545ad880",
+  "name": "Katherine",
+  "heightCm": 112,
+  "weightKg": 178,
+  "eyeColor": "Hazel",
+  "hairColor": "Brown",
+  "breed": "Hybrid",
+  "placeOfBirth": "Campbelltown, Djibouti",
+  "description": "Katherine is a hazel-eyed llama with brown hair, standing 112 cm tall. Originally from Campbelltown, Djibouti, Katherine enjoys gardening, cooking, wood carving. Known for their gentle and friendly personality, Katherine is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "262d03f5-61ba-415c-97d0-9ec735a34f6b",
+    "relationship": "mother"
+  }
+}

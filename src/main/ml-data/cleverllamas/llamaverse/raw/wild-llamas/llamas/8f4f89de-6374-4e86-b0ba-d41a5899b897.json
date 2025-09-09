@@ -1,0 +1,15 @@
+{
+  "id": "8f4f89de-6374-4e86-b0ba-d41a5899b897",
+  "name": "Brandon",
+  "heightCm": 133,
+  "weightKg": 141,
+  "eyeColor": "Brown",
+  "hairColor": "Silver",
+  "breed": "Hybrid",
+  "placeOfBirth": "East Eric, Hong Kong",
+  "description": "Brandon is a brown-eyed llama with silver hair, standing 133 cm tall. Originally from East Eric, Hong Kong, Brandon enjoys hiking, singing, dancing. Known for their curious and calm personality, Brandon is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "c8e3dc7e-dee1-43e4-8fcd-70a4d9d4ed54",
+    "relationship": "aunt"
+  }
+}

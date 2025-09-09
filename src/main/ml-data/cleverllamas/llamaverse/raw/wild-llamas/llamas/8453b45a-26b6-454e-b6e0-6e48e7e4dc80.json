@@ -1,0 +1,15 @@
+{
+  "id": "8453b45a-26b6-454e-b6e0-6e48e7e4dc80",
+  "name": "Lisa",
+  "heightCm": 160,
+  "weightKg": 136,
+  "eyeColor": "Gray",
+  "hairColor": "White",
+  "breed": "Hybrid",
+  "placeOfBirth": "East Katherineton, Cambodia",
+  "description": "Lisa is a gray-eyed llama with white hair, standing 160 cm tall. Originally from East Katherineton, Cambodia, Lisa enjoys hiking, singing, wood carving. Known for their playful and playful personality, Lisa is a beloved member of the llama community.",
+  "relatedTo": {
+    "id": "2609908d-3b87-48f9-81f5-93504d84a141",
+    "relationship": "sister"
+  }
+}
