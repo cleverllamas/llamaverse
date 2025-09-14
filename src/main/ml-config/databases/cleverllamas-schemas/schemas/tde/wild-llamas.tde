@@ -1,0 +1,69 @@
+{
+  "template": {
+    "context": "/",
+    "collections": ["wild-llamas"],
+    "rows": [
+      {
+        "schemaName": "llamaverse",
+        "viewName": "wildLlamas",
+        "columns": [
+          {
+            "name": "id",
+            "scalarType": "string",
+            "val": "id"
+          },
+          {
+            "name": "name",
+            "scalarType": "string",
+            "val": "name"
+          },
+          {
+            "name": "heightCm",
+            "scalarType": "int",
+            "val": "heightCm"
+          },
+          {
+            "name": "weightKg",
+            "scalarType": "int",
+            "val": "weightKg"
+          },
+          {
+            "name": "eyeColor",
+            "scalarType": "string",
+            "val": "eyeColor"
+          },
+          {
+            "name": "hairColor",
+            "scalarType": "string",
+            "val": "hairColor"
+          },
+          {
+            "name": "breed",
+            "scalarType": "string",
+            "val": "breed"
+          },
+          {
+            "name": "placeOfBirth",
+            "scalarType": "string",
+            "val": "placeOfBirth"
+          },
+          {
+            "name": "medicalCondition",
+            "scalarType": "string",
+            "val": "(medicalCondition/name, 'none')[last()]"
+          },
+          {
+            "name": "description",
+            "scalarType": "string",
+            "val": "description"
+          },
+          {
+            "name": "relatedTo",
+            "scalarType": "string",
+            "val": "relatedTo/id"
+          }
+        ]
+      }
+    ]
+  }
+}
