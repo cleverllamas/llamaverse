@@ -7,5 +7,6 @@
   "hairColor": "Gray",
   "breed": "Huacaya",
   "placeOfBirth": "Castilloside, Portugal",
-  "description": "John is a hazel-eyed llama with gray hair, standing 122 cm tall. Originally from Castilloside, Portugal, John enjoys cooking, singing, wood carving. Known for their friendly and gentle personality, John is a beloved member of the llama community."
+  "description": "John is a hazel-eyed llama with gray hair, standing 122 cm tall. Originally from Castilloside, Portugal, John enjoys cooking, singing, wood carving. Known for their friendly and gentle personality, John is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriborealis"
 }

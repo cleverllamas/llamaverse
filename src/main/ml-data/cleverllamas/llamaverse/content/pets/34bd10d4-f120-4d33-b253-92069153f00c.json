@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "34bd10d4-f120-4d33-b253-92069153f00c",
+        "name": "Fidget",
+        "ageYears": 11,
+        "disposition": "timid",
+        "fluffiness": 1,
+        "quirk": "believes it is being followed, correctly",
+        "speciesId": "826bb5ba-ae06-53d7-a1cc-2956b8f8e5c5",
+        "speciesCommonName": "Aardvark",
+        "speciesScientificName": "Orycteropus afer",
+        "sizeClass": "large",
+        "ownerName": "Boris",
+        "shelterId": "8d977212-e5ba-55f4-be32-882c53197b49",
+        "shelterName": "The Wool and Scales Rehabilitation Centre"
+      }
+    }
+  }
+}

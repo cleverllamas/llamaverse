@@ -7,5 +7,6 @@
   "hairColor": "Brown",
   "breed": "Huacaya",
   "placeOfBirth": "Carterton, Mozambique",
-  "description": "Charles is a blue-eyed llama with brown hair, standing 149 cm tall. Originally from Carterton, Mozambique, Charles enjoys dancing, gardening, reading. Known for their energetic and calm personality, Charles is a beloved member of the llama community."
+  "description": "Charles is a blue-eyed llama with brown hair, standing 149 cm tall. Originally from Carterton, Mozambique, Charles enjoys dancing, gardening, reading. Known for their energetic and calm personality, Charles is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_andinus"
 }

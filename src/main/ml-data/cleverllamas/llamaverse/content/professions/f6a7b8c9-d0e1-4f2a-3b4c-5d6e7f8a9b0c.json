@@ -1,0 +1,25 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "professions"
+    },
+    "instance": {
+      "professions": {
+        "id": "f6a7b8c9-d0e1-4f2a-3b4c-5d6e7f8a9b0c",
+        "title": "Marine Biologist",
+        "sector": "Science",
+        "description": "Marine biologists in the llamaverse study the oceans with a focus on how aquatic ecosystems interact with the dominant land species. A sub-field \u2014 Llamarine Biology \u2014 investigates the documented but poorly understood ability of some llamas to communicate with cetaceans. The field is growing rapidly following several high-profile discoveries off the Patagonian coast.",
+        "typicalSalaryHayBales": 29500,
+        "seniorityLevel": "Mid-Level",
+        "requiredYearsExperience": 6,
+        "keySkills": [
+          "marine ecology",
+          "cetacean communication",
+          "field research",
+          "data collection"
+        ],
+        "secretPowerAdvantage": "Leaf Dancer \u2014 improves hydrodynamic intuition"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Water Bear",
+        "sizeClass": "microscopic",
+        "fluffiness": 1,
+        "typicalDisposition": "indestructible",
+        "typicalLifespanYears": 2,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Tardigrada",
+          "class": "Eutardigrada",
+          "order": "Parachela",
+          "family": "Ramazzottiidae",
+          "genus": "Ramazzottius",
+          "species": "Ramazzottius oberhaeuseri"
+        },
+        "description": "Nearly impossible to kill. Survives vacuum, radiation, and the inside of Aaron's chess bag. Popular with llamas who want a pet that requires zero effort.",
+        "id": "7e6b0565-9435-55ff-abf9-405adc099f7b"
+      }
+    }
+  }
+}

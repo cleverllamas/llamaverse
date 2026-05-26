@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "3d279c82-b5a6-49f2-b854-ae6cef7a8bc3",
+        "name": "Fizzle",
+        "ageYears": 14,
+        "disposition": "cheerful",
+        "fluffiness": 1,
+        "quirk": "has attempted to file taxes three years in a row without opposable thumbs",
+        "speciesId": "7df28e13-e22b-525b-8182-77c51806deae",
+        "speciesCommonName": "Frilled Lizard",
+        "speciesScientificName": "Chlamydosaurus kingii",
+        "sizeClass": "medium",
+        "ownerName": "Ophelia",
+        "shelterId": "c8de3d2b-6e9a-5ed1-bda7-9a50f977ddb9",
+        "shelterName": "The Quiet Pool"
+      }
+    }
+  }
+}

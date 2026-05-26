@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Suri",
   "placeOfBirth": "East Kara, Heard Island and McDonald Islands",
-  "description": "Jasmine is a hazel-eyed llama with red hair, standing 160 cm tall. Originally from East Kara, Heard Island and McDonald Islands, Jasmine enjoys singing, hiking, reading. Known for their friendly and energetic personality, Jasmine is a beloved member of the llama community."
+  "description": "Jasmine is a hazel-eyed llama with red hair, standing 160 cm tall. Originally from East Kara, Heard Island and McDonald Islands, Jasmine enjoys singing, hiking, reading. Known for their friendly and energetic personality, Jasmine is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_surideserta"
 }

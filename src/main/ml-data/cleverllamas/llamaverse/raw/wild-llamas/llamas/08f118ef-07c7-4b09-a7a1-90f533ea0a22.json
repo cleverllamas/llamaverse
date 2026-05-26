@@ -7,5 +7,6 @@
   "hairColor": "Brown",
   "breed": "Hybrid",
   "placeOfBirth": "Baileyhaven, Antarctica (the territory South of 60 deg S)",
-  "description": "Cathy is a hazel-eyed llama with brown hair, standing 133 cm tall. Originally from Baileyhaven, Antarctica (the territory South of 60 deg S), Cathy enjoys wood carving, singing, reading. Known for their gentle and gentle personality, Cathy is a beloved member of the llama community."
+  "description": "Cathy is a hazel-eyed llama with brown hair, standing 133 cm tall. Originally from Baileyhaven, Antarctica (the territory South of 60 deg S), Cathy enjoys wood carving, singing, reading. Known for their gentle and gentle personality, Cathy is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_deserticola"
 }

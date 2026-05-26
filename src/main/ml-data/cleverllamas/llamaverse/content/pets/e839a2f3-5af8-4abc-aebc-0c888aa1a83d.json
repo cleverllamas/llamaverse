@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "e839a2f3-5af8-4abc-aebc-0c888aa1a83d",
+        "name": "Bamboozle",
+        "ageYears": 12,
+        "disposition": "stoic",
+        "fluffiness": 4,
+        "quirk": "has been composing the same symphony for eleven years",
+        "speciesId": "9932ed23-008b-54a4-b28a-7c56e3990260",
+        "speciesCommonName": "Bearded Vulture",
+        "speciesScientificName": "Gypaetus barbatus",
+        "sizeClass": "large",
+        "ownerName": "Angela",
+        "shelterId": "2770733d-7079-5abc-92e8-6a21c74559c1",
+        "shelterName": "Deep Blue Creature Sanctuary"
+      }
+    }
+  }
+}

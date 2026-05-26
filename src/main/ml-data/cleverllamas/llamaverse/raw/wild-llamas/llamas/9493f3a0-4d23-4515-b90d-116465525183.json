@@ -7,5 +7,6 @@
   "hairColor": "Gray",
   "breed": "Hybrid",
   "placeOfBirth": "Andersonville, Montserrat",
-  "description": "Courtney is a hazel-eyed llama with gray hair, standing 151 cm tall. Originally from Andersonville, Montserrat, Courtney enjoys painting, dancing, hiking. Known for their mischievous and shy personality, Courtney is a beloved member of the llama community."
+  "description": "Courtney is a hazel-eyed llama with gray hair, standing 151 cm tall. Originally from Andersonville, Montserrat, Courtney enjoys painting, dancing, hiking. Known for their mischievous and shy personality, Courtney is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriphilus"
 }

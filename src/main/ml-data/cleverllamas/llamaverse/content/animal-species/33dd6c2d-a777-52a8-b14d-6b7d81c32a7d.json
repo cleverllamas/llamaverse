@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Slow Loris",
+        "sizeClass": "small",
+        "fluffiness": 7,
+        "typicalDisposition": "deliberate",
+        "typicalLifespanYears": 20,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Mammalia",
+          "order": "Primates",
+          "family": "Lorisidae",
+          "genus": "Nycticebus",
+          "species": "Nycticebus coucang"
+        },
+        "description": "Moves with extraordinary slowness. Its venom is activated by licking a gland on its arm. Llamas who keep them take the legal permitting process extremely seriously.",
+        "id": "33dd6c2d-a777-52a8-b14d-6b7d81c32a7d"
+      }
+    }
+  }
+}

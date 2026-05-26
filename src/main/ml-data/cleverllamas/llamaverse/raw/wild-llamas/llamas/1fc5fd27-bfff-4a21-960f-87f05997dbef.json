@@ -7,5 +7,6 @@
   "hairColor": "Brown",
   "breed": "Huacaya",
   "placeOfBirth": "Brianville, Burkina Faso",
-  "description": "Bruce is a hazel-eyed llama with brown hair, standing 106 cm tall. Originally from Brianville, Burkina Faso, Bruce enjoys dancing, singing, painting. Known for their playful and calm personality, Bruce is a beloved member of the llama community."
+  "description": "Bruce is a hazel-eyed llama with brown hair, standing 106 cm tall. Originally from Brianville, Burkina Faso, Bruce enjoys dancing, singing, painting. Known for their playful and calm personality, Bruce is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_borealis"
 }

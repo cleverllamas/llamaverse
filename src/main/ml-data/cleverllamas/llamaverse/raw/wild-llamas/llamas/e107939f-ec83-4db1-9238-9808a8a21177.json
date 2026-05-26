@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Suri",
   "placeOfBirth": "Brandonton, Portugal",
-  "description": "Jonathan is a amber-eyed llama with red hair, standing 166 cm tall. Originally from Brandonton, Portugal, Jonathan enjoys singing, gardening, cooking. Known for their friendly and gentle personality, Jonathan is a beloved member of the llama community."
+  "description": "Jonathan is a amber-eyed llama with red hair, standing 166 cm tall. Originally from Brandonton, Portugal, Jonathan enjoys singing, gardening, cooking. Known for their friendly and gentle personality, Jonathan is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_vellifer"
 }

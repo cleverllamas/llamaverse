@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "bdcb3918-47a7-44b1-b7b7-ea51980cb56d",
+        "name": "Flicker",
+        "ageYears": 0,
+        "disposition": "cheerful",
+        "fluffiness": 2,
+        "quirk": "has attempted to file taxes three years in a row without opposable thumbs",
+        "speciesId": "2558e851-a3d6-51e7-9fd9-38aa2a8d795e",
+        "speciesCommonName": "Vorticella",
+        "speciesScientificName": "Vorticella convallaria",
+        "sizeClass": "microscopic",
+        "ownerName": "Bradley",
+        "shelterId": "1d1ceadd-64ed-52d5-a416-b278d95c83d1",
+        "shelterName": "The Cosy Burrow Rescue and Rehoming"
+      }
+    }
+  }
+}

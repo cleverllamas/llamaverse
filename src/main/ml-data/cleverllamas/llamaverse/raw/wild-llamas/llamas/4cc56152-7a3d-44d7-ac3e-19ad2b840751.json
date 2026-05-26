@@ -7,5 +7,6 @@
   "hairColor": "Gray",
   "breed": "Hybrid",
   "placeOfBirth": "East Kristine, Switzerland",
-  "description": "Alexandra is a blue-eyed llama with gray hair, standing 159 cm tall. Originally from East Kristine, Switzerland, Alexandra enjoys knitting, painting, cooking. Known for their calm and curious personality, Alexandra is a beloved member of the llama community."
+  "description": "Alexandra is a blue-eyed llama with gray hair, standing 159 cm tall. Originally from East Kristine, Switzerland, Alexandra enjoys knitting, painting, cooking. Known for their calm and curious personality, Alexandra is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_borealis"
 }

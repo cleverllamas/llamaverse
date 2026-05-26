@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "2a9ae93b-7163-4cbc-acf8-ef9ed7e72fcf",
+        "name": "Pringle",
+        "ageYears": 19,
+        "disposition": "aloof",
+        "fluffiness": 1,
+        "quirk": "has memorised all 88 Beethoven piano sonatas",
+        "speciesId": "bbd8c274-3adb-53ac-a054-a083bdfc43ba",
+        "speciesCommonName": "Gal\u00e1pagos Tortoise",
+        "speciesScientificName": "Chelonoidis niger",
+        "sizeClass": "gigantic",
+        "ownerName": "Isolde",
+        "shelterId": "2b312a04-c215-5098-9433-f5aab988726c",
+        "shelterName": "Apex Companions Forever"
+      }
+    }
+  }
+}

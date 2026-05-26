@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "c57b7b47-76af-46d4-a4bc-5c502e5b1749",
+        "name": "Knick",
+        "ageYears": 30,
+        "disposition": "lazy",
+        "fluffiness": 1,
+        "quirk": "only eats food arranged in symmetrical patterns",
+        "speciesId": "1520e2a9-f4e6-511c-8e08-d0a5c220b9f7",
+        "speciesCommonName": "Mata Mata Turtle",
+        "speciesScientificName": "Chelus fimbriata",
+        "sizeClass": "medium",
+        "ownerName": "Monique",
+        "shelterId": "43593191-478d-5f0a-82ec-63ff4cc4122e",
+        "shelterName": "The Patagonian Wild Wing Refuge"
+      }
+    }
+  }
+}

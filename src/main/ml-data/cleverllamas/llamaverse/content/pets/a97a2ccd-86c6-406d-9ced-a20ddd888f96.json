@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "a97a2ccd-86c6-406d-9ced-a20ddd888f96",
+        "name": "Higgledy",
+        "ageYears": 7,
+        "disposition": "aloof",
+        "fluffiness": 2,
+        "quirk": "refuses to acknowledge Mondays",
+        "speciesId": "b1ca06db-18c3-5651-9cb9-d3ffd7ab87e1",
+        "speciesCommonName": "Meerkat",
+        "speciesScientificName": "Suricata suricatta",
+        "sizeClass": "small",
+        "ownerName": "Alice",
+        "shelterId": "43593191-478d-5f0a-82ec-63ff4cc4122e",
+        "shelterName": "The Patagonian Wild Wing Refuge"
+      }
+    }
+  }
+}

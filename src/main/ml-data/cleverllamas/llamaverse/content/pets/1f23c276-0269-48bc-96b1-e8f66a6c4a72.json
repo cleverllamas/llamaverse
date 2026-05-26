@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "1f23c276-0269-48bc-96b1-e8f66a6c4a72",
+        "name": "Razzle",
+        "ageYears": 4,
+        "disposition": "mischievous",
+        "fluffiness": 1,
+        "quirk": "only communicates using interpretive movement between 9 and 10am",
+        "speciesId": "9685c463-34e2-53b7-b6c9-1be449c42eb0",
+        "speciesCommonName": "Hellbender Salamander",
+        "speciesScientificName": "Cryptobranchus alleganiensis",
+        "sizeClass": "medium",
+        "ownerName": "Boris",
+        "shelterId": "2b312a04-c215-5098-9433-f5aab988726c",
+        "shelterName": "Apex Companions Forever"
+      }
+    }
+  }
+}

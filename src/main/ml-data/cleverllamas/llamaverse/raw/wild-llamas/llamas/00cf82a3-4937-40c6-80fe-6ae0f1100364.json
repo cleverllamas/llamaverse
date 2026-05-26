@@ -7,5 +7,6 @@
   "hairColor": "White",
   "breed": "Suri",
   "placeOfBirth": "West Jeffreyside, Cuba",
-  "description": "Bonnie is a brown-eyed llama with white hair, standing 105 cm tall. Originally from West Jeffreyside, Cuba, Bonnie enjoys singing, hiking, wood carving. Known for their mischievous and playful personality, Bonnie is a beloved member of the llama community."
+  "description": "Bonnie is a brown-eyed llama with white hair, standing 105 cm tall. Originally from West Jeffreyside, Cuba, Bonnie enjoys singing, hiking, wood carving. Known for their mischievous and playful personality, Bonnie is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_andinus"
 }

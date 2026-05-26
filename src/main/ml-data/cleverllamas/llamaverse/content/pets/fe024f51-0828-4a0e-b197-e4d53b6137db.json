@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "fe024f51-0828-4a0e-b197-e4d53b6137db",
+        "name": "Bamboozle",
+        "ageYears": 2,
+        "disposition": "eccentric",
+        "fluffiness": 2,
+        "quirk": "stages elaborate fake emergencies to see who responds fastest",
+        "speciesId": "7cb9a70b-7e6e-5c08-a9c6-733ad6d71cdf",
+        "speciesCommonName": "Amano Shrimp",
+        "speciesScientificName": "Caridina multidentata",
+        "sizeClass": "tiny",
+        "ownerName": "Ashley",
+        "shelterId": "e9a0f6a9-5a3f-51a3-ae37-19773f4ac55f",
+        "shelterName": "The Archipelago Orphanage"
+      }
+    }
+  }
+}

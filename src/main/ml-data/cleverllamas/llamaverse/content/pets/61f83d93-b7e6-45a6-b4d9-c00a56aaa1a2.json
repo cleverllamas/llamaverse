@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "61f83d93-b7e6-45a6-b4d9-c00a56aaa1a2",
+        "name": "Dazzle",
+        "ageYears": 13,
+        "disposition": "erratic",
+        "fluffiness": 2,
+        "quirk": "is training for a marathon at a very leisurely pace",
+        "speciesId": "7df28e13-e22b-525b-8182-77c51806deae",
+        "speciesCommonName": "Frilled Lizard",
+        "speciesScientificName": "Chlamydosaurus kingii",
+        "sizeClass": "medium",
+        "ownerName": "Bradley",
+        "shelterId": "869456e1-451e-554f-96f2-4a54e832dd46",
+        "shelterName": "Bradley's Extreme Fauna Compound"
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "uri": "http://cleverllamas.com/llamaverse/species/Lama_glama_vellaridus",
+  "type": "Species",
+  "label": "Lama glama vellaridus",
+  "description": "Desert fluffy llamas who represent a genuine evolutionary puzzle that remains unresolved.",
+  "parentUri": "http://cleverllamas.com/llamaverse/genus/Lama",
+  "phylumKey": "Vellosa",
+  "classKey": "Aridus",
+  "speciesKey": "Lama_glama_vellaridus"
+}

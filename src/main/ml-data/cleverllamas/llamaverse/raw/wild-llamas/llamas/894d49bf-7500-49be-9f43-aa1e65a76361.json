@@ -7,5 +7,6 @@
   "hairColor": "Brown",
   "breed": "Hybrid",
   "placeOfBirth": "Courtneyland, Falkland Islands (Malvinas)",
-  "description": "Sarah is a hazel-eyed llama with brown hair, standing 146 cm tall. Originally from Courtneyland, Falkland Islands (Malvinas), Sarah enjoys cooking, reading, singing. Known for their friendly and energetic personality, Sarah is a beloved member of the llama community."
+  "description": "Sarah is a hazel-eyed llama with brown hair, standing 146 cm tall. Originally from Courtneyland, Falkland Islands (Malvinas), Sarah enjoys cooking, reading, singing. Known for their friendly and energetic personality, Sarah is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriforest"
 }

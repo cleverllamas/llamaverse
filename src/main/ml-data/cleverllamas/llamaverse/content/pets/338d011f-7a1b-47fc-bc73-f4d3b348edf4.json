@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "338d011f-7a1b-47fc-bc73-f4d3b348edf4",
+        "name": "Gurgle",
+        "ageYears": 0,
+        "disposition": "earnest",
+        "fluffiness": 1,
+        "quirk": "has been composing the same symphony for eleven years",
+        "speciesId": "cd1b4734-fd17-53fa-9eef-0f1cf776f93d",
+        "speciesCommonName": "Red-eyed Tree Frog",
+        "speciesScientificName": "Agalychnis callidryas",
+        "sizeClass": "tiny",
+        "ownerName": "Fernanda",
+        "shelterId": "1acdd953-9df4-5cad-ab5a-eb612f2e855c",
+        "shelterName": "Primate House of the Andes"
+      }
+    }
+  }
+}

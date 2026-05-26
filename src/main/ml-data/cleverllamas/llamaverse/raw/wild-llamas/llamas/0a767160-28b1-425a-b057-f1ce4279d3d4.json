@@ -7,5 +7,6 @@
   "hairColor": "Gray",
   "breed": "Huacaya",
   "placeOfBirth": "Lake Darren, Niger",
-  "description": "Joe is a amber-eyed llama with gray hair, standing 167 cm tall. Originally from Lake Darren, Niger, Joe enjoys painting, reading, hiking. Known for their gentle and energetic personality, Joe is a beloved member of the llama community."
+  "description": "Joe is a amber-eyed llama with gray hair, standing 167 cm tall. Originally from Lake Darren, Niger, Joe enjoys painting, reading, hiking. Known for their gentle and energetic personality, Joe is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_silvestris"
 }

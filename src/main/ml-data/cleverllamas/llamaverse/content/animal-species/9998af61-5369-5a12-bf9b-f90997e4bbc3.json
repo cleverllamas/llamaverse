@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "African Pygmy Hedgehog",
+        "sizeClass": "tiny",
+        "fluffiness": 3,
+        "typicalDisposition": "nocturnal",
+        "typicalLifespanYears": 5,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Mammalia",
+          "order": "Eulipotyphla",
+          "family": "Erinaceidae",
+          "genus": "Atelerix",
+          "species": "Atelerix albiventris"
+        },
+        "description": "2000 spines on its back. Anointsitself with new scents by self-licking. Llamas find this habit eccentric but non-judgeable.",
+        "id": "9998af61-5369-5a12-bf9b-f90997e4bbc3"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "e62c78e1-7ded-443a-a354-01089fd0d316",
+        "name": "Sprocket",
+        "ageYears": 14,
+        "disposition": "theatrical",
+        "fluffiness": 4,
+        "quirk": "only eats food arranged in symmetrical patterns",
+        "speciesId": "3810d075-0003-5837-a04a-661fe4fc035c",
+        "speciesCommonName": "Shoebill Stork",
+        "speciesScientificName": "Balaeniceps rex",
+        "sizeClass": "large",
+        "ownerName": "Elena",
+        "shelterId": "8d977212-e5ba-55f4-be32-882c53197b49",
+        "shelterName": "The Wool and Scales Rehabilitation Centre"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "a5d2f353-1ea2-4a8a-a2e3-f110a21d6f7f",
+        "name": "Snickerdoodle",
+        "ageYears": 18,
+        "disposition": "stoic",
+        "fluffiness": 4,
+        "quirk": "is training for a marathon at a very leisurely pace",
+        "speciesId": "3810d075-0003-5837-a04a-661fe4fc035c",
+        "speciesCommonName": "Shoebill Stork",
+        "speciesScientificName": "Balaeniceps rex",
+        "sizeClass": "large",
+        "ownerName": "Nigel",
+        "shelterId": "6d613241-5ad3-5197-8b01-500e8b607567",
+        "shelterName": "Fernanda's Home for Misunderstood Creatures"
+      }
+    }
+  }
+}

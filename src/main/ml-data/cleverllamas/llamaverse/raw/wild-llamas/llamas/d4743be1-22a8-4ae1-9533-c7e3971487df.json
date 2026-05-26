@@ -7,5 +7,6 @@
   "hairColor": "Gray",
   "breed": "Hybrid",
   "placeOfBirth": "Lake John, Ireland",
-  "description": "Cynthia is a hazel-eyed llama with gray hair, standing 137 cm tall. Originally from Lake John, Ireland, Cynthia enjoys hiking, cooking, knitting. Known for their playful and friendly personality, Cynthia is a beloved member of the llama community."
+  "description": "Cynthia is a hazel-eyed llama with gray hair, standing 137 cm tall. Originally from Lake John, Ireland, Cynthia enjoys hiking, cooking, knitting. Known for their playful and friendly personality, Cynthia is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_vellicosta"
 }

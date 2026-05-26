@@ -7,5 +7,6 @@
   "hairColor": "Black",
   "breed": "Suri",
   "placeOfBirth": "Walkerstad, Angola",
-  "description": "Troy is a green-eyed llama with black hair, standing 141 cm tall. Originally from Walkerstad, Angola, Troy enjoys wood carving, hiking, gardening. Known for their calm and curious personality, Troy is a beloved member of the llama community."
+  "description": "Troy is a green-eyed llama with black hair, standing 141 cm tall. Originally from Walkerstad, Angola, Troy enjoys wood carving, hiking, gardening. Known for their calm and curious personality, Troy is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_vellifer"
 }

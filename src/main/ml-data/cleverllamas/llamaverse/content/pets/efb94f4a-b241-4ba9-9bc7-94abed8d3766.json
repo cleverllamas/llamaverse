@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "efb94f4a-b241-4ba9-9bc7-94abed8d3766",
+        "name": "Fringe",
+        "ageYears": 9,
+        "disposition": "stoic",
+        "fluffiness": 2,
+        "quirk": "constructed a scale model of the hay festival from memory",
+        "speciesId": "1dadf7e9-db4d-5568-a4c1-f79b5045b492",
+        "speciesCommonName": "Goliath Frog",
+        "speciesScientificName": "Conraua goliath",
+        "sizeClass": "medium",
+        "ownerName": "Fernanda",
+        "shelterId": "e9a0f6a9-5a3f-51a3-ae37-19773f4ac55f",
+        "shelterName": "The Archipelago Orphanage"
+      }
+    }
+  }
+}

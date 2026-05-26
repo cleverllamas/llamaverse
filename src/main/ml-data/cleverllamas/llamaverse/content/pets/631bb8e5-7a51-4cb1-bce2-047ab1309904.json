@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "631bb8e5-7a51-4cb1-bce2-047ab1309904",
+        "name": "Burble",
+        "ageYears": 19,
+        "disposition": "earnest",
+        "fluffiness": 1,
+        "quirk": "only communicates using interpretive movement between 9 and 10am",
+        "speciesId": "f2e330c3-bc54-5fb9-a438-747f1bf83e84",
+        "speciesCommonName": "Armadillo Lizard",
+        "speciesScientificName": "Ouroborus cataphractus",
+        "sizeClass": "tiny",
+        "ownerName": "Reginald",
+        "shelterId": "6d613241-5ad3-5197-8b01-500e8b607567",
+        "shelterName": "Fernanda's Home for Misunderstood Creatures"
+      }
+    }
+  }
+}

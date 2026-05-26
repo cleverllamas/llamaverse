@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "75b387a8-5f5f-431b-8fcb-5017ebd326ca",
+        "name": "Biscuit",
+        "ageYears": 3,
+        "disposition": "dignified",
+        "fluffiness": 2,
+        "quirk": "judges every piece of music against a private internal standard it has never revealed",
+        "speciesId": "cf06f715-0eb1-5245-b0f4-53f627f49571",
+        "speciesCommonName": "Giant Isopod",
+        "speciesScientificName": "Bathynomus giganteus",
+        "sizeClass": "medium",
+        "ownerName": "Gwen",
+        "shelterId": "e9a0f6a9-5a3f-51a3-ae37-19773f4ac55f",
+        "shelterName": "The Archipelago Orphanage"
+      }
+    }
+  }
+}

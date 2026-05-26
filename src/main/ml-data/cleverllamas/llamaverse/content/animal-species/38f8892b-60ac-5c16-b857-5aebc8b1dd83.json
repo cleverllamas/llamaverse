@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Hissing Cockroach",
+        "sizeClass": "small",
+        "fluffiness": 1,
+        "typicalDisposition": "theatrical",
+        "typicalLifespanYears": 5,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Arthropoda",
+          "class": "Insecta",
+          "order": "Blattodea",
+          "family": "Blaberidae",
+          "genus": "Gromphadorhina",
+          "species": "Gromphadorhina portentosa"
+        },
+        "description": "Hisses loudly when disturbed. Llamas find the sound deeply satisfying and keep groups of them as ambient noise machines.",
+        "id": "38f8892b-60ac-5c16-b857-5aebc8b1dd83"
+      }
+    }
+  }
+}

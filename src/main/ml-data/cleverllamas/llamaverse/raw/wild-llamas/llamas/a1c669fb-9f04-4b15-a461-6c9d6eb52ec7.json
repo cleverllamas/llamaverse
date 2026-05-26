@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Huacaya",
   "placeOfBirth": "Port Lisa, Brazil",
-  "description": "Kimberly is a gray-eyed llama with red hair, standing 102 cm tall. Originally from Port Lisa, Brazil, Kimberly enjoys singing, reading, dancing. Known for their energetic and friendly personality, Kimberly is a beloved member of the llama community."
+  "description": "Kimberly is a gray-eyed llama with red hair, standing 102 cm tall. Originally from Port Lisa, Brazil, Kimberly enjoys singing, reading, dancing. Known for their energetic and friendly personality, Kimberly is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriensis"
 }

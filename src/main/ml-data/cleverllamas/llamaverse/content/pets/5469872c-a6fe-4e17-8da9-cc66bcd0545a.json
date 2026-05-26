@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "5469872c-a6fe-4e17-8da9-cc66bcd0545a",
+        "name": "Flibbertigibbet",
+        "ageYears": 7,
+        "disposition": "lazy",
+        "fluffiness": 8,
+        "quirk": "has been composing the same symphony for eleven years",
+        "speciesId": "b51959db-b66c-5ee4-9aac-8085580cba2a",
+        "speciesCommonName": "Arctic Fox",
+        "speciesScientificName": "Vulpes lagopus",
+        "sizeClass": "small",
+        "ownerName": "Isolde",
+        "shelterId": "a80124a7-0a88-582c-9362-e5c7aecd90d2",
+        "shelterName": "The Peculiar Menagerie of Llamaville East"
+      }
+    }
+  }
+}

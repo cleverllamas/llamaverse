@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "07b79873-661e-4785-b9c4-fa283107c140",
+        "name": "Wobblesworth",
+        "ageYears": 5,
+        "disposition": "philosophical",
+        "fluffiness": 4,
+        "quirk": "only eats food arranged in symmetrical patterns",
+        "speciesId": "30169ba6-d3c1-5359-a341-c9367be9b750",
+        "speciesCommonName": "Okapi",
+        "speciesScientificName": "Okapia johnstoni",
+        "sizeClass": "large",
+        "ownerName": "Fernanda",
+        "shelterId": "869456e1-451e-554f-96f2-4a54e832dd46",
+        "shelterName": "Bradley's Extreme Fauna Compound"
+      }
+    }
+  }
+}

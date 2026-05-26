@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Huacaya",
   "placeOfBirth": "Lake Mariestad, France",
-  "description": "Lisa is a green-eyed llama with red hair, standing 157 cm tall. Originally from Lake Mariestad, France, Lisa enjoys hiking, wood carving, painting. Known for their playful and mischievous personality, Lisa is a beloved member of the llama community."
+  "description": "Lisa is a green-eyed llama with red hair, standing 157 cm tall. Originally from Lake Mariestad, France, Lisa enjoys hiking, wood carving, painting. Known for their playful and mischievous personality, Lisa is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_vellasilva"
 }

@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Horseshoe Crab",
+        "sizeClass": "medium",
+        "fluffiness": 1,
+        "typicalDisposition": "ancient",
+        "typicalLifespanYears": 25,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Arthropoda",
+          "class": "Merostomata",
+          "order": "Xiphosura",
+          "family": "Limulidae",
+          "genus": "Limulus",
+          "species": "Limulus polyphemus"
+        },
+        "description": "450 million years old and barely changed. Its blue blood saves lives. Llamas keep it in large saltwater pools and speak to it with reverence.",
+        "id": "d8813430-4b4c-5a92-9d22-d3a5b4110d11"
+      }
+    }
+  }
+}

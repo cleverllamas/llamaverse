@@ -7,5 +7,6 @@
   "hairColor": "Silver",
   "breed": "Hybrid",
   "placeOfBirth": "Port Stevenview, Saint Barthelemy",
-  "description": "Danielle is a gray-eyed llama with silver hair, standing 114 cm tall. Originally from Port Stevenview, Saint Barthelemy, Danielle enjoys gardening, cooking, painting. Known for their friendly and playful personality, Danielle is a beloved member of the llama community."
+  "description": "Danielle is a gray-eyed llama with silver hair, standing 114 cm tall. Originally from Port Stevenview, Saint Barthelemy, Danielle enjoys gardening, cooking, painting. Known for their friendly and playful personality, Danielle is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriensis"
 }

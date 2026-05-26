@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "c146ef79-9050-41f2-9292-ee0d281fc83a",
+        "name": "Crinkleworth",
+        "ageYears": 2,
+        "disposition": "cheerful",
+        "fluffiness": 1,
+        "quirk": "believes it is being followed, correctly",
+        "speciesId": "f2e330c3-bc54-5fb9-a438-747f1bf83e84",
+        "speciesCommonName": "Armadillo Lizard",
+        "speciesScientificName": "Ouroborus cataphractus",
+        "sizeClass": "tiny",
+        "ownerName": "Jasper",
+        "shelterId": "2770733d-7079-5abc-92e8-6a21c74559c1",
+        "shelterName": "Deep Blue Creature Sanctuary"
+      }
+    }
+  }
+}

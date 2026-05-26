@@ -7,5 +7,6 @@
   "hairColor": "Black",
   "breed": "Hybrid",
   "placeOfBirth": "Mendezbury, Kenya",
-  "description": "Donna is a gray-eyed llama with black hair, standing 165 cm tall. Originally from Mendezbury, Kenya, Donna enjoys dancing, hiking, gardening. Known for their energetic and calm personality, Donna is a beloved member of the llama community."
+  "description": "Donna is a gray-eyed llama with black hair, standing 165 cm tall. Originally from Mendezbury, Kenya, Donna enjoys dancing, hiking, gardening. Known for their energetic and calm personality, Donna is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriforest"
 }

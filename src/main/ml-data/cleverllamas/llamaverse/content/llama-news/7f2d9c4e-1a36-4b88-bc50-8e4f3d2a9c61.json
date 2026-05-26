@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "llama-news"
+    },
+    "instance": {
+      "llama-news": {
+        "id": "7f2d9c4e-1a36-4b88-bc50-8e4f3d2a9c61",
+        "headline": "Angela's Leaf Dancing Declared World Cultural Heritage",
+        "byline": "Ashley",
+        "publishedDate": "2025-04-18",
+        "section": "Culture",
+        "tags": [
+          "Angela",
+          "leaf dancing",
+          "heritage",
+          "culture",
+          "art",
+          "Patagonia"
+        ],
+        "summary": "The Global Heritage Council voted unanimously to grant Cultural Heritage status to Angela's leaf dancing.",
+        "body": "HERITAGE SUMMIT \u2014 The Global Heritage Council voted unanimously last Tuesday to designate Angela's leaf dancing as a protected cultural heritage practice, citing its profound influence on expressive art, architecture, and contemporary interface design.\n\nAngela, whose secret power \u2014 Leaf Dancer \u2014 has evolved over fifteen years into a fully codified artistic tradition, performed a four-hour demonstration at the summit. Several council members reported they had never witnessed a performance of such precision and emotional range.\n\n'A leaf does not fall by accident,' Angela said in her acceptance address. 'Every fall is a commitment. Every flutter is a question. I have simply learned to ask those questions with my body.'\n\nThe heritage designation means Angela's core techniques will be documented in the Global Archive of Expressive Arts. A dedicated school \u2014 the Angela Institute for Movement Sciences \u2014 will open in Patagonia next spring."
+      }
+    }
+  }
+}

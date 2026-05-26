@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Green Iguana",
+        "sizeClass": "large",
+        "fluffiness": 1,
+        "typicalDisposition": "imperious",
+        "typicalLifespanYears": 20,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Reptilia",
+          "order": "Squamata",
+          "family": "Iguanidae",
+          "genus": "Iguana",
+          "species": "Iguana iguana"
+        },
+        "description": "Up to 2 metres long and profoundly unimpressed by everything. One of the most commonly kept large reptiles in the llamaverse.",
+        "id": "f10a2a25-b64d-5f51-bef7-d2d25f12028e"
+      }
+    }
+  }
+}

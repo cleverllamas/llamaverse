@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Huacaya",
   "placeOfBirth": "Hughesview, Nepal",
-  "description": "Maria is a green-eyed llama with red hair, standing 164 cm tall. Originally from Hughesview, Nepal, Maria enjoys dancing, painting, knitting. Known for their energetic and gentle personality, Maria is a beloved member of the llama community."
+  "description": "Maria is a green-eyed llama with red hair, standing 164 cm tall. Originally from Hughesview, Nepal, Maria enjoys dancing, painting, knitting. Known for their energetic and gentle personality, Maria is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_litoralis"
 }

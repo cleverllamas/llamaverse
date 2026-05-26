@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "7cb9c9ea-0b4d-4445-ab25-811254de0fcd",
+        "name": "Squelch",
+        "ageYears": 72,
+        "disposition": "devoted",
+        "fluffiness": 1,
+        "quirk": "has memorised all 88 Beethoven piano sonatas",
+        "speciesId": "c3459914-3500-52fc-869a-f401325f49c7",
+        "speciesCommonName": "Blobfish",
+        "speciesScientificName": "Psychrolutes marcidus",
+        "sizeClass": "small",
+        "ownerName": "Bradley",
+        "shelterId": "4e1e0f71-7c69-5073-ab12-27cfd4257912",
+        "shelterName": "The Old Pond Sanctuary"
+      }
+    }
+  }
+}

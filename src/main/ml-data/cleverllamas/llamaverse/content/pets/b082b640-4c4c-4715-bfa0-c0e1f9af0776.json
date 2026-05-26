@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "b082b640-4c4c-4715-bfa0-c0e1f9af0776",
+        "name": "Snuffleby",
+        "ageYears": 17,
+        "disposition": "bombastic",
+        "fluffiness": 1,
+        "quirk": "has been learning to juggle for three years with no progress",
+        "speciesId": "eef78078-a2a5-5e4d-952e-221fc060a90d",
+        "speciesCommonName": "Beluga Whale",
+        "speciesScientificName": "Delphinapterus leucas",
+        "sizeClass": "large",
+        "ownerName": "Beatrice",
+        "shelterId": "c8de3d2b-6e9a-5ed1-bda7-9a50f977ddb9",
+        "shelterName": "The Quiet Pool"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "ca3f6506-48dd-424e-b4ad-de875da42fc0",
+        "name": "Bafflement",
+        "ageYears": 0,
+        "disposition": "aloof",
+        "fluffiness": 1,
+        "quirk": "has never once been surprised by anything",
+        "speciesId": "38f8892b-60ac-5c16-b857-5aebc8b1dd83",
+        "speciesCommonName": "Hissing Cockroach",
+        "speciesScientificName": "Gromphadorhina portentosa",
+        "sizeClass": "small",
+        "ownerName": "Bradley",
+        "shelterId": "a80124a7-0a88-582c-9362-e5c7aecd90d2",
+        "shelterName": "The Peculiar Menagerie of Llamaville East"
+      }
+    }
+  }
+}

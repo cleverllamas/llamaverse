@@ -7,5 +7,6 @@
   "hairColor": "Gray",
   "breed": "Hybrid",
   "placeOfBirth": "South Oscarside, Sweden",
-  "description": "Morgan is a green-eyed llama with gray hair, standing 125 cm tall. Originally from South Oscarside, Sweden, Morgan enjoys gardening, hiking, reading. Known for their gentle and energetic personality, Morgan is a beloved member of the llama community."
+  "description": "Morgan is a green-eyed llama with gray hair, standing 125 cm tall. Originally from South Oscarside, Sweden, Morgan enjoys gardening, hiking, reading. Known for their gentle and energetic personality, Morgan is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_borealis"
 }

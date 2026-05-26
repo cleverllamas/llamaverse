@@ -1,0 +1,10 @@
+{
+  "uri": "http://cleverllamas.com/llamaverse/species/Lama_glama_deserticola",
+  "type": "Species",
+  "label": "Lama glama deserticola",
+  "description": "Desert woolly llamas who produce remarkably fine fibre despite (or because of) arid conditions.",
+  "parentUri": "http://cleverllamas.com/llamaverse/genus/Lama",
+  "phylumKey": "Lanuda",
+  "classKey": "Aridus",
+  "speciesKey": "Lama_glama_deserticola"
+}

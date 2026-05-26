@@ -7,5 +7,6 @@
   "hairColor": "Brown",
   "breed": "Hybrid",
   "placeOfBirth": "Reidchester, Tonga",
-  "description": "Travis is a green-eyed llama with brown hair, standing 184 cm tall. Originally from Reidchester, Tonga, Travis enjoys dancing, painting, reading. Known for their mischievous and shy personality, Travis is a beloved member of the llama community."
+  "description": "Travis is a green-eyed llama with brown hair, standing 184 cm tall. Originally from Reidchester, Tonga, Travis enjoys dancing, painting, reading. Known for their mischievous and shy personality, Travis is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriphilus"
 }

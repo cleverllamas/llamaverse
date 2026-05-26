@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Atlantic Puffin",
+        "sizeClass": "small",
+        "fluffiness": 6,
+        "typicalDisposition": "cheerful",
+        "typicalLifespanYears": 20,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Aves",
+          "order": "Charadriiformes",
+          "family": "Alcidae",
+          "genus": "Fratercula",
+          "species": "Fratercula arctica"
+        },
+        "description": "A seabird with a vividly painted beak and a dignified waddle. Llamas near the coast keep small colonies. Watching them waddle is considered therapeutic.",
+        "id": "686b9835-e7a5-58b6-8e19-741d7ca27e8d"
+      }
+    }
+  }
+}

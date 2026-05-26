@@ -7,5 +7,6 @@
   "hairColor": "Gray",
   "breed": "Suri",
   "placeOfBirth": "West Davidshire, Uzbekistan",
-  "description": "Shannon is a green-eyed llama with gray hair, standing 113 cm tall. Originally from West Davidshire, Uzbekistan, Shannon enjoys cooking, reading, painting. Known for their energetic and gentle personality, Shannon is a beloved member of the llama community."
+  "description": "Shannon is a green-eyed llama with gray hair, standing 113 cm tall. Originally from West Davidshire, Uzbekistan, Shannon enjoys cooking, reading, painting. Known for their energetic and gentle personality, Shannon is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriensis"
 }

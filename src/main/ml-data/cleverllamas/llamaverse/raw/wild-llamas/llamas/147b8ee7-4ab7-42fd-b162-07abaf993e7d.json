@@ -7,5 +7,6 @@
   "hairColor": "Blonde",
   "breed": "Suri",
   "placeOfBirth": "Simmonsfurt, Switzerland",
-  "description": "Ann is a gray-eyed llama with blonde hair, standing 162 cm tall. Originally from Simmonsfurt, Switzerland, Ann enjoys hiking, gardening, knitting. Known for their curious and playful personality, Ann is a beloved member of the llama community."
+  "description": "Ann is a gray-eyed llama with blonde hair, standing 162 cm tall. Originally from Simmonsfurt, Switzerland, Ann enjoys hiking, gardening, knitting. Known for their curious and playful personality, Ann is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_litoralis"
 }

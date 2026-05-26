@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "4ac2ebb0-993e-4fdc-99dc-7cd0ee185a5c",
+        "name": "Glimmer",
+        "ageYears": 3,
+        "disposition": "mischievous",
+        "fluffiness": 9,
+        "quirk": "sings exactly one note whenever startled",
+        "speciesId": "f9f424a2-3b5f-51b0-935e-5b903d8be114",
+        "speciesCommonName": "Snow Leopard",
+        "speciesScientificName": "Panthera uncia",
+        "sizeClass": "large",
+        "ownerName": "Kestrel",
+        "shelterId": "c8de3d2b-6e9a-5ed1-bda7-9a50f977ddb9",
+        "shelterName": "The Quiet Pool"
+      }
+    }
+  }
+}

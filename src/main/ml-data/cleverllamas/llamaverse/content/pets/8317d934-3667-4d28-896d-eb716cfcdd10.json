@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "8317d934-3667-4d28-896d-eb716cfcdd10",
+        "name": "Bumble",
+        "ageYears": 2,
+        "disposition": "lazy",
+        "fluffiness": 6,
+        "quirk": "has memorised the bus timetable for a city it has never visited",
+        "speciesId": "1a1c3f14-c193-53af-902c-f89ad6180da9",
+        "speciesCommonName": "Barn Owl",
+        "speciesScientificName": "Tyto alba",
+        "sizeClass": "medium",
+        "ownerName": "Nigel",
+        "shelterId": "8d977212-e5ba-55f4-be32-882c53197b49",
+        "shelterName": "The Wool and Scales Rehabilitation Centre"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "7a8f7d81-6cb7-4a7e-a502-91ffe2cdb81f",
+        "name": "Burble",
+        "ageYears": 2,
+        "disposition": "mischievous",
+        "fluffiness": 5,
+        "quirk": "has attempted to file taxes three years in a row without opposable thumbs",
+        "speciesId": "f62702e8-fe68-5f20-8a46-2fffaa958865",
+        "speciesCommonName": "Velvet Worm",
+        "speciesScientificName": "Peripatopsis capensis",
+        "sizeClass": "tiny",
+        "ownerName": "Percy",
+        "shelterId": "1acdd953-9df4-5cad-ab5a-eb612f2e855c",
+        "shelterName": "Primate House of the Andes"
+      }
+    }
+  }
+}

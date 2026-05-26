@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "9a8bdefb-6180-4283-bcc6-771c16d0e5ad",
+        "name": "Twizzle",
+        "ageYears": 0,
+        "disposition": "regal",
+        "fluffiness": 3,
+        "quirk": "has been composing the same symphony for eleven years",
+        "speciesId": "853c256e-ac01-5775-bda6-bc49c65c02bc",
+        "speciesCommonName": "Dust Mite",
+        "speciesScientificName": "Dermatophagoides pteronyssinus",
+        "sizeClass": "microscopic",
+        "ownerName": "Angela",
+        "shelterId": "1acdd953-9df4-5cad-ab5a-eb612f2e855c",
+        "shelterName": "Primate House of the Andes"
+      }
+    }
+  }
+}

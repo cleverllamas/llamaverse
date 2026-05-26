@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "888f9d3e-80f8-4a0e-8c4b-9e400689d4d2",
+        "name": "Shuffle",
+        "ageYears": 1,
+        "disposition": "stoic",
+        "fluffiness": 6,
+        "quirk": "sings exactly one note whenever startled",
+        "speciesId": "ec504d29-e007-58bc-9630-df64eaf83f62",
+        "speciesCommonName": "Peacock Spider",
+        "speciesScientificName": "Maratus volans",
+        "sizeClass": "microscopic",
+        "ownerName": "Horatio",
+        "shelterId": "4e1e0f71-7c69-5073-ab12-27cfd4257912",
+        "shelterName": "The Old Pond Sanctuary"
+      }
+    }
+  }
+}

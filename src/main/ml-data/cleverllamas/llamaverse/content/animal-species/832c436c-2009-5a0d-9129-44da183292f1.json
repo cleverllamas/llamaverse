@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Satanic Leaf-tailed Gecko",
+        "sizeClass": "tiny",
+        "fluffiness": 1,
+        "typicalDisposition": "theatrical",
+        "typicalLifespanYears": 5,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Reptilia",
+          "order": "Squamata",
+          "family": "Gekkonidae",
+          "genus": "Uroplatus",
+          "species": "Uroplatus phantasticus"
+        },
+        "description": "Its name is accurate. Has red eyes and a leaf-shaped tail that makes it disappear against bark. Llamas appreciate the commitment to branding.",
+        "id": "832c436c-2009-5a0d-9129-44da183292f1"
+      }
+    }
+  }
+}

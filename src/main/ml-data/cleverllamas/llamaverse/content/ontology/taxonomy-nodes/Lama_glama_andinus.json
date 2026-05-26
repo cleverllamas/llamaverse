@@ -1,0 +1,10 @@
+{
+  "uri": "http://cleverllamas.com/llamaverse/species/Lama_glama_andinus",
+  "type": "Species",
+  "label": "Lama glama andinus",
+  "description": "The classic highland woolly llama. Reference population for most llamaverse genomic studies.",
+  "parentUri": "http://cleverllamas.com/llamaverse/genus/Lama",
+  "phylumKey": "Lanuda",
+  "classKey": "Alpinus",
+  "speciesKey": "Lama_glama_andinus"
+}

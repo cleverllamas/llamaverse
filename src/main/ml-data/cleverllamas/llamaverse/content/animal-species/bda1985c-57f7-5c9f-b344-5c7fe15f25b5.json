@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Giraffe",
+        "sizeClass": "gigantic",
+        "fluffiness": 2,
+        "typicalDisposition": "serene",
+        "typicalLifespanYears": 25,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Mammalia",
+          "order": "Artiodactyla",
+          "family": "Giraffidae",
+          "genus": "Giraffa",
+          "species": "Giraffa camelopardalis"
+        },
+        "description": "The tallest animal on earth. Its heart weighs 11kg to pump blood up its neck. Llamas who keep giraffes require exceptional ceiling heights and look up to them in every sense.",
+        "id": "bda1985c-57f7-5c9f-b344-5c7fe15f25b5"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "2aeb2994-6d3a-4678-bb2a-e8ac8b5dd251",
+        "name": "Knick",
+        "ageYears": 4,
+        "disposition": "dignified",
+        "fluffiness": 2,
+        "quirk": "knows one card trick and performs it at every possible opportunity",
+        "speciesId": "5e293069-9326-5c4b-a7a1-eaea4e4d3449",
+        "speciesCommonName": "Mandarin Dragonet",
+        "speciesScientificName": "Synchiropus splendidus",
+        "sizeClass": "tiny",
+        "ownerName": "Lorenzo",
+        "shelterId": "e9a0f6a9-5a3f-51a3-ae37-19773f4ac55f",
+        "shelterName": "The Archipelago Orphanage"
+      }
+    }
+  }
+}

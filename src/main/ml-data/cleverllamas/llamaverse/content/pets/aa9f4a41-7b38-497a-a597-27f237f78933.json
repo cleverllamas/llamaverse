@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "aa9f4a41-7b38-497a-a597-27f237f78933",
+        "name": "Fizzle",
+        "ageYears": 17,
+        "disposition": "hyperactive",
+        "fluffiness": 10,
+        "quirk": "is training for a marathon at a very leisurely pace",
+        "speciesId": "92a69b0f-e016-5d73-9c02-c87d20df5dad",
+        "speciesCommonName": "Snowy Owl",
+        "speciesScientificName": "Bubo scandiacus",
+        "sizeClass": "medium",
+        "ownerName": "Beatrice",
+        "shelterId": "6d613241-5ad3-5197-8b01-500e8b607567",
+        "shelterName": "Fernanda's Home for Misunderstood Creatures"
+      }
+    }
+  }
+}

@@ -7,5 +7,6 @@
   "hairColor": "Brown",
   "breed": "Hybrid",
   "placeOfBirth": "Bellland, Dominican Republic",
-  "description": "Benjamin is a hazel-eyed llama with brown hair, standing 120 cm tall. Originally from Bellland, Dominican Republic, Benjamin enjoys cooking, dancing, wood carving. Known for their friendly and calm personality, Benjamin is a beloved member of the llama community."
+  "description": "Benjamin is a hazel-eyed llama with brown hair, standing 120 cm tall. Originally from Bellland, Dominican Republic, Benjamin enjoys cooking, dancing, wood carving. Known for their friendly and calm personality, Benjamin is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_vellicosta"
 }

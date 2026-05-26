@@ -7,5 +7,6 @@
   "hairColor": "Black",
   "breed": "Hybrid",
   "placeOfBirth": "Port Shawnbury, Georgia",
-  "description": "Ann is a hazel-eyed llama with black hair, standing 176 cm tall. Originally from Port Shawnbury, Georgia, Ann enjoys singing, reading, gardening. Known for their gentle and energetic personality, Ann is a beloved member of the llama community."
+  "description": "Ann is a hazel-eyed llama with black hair, standing 176 cm tall. Originally from Port Shawnbury, Georgia, Ann enjoys singing, reading, gardening. Known for their gentle and energetic personality, Ann is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriborealis"
 }

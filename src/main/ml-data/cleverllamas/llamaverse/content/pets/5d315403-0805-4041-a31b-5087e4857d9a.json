@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "5d315403-0805-4041-a31b-5087e4857d9a",
+        "name": "Squelch",
+        "ageYears": 133,
+        "disposition": "dignified",
+        "fluffiness": 1,
+        "quirk": "organises its food alphabetically before eating",
+        "speciesId": "bbd8c274-3adb-53ac-a054-a083bdfc43ba",
+        "speciesCommonName": "Gal\u00e1pagos Tortoise",
+        "speciesScientificName": "Chelonoidis niger",
+        "sizeClass": "gigantic",
+        "ownerName": "Miranda",
+        "shelterId": "2b312a04-c215-5098-9433-f5aab988726c",
+        "shelterName": "Apex Companions Forever"
+      }
+    }
+  }
+}

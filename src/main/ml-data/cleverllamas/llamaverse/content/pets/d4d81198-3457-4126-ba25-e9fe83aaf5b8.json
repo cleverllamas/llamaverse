@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "d4d81198-3457-4126-ba25-e9fe83aaf5b8",
+        "name": "Flibbertigibbet",
+        "ageYears": 1,
+        "disposition": "eccentric",
+        "fluffiness": 1,
+        "quirk": "sleeps only in prime-numbered minutes",
+        "speciesId": "f2e330c3-bc54-5fb9-a438-747f1bf83e84",
+        "speciesCommonName": "Armadillo Lizard",
+        "speciesScientificName": "Ouroborus cataphractus",
+        "sizeClass": "tiny",
+        "ownerName": "Beatrice",
+        "shelterId": "4e1e0f71-7c69-5073-ab12-27cfd4257912",
+        "shelterName": "The Old Pond Sanctuary"
+      }
+    }
+  }
+}

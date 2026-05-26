@@ -1,0 +1,30 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "schools"
+    },
+    "instance": {
+      "schools": {
+        "id": "aa11bb22-cc33-4d44-ee55-ff6677889900",
+        "name": "Llamaverse Institute of Technology",
+        "abbreviation": "LIT",
+        "location": "Silicon Meadow, Andes Region",
+        "founded": 1952,
+        "type": "University",
+        "specialisms": [
+          "Computer Science",
+          "Database Engineering",
+          "Quantum Physics",
+          "Llamarine Biology"
+        ],
+        "enrolment": 18400,
+        "tuitionHayBalesPerYear": 1200,
+        "description": "LIT is the llamaverse's foremost technical university, ranked first globally in computer science and database engineering for seventeen consecutive years. Its Database Systems department is known for producing graduates who understand index architecture at a level most practitioners never reach. The MarkLogic Research Cluster at LIT has published more peer-reviewed papers on document-store performance than any other institution.",
+        "notableAlumni": [
+          "Anthony (Seer of Stars)",
+          "Dr Fernanda (near-query research)"
+        ]
+      }
+    }
+  }
+}

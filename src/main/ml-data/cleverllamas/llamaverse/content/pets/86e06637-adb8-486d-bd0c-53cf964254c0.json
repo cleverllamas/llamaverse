@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "86e06637-adb8-486d-bd0c-53cf964254c0",
+        "name": "Squelch",
+        "ageYears": 17,
+        "disposition": "erratic",
+        "fluffiness": 2,
+        "quirk": "has been composing the same symphony for eleven years",
+        "speciesId": "009bdfed-da73-562e-8331-6af5a48a2bb9",
+        "speciesCommonName": "Pygmy Elephant",
+        "speciesScientificName": "Elephas maximus borneensis",
+        "sizeClass": "large",
+        "ownerName": "Ashley",
+        "shelterId": "2770733d-7079-5abc-92e8-6a21c74559c1",
+        "shelterName": "Deep Blue Creature Sanctuary"
+      }
+    }
+  }
+}

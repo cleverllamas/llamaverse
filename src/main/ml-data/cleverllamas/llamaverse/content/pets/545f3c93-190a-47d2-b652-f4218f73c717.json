@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "545f3c93-190a-47d2-b652-f4218f73c717",
+        "name": "Wobblesworth",
+        "ageYears": 34,
+        "disposition": "bombastic",
+        "fluffiness": 1,
+        "quirk": "has been composing the same symphony for eleven years",
+        "speciesId": "cc6872d7-a2bd-50c8-9beb-fff7ad0e6f7d",
+        "speciesCommonName": "Coconut Crab",
+        "speciesScientificName": "Birgus latro",
+        "sizeClass": "large",
+        "ownerName": "Percy",
+        "shelterId": "24d12d56-1e48-56e1-aa51-54df3c5f003c",
+        "shelterName": "The Stillness Institute"
+      }
+    }
+  }
+}

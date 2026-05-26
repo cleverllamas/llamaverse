@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Mantis Shrimp",
+        "sizeClass": "small",
+        "fluffiness": 1,
+        "typicalDisposition": "perceptive",
+        "typicalLifespanYears": 6,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Arthropoda",
+          "class": "Malacostraca",
+          "order": "Stomatopoda",
+          "family": "Gonodactylidae",
+          "genus": "Gonodactylus",
+          "species": "Gonodactylus smithii"
+        },
+        "description": "Sees 16 types of colour (humans see 3). Punches prey with 1500 newtons of force. Llamas sometimes worry that mantis shrimp may be more intelligent than they are.",
+        "id": "459749d4-228c-50c3-8c79-94280270dad7"
+      }
+    }
+  }
+}

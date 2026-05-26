@@ -7,5 +7,6 @@
   "hairColor": "Gray",
   "breed": "Hybrid",
   "placeOfBirth": "North Bryanview, Aruba",
-  "description": "Julie is a gray-eyed llama with gray hair, standing 144 cm tall. Originally from North Bryanview, Aruba, Julie enjoys singing, reading, painting. Known for their friendly and calm personality, Julie is a beloved member of the llama community."
+  "description": "Julie is a gray-eyed llama with gray hair, standing 144 cm tall. Originally from North Bryanview, Aruba, Julie enjoys singing, reading, painting. Known for their friendly and calm personality, Julie is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_vellifer"
 }

@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "871cccd3-78b5-470a-b023-81ddad371a31",
+        "name": "Crumble",
+        "ageYears": 77,
+        "disposition": "lazy",
+        "fluffiness": 1,
+        "quirk": "collects bottle caps from obscure regions",
+        "speciesId": "c3459914-3500-52fc-869a-f401325f49c7",
+        "speciesCommonName": "Blobfish",
+        "speciesScientificName": "Psychrolutes marcidus",
+        "sizeClass": "small",
+        "ownerName": "Reginald",
+        "shelterId": "6d613241-5ad3-5197-8b01-500e8b607567",
+        "shelterName": "Fernanda's Home for Misunderstood Creatures"
+      }
+    }
+  }
+}

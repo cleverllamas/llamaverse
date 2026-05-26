@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "c7db3962-86b7-4361-a4a4-4b26662bd20d",
+        "name": "Knick",
+        "ageYears": 0,
+        "disposition": "regal",
+        "fluffiness": 2,
+        "quirk": "sings exactly one note whenever startled",
+        "speciesId": "deb03c1d-b702-5d34-8c3a-d0613d7b4a66",
+        "speciesCommonName": "Bdelloid Rotifer",
+        "speciesScientificName": "Philodina roseola",
+        "sizeClass": "microscopic",
+        "ownerName": "Horatio",
+        "shelterId": "869456e1-451e-554f-96f2-4a54e832dd46",
+        "shelterName": "Bradley's Extreme Fauna Compound"
+      }
+    }
+  }
+}

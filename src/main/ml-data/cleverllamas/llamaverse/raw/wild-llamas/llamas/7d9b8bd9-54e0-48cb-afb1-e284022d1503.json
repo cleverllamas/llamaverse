@@ -7,5 +7,6 @@
   "hairColor": "Brown",
   "breed": "Suri",
   "placeOfBirth": "North Charles, Eritrea",
-  "description": "Katie is a amber-eyed llama with brown hair, standing 119 cm tall. Originally from North Charles, Eritrea, Katie enjoys painting, hiking, gardening. Known for their energetic and gentle personality, Katie is a beloved member of the llama community."
+  "description": "Katie is a amber-eyed llama with brown hair, standing 119 cm tall. Originally from North Charles, Eritrea, Katie enjoys painting, hiking, gardening. Known for their energetic and gentle personality, Katie is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriborealis"
 }

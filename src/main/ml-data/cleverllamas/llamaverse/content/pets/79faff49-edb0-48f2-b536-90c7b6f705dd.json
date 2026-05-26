@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "79faff49-edb0-48f2-b536-90c7b6f705dd",
+        "name": "Higgledy",
+        "ageYears": 0,
+        "disposition": "dignified",
+        "fluffiness": 1,
+        "quirk": "organises its food alphabetically before eating",
+        "speciesId": "35e2d451-c968-5861-9de3-d10f8d8e6ff1",
+        "speciesCommonName": "Praying Mantis",
+        "speciesScientificName": "Mantis religiosa",
+        "sizeClass": "small",
+        "ownerName": "Ophelia",
+        "shelterId": "fea3da74-6337-5053-bffe-89e75d14ef03",
+        "shelterName": "The Wandering Fleece Animal Sanctuary"
+      }
+    }
+  }
+}

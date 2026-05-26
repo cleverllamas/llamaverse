@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "b7e23505-d4ae-4c30-97c5-b6ee999c9a5b",
+        "name": "Kerfuffle",
+        "ageYears": 7,
+        "disposition": "sneaky",
+        "fluffiness": 2,
+        "quirk": "has been composing the same symphony for eleven years",
+        "speciesId": "f10a2a25-b64d-5f51-bef7-d2d25f12028e",
+        "speciesCommonName": "Green Iguana",
+        "speciesScientificName": "Iguana iguana",
+        "sizeClass": "large",
+        "ownerName": "Monique",
+        "shelterId": "4e1e0f71-7c69-5073-ab12-27cfd4257912",
+        "shelterName": "The Old Pond Sanctuary"
+      }
+    }
+  }
+}

@@ -7,5 +7,6 @@
   "hairColor": "Brown",
   "breed": "Hybrid",
   "placeOfBirth": "Taylortown, Mauritania",
-  "description": "Rachel is a hazel-eyed llama with brown hair, standing 119 cm tall. Originally from Taylortown, Mauritania, Rachel enjoys reading, painting, gardening. Known for their calm and playful personality, Rachel is a beloved member of the llama community."
+  "description": "Rachel is a hazel-eyed llama with brown hair, standing 119 cm tall. Originally from Taylortown, Mauritania, Rachel enjoys reading, painting, gardening. Known for their calm and playful personality, Rachel is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_vellaboreas"
 }

@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Vinegaroon",
+        "sizeClass": "small",
+        "fluffiness": 1,
+        "typicalDisposition": "mysterious",
+        "typicalLifespanYears": 7,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Arthropoda",
+          "class": "Arachnida",
+          "order": "Thelyphonida",
+          "family": "Thelyphonidae",
+          "genus": "Mastigoproctus",
+          "species": "Mastigoproctus giganteus"
+        },
+        "description": "Sprays acetic acid from its tail. Not actually venomous but very convincingly terrifying. Llamas keep them to impress guests.",
+        "id": "7a0a0b09-06f3-5534-8613-4da111d626fd"
+      }
+    }
+  }
+}

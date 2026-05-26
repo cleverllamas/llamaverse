@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "40120da8-fc72-4abb-abc4-299b3c4e4af8",
+        "name": "Knack",
+        "ageYears": 53,
+        "disposition": "bombastic",
+        "fluffiness": 2,
+        "quirk": "constructed a scale model of the hay festival from memory",
+        "speciesId": "7e172705-39a5-5fb7-adfb-8228eeb1856e",
+        "speciesCommonName": "Orca",
+        "speciesScientificName": "Orcinus orca",
+        "sizeClass": "gigantic",
+        "ownerName": "Aaron",
+        "shelterId": "a80124a7-0a88-582c-9362-e5c7aecd90d2",
+        "shelterName": "The Peculiar Menagerie of Llamaville East"
+      }
+    }
+  }
+}

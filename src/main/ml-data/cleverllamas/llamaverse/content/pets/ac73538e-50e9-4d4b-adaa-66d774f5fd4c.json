@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "ac73538e-50e9-4d4b-adaa-66d774f5fd4c",
+        "name": "Topsy",
+        "ageYears": 1,
+        "disposition": "aloof",
+        "fluffiness": 1,
+        "quirk": "is writing a novel but will not discuss the plot",
+        "speciesId": "7a0a0b09-06f3-5534-8613-4da111d626fd",
+        "speciesCommonName": "Vinegaroon",
+        "speciesScientificName": "Mastigoproctus giganteus",
+        "sizeClass": "small",
+        "ownerName": "Boris",
+        "shelterId": "a80124a7-0a88-582c-9362-e5c7aecd90d2",
+        "shelterName": "The Peculiar Menagerie of Llamaville East"
+      }
+    }
+  }
+}

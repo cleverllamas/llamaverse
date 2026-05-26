@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "02f73a04-1115-4066-ab8a-209143f2d36b",
+        "name": "Hullabaloo",
+        "ageYears": 2,
+        "disposition": "stoic",
+        "fluffiness": 1,
+        "quirk": "believes it is being followed, correctly",
+        "speciesId": "7e276fc0-aa53-556b-8f1d-c2bd13e28c66",
+        "speciesCommonName": "Pistol Shrimp",
+        "speciesScientificName": "Alpheus heterochaelis",
+        "sizeClass": "tiny",
+        "ownerName": "Angela",
+        "shelterId": "2770733d-7079-5abc-92e8-6a21c74559c1",
+        "shelterName": "Deep Blue Creature Sanctuary"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "c8928ea5-c42a-4877-a475-d71e6b22d17c",
+        "name": "Tipple",
+        "ageYears": 7,
+        "disposition": "timid",
+        "fluffiness": 1,
+        "quirk": "only communicates using interpretive movement between 9 and 10am",
+        "speciesId": "b101d7c8-5027-59ec-9ce4-4f84b8d08328",
+        "speciesCommonName": "Clownfish",
+        "speciesScientificName": "Amphiprion ocellaris",
+        "sizeClass": "tiny",
+        "ownerName": "Monique",
+        "shelterId": "869456e1-451e-554f-96f2-4a54e832dd46",
+        "shelterName": "Bradley's Extreme Fauna Compound"
+      }
+    }
+  }
+}

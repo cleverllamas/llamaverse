@@ -1,0 +1,10 @@
+{
+  "uri": "http://cleverllamas.com/llamaverse/species/Lama_glama_suriforest",
+  "type": "Species",
+  "label": "Lama glama suriforest",
+  "description": "Forest suri llamas who are periodically found with small creatures living contentedly in their locks.",
+  "parentUri": "http://cleverllamas.com/llamaverse/genus/Lama",
+  "phylumKey": "Suri",
+  "classKey": "Silvaticus",
+  "speciesKey": "Lama_glama_suriforest"
+}

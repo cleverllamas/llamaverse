@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Suri",
   "placeOfBirth": "Nicholasland, Turkmenistan",
-  "description": "Rachael is a blue-eyed llama with red hair, standing 132 cm tall. Originally from Nicholasland, Turkmenistan, Rachael enjoys gardening, hiking, painting. Known for their shy and curious personality, Rachael is a beloved member of the llama community."
+  "description": "Rachael is a blue-eyed llama with red hair, standing 132 cm tall. Originally from Nicholasland, Turkmenistan, Rachael enjoys gardening, hiking, painting. Known for their shy and curious personality, Rachael is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriborealis"
 }

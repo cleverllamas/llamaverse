@@ -7,5 +7,6 @@
   "hairColor": "Black",
   "breed": "Hybrid",
   "placeOfBirth": "Richardtown, Italy",
-  "description": "Devin is a hazel-eyed llama with black hair, standing 131 cm tall. Originally from Richardtown, Italy, Devin enjoys reading, painting, hiking. Known for their playful and shy personality, Devin is a beloved member of the llama community."
+  "description": "Devin is a hazel-eyed llama with black hair, standing 131 cm tall. Originally from Richardtown, Italy, Devin enjoys reading, painting, hiking. Known for their playful and shy personality, Devin is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriborealis"
 }

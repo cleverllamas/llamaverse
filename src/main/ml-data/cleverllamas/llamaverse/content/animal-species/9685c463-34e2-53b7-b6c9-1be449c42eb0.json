@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Hellbender Salamander",
+        "sizeClass": "medium",
+        "fluffiness": 1,
+        "typicalDisposition": "ancient",
+        "typicalLifespanYears": 30,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Amphibia",
+          "order": "Urodela",
+          "family": "Cryptobranchidae",
+          "genus": "Cryptobranchus",
+          "species": "Cryptobranchus alleganiensis"
+        },
+        "description": "North America's largest salamander. Absorbs oxygen through its wrinkled skin. Llamas who keep them report unexpected feelings of calm.",
+        "id": "9685c463-34e2-53b7-b6c9-1be449c42eb0"
+      }
+    }
+  }
+}

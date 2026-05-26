@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Hybrid",
   "placeOfBirth": "Adamsstad, Andorra",
-  "description": "Alexandria is a brown-eyed llama with red hair, standing 190 cm tall. Originally from Adamsstad, Andorra, Alexandria enjoys wood carving, singing, hiking. Known for their friendly and calm personality, Alexandria is a beloved member of the llama community."
+  "description": "Alexandria is a brown-eyed llama with red hair, standing 190 cm tall. Originally from Adamsstad, Andorra, Alexandria enjoys wood carving, singing, hiking. Known for their friendly and calm personality, Alexandria is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_litoralis"
 }

@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "15309282-cd16-4f7f-a7b2-e7763b97ec44",
+        "name": "Gurgle",
+        "ageYears": 3,
+        "disposition": "cheerful",
+        "fluffiness": 5,
+        "quirk": "refuses to acknowledge Mondays",
+        "speciesId": "9557eccc-7ecb-5ab8-ae03-b9e328e55a11",
+        "speciesCommonName": "Star-nosed Mole",
+        "speciesScientificName": "Condylura cristata",
+        "sizeClass": "tiny",
+        "ownerName": "Percy",
+        "shelterId": "2770733d-7079-5abc-92e8-6a21c74559c1",
+        "shelterName": "Deep Blue Creature Sanctuary"
+      }
+    }
+  }
+}

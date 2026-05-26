@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Acorn Barnacle",
+        "sizeClass": "microscopic",
+        "fluffiness": 1,
+        "typicalDisposition": "sessile",
+        "typicalLifespanYears": 10,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Arthropoda",
+          "class": "Thecostraca",
+          "order": "Sessilia",
+          "family": "Balanidae",
+          "genus": "Semibalanus",
+          "species": "Semibalanus balanoides"
+        },
+        "description": "Cements itself headfirst to a rock and spends its entire life waving food into its mouth. Llamas who keep them note that no motivation is required.",
+        "id": "e9be7d46-a699-577d-8254-16ede509068b"
+      }
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "uri": "http://cleverllamas.com/llamaverse/order/Pastores",
+  "type": "Order",
+  "label": "Pastores",
+  "description": "Agricultural and pastoral llamas who maintain the hay supply and know more about soil than any academic llama will admit.",
+  "parentUri": "http://cleverllamas.com/llamaverse/kingdom/Llamalia"
+}

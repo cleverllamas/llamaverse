@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Hybrid",
   "placeOfBirth": "Colemanmouth, Guyana",
-  "description": "Sarah is a blue-eyed llama with red hair, standing 112 cm tall. Originally from Colemanmouth, Guyana, Sarah enjoys hiking, painting, wood carving. Known for their shy and mischievous personality, Sarah is a beloved member of the llama community."
+  "description": "Sarah is a blue-eyed llama with red hair, standing 112 cm tall. Originally from Colemanmouth, Guyana, Sarah enjoys hiking, painting, wood carving. Known for their shy and mischievous personality, Sarah is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_andinus"
 }

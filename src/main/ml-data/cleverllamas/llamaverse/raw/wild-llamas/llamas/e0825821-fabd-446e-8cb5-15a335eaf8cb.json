@@ -7,5 +7,6 @@
   "hairColor": "Black",
   "breed": "Hybrid",
   "placeOfBirth": "Port Joshua, Saint Pierre and Miquelon",
-  "description": "Shawn is a brown-eyed llama with black hair, standing 167 cm tall. Originally from Port Joshua, Saint Pierre and Miquelon, Shawn enjoys knitting, reading, painting. Known for their mischievous and energetic personality, Shawn is a beloved member of the llama community."
+  "description": "Shawn is a brown-eyed llama with black hair, standing 167 cm tall. Originally from Port Joshua, Saint Pierre and Miquelon, Shawn enjoys knitting, reading, painting. Known for their mischievous and energetic personality, Shawn is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_vellifer"
 }

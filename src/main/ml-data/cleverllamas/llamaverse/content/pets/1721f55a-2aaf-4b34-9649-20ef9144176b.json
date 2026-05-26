@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "1721f55a-2aaf-4b34-9649-20ef9144176b",
+        "name": "Burble",
+        "ageYears": 14,
+        "disposition": "philosophical",
+        "fluffiness": 1,
+        "quirk": "has never once been surprised by anything",
+        "speciesId": "ee5a309a-b82e-55d8-9188-c88eb7e32cdd",
+        "speciesCommonName": "Olm",
+        "speciesScientificName": "Proteus anguinus",
+        "sizeClass": "small",
+        "ownerName": "Freddie",
+        "shelterId": "fea3da74-6337-5053-bffe-89e75d14ef03",
+        "shelterName": "The Wandering Fleece Animal Sanctuary"
+      }
+    }
+  }
+}

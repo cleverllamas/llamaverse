@@ -1,0 +1,22 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "companies"
+    },
+    "instance": {
+      "companies": {
+        "id": "20002222-3333-4444-5555-666677778888",
+        "name": "HayStack Corporation",
+        "ticker": "HSTK",
+        "sector": "Agricultural Technology",
+        "headquarters": "Northern Highlands Agripark",
+        "founded": 2008,
+        "ceoName": "Fernanda",
+        "employees": 12400,
+        "revenueHayBalesMillions": 3200,
+        "description": "HayStack Corporation builds sensor networks and analytical platforms for the agricultural sector. Its IoT hay-quality monitoring systems are deployed across 40,000 farms in the llamaverse, generating over 200 million sensor readings daily. HayStack stores all telemetry in MarkLogic, exploiting range indexes for real-time anomaly detection and the URI lexicon for efficient batch processing of sensor streams.",
+        "marklogicUse": "Sensor telemetry store; range indexes for real-time quality scoring"
+      }
+    }
+  }
+}

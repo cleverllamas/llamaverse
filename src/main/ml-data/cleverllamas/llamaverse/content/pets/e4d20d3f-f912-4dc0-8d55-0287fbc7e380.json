@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "e4d20d3f-f912-4dc0-8d55-0287fbc7e380",
+        "name": "Turvy",
+        "ageYears": 2,
+        "disposition": "sneaky",
+        "fluffiness": 1,
+        "quirk": "has formed strong opinions about architecture",
+        "speciesId": "ae2e8ce1-dd67-555a-93b2-1d567d30adb4",
+        "speciesCommonName": "Tardigrade \u2014 Water Bear (Arctic)",
+        "speciesScientificName": "Milnesium tardigradum",
+        "sizeClass": "microscopic",
+        "ownerName": "Jasper",
+        "shelterId": "2770733d-7079-5abc-92e8-6a21c74559c1",
+        "shelterName": "Deep Blue Creature Sanctuary"
+      }
+    }
+  }
+}

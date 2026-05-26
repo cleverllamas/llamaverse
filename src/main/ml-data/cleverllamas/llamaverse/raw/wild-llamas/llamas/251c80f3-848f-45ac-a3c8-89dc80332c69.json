@@ -7,5 +7,6 @@
   "hairColor": "Blonde",
   "breed": "Suri",
   "placeOfBirth": "Ritterbury, Lao People's Democratic Republic",
-  "description": "John is a gray-eyed llama with blonde hair, standing 181 cm tall. Originally from Ritterbury, Lao People's Democratic Republic, John enjoys painting, reading, knitting. Known for their playful and curious personality, John is a beloved member of the llama community."
+  "description": "John is a gray-eyed llama with blonde hair, standing 181 cm tall. Originally from Ritterbury, Lao People's Democratic Republic, John enjoys painting, reading, knitting. Known for their playful and curious personality, John is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_litoralis"
 }

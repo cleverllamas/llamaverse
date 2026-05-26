@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "4ab0606e-3f94-487f-8473-7b8a95a88edf",
+        "name": "Noodle",
+        "ageYears": 2,
+        "disposition": "mischievous",
+        "fluffiness": 2,
+        "quirk": "is training for a marathon at a very leisurely pace",
+        "speciesId": "7e276fc0-aa53-556b-8f1d-c2bd13e28c66",
+        "speciesCommonName": "Pistol Shrimp",
+        "speciesScientificName": "Alpheus heterochaelis",
+        "sizeClass": "tiny",
+        "ownerName": "Lorenzo",
+        "shelterId": "43593191-478d-5f0a-82ec-63ff4cc4122e",
+        "shelterName": "The Patagonian Wild Wing Refuge"
+      }
+    }
+  }
+}

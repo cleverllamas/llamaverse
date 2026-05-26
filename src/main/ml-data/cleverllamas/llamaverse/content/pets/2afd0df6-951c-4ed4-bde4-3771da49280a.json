@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "2afd0df6-951c-4ed4-bde4-3771da49280a",
+        "name": "Fidget",
+        "ageYears": 0,
+        "disposition": "dignified",
+        "fluffiness": 3,
+        "quirk": "refuses to acknowledge Mondays",
+        "speciesId": "a370af67-78f3-5985-9ff5-12f2ca1e001d",
+        "speciesCommonName": "Pygmy Seahorse",
+        "speciesScientificName": "Hippocampus bargibanti",
+        "sizeClass": "microscopic",
+        "ownerName": "Lorenzo",
+        "shelterId": "e9a0f6a9-5a3f-51a3-ae37-19773f4ac55f",
+        "shelterName": "The Archipelago Orphanage"
+      }
+    }
+  }
+}

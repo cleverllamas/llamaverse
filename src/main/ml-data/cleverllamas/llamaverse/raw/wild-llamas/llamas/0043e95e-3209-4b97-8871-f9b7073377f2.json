@@ -7,5 +7,6 @@
   "hairColor": "White",
   "breed": "Hybrid",
   "placeOfBirth": "Port Jennifershire, Cote d'Ivoire",
-  "description": "Rebecca is a brown-eyed llama with white hair, standing 117 cm tall. Originally from Port Jennifershire, Cote d'Ivoire, Rebecca enjoys hiking, gardening, singing. Known for their friendly and mischievous personality, Rebecca is a beloved member of the llama community."
+  "description": "Rebecca is a brown-eyed llama with white hair, standing 117 cm tall. Originally from Port Jennifershire, Cote d'Ivoire, Rebecca enjoys hiking, gardening, singing. Known for their friendly and mischievous personality, Rebecca is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_andinus"
 }

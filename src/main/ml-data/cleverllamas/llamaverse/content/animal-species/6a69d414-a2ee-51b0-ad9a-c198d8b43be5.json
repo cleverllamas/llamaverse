@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Sun Bear",
+        "sizeClass": "medium",
+        "fluffiness": 4,
+        "typicalDisposition": "curious",
+        "typicalLifespanYears": 30,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Mammalia",
+          "order": "Carnivora",
+          "family": "Ursidae",
+          "genus": "Helarctos",
+          "species": "Helarctos malayanus"
+        },
+        "description": "The world's smallest bear. Has a 25cm tongue for extracting honey. Llamas keep them primarily for the facial expressions.",
+        "id": "6a69d414-a2ee-51b0-ad9a-c198d8b43be5"
+      }
+    }
+  }
+}

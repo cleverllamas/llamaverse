@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "bf8dbeae-277e-4946-b5cd-64814154a7a4",
+        "name": "Turvy",
+        "ageYears": 79,
+        "disposition": "devoted",
+        "fluffiness": 2,
+        "quirk": "has been composing the same symphony for eleven years",
+        "speciesId": "c3459914-3500-52fc-869a-f401325f49c7",
+        "speciesCommonName": "Blobfish",
+        "speciesScientificName": "Psychrolutes marcidus",
+        "sizeClass": "small",
+        "ownerName": "Isolde",
+        "shelterId": "c8de3d2b-6e9a-5ed1-bda7-9a50f977ddb9",
+        "shelterName": "The Quiet Pool"
+      }
+    }
+  }
+}

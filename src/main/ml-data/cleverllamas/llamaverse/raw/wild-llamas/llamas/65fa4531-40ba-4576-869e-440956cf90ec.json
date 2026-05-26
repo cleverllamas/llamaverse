@@ -7,5 +7,6 @@
   "hairColor": "Black",
   "breed": "Hybrid",
   "placeOfBirth": "Smithton, Peru",
-  "description": "Jessica is a blue-eyed llama with black hair, standing 104 cm tall. Originally from Smithton, Peru, Jessica enjoys wood carving, hiking, cooking. Known for their energetic and energetic personality, Jessica is a beloved member of the llama community."
+  "description": "Jessica is a blue-eyed llama with black hair, standing 104 cm tall. Originally from Smithton, Peru, Jessica enjoys wood carving, hiking, cooking. Known for their energetic and energetic personality, Jessica is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriphilus"
 }

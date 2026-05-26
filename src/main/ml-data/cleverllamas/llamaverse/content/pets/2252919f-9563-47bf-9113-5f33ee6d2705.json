@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "2252919f-9563-47bf-9113-5f33ee6d2705",
+        "name": "Crumble",
+        "ageYears": 11,
+        "disposition": "earnest",
+        "fluffiness": 1,
+        "quirk": "has memorised the bus timetable for a city it has never visited",
+        "speciesId": "c3459914-3500-52fc-869a-f401325f49c7",
+        "speciesCommonName": "Blobfish",
+        "speciesScientificName": "Psychrolutes marcidus",
+        "sizeClass": "small",
+        "ownerName": "Elena",
+        "shelterId": "4e1e0f71-7c69-5073-ab12-27cfd4257912",
+        "shelterName": "The Old Pond Sanctuary"
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "professions"
+    },
+    "instance": {
+      "professions": {
+        "id": "c3d4e5f6-a7b8-4c9d-0e1f-2a3b4c5d6e7f",
+        "title": "Senior MarkLogic Architect",
+        "sector": "Technology",
+        "description": "The Senior MarkLogic Architect is responsible for the design, configuration, and ongoing optimisation of MarkLogic deployments in enterprise environments. This role requires deep knowledge of index architecture \u2014 range indexes, lexicons, TDE templates, and triple stores \u2014 as well as expertise in security models, temporal collections, and Optic query planning. In the llamaverse, this role is considered a prestige position, frequently cited in classified government briefings.",
+        "typicalSalaryHayBales": 52000,
+        "seniorityLevel": "Senior",
+        "requiredYearsExperience": 8,
+        "keySkills": [
+          "MarkLogic",
+          "XQuery",
+          "JavaScript SJS",
+          "index configuration",
+          "TDE",
+          "Optic API",
+          "temporal collections",
+          "security model",
+          "triggers",
+          "data harmonisation"
+        ],
+        "secretPowerAdvantage": "Druid's Sight \u2014 enables direct perception of index fragmentation"
+      }
+    }
+  }
+}

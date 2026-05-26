@@ -7,5 +7,6 @@
   "hairColor": "Brown",
   "breed": "Huacaya",
   "placeOfBirth": "Harrisville, Botswana",
-  "description": "Jeff is a hazel-eyed llama with brown hair, standing 121 cm tall. Originally from Harrisville, Botswana, Jeff enjoys singing, painting, cooking. Known for their gentle and mischievous personality, Jeff is a beloved member of the llama community."
+  "description": "Jeff is a hazel-eyed llama with brown hair, standing 121 cm tall. Originally from Harrisville, Botswana, Jeff enjoys singing, painting, cooking. Known for their gentle and mischievous personality, Jeff is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_vellifer"
 }

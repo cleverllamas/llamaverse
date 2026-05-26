@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "35332613-c2c2-4cbb-a1af-b3b9f10bfa81",
+        "name": "Gurgle",
+        "ageYears": 35,
+        "disposition": "stoic",
+        "fluffiness": 1,
+        "quirk": "has formed strong opinions about architecture",
+        "speciesId": "152066e5-2b54-5b7d-b63f-cea101ace1f5",
+        "speciesCommonName": "Blue Whale",
+        "speciesScientificName": "Balaenoptera musculus",
+        "sizeClass": "gigantic",
+        "ownerName": "Freddie",
+        "shelterId": "fea3da74-6337-5053-bffe-89e75d14ef03",
+        "shelterName": "The Wandering Fleece Animal Sanctuary"
+      }
+    }
+  }
+}

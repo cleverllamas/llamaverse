@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "0692c9b9-da6f-4c40-a697-6db58dcff50d",
+        "name": "Grumble",
+        "ageYears": 20,
+        "disposition": "philosophical",
+        "fluffiness": 2,
+        "quirk": "naps in increasingly creative locations",
+        "speciesId": "bda1985c-57f7-5c9f-b344-5c7fe15f25b5",
+        "speciesCommonName": "Giraffe",
+        "speciesScientificName": "Giraffa camelopardalis",
+        "sizeClass": "gigantic",
+        "ownerName": "Lorenzo",
+        "shelterId": "43593191-478d-5f0a-82ec-63ff4cc4122e",
+        "shelterName": "The Patagonian Wild Wing Refuge"
+      }
+    }
+  }
+}

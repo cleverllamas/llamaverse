@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "4030ca12-efe9-4d51-9261-0081c3faac42",
+        "name": "Shuffle",
+        "ageYears": 16,
+        "disposition": "theatrical",
+        "fluffiness": 2,
+        "quirk": "organises its food alphabetically before eating",
+        "speciesId": "30169ba6-d3c1-5359-a341-c9367be9b750",
+        "speciesCommonName": "Okapi",
+        "speciesScientificName": "Okapia johnstoni",
+        "sizeClass": "large",
+        "ownerName": "Isolde",
+        "shelterId": "6d613241-5ad3-5197-8b01-500e8b607567",
+        "shelterName": "Fernanda's Home for Misunderstood Creatures"
+      }
+    }
+  }
+}

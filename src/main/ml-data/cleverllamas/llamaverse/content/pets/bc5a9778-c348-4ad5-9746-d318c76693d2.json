@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "bc5a9778-c348-4ad5-9746-d318c76693d2",
+        "name": "Razzle",
+        "ageYears": 2,
+        "disposition": "hyperactive",
+        "fluffiness": 1,
+        "quirk": "sleeps only in prime-numbered minutes",
+        "speciesId": "ae2e8ce1-dd67-555a-93b2-1d567d30adb4",
+        "speciesCommonName": "Tardigrade \u2014 Water Bear (Arctic)",
+        "speciesScientificName": "Milnesium tardigradum",
+        "sizeClass": "microscopic",
+        "ownerName": "Beatrice",
+        "shelterId": "fea3da74-6337-5053-bffe-89e75d14ef03",
+        "shelterName": "The Wandering Fleece Animal Sanctuary"
+      }
+    }
+  }
+}

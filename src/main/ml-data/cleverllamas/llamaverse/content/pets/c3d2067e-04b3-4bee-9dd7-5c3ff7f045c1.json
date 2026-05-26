@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "c3d2067e-04b3-4bee-9dd7-5c3ff7f045c1",
+        "name": "Widdershins",
+        "ageYears": 9,
+        "disposition": "hyperactive",
+        "fluffiness": 5,
+        "quirk": "has memorised the bus timetable for a city it has never visited",
+        "speciesId": "dd3c34c0-42a2-5716-b11c-936fd620b648",
+        "speciesCommonName": "Tawny Frogmouth",
+        "speciesScientificName": "Podargus strigoides",
+        "sizeClass": "small",
+        "ownerName": "Reginald",
+        "shelterId": "869456e1-451e-554f-96f2-4a54e832dd46",
+        "shelterName": "Bradley's Extreme Fauna Compound"
+      }
+    }
+  }
+}

@@ -7,5 +7,6 @@
   "hairColor": "Silver",
   "breed": "Hybrid",
   "placeOfBirth": "Aaronberg, Guinea-Bissau",
-  "description": "James is a green-eyed llama with silver hair, standing 102 cm tall. Originally from Aaronberg, Guinea-Bissau, James enjoys wood carving, gardening, knitting. Known for their mischievous and friendly personality, James is a beloved member of the llama community."
+  "description": "James is a green-eyed llama with silver hair, standing 102 cm tall. Originally from Aaronberg, Guinea-Bissau, James enjoys wood carving, gardening, knitting. Known for their mischievous and friendly personality, James is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriensis"
 }

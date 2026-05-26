@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Suri",
   "placeOfBirth": "Lake James, Nepal",
-  "description": "Bradley is a amber-eyed llama with red hair, standing 154 cm tall. Originally from Lake James, Nepal, Bradley enjoys singing, painting, wood carving. Known for their mischievous and friendly personality, Bradley is a beloved member of the llama community."
+  "description": "Bradley is a amber-eyed llama with red hair, standing 154 cm tall. Originally from Lake James, Nepal, Bradley enjoys singing, painting, wood carving. Known for their mischievous and friendly personality, Bradley is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriborealis"
 }

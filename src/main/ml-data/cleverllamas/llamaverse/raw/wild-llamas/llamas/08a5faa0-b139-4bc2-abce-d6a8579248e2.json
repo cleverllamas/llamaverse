@@ -7,5 +7,6 @@
   "hairColor": "Brown",
   "breed": "Hybrid",
   "placeOfBirth": "Keyhaven, Iran",
-  "description": "Jeremy is a blue-eyed llama with brown hair, standing 131 cm tall. Originally from Keyhaven, Iran, Jeremy enjoys painting, hiking, wood carving. Known for their curious and mischievous personality, Jeremy is a beloved member of the llama community."
+  "description": "Jeremy is a blue-eyed llama with brown hair, standing 131 cm tall. Originally from Keyhaven, Iran, Jeremy enjoys painting, hiking, wood carving. Known for their curious and mischievous personality, Jeremy is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_deserticola"
 }

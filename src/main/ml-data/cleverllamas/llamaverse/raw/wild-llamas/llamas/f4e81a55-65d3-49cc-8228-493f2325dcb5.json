@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Huacaya",
   "placeOfBirth": "Ethanchester, Tanzania",
-  "description": "Jennifer is a amber-eyed llama with red hair, standing 156 cm tall. Originally from Ethanchester, Tanzania, Jennifer enjoys painting, knitting, dancing. Known for their gentle and friendly personality, Jennifer is a beloved member of the llama community."
+  "description": "Jennifer is a amber-eyed llama with red hair, standing 156 cm tall. Originally from Ethanchester, Tanzania, Jennifer enjoys painting, knitting, dancing. Known for their gentle and friendly personality, Jennifer is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_vellicosta"
 }

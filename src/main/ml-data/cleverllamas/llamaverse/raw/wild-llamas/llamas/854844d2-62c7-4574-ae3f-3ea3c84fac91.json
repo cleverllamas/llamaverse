@@ -7,5 +7,6 @@
   "hairColor": "Gray",
   "breed": "Huacaya",
   "placeOfBirth": "Jonesside, Northern Mariana Islands",
-  "description": "Eric is a hazel-eyed llama with gray hair, standing 126 cm tall. Originally from Jonesside, Northern Mariana Islands, Eric enjoys gardening, cooking, dancing. Known for their mischievous and shy personality, Eric is a beloved member of the llama community."
+  "description": "Eric is a hazel-eyed llama with gray hair, standing 126 cm tall. Originally from Jonesside, Northern Mariana Islands, Eric enjoys gardening, cooking, dancing. Known for their mischievous and shy personality, Eric is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriphilus"
 }

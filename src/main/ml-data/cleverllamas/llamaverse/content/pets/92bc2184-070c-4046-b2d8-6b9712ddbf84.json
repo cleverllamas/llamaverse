@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "92bc2184-070c-4046-b2d8-6b9712ddbf84",
+        "name": "Fizzle",
+        "ageYears": 35,
+        "disposition": "serene",
+        "fluffiness": 2,
+        "quirk": "sings exactly one note whenever startled",
+        "speciesId": "43aa0a79-d15b-52e8-b72c-925ed35f3e3e",
+        "speciesCommonName": "Giant Clam",
+        "speciesScientificName": "Tridacna gigas",
+        "sizeClass": "gigantic",
+        "ownerName": "Reginald",
+        "shelterId": "8d977212-e5ba-55f4-be32-882c53197b49",
+        "shelterName": "The Wool and Scales Rehabilitation Centre"
+      }
+    }
+  }
+}

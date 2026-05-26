@@ -7,5 +7,6 @@
   "hairColor": "Blonde",
   "breed": "Hybrid",
   "placeOfBirth": "East Johnchester, Latvia",
-  "description": "William is a green-eyed llama with blonde hair, standing 198 cm tall. Originally from East Johnchester, Latvia, William enjoys gardening, dancing, hiking. Known for their playful and mischievous personality, William is a beloved member of the llama community."
+  "description": "William is a green-eyed llama with blonde hair, standing 198 cm tall. Originally from East Johnchester, Latvia, William enjoys gardening, dancing, hiking. Known for their playful and mischievous personality, William is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_borealis"
 }

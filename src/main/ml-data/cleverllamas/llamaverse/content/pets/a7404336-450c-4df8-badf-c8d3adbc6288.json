@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "a7404336-450c-4df8-badf-c8d3adbc6288",
+        "name": "Bafflement",
+        "ageYears": 0,
+        "disposition": "theatrical",
+        "fluffiness": 1,
+        "quirk": "has memorised all 88 Beethoven piano sonatas",
+        "speciesId": "a27d03fc-4ac2-530a-a350-bae0d6c38aac",
+        "speciesCommonName": "Bombardier Beetle",
+        "speciesScientificName": "Brachinus crepitans",
+        "sizeClass": "tiny",
+        "ownerName": "Boris",
+        "shelterId": "2b312a04-c215-5098-9433-f5aab988726c",
+        "shelterName": "Apex Companions Forever"
+      }
+    }
+  }
+}

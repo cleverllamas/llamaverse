@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "5b867d6a-4fba-4b2f-9ccf-731c8cff8ade",
+        "name": "Wobblesworth",
+        "ageYears": 3,
+        "disposition": "regal",
+        "fluffiness": 5,
+        "quirk": "organises its food alphabetically before eating",
+        "speciesId": "33dcd8b2-2120-5581-8ec0-a55573d3c3bd",
+        "speciesCommonName": "Aye-aye",
+        "speciesScientificName": "Daubentonia madagascariensis",
+        "sizeClass": "small",
+        "ownerName": "Alice",
+        "shelterId": "8d977212-e5ba-55f4-be32-882c53197b49",
+        "shelterName": "The Wool and Scales Rehabilitation Centre"
+      }
+    }
+  }
+}

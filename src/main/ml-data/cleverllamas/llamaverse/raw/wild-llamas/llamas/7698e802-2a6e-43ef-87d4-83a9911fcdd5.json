@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Hybrid",
   "placeOfBirth": "Lake Davidmouth, Heard Island and McDonald Islands",
-  "description": "Jennifer is a brown-eyed llama with red hair, standing 175 cm tall. Originally from Lake Davidmouth, Heard Island and McDonald Islands, Jennifer enjoys reading, hiking, dancing. Known for their calm and mischievous personality, Jennifer is a beloved member of the llama community."
+  "description": "Jennifer is a brown-eyed llama with red hair, standing 175 cm tall. Originally from Lake Davidmouth, Heard Island and McDonald Islands, Jennifer enjoys reading, hiking, dancing. Known for their calm and mischievous personality, Jennifer is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_surideserta"
 }

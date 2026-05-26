@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "e2beb6ab-691d-4217-80bd-b4d589ecd044",
+        "name": "Knick",
+        "ageYears": 16,
+        "disposition": "philosophical",
+        "fluffiness": 1,
+        "quirk": "naps in increasingly creative locations",
+        "speciesId": "4385ccaa-0b0a-5332-b1a0-6e0af8d6f6b4",
+        "speciesCommonName": "Pangolin",
+        "speciesScientificName": "Manis pentadactyla",
+        "sizeClass": "medium",
+        "ownerName": "Beatrice",
+        "shelterId": "e9a0f6a9-5a3f-51a3-ae37-19773f4ac55f",
+        "shelterName": "The Archipelago Orphanage"
+      }
+    }
+  }
+}

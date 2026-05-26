@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "bca5bc2b-04ad-4aba-837b-953388de3d58",
+        "name": "Boggle",
+        "ageYears": 4,
+        "disposition": "mischievous",
+        "fluffiness": 8,
+        "quirk": "stages elaborate fake emergencies to see who responds fastest",
+        "speciesId": "1f29dee0-afc6-56d8-a400-842ac656c71e",
+        "speciesCommonName": "Red Panda",
+        "speciesScientificName": "Ailurus fulgens",
+        "sizeClass": "small",
+        "ownerName": "Beatrice",
+        "shelterId": "6d613241-5ad3-5197-8b01-500e8b607567",
+        "shelterName": "Fernanda's Home for Misunderstood Creatures"
+      }
+    }
+  }
+}

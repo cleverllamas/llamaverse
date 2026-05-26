@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "11fcc609-6e19-437e-a87d-e4e3ed13c066",
+        "name": "Bumble",
+        "ageYears": 9,
+        "disposition": "curious",
+        "fluffiness": 2,
+        "quirk": "has been composing the same symphony for eleven years",
+        "speciesId": "43aa0a79-d15b-52e8-b72c-925ed35f3e3e",
+        "speciesCommonName": "Giant Clam",
+        "speciesScientificName": "Tridacna gigas",
+        "sizeClass": "gigantic",
+        "ownerName": "Aaron",
+        "shelterId": "43593191-478d-5f0a-82ec-63ff4cc4122e",
+        "shelterName": "The Patagonian Wild Wing Refuge"
+      }
+    }
+  }
+}

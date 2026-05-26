@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Suri",
   "placeOfBirth": "Conradtown, Bangladesh",
-  "description": "Andrew is a blue-eyed llama with red hair, standing 124 cm tall. Originally from Conradtown, Bangladesh, Andrew enjoys knitting, dancing, painting. Known for their playful and calm personality, Andrew is a beloved member of the llama community."
+  "description": "Andrew is a blue-eyed llama with red hair, standing 124 cm tall. Originally from Conradtown, Bangladesh, Andrew enjoys knitting, dancing, painting. Known for their playful and calm personality, Andrew is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_borealis"
 }

@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Okapi",
+        "sizeClass": "large",
+        "fluffiness": 3,
+        "typicalDisposition": "shy",
+        "typicalLifespanYears": 20,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Mammalia",
+          "order": "Artiodactyla",
+          "family": "Giraffidae",
+          "genus": "Okapia",
+          "species": "Okapia johnstoni"
+        },
+        "description": "Looks like a cross between a zebra and a giraffe. Its closest relative is the giraffe. Unknown to science until 1901. Llamas feel a kinship with animals that keep a low profile.",
+        "id": "30169ba6-d3c1-5359-a341-c9367be9b750"
+      }
+    }
+  }
+}

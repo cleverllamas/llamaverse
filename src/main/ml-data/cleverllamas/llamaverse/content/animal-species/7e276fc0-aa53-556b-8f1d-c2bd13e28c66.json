@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Pistol Shrimp",
+        "sizeClass": "tiny",
+        "fluffiness": 1,
+        "typicalDisposition": "explosive",
+        "typicalLifespanYears": 4,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Arthropoda",
+          "class": "Malacostraca",
+          "order": "Decapoda",
+          "family": "Alpheidae",
+          "genus": "Alpheus",
+          "species": "Alpheus heterochaelis"
+        },
+        "description": "Snaps its claw so fast it creates a cavitation bubble hotter than the sun's surface for a fraction of a second. Llamas keep them in very thick tanks.",
+        "id": "7e276fc0-aa53-556b-8f1d-c2bd13e28c66"
+      }
+    }
+  }
+}

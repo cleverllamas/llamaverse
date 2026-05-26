@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Leafy Sea Dragon",
+        "sizeClass": "small",
+        "fluffiness": 3,
+        "typicalDisposition": "ethereal",
+        "typicalLifespanYears": 7,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Actinopterygii",
+          "order": "Syngnathiformes",
+          "family": "Syngnathidae",
+          "genus": "Phycodurus",
+          "species": "Phycodurus eques"
+        },
+        "description": "The most beautiful fish in the llamaverse. Looks like an animated piece of seaweed. Llamas keep them in hushed, reverent tanks.",
+        "id": "4f869f58-53fa-5caa-bad0-1aa47b133741"
+      }
+    }
+  }
+}

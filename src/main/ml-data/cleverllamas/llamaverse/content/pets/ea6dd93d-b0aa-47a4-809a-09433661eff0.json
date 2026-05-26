@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "ea6dd93d-b0aa-47a4-809a-09433661eff0",
+        "name": "Turvy",
+        "ageYears": 5,
+        "disposition": "regal",
+        "fluffiness": 4,
+        "quirk": "has never once been surprised by anything",
+        "speciesId": "ba19f95c-7ac2-579e-ba6d-2421a5e3f794",
+        "speciesCommonName": "Pufferfish",
+        "speciesScientificName": "Tetraodon mbu",
+        "sizeClass": "small",
+        "ownerName": "Angela",
+        "shelterId": "6d613241-5ad3-5197-8b01-500e8b607567",
+        "shelterName": "Fernanda's Home for Misunderstood Creatures"
+      }
+    }
+  }
+}

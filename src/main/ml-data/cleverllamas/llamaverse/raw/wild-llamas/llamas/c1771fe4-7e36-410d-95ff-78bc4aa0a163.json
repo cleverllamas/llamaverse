@@ -7,5 +7,6 @@
   "hairColor": "Gray",
   "breed": "Huacaya",
   "placeOfBirth": "Markport, Burundi",
-  "description": "Richard is a brown-eyed llama with gray hair, standing 157 cm tall. Originally from Markport, Burundi, Richard enjoys painting, hiking, dancing. Known for their friendly and playful personality, Richard is a beloved member of the llama community."
+  "description": "Richard is a brown-eyed llama with gray hair, standing 157 cm tall. Originally from Markport, Burundi, Richard enjoys painting, hiking, dancing. Known for their friendly and playful personality, Richard is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_vellifer"
 }

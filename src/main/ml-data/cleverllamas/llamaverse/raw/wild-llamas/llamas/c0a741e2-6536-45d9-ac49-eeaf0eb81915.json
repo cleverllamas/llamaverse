@@ -7,5 +7,6 @@
   "hairColor": "Gray",
   "breed": "Hybrid",
   "placeOfBirth": "East Justinfurt, Svalbard & Jan Mayen Islands",
-  "description": "Ryan is a green-eyed llama with gray hair, standing 188 cm tall. Originally from East Justinfurt, Svalbard & Jan Mayen Islands, Ryan enjoys reading, painting, cooking. Known for their shy and curious personality, Ryan is a beloved member of the llama community."
+  "description": "Ryan is a green-eyed llama with gray hair, standing 188 cm tall. Originally from East Justinfurt, Svalbard & Jan Mayen Islands, Ryan enjoys reading, painting, cooking. Known for their shy and curious personality, Ryan is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_vellifer"
 }

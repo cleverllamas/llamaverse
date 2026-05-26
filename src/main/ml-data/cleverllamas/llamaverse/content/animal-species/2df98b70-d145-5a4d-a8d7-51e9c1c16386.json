@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Peacock Mantis Shrimp",
+        "sizeClass": "small",
+        "fluffiness": 1,
+        "typicalDisposition": "violent",
+        "typicalLifespanYears": 6,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Arthropoda",
+          "class": "Malacostraca",
+          "order": "Stomatopoda",
+          "family": "Odontodactylidae",
+          "genus": "Odontodactylus",
+          "species": "Odontodactylus scyllarus"
+        },
+        "description": "Punches with the force of a bullet. Has 16 types of colour receptors. Llamas keep them in reinforced tanks and treat them with absolute respect.",
+        "id": "2df98b70-d145-5a4d-a8d7-51e9c1c16386"
+      }
+    }
+  }
+}

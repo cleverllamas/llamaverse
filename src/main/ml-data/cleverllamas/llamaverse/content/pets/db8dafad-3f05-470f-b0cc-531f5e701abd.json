@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "db8dafad-3f05-470f-b0cc-531f5e701abd",
+        "name": "Shuffle",
+        "ageYears": 42,
+        "disposition": "erratic",
+        "fluffiness": 2,
+        "quirk": "has memorised all 88 Beethoven piano sonatas",
+        "speciesId": "cc882f01-70bc-59f2-9224-e7c81406e187",
+        "speciesCommonName": "Coelacanth",
+        "speciesScientificName": "Latimeria chalumnae",
+        "sizeClass": "large",
+        "ownerName": "Alice",
+        "shelterId": "24d12d56-1e48-56e1-aa51-54df3c5f003c",
+        "shelterName": "The Stillness Institute"
+      }
+    }
+  }
+}

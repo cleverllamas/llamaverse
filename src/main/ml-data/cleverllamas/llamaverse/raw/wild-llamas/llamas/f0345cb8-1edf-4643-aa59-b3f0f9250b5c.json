@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Hybrid",
   "placeOfBirth": "Chloeville, United States of America",
-  "description": "Robert is a green-eyed llama with red hair, standing 134 cm tall. Originally from Chloeville, United States of America, Robert enjoys knitting, dancing, painting. Known for their energetic and friendly personality, Robert is a beloved member of the llama community."
+  "description": "Robert is a green-eyed llama with red hair, standing 134 cm tall. Originally from Chloeville, United States of America, Robert enjoys knitting, dancing, painting. Known for their energetic and friendly personality, Robert is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_vellifer"
 }

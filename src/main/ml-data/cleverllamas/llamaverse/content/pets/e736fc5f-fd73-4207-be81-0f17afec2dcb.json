@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "e736fc5f-fd73-4207-be81-0f17afec2dcb",
+        "name": "Biscuit",
+        "ageYears": 0,
+        "disposition": "regal",
+        "fluffiness": 5,
+        "quirk": "maintains a written log of everything it finds interesting, which is everything",
+        "speciesId": "ec504d29-e007-58bc-9630-df64eaf83f62",
+        "speciesCommonName": "Peacock Spider",
+        "speciesScientificName": "Maratus volans",
+        "sizeClass": "microscopic",
+        "ownerName": "Derek",
+        "shelterId": "1d1ceadd-64ed-52d5-a416-b278d95c83d1",
+        "shelterName": "The Cosy Burrow Rescue and Rehoming"
+      }
+    }
+  }
+}

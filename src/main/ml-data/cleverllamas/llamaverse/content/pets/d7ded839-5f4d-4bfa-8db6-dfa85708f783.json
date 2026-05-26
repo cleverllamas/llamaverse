@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "d7ded839-5f4d-4bfa-8db6-dfa85708f783",
+        "name": "Flapdoodle",
+        "ageYears": 1,
+        "disposition": "sneaky",
+        "fluffiness": 1,
+        "quirk": "believes it is being followed, correctly",
+        "speciesId": "86740326-9afe-5c95-a5a8-c7045272e940",
+        "speciesCommonName": "Stick Insect",
+        "speciesScientificName": "Phasma gigas",
+        "sizeClass": "small",
+        "ownerName": "Isolde",
+        "shelterId": "869456e1-451e-554f-96f2-4a54e832dd46",
+        "shelterName": "Bradley's Extreme Fauna Compound"
+      }
+    }
+  }
+}

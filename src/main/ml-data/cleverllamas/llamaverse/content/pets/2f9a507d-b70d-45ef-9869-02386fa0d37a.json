@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "2f9a507d-b70d-45ef-9869-02386fa0d37a",
+        "name": "Crinkleworth",
+        "ageYears": 41,
+        "disposition": "curious",
+        "fluffiness": 2,
+        "quirk": "naps in increasingly creative locations",
+        "speciesId": "af3dcf5c-cb3c-5f9d-9028-c1ca22e3d06b",
+        "speciesCommonName": "Tuatara",
+        "speciesScientificName": "Sphenodon punctatus",
+        "sizeClass": "small",
+        "ownerName": "Freddie",
+        "shelterId": "8d977212-e5ba-55f4-be32-882c53197b49",
+        "shelterName": "The Wool and Scales Rehabilitation Centre"
+      }
+    }
+  }
+}

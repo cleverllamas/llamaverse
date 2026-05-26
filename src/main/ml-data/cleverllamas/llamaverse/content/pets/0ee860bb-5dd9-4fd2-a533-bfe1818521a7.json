@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "0ee860bb-5dd9-4fd2-a533-bfe1818521a7",
+        "name": "Gurgle",
+        "ageYears": 0,
+        "disposition": "dignified",
+        "fluffiness": 1,
+        "quirk": "naps in increasingly creative locations",
+        "speciesId": "ae752e8e-5741-575f-8293-97abe1393e0e",
+        "speciesCommonName": "Nematode",
+        "speciesScientificName": "Caenorhabditis elegans",
+        "sizeClass": "microscopic",
+        "ownerName": "Lorenzo",
+        "shelterId": "a80124a7-0a88-582c-9362-e5c7aecd90d2",
+        "shelterName": "The Peculiar Menagerie of Llamaville East"
+      }
+    }
+  }
+}

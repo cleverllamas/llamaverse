@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "27507114-8dba-481b-a1c2-700b90e68eef",
+        "name": "Turvy",
+        "ageYears": 1,
+        "disposition": "cheerful",
+        "fluffiness": 5,
+        "quirk": "is writing a novel but will not discuss the plot",
+        "speciesId": "ec504d29-e007-58bc-9630-df64eaf83f62",
+        "speciesCommonName": "Peacock Spider",
+        "speciesScientificName": "Maratus volans",
+        "sizeClass": "microscopic",
+        "ownerName": "Kestrel",
+        "shelterId": "869456e1-451e-554f-96f2-4a54e832dd46",
+        "shelterName": "Bradley's Extreme Fauna Compound"
+      }
+    }
+  }
+}

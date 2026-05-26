@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Sea Cucumber",
+        "sizeClass": "small",
+        "fluffiness": 1,
+        "typicalDisposition": "passive",
+        "typicalLifespanYears": 5,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Echinodermata",
+          "class": "Holothuroidea",
+          "order": "Holothuriida",
+          "family": "Holothuriidae",
+          "genus": "Holothuria",
+          "species": "Holothuria scabra"
+        },
+        "description": "Breathes through its bottom. Ejects its internal organs when threatened, then regrows them. Llamas who keep them have learned not to startle them near the furniture.",
+        "id": "a417c180-20e9-5c37-9f4d-7bfb1f384522"
+      }
+    }
+  }
+}

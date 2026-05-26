@@ -7,5 +7,6 @@
   "hairColor": "Black",
   "breed": "Huacaya",
   "placeOfBirth": "Trevorborough, Peru",
-  "description": "David is a brown-eyed llama with black hair, standing 186 cm tall. Originally from Trevorborough, Peru, David enjoys gardening, wood carving, dancing. Known for their calm and shy personality, David is a beloved member of the llama community."
+  "description": "David is a brown-eyed llama with black hair, standing 186 cm tall. Originally from Trevorborough, Peru, David enjoys gardening, wood carving, dancing. Known for their calm and shy personality, David is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_vellaridus"
 }

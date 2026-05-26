@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Glaucus atlanticus (Blue Dragon Sea Slug)",
+        "sizeClass": "tiny",
+        "fluffiness": 1,
+        "typicalDisposition": "dramatic",
+        "typicalLifespanYears": 1,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Mollusca",
+          "class": "Gastropoda",
+          "order": "Nudibranchia",
+          "family": "Glaucidae",
+          "genus": "Glaucus",
+          "species": "Glaucus atlanticus"
+        },
+        "description": "3cm long, floats upside-down on the ocean surface, and is vivid silver-blue. Concentrates the sting cells of Portuguese man o' wars it eats and deploys them itself. Llamas consider it gloriously irresponsible.",
+        "id": "1d5714f3-7780-56e6-a2fd-494df6fe1bb8"
+      }
+    }
+  }
+}

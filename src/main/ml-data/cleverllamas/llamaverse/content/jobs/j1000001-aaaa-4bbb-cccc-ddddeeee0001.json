@@ -1,0 +1,38 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "jobs"
+    },
+    "instance": {
+      "jobs": {
+        "id": "j1000001-aaaa-4bbb-cccc-ddddeeee0001",
+        "title": "Senior MarkLogic Solutions Architect",
+        "company": "Llamazone Technologies",
+        "companyId": "10001111-2222-4333-4444-555566667777",
+        "location": "Silicon Meadow (hybrid)",
+        "postedDate": "2025-05-10",
+        "closingDate": "2025-06-15",
+        "salaryHayBalesMin": 48000,
+        "salaryHayBalesMax": 58000,
+        "employmentType": "Permanent",
+        "seniorityLevel": "Senior",
+        "description": "Llamazone Technologies is seeking an exceptional Senior MarkLogic Solutions Architect to join the LlamaSearch platform team. In this role you will design index configurations for petabyte-scale document stores, advise product teams on query optimisation, and lead architectural reviews of new features. You will be expected to have an opinion \u2014 a well-founded one \u2014 on every lexicon, range index, and TDE template in the system.",
+        "requirements": [
+          "8+ years MarkLogic experience",
+          "Deep knowledge of index architecture (lexicons, range indexes, TDE)",
+          "Fluent in XQuery and JavaScript SJS",
+          "Experience with Optic API and temporal collections",
+          "Ability to read query plans and identify bottlenecks"
+        ],
+        "postedByName": "Aaron",
+        "tags": [
+          "MarkLogic",
+          "architecture",
+          "XQuery",
+          "index",
+          "Llamazone"
+        ]
+      }
+    }
+  }
+}

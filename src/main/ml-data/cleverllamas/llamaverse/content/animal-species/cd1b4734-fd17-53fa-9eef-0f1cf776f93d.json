@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Red-eyed Tree Frog",
+        "sizeClass": "tiny",
+        "fluffiness": 1,
+        "typicalDisposition": "dramatic",
+        "typicalLifespanYears": 5,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Amphibia",
+          "order": "Anura",
+          "family": "Hylidae",
+          "genus": "Agalychnis",
+          "species": "Agalychnis callidryas"
+        },
+        "description": "Its vivid red eyes are designed to startle predators. Llamas have placed portraits of them in many public buildings.",
+        "id": "cd1b4734-fd17-53fa-9eef-0f1cf776f93d"
+      }
+    }
+  }
+}

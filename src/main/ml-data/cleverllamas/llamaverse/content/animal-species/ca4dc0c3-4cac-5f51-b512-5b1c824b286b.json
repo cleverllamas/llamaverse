@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Bioluminescent Jellyfish",
+        "sizeClass": "small",
+        "fluffiness": 1,
+        "typicalDisposition": "ethereal",
+        "typicalLifespanYears": 1,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Cnidaria",
+          "class": "Scyphozoa",
+          "order": "Rhizostomeae",
+          "family": "Mastigiidae",
+          "genus": "Mastigias",
+          "species": "Mastigias papua"
+        },
+        "description": "Glows blue in the dark. Llamas keep tanks of them in bedrooms as nightlights.",
+        "id": "ca4dc0c3-4cac-5f51-b512-5b1c824b286b"
+      }
+    }
+  }
+}

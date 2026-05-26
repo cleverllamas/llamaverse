@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "f7b5a9ca-0cd4-40b1-8b15-5d50bc18d91e",
+        "name": "Blorpington",
+        "ageYears": 2,
+        "disposition": "timid",
+        "fluffiness": 2,
+        "quirk": "only communicates using interpretive movement between 9 and 10am",
+        "speciesId": "5b5b57d6-344d-5913-bf87-dac3a883d652",
+        "speciesCommonName": "Emperor Scorpion",
+        "speciesScientificName": "Pandinus imperator",
+        "sizeClass": "small",
+        "ownerName": "Miranda",
+        "shelterId": "1d1ceadd-64ed-52d5-a416-b278d95c83d1",
+        "shelterName": "The Cosy Burrow Rescue and Rehoming"
+      }
+    }
+  }
+}

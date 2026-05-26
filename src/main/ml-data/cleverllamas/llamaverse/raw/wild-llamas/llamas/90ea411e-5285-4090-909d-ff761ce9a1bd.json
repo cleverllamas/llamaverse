@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Huacaya",
   "placeOfBirth": "Maryhaven, Greenland",
-  "description": "Frank is a gray-eyed llama with red hair, standing 179 cm tall. Originally from Maryhaven, Greenland, Frank enjoys painting, hiking, knitting. Known for their friendly and curious personality, Frank is a beloved member of the llama community."
+  "description": "Frank is a gray-eyed llama with red hair, standing 179 cm tall. Originally from Maryhaven, Greenland, Frank enjoys painting, hiking, knitting. Known for their friendly and curious personality, Frank is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriensis"
 }

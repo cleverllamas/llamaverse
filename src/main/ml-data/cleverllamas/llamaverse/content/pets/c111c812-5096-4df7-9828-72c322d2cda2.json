@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "c111c812-5096-4df7-9828-72c322d2cda2",
+        "name": "Pudding",
+        "ageYears": 0,
+        "disposition": "philosophical",
+        "fluffiness": 6,
+        "quirk": "refuses to make eye contact but sends heartfelt letters",
+        "speciesId": "5ac795c2-d264-5759-ac18-540698beaa0c",
+        "speciesCommonName": "Secretary Bird",
+        "speciesScientificName": "Sagittarius serpentarius",
+        "sizeClass": "large",
+        "ownerName": "Monique",
+        "shelterId": "4e1e0f71-7c69-5073-ab12-27cfd4257912",
+        "shelterName": "The Old Pond Sanctuary"
+      }
+    }
+  }
+}

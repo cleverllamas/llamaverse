@@ -7,5 +7,6 @@
   "hairColor": "Brown",
   "breed": "Hybrid",
   "placeOfBirth": "Lindaville, South Georgia and the South Sandwich Islands",
-  "description": "Alex is a blue-eyed llama with brown hair, standing 156 cm tall. Originally from Lindaville, South Georgia and the South Sandwich Islands, Alex enjoys cooking, dancing, hiking. Known for their playful and mischievous personality, Alex is a beloved member of the llama community."
+  "description": "Alex is a blue-eyed llama with brown hair, standing 156 cm tall. Originally from Lindaville, South Georgia and the South Sandwich Islands, Alex enjoys cooking, dancing, hiking. Known for their playful and mischievous personality, Alex is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriborealis"
 }

@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "fce2e0bf-67f3-40c6-a0e4-a2e976c9f428",
+        "name": "Zippy",
+        "ageYears": 4,
+        "disposition": "stoic",
+        "fluffiness": 2,
+        "quirk": "has been learning to juggle for three years with no progress",
+        "speciesId": "832c436c-2009-5a0d-9129-44da183292f1",
+        "speciesCommonName": "Satanic Leaf-tailed Gecko",
+        "speciesScientificName": "Uroplatus phantasticus",
+        "sizeClass": "tiny",
+        "ownerName": "Ophelia",
+        "shelterId": "2770733d-7079-5abc-92e8-6a21c74559c1",
+        "shelterName": "Deep Blue Creature Sanctuary"
+      }
+    }
+  }
+}

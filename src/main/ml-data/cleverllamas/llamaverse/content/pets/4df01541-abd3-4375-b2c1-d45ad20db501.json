@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "4df01541-abd3-4375-b2c1-d45ad20db501",
+        "name": "Pudding",
+        "ageYears": 8,
+        "disposition": "bombastic",
+        "fluffiness": 7,
+        "quirk": "has attempted to file taxes three years in a row without opposable thumbs",
+        "speciesId": "7c65a493-b712-5936-a711-75affb2377f9",
+        "speciesCommonName": "Resplendent Quetzal",
+        "speciesScientificName": "Pharomachrus mocinno",
+        "sizeClass": "small",
+        "ownerName": "Percy",
+        "shelterId": "8d977212-e5ba-55f4-be32-882c53197b49",
+        "shelterName": "The Wool and Scales Rehabilitation Centre"
+      }
+    }
+  }
+}

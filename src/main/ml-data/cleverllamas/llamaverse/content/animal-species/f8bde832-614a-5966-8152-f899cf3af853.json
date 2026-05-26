@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Axolotl",
+        "sizeClass": "small",
+        "fluffiness": 3,
+        "typicalDisposition": "serene",
+        "typicalLifespanYears": 15,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Amphibia",
+          "order": "Urodela",
+          "family": "Ambystomatidae",
+          "genus": "Ambystoma",
+          "species": "Ambystoma mexicanum"
+        },
+        "description": "Never fully metamorphoses. Keeps its feathery external gills forever. Llamas find this deeply relatable \u2014 why change when you're already perfect?",
+        "id": "f8bde832-614a-5966-8152-f899cf3af853"
+      }
+    }
+  }
+}

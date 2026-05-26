@@ -7,5 +7,6 @@
   "hairColor": "Brown",
   "breed": "Suri",
   "placeOfBirth": "Port James, New Zealand",
-  "description": "Timothy is a hazel-eyed llama with brown hair, standing 181 cm tall. Originally from Port James, New Zealand, Timothy enjoys painting, dancing, singing. Known for their gentle and curious personality, Timothy is a beloved member of the llama community."
+  "description": "Timothy is a hazel-eyed llama with brown hair, standing 181 cm tall. Originally from Port James, New Zealand, Timothy enjoys painting, dancing, singing. Known for their gentle and curious personality, Timothy is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_deserticola"
 }

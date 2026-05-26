@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "ed5d77d0-413c-4c99-b36a-69814366abd1",
+        "name": "Kerfuffle",
+        "ageYears": 16,
+        "disposition": "philosophical",
+        "fluffiness": 2,
+        "quirk": "constructed a scale model of the hay festival from memory",
+        "speciesId": "d191c6f3-b4e9-5af5-a642-3b80b969af04",
+        "speciesCommonName": "Thorny Devil",
+        "speciesScientificName": "Moloch horridus",
+        "sizeClass": "tiny",
+        "ownerName": "Elena",
+        "shelterId": "2770733d-7079-5abc-92e8-6a21c74559c1",
+        "shelterName": "Deep Blue Creature Sanctuary"
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "llama-news"
+    },
+    "instance": {
+      "llama-news": {
+        "id": "e3a1c7f2-8b04-4d9a-9f61-2d5e8c3a1b77",
+        "headline": "Aaron Claims World Chess Championship for Third Consecutive Year",
+        "byline": "Bradley",
+        "publishedDate": "2025-05-03",
+        "section": "Sport",
+        "tags": [
+          "chess",
+          "Aaron",
+          "championship",
+          "sport",
+          "record"
+        ],
+        "summary": "Aaron, the Huacaya from Cusco, has claimed the Global Chess Championship for the third consecutive year in a fourteen-hour final.",
+        "body": "CUSCO \u2014 Aaron, the 180-centimetre Huacaya llama widely regarded as the greatest chess player of any species, has claimed the Global Chess Championship for the third consecutive year, defeating challenger Beatrice of the Patagonian School in a fourteen-hour final that left the audience breathless.\n\nThe game, played before twelve thousand spectators in downtown Llamaville, saw Aaron deploy his now-legendary Woolly Fortress opening \u2014 a strategy he reportedly devised while birdwatching in the high Andes. Beatrice held the position for eleven hours before Aaron's endgame precision proved insurmountable.\n\n'I was thinking about bird migrations at move forty-seven,' Aaron told reporters afterward. 'The way a flock pivots without a leader gave me the idea for the knight sacrifice.'\n\nThe Llamaverse Chess Federation confirmed that Aaron's rating now stands at 3847, the highest ever recorded. He will defend his title next year at the Andean Capital Complex."
+      }
+    }
+  }
+}

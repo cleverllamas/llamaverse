@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "625572be-2e5c-4142-a811-eb1e17cf8979",
+        "name": "Munchkin",
+        "ageYears": 13,
+        "disposition": "bombastic",
+        "fluffiness": 4,
+        "quirk": "has memorised the bus timetable for a city it has never visited",
+        "speciesId": "8f774c69-2270-5765-9bdb-98a0a85802ec",
+        "speciesCommonName": "Proboscis Monkey",
+        "speciesScientificName": "Nasalis larvatus",
+        "sizeClass": "medium",
+        "ownerName": "Ashley",
+        "shelterId": "e9a0f6a9-5a3f-51a3-ae37-19773f4ac55f",
+        "shelterName": "The Archipelago Orphanage"
+      }
+    }
+  }
+}

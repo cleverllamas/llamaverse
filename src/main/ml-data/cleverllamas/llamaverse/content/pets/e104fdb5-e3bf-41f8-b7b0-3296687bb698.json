@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "e104fdb5-e3bf-41f8-b7b0-3296687bb698",
+        "name": "Snapper",
+        "ageYears": 1,
+        "disposition": "sneaky",
+        "fluffiness": 2,
+        "quirk": "judges every piece of music against a private internal standard it has never revealed",
+        "speciesId": "a417c180-20e9-5c37-9f4d-7bfb1f384522",
+        "speciesCommonName": "Sea Cucumber",
+        "speciesScientificName": "Holothuria scabra",
+        "sizeClass": "small",
+        "ownerName": "Angela",
+        "shelterId": "e9a0f6a9-5a3f-51a3-ae37-19773f4ac55f",
+        "shelterName": "The Archipelago Orphanage"
+      }
+    }
+  }
+}

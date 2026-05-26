@@ -7,5 +7,6 @@
   "hairColor": "Brown",
   "breed": "Hybrid",
   "placeOfBirth": "Karaview, Croatia",
-  "description": "Nancy is a brown-eyed llama with brown hair, standing 149 cm tall. Originally from Karaview, Croatia, Nancy enjoys knitting, cooking, singing. Known for their energetic and shy personality, Nancy is a beloved member of the llama community."
+  "description": "Nancy is a brown-eyed llama with brown hair, standing 149 cm tall. Originally from Karaview, Croatia, Nancy enjoys knitting, cooking, singing. Known for their energetic and shy personality, Nancy is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_borealis"
 }

@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "69502245-eec8-4fe6-9558-e1028baed08b",
+        "name": "Widdershins",
+        "ageYears": 5,
+        "disposition": "bombastic",
+        "fluffiness": 2,
+        "quirk": "has memorised all 88 Beethoven piano sonatas",
+        "speciesId": "ca531de8-cda7-5fdb-a5f4-00420082f1c1",
+        "speciesCommonName": "Blue-tongued Skink",
+        "speciesScientificName": "Tiliqua scincoides",
+        "sizeClass": "small",
+        "ownerName": "Horatio",
+        "shelterId": "2b312a04-c215-5098-9433-f5aab988726c",
+        "shelterName": "Apex Companions Forever"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "f44e5918-512d-4559-92cc-2bca3760382b",
+        "name": "Snickerdoodle",
+        "ageYears": 5,
+        "disposition": "grumpy",
+        "fluffiness": 5,
+        "quirk": "stages elaborate fake emergencies to see who responds fastest",
+        "speciesId": "dd3c34c0-42a2-5716-b11c-936fd620b648",
+        "speciesCommonName": "Tawny Frogmouth",
+        "speciesScientificName": "Podargus strigoides",
+        "sizeClass": "small",
+        "ownerName": "Alice",
+        "shelterId": "6d613241-5ad3-5197-8b01-500e8b607567",
+        "shelterName": "Fernanda's Home for Misunderstood Creatures"
+      }
+    }
+  }
+}

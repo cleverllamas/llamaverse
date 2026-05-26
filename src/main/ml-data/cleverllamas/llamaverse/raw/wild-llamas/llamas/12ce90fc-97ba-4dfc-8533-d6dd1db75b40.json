@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Suri",
   "placeOfBirth": "Lake Mariahton, Malta",
-  "description": "Richard is a blue-eyed llama with red hair, standing 159 cm tall. Originally from Lake Mariahton, Malta, Richard enjoys reading, gardening, painting. Known for their mischievous and playful personality, Richard is a beloved member of the llama community."
+  "description": "Richard is a blue-eyed llama with red hair, standing 159 cm tall. Originally from Lake Mariahton, Malta, Richard enjoys reading, gardening, painting. Known for their mischievous and playful personality, Richard is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_andinus"
 }

@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Hybrid",
   "placeOfBirth": "West Blake, Mauritius",
-  "description": "Mark is a amber-eyed llama with red hair, standing 114 cm tall. Originally from West Blake, Mauritius, Mark enjoys singing, knitting, painting. Known for their calm and shy personality, Mark is a beloved member of the llama community."
+  "description": "Mark is a amber-eyed llama with red hair, standing 114 cm tall. Originally from West Blake, Mauritius, Mark enjoys singing, knitting, painting. Known for their calm and shy personality, Mark is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_vellicosta"
 }

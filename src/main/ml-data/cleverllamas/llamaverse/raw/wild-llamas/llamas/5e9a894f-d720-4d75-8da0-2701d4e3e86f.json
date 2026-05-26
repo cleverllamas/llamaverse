@@ -7,5 +7,6 @@
   "hairColor": "Black",
   "breed": "Hybrid",
   "placeOfBirth": "Sharonside, Tuvalu",
-  "description": "Leslie is a hazel-eyed llama with black hair, standing 145 cm tall. Originally from Sharonside, Tuvalu, Leslie enjoys gardening, wood carving, reading. Known for their calm and mischievous personality, Leslie is a beloved member of the llama community."
+  "description": "Leslie is a hazel-eyed llama with black hair, standing 145 cm tall. Originally from Sharonside, Tuvalu, Leslie enjoys gardening, wood carving, reading. Known for their calm and mischievous personality, Leslie is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_borealis"
 }

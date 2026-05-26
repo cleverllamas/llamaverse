@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "bea7507c-af00-45f8-8c16-72fdd59ade71",
+        "name": "Dimple",
+        "ageYears": 15,
+        "disposition": "earnest",
+        "fluffiness": 2,
+        "quirk": "has formed strong opinions about architecture",
+        "speciesId": "51224b0c-de04-59b5-bf77-14b5264c4c42",
+        "speciesCommonName": "Sperm Whale",
+        "speciesScientificName": "Physeter macrocephalus",
+        "sizeClass": "gigantic",
+        "ownerName": "Nigel",
+        "shelterId": "e9a0f6a9-5a3f-51a3-ae37-19773f4ac55f",
+        "shelterName": "The Archipelago Orphanage"
+      }
+    }
+  }
+}

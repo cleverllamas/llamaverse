@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "e0d68626-73fa-421e-9249-2270971fde08",
+        "name": "Nudge",
+        "ageYears": 22,
+        "disposition": "devoted",
+        "fluffiness": 7,
+        "quirk": "constructed a scale model of the hay festival from memory",
+        "speciesId": "6b5d256d-571b-5c64-b036-4667040eef2e",
+        "speciesCommonName": "Lyrebird",
+        "speciesScientificName": "Menura novaehollandiae",
+        "sizeClass": "medium",
+        "ownerName": "Beatrice",
+        "shelterId": "43593191-478d-5f0a-82ec-63ff4cc4122e",
+        "shelterName": "The Patagonian Wild Wing Refuge"
+      }
+    }
+  }
+}

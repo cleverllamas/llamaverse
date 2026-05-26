@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Poison Dart Frog",
+        "sizeClass": "tiny",
+        "fluffiness": 1,
+        "typicalDisposition": "vibrant",
+        "typicalLifespanYears": 10,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Amphibia",
+          "order": "Anura",
+          "family": "Dendrobatidae",
+          "genus": "Dendrobates",
+          "species": "Dendrobates tinctorius"
+        },
+        "description": "Brilliantly coloured and lethal to touch. Llamas keep them behind glass and admire them from a respectful distance.",
+        "id": "cc8dd1ba-f29c-56e6-8699-15f4a268b860"
+      }
+    }
+  }
+}

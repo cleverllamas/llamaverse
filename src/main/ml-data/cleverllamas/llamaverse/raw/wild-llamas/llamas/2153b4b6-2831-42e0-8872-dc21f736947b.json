@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Hybrid",
   "placeOfBirth": "Stephenbury, Zambia",
-  "description": "Robert is a green-eyed llama with red hair, standing 132 cm tall. Originally from Stephenbury, Zambia, Robert enjoys hiking, cooking, knitting. Known for their friendly and shy personality, Robert is a beloved member of the llama community."
+  "description": "Robert is a green-eyed llama with red hair, standing 132 cm tall. Originally from Stephenbury, Zambia, Robert enjoys hiking, cooking, knitting. Known for their friendly and shy personality, Robert is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_andinus"
 }

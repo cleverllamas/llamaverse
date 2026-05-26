@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "ea2381a7-f2aa-44bc-a95b-c16e238192ef",
+        "name": "Shuffle",
+        "ageYears": 0,
+        "disposition": "cheerful",
+        "fluffiness": 1,
+        "quirk": "has never once been surprised by anything",
+        "speciesId": "a370af67-78f3-5985-9ff5-12f2ca1e001d",
+        "speciesCommonName": "Pygmy Seahorse",
+        "speciesScientificName": "Hippocampus bargibanti",
+        "sizeClass": "microscopic",
+        "ownerName": "Monique",
+        "shelterId": "c8de3d2b-6e9a-5ed1-bda7-9a50f977ddb9",
+        "shelterName": "The Quiet Pool"
+      }
+    }
+  }
+}

@@ -7,5 +7,6 @@
   "hairColor": "Brown",
   "breed": "Suri",
   "placeOfBirth": "Clarkburgh, Botswana",
-  "description": "Elizabeth is a amber-eyed llama with brown hair, standing 102 cm tall. Originally from Clarkburgh, Botswana, Elizabeth enjoys reading, dancing, knitting. Known for their gentle and calm personality, Elizabeth is a beloved member of the llama community."
+  "description": "Elizabeth is a amber-eyed llama with brown hair, standing 102 cm tall. Originally from Clarkburgh, Botswana, Elizabeth enjoys reading, dancing, knitting. Known for their gentle and calm personality, Elizabeth is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriborealis"
 }

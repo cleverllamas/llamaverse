@@ -7,5 +7,6 @@
   "hairColor": "Black",
   "breed": "Hybrid",
   "placeOfBirth": "Andersonchester, Armenia",
-  "description": "Sheri is a blue-eyed llama with black hair, standing 186 cm tall. Originally from Andersonchester, Armenia, Sheri enjoys hiking, dancing, reading. Known for their curious and calm personality, Sheri is a beloved member of the llama community."
+  "description": "Sheri is a blue-eyed llama with black hair, standing 186 cm tall. Originally from Andersonchester, Armenia, Sheri enjoys hiking, dancing, reading. Known for their curious and calm personality, Sheri is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriensis"
 }

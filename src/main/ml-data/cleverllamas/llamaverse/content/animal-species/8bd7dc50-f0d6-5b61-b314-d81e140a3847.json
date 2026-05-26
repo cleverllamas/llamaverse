@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Chinese Giant Salamander",
+        "sizeClass": "large",
+        "fluffiness": 1,
+        "typicalDisposition": "prehistoric",
+        "typicalLifespanYears": 80,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Amphibia",
+          "order": "Urodela",
+          "family": "Cryptobranchidae",
+          "genus": "Andrias",
+          "species": "Andrias davidianus"
+        },
+        "description": "The world's largest amphibian at 1.8 metres. Critically endangered and extremely old. Llamas with the appropriate permits treat ownership as a conservation duty.",
+        "id": "8bd7dc50-f0d6-5b61-b314-d81e140a3847"
+      }
+    }
+  }
+}

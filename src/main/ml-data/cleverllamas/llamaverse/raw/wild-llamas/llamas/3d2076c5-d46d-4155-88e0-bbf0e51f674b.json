@@ -7,5 +7,6 @@
   "hairColor": "Gray",
   "breed": "Huacaya",
   "placeOfBirth": "Caldwellfort, Somalia",
-  "description": "Miguel is a brown-eyed llama with gray hair, standing 156 cm tall. Originally from Caldwellfort, Somalia, Miguel enjoys gardening, reading, painting. Known for their curious and calm personality, Miguel is a beloved member of the llama community."
+  "description": "Miguel is a brown-eyed llama with gray hair, standing 156 cm tall. Originally from Caldwellfort, Somalia, Miguel enjoys gardening, reading, painting. Known for their curious and calm personality, Miguel is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_borealis"
 }

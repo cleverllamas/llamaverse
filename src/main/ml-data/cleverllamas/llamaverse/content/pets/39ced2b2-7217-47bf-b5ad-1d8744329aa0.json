@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "39ced2b2-7217-47bf-b5ad-1d8744329aa0",
+        "name": "Biscuit",
+        "ageYears": 0,
+        "disposition": "cheerful",
+        "fluffiness": 1,
+        "quirk": "only eats food arranged in symmetrical patterns",
+        "speciesId": "3a40829e-4250-5a56-948e-20945e6afc8e",
+        "speciesCommonName": "Crystal Red Shrimp",
+        "speciesScientificName": "Caridina cantonensis",
+        "sizeClass": "tiny",
+        "ownerName": "Monique",
+        "shelterId": "c8de3d2b-6e9a-5ed1-bda7-9a50f977ddb9",
+        "shelterName": "The Quiet Pool"
+      }
+    }
+  }
+}

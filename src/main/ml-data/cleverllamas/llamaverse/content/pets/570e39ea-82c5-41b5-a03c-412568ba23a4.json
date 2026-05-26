@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "570e39ea-82c5-41b5-a03c-412568ba23a4",
+        "name": "Fizzle",
+        "ageYears": 3,
+        "disposition": "serene",
+        "fluffiness": 5,
+        "quirk": "has formed strong opinions about architecture",
+        "speciesId": "3d6b0a32-6a0d-5492-8667-0e2268027565",
+        "speciesCommonName": "Harpy Eagle",
+        "speciesScientificName": "Harpia harpyja",
+        "sizeClass": "large",
+        "ownerName": "Boris",
+        "shelterId": "24d12d56-1e48-56e1-aa51-54df3c5f003c",
+        "shelterName": "The Stillness Institute"
+      }
+    }
+  }
+}

@@ -7,5 +7,6 @@
   "hairColor": "Gray",
   "breed": "Suri",
   "placeOfBirth": "Scottberg, Tonga",
-  "description": "Cameron is a green-eyed llama with gray hair, standing 147 cm tall. Originally from Scottberg, Tonga, Cameron enjoys wood carving, knitting, gardening. Known for their gentle and curious personality, Cameron is a beloved member of the llama community."
+  "description": "Cameron is a green-eyed llama with gray hair, standing 147 cm tall. Originally from Scottberg, Tonga, Cameron enjoys wood carving, knitting, gardening. Known for their gentle and curious personality, Cameron is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_vellicosta"
 }

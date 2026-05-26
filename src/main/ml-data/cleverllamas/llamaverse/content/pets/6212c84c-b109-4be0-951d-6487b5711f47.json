@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "6212c84c-b109-4be0-951d-6487b5711f47",
+        "name": "Tintinnabulation",
+        "ageYears": 12,
+        "disposition": "regal",
+        "fluffiness": 8,
+        "quirk": "has formed strong opinions about architecture",
+        "speciesId": "1a1c3f14-c193-53af-902c-f89ad6180da9",
+        "speciesCommonName": "Barn Owl",
+        "speciesScientificName": "Tyto alba",
+        "sizeClass": "medium",
+        "ownerName": "Fernanda",
+        "shelterId": "fea3da74-6337-5053-bffe-89e75d14ef03",
+        "shelterName": "The Wandering Fleece Animal Sanctuary"
+      }
+    }
+  }
+}

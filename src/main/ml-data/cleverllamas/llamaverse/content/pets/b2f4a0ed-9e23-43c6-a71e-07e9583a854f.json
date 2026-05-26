@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "b2f4a0ed-9e23-43c6-a71e-07e9583a854f",
+        "name": "Gurgle",
+        "ageYears": 4,
+        "disposition": "aloof",
+        "fluffiness": 3,
+        "quirk": "refuses to acknowledge Mondays",
+        "speciesId": "31f093d5-f0a2-5e25-9b87-e5d0caa82325",
+        "speciesCommonName": "Christmas Tree Worm",
+        "speciesScientificName": "Spirobranchus giganteus",
+        "sizeClass": "tiny",
+        "ownerName": "Isolde",
+        "shelterId": "fea3da74-6337-5053-bffe-89e75d14ef03",
+        "shelterName": "The Wandering Fleece Animal Sanctuary"
+      }
+    }
+  }
+}

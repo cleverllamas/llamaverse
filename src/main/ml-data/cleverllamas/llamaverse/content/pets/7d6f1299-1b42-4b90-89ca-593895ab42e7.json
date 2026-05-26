@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "7d6f1299-1b42-4b90-89ca-593895ab42e7",
+        "name": "Twitch",
+        "ageYears": 4,
+        "disposition": "grumpy",
+        "fluffiness": 6,
+        "quirk": "has memorised the bus timetable for a city it has never visited",
+        "speciesId": "2ef097b8-1657-5dd9-8208-6894c49f32ab",
+        "speciesCommonName": "Platypus",
+        "speciesScientificName": "Ornithorhynchus anatinus",
+        "sizeClass": "small",
+        "ownerName": "Freddie",
+        "shelterId": "2770733d-7079-5abc-92e8-6a21c74559c1",
+        "shelterName": "Deep Blue Creature Sanctuary"
+      }
+    }
+  }
+}

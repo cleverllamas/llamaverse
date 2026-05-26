@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Emperor Scorpion",
+        "sizeClass": "small",
+        "fluffiness": 1,
+        "typicalDisposition": "imperious",
+        "typicalLifespanYears": 8,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Arthropoda",
+          "class": "Arachnida",
+          "order": "Scorpiones",
+          "family": "Scorpionidae",
+          "genus": "Pandinus",
+          "species": "Pandinus imperator"
+        },
+        "description": "The largest scorpion in the world and, despite appearances, relatively mild-mannered. Llamas consider them misunderstood.",
+        "id": "5b5b57d6-344d-5913-bf87-dac3a883d652"
+      }
+    }
+  }
+}

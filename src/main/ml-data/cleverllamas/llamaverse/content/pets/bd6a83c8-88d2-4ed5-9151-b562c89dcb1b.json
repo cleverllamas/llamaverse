@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "bd6a83c8-88d2-4ed5-9151-b562c89dcb1b",
+        "name": "Pebble",
+        "ageYears": 50,
+        "disposition": "devoted",
+        "fluffiness": 2,
+        "quirk": "is training for a marathon at a very leisurely pace",
+        "speciesId": "16b1975b-35a4-56f7-9e1e-1a6b54f998fe",
+        "speciesCommonName": "African Elephant",
+        "speciesScientificName": "Loxodonta africana",
+        "sizeClass": "gigantic",
+        "ownerName": "Elena",
+        "shelterId": "2b312a04-c215-5098-9433-f5aab988726c",
+        "shelterName": "Apex Companions Forever"
+      }
+    }
+  }
+}

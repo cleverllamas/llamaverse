@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "36431427-baa7-4beb-9c41-251cd57e9a5b",
+        "name": "Wobble",
+        "ageYears": 1,
+        "disposition": "lazy",
+        "fluffiness": 1,
+        "quirk": "has been learning to juggle for three years with no progress",
+        "speciesId": "7a0a0b09-06f3-5534-8613-4da111d626fd",
+        "speciesCommonName": "Vinegaroon",
+        "speciesScientificName": "Mastigoproctus giganteus",
+        "sizeClass": "small",
+        "ownerName": "Ophelia",
+        "shelterId": "869456e1-451e-554f-96f2-4a54e832dd46",
+        "shelterName": "Bradley's Extreme Fauna Compound"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "082ce645-c91c-4392-9069-f4a0f1619fe5",
+        "name": "Gloop",
+        "ageYears": 6,
+        "disposition": "bombastic",
+        "fluffiness": 5,
+        "quirk": "is writing a novel but will not discuss the plot",
+        "speciesId": "ba19f95c-7ac2-579e-ba6d-2421a5e3f794",
+        "speciesCommonName": "Pufferfish",
+        "speciesScientificName": "Tetraodon mbu",
+        "sizeClass": "small",
+        "ownerName": "Horatio",
+        "shelterId": "6d613241-5ad3-5197-8b01-500e8b607567",
+        "shelterName": "Fernanda's Home for Misunderstood Creatures"
+      }
+    }
+  }
+}

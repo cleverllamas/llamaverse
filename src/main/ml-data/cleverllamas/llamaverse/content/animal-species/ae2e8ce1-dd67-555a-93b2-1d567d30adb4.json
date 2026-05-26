@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Tardigrade \u2014 Water Bear (Arctic)",
+        "sizeClass": "microscopic",
+        "fluffiness": 1,
+        "typicalDisposition": "enduring",
+        "typicalLifespanYears": 3,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Tardigrada",
+          "class": "Eutardigrada",
+          "order": "Apochela",
+          "family": "Milnesiidae",
+          "genus": "Milnesium",
+          "species": "Milnesium tardigradum"
+        },
+        "description": "An arctic variety of water bear capable of surviving in temperatures from -273\u00b0C to 151\u00b0C. Llamas who travel to extreme environments take them as companions. They survive everything.",
+        "id": "ae2e8ce1-dd67-555a-93b2-1d567d30adb4"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Crown-of-Thorns Starfish",
+        "sizeClass": "medium",
+        "fluffiness": 1,
+        "typicalDisposition": "relentless",
+        "typicalLifespanYears": 8,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Echinodermata",
+          "class": "Asteroidea",
+          "order": "Valvatida",
+          "family": "Acanthasteridae",
+          "genus": "Acanthaster",
+          "species": "Acanthaster planci"
+        },
+        "description": "40 arms covered in venomous spines. Eats coral. Has a taste for the dramatic. Llamas who keep them do so in isolation with good reason.",
+        "id": "08975a97-6b10-5b93-a485-6982350d0c27"
+      }
+    }
+  }
+}

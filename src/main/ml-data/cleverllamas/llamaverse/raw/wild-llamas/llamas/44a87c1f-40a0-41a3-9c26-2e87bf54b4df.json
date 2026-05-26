@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Hybrid",
   "placeOfBirth": "West Susanborough, Tonga",
-  "description": "Tracy is a brown-eyed llama with red hair, standing 165 cm tall. Originally from West Susanborough, Tonga, Tracy enjoys painting, knitting, reading. Known for their curious and playful personality, Tracy is a beloved member of the llama community."
+  "description": "Tracy is a brown-eyed llama with red hair, standing 165 cm tall. Originally from West Susanborough, Tonga, Tracy enjoys painting, knitting, reading. Known for their curious and playful personality, Tracy is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_litoralis"
 }

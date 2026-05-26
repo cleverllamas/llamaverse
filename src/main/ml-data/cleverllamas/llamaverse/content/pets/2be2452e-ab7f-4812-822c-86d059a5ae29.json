@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "2be2452e-ab7f-4812-822c-86d059a5ae29",
+        "name": "Zippy",
+        "ageYears": 2,
+        "disposition": "affectionate",
+        "fluffiness": 2,
+        "quirk": "has been learning to juggle for three years with no progress",
+        "speciesId": "b1ca06db-18c3-5651-9cb9-d3ffd7ab87e1",
+        "speciesCommonName": "Meerkat",
+        "speciesScientificName": "Suricata suricatta",
+        "sizeClass": "small",
+        "ownerName": "Angela",
+        "shelterId": "4e1e0f71-7c69-5073-ab12-27cfd4257912",
+        "shelterName": "The Old Pond Sanctuary"
+      }
+    }
+  }
+}

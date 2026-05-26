@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "c363990c-d067-4b9e-8f7c-70c65d1c510e",
+        "name": "Twitch",
+        "ageYears": 9,
+        "disposition": "philosophical",
+        "fluffiness": 2,
+        "quirk": "is training for a marathon at a very leisurely pace",
+        "speciesId": "8caf5f47-d6f0-5244-9dfc-3e271a0023b0",
+        "speciesCommonName": "Glass Frog",
+        "speciesScientificName": "Hyalinobatrachium valerioi",
+        "sizeClass": "tiny",
+        "ownerName": "Isolde",
+        "shelterId": "1d1ceadd-64ed-52d5-a416-b278d95c83d1",
+        "shelterName": "The Cosy Burrow Rescue and Rehoming"
+      }
+    }
+  }
+}

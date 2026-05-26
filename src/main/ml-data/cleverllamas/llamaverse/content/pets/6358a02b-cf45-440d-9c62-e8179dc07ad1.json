@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "6358a02b-cf45-440d-9c62-e8179dc07ad1",
+        "name": "Fizzle",
+        "ageYears": 9,
+        "disposition": "aloof",
+        "fluffiness": 7,
+        "quirk": "only eats food arranged in symmetrical patterns",
+        "speciesId": "2ef097b8-1657-5dd9-8208-6894c49f32ab",
+        "speciesCommonName": "Platypus",
+        "speciesScientificName": "Ornithorhynchus anatinus",
+        "sizeClass": "small",
+        "ownerName": "Aaron",
+        "shelterId": "2b312a04-c215-5098-9433-f5aab988726c",
+        "shelterName": "Apex Companions Forever"
+      }
+    }
+  }
+}

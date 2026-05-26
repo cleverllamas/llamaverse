@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "457bcd00-5baf-4aa9-a2ed-5116b8c9ca30",
+        "name": "Widdershins",
+        "ageYears": 11,
+        "disposition": "aloof",
+        "fluffiness": 1,
+        "quirk": "refuses to acknowledge Mondays",
+        "speciesId": "8caf5f47-d6f0-5244-9dfc-3e271a0023b0",
+        "speciesCommonName": "Glass Frog",
+        "speciesScientificName": "Hyalinobatrachium valerioi",
+        "sizeClass": "tiny",
+        "ownerName": "Aaron",
+        "shelterId": "8d977212-e5ba-55f4-be32-882c53197b49",
+        "shelterName": "The Wool and Scales Rehabilitation Centre"
+      }
+    }
+  }
+}

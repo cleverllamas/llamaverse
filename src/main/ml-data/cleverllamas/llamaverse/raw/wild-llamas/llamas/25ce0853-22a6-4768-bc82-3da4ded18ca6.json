@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Suri",
   "placeOfBirth": "North Ronnie, Guatemala",
-  "description": "Louis is a green-eyed llama with red hair, standing 154 cm tall. Originally from North Ronnie, Guatemala, Louis enjoys cooking, singing, hiking. Known for their energetic and friendly personality, Louis is a beloved member of the llama community."
+  "description": "Louis is a green-eyed llama with red hair, standing 154 cm tall. Originally from North Ronnie, Guatemala, Louis enjoys cooking, singing, hiking. Known for their energetic and friendly personality, Louis is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_litoralis"
 }

@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Mata Mata Turtle",
+        "sizeClass": "medium",
+        "fluffiness": 1,
+        "typicalDisposition": "eccentric",
+        "typicalLifespanYears": 75,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Reptilia",
+          "order": "Testudines",
+          "family": "Chelidae",
+          "genus": "Chelus",
+          "species": "Chelus fimbriata"
+        },
+        "description": "Looks like a pile of leaves. Waits, motionless, for fish to swim past, then inhales them. Llamas admire its patience and aesthetic choices.",
+        "id": "1520e2a9-f4e6-511c-8e08-d0a5c220b9f7"
+      }
+    }
+  }
+}

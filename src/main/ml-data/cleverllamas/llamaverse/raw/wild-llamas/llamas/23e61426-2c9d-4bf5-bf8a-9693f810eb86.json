@@ -7,5 +7,6 @@
   "hairColor": "Black",
   "breed": "Hybrid",
   "placeOfBirth": "Gentryshire, Zambia",
-  "description": "Mary is a amber-eyed llama with black hair, standing 200 cm tall. Originally from Gentryshire, Zambia, Mary enjoys dancing, cooking, hiking. Known for their friendly and playful personality, Mary is a beloved member of the llama community."
+  "description": "Mary is a amber-eyed llama with black hair, standing 200 cm tall. Originally from Gentryshire, Zambia, Mary enjoys dancing, cooking, hiking. Known for their friendly and playful personality, Mary is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_andinus"
 }

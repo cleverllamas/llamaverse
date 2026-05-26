@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "7d335050-d098-4f34-b761-e7fd6e2f3d4d",
+        "name": "Munchkin",
+        "ageYears": 0,
+        "disposition": "earnest",
+        "fluffiness": 1,
+        "quirk": "collects bottle caps from obscure regions",
+        "speciesId": "4df56e07-201b-57a6-81f4-3ad89e89a46f",
+        "speciesCommonName": "Ostracod",
+        "speciesScientificName": "Cypris pubera",
+        "sizeClass": "microscopic",
+        "ownerName": "Ashley",
+        "shelterId": "2b312a04-c215-5098-9433-f5aab988726c",
+        "shelterName": "Apex Companions Forever"
+      }
+    }
+  }
+}

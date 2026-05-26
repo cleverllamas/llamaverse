@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Suri",
   "placeOfBirth": "Sandraburgh, Nauru",
-  "description": "Cindy is a brown-eyed llama with red hair, standing 190 cm tall. Originally from Sandraburgh, Nauru, Cindy enjoys painting, reading, singing. Known for their friendly and mischievous personality, Cindy is a beloved member of the llama community."
+  "description": "Cindy is a brown-eyed llama with red hair, standing 190 cm tall. Originally from Sandraburgh, Nauru, Cindy enjoys painting, reading, singing. Known for their friendly and mischievous personality, Cindy is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_surideserta"
 }

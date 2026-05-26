@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "70699f5e-d9b3-4539-9cc6-5995a82219cf",
+        "name": "Kerfuffle Jr",
+        "ageYears": 32,
+        "disposition": "bombastic",
+        "fluffiness": 1,
+        "quirk": "has memorised the bus timetable for a city it has never visited",
+        "speciesId": "a2ed5be3-68fd-57c7-bb40-cae87ba09f37",
+        "speciesCommonName": "Narwhal",
+        "speciesScientificName": "Monodon monoceros",
+        "sizeClass": "gigantic",
+        "ownerName": "Gwen",
+        "shelterId": "2b312a04-c215-5098-9433-f5aab988726c",
+        "shelterName": "Apex Companions Forever"
+      }
+    }
+  }
+}

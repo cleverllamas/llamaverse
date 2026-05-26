@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Hoatzin",
+        "sizeClass": "medium",
+        "fluffiness": 4,
+        "typicalDisposition": "punk",
+        "typicalLifespanYears": 15,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Aves",
+          "order": "Opisthocomiformes",
+          "family": "Opisthocomidae",
+          "genus": "Opisthocomus",
+          "species": "Opisthocomus hoazin"
+        },
+        "description": "Its chicks have claws on their wings like dinosaurs. Smells of manure due to its fermenting crop. Has a punk crest. Llamas who keep them are committed to the full experience.",
+        "id": "76cabc17-bbcf-5e4c-a1c7-2fd34d0442ef"
+      }
+    }
+  }
+}

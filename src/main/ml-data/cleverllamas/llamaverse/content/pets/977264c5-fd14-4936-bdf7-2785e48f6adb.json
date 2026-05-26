@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "977264c5-fd14-4936-bdf7-2785e48f6adb",
+        "name": "Plonk",
+        "ageYears": 4,
+        "disposition": "aloof",
+        "fluffiness": 1,
+        "quirk": "believes it is being followed, correctly",
+        "speciesId": "cf06f715-0eb1-5245-b0f4-53f627f49571",
+        "speciesCommonName": "Giant Isopod",
+        "speciesScientificName": "Bathynomus giganteus",
+        "sizeClass": "medium",
+        "ownerName": "Anthony",
+        "shelterId": "8d977212-e5ba-55f4-be32-882c53197b49",
+        "shelterName": "The Wool and Scales Rehabilitation Centre"
+      }
+    }
+  }
+}

@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Suri",
   "placeOfBirth": "Ryanstad, Benin",
-  "description": "Carlos is a brown-eyed llama with red hair, standing 125 cm tall. Originally from Ryanstad, Benin, Carlos enjoys dancing, cooking, reading. Known for their mischievous and calm personality, Carlos is a beloved member of the llama community."
+  "description": "Carlos is a brown-eyed llama with red hair, standing 125 cm tall. Originally from Ryanstad, Benin, Carlos enjoys dancing, cooking, reading. Known for their mischievous and calm personality, Carlos is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_andinus"
 }

@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "6746dee2-aa85-42c6-98b0-703894eac3c9",
+        "name": "Flibbertigibbet",
+        "ageYears": 1,
+        "disposition": "grumpy",
+        "fluffiness": 1,
+        "quirk": "constructed a scale model of the hay festival from memory",
+        "speciesId": "acbe160a-34a5-5c3e-b09b-16f95ee4ebeb",
+        "speciesCommonName": "Mimic Octopus",
+        "speciesScientificName": "Thaumoctopus mimicus",
+        "sizeClass": "small",
+        "ownerName": "Kestrel",
+        "shelterId": "fea3da74-6337-5053-bffe-89e75d14ef03",
+        "shelterName": "The Wandering Fleece Animal Sanctuary"
+      }
+    }
+  }
+}

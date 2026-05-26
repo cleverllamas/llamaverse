@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "61c136e6-fcc4-47cd-8a1b-900a45331c67",
+        "name": "Flibbertigibbet",
+        "ageYears": 4,
+        "disposition": "regal",
+        "fluffiness": 1,
+        "quirk": "only eats food arranged in symmetrical patterns",
+        "speciesId": "cc882f01-70bc-59f2-9224-e7c81406e187",
+        "speciesCommonName": "Coelacanth",
+        "speciesScientificName": "Latimeria chalumnae",
+        "sizeClass": "large",
+        "ownerName": "Elena",
+        "shelterId": "1d1ceadd-64ed-52d5-a416-b278d95c83d1",
+        "shelterName": "The Cosy Burrow Rescue and Rehoming"
+      }
+    }
+  }
+}

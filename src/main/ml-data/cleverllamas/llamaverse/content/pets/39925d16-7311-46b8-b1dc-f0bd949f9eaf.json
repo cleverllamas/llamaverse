@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "39925d16-7311-46b8-b1dc-f0bd949f9eaf",
+        "name": "Noodle",
+        "ageYears": 4,
+        "disposition": "theatrical",
+        "fluffiness": 6,
+        "quirk": "has never once been surprised by anything",
+        "speciesId": "8fa76313-6503-54ba-880e-990c276858b3",
+        "speciesCommonName": "Clouded Leopard",
+        "speciesScientificName": "Neofelis nebulosa",
+        "sizeClass": "medium",
+        "ownerName": "Horatio",
+        "shelterId": "1d1ceadd-64ed-52d5-a416-b278d95c83d1",
+        "shelterName": "The Cosy Burrow Rescue and Rehoming"
+      }
+    }
+  }
+}

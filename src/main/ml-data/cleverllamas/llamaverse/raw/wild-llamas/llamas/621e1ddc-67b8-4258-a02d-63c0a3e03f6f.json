@@ -7,5 +7,6 @@
   "hairColor": "Silver",
   "breed": "Hybrid",
   "placeOfBirth": "Port Jay, Burundi",
-  "description": "Jennifer is a brown-eyed llama with silver hair, standing 125 cm tall. Originally from Port Jay, Burundi, Jennifer enjoys cooking, reading, gardening. Known for their gentle and energetic personality, Jennifer is a beloved member of the llama community."
+  "description": "Jennifer is a brown-eyed llama with silver hair, standing 125 cm tall. Originally from Port Jay, Burundi, Jennifer enjoys cooking, reading, gardening. Known for their gentle and energetic personality, Jennifer is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriensis"
 }

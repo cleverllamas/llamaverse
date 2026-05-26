@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "35b7ccbb-c2a4-47bd-a8b7-a5b8d54af692",
+        "name": "Turvy",
+        "ageYears": 16,
+        "disposition": "eccentric",
+        "fluffiness": 7,
+        "quirk": "constructed a scale model of the hay festival from memory",
+        "speciesId": "7c65a493-b712-5936-a711-75affb2377f9",
+        "speciesCommonName": "Resplendent Quetzal",
+        "speciesScientificName": "Pharomachrus mocinno",
+        "sizeClass": "small",
+        "ownerName": "Monique",
+        "shelterId": "43593191-478d-5f0a-82ec-63ff4cc4122e",
+        "shelterName": "The Patagonian Wild Wing Refuge"
+      }
+    }
+  }
+}

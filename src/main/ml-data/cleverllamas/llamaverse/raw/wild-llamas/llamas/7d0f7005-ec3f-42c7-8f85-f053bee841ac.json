@@ -7,5 +7,6 @@
   "hairColor": "Black",
   "breed": "Hybrid",
   "placeOfBirth": "Walshhaven, Samoa",
-  "description": "Matthew is a brown-eyed llama with black hair, standing 165 cm tall. Originally from Walshhaven, Samoa, Matthew enjoys wood carving, hiking, reading. Known for their friendly and playful personality, Matthew is a beloved member of the llama community."
+  "description": "Matthew is a brown-eyed llama with black hair, standing 165 cm tall. Originally from Walshhaven, Samoa, Matthew enjoys wood carving, hiking, reading. Known for their friendly and playful personality, Matthew is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriborealis"
 }

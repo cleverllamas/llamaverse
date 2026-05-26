@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "9e3f0637-9b6a-4efe-b9da-411ce892b049",
+        "name": "Fizzle",
+        "ageYears": 3,
+        "disposition": "erratic",
+        "fluffiness": 3,
+        "quirk": "has attempted to file taxes three years in a row without opposable thumbs",
+        "speciesId": "31f093d5-f0a2-5e25-9b87-e5d0caa82325",
+        "speciesCommonName": "Christmas Tree Worm",
+        "speciesScientificName": "Spirobranchus giganteus",
+        "sizeClass": "tiny",
+        "ownerName": "Percy",
+        "shelterId": "a80124a7-0a88-582c-9362-e5c7aecd90d2",
+        "shelterName": "The Peculiar Menagerie of Llamaville East"
+      }
+    }
+  }
+}

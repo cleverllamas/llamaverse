@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "38fef51b-7cd6-45d5-bb36-90df5332f99a",
+        "name": "Flicker",
+        "ageYears": 2,
+        "disposition": "grumpy",
+        "fluffiness": 1,
+        "quirk": "stages elaborate fake emergencies to see who responds fastest",
+        "speciesId": "394eb58a-7760-55f9-ab05-7ccdcc0fca2f",
+        "speciesCommonName": "Giant Squid",
+        "speciesScientificName": "Architeuthis dux",
+        "sizeClass": "gigantic",
+        "ownerName": "Nigel",
+        "shelterId": "8d977212-e5ba-55f4-be32-882c53197b49",
+        "shelterName": "The Wool and Scales Rehabilitation Centre"
+      }
+    }
+  }
+}

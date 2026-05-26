@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "d852909f-e362-4db7-a465-4546f6ab6d04",
+        "name": "Nudge",
+        "ageYears": 3,
+        "disposition": "erratic",
+        "fluffiness": 8,
+        "quirk": "is training for a marathon at a very leisurely pace",
+        "speciesId": "c53d8a11-eed9-5fa6-9707-f538f88860a2",
+        "speciesCommonName": "Emperor Tamarin",
+        "speciesScientificName": "Saguinus imperator",
+        "sizeClass": "tiny",
+        "ownerName": "Bradley",
+        "shelterId": "4e1e0f71-7c69-5073-ab12-27cfd4257912",
+        "shelterName": "The Old Pond Sanctuary"
+      }
+    }
+  }
+}

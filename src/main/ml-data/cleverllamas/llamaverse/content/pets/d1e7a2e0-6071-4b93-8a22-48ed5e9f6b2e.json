@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "d1e7a2e0-6071-4b93-8a22-48ed5e9f6b2e",
+        "name": "Bumble",
+        "ageYears": 2,
+        "disposition": "eccentric",
+        "fluffiness": 2,
+        "quirk": "only communicates using interpretive movement between 9 and 10am",
+        "speciesId": "87e455dd-f1ed-5609-8b15-d694c7837106",
+        "speciesCommonName": "Dumbo Octopus",
+        "speciesScientificName": "Grimpoteuthis boylei",
+        "sizeClass": "small",
+        "ownerName": "Horatio",
+        "shelterId": "fea3da74-6337-5053-bffe-89e75d14ef03",
+        "shelterName": "The Wandering Fleece Animal Sanctuary"
+      }
+    }
+  }
+}

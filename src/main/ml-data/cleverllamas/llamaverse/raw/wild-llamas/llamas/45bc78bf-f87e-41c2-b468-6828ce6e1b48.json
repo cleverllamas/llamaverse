@@ -7,5 +7,6 @@
   "hairColor": "Gray",
   "breed": "Suri",
   "placeOfBirth": "Soliston, Norfolk Island",
-  "description": "Adam is a brown-eyed llama with gray hair, standing 141 cm tall. Originally from Soliston, Norfolk Island, Adam enjoys painting, wood carving, knitting. Known for their calm and curious personality, Adam is a beloved member of the llama community."
+  "description": "Adam is a brown-eyed llama with gray hair, standing 141 cm tall. Originally from Soliston, Norfolk Island, Adam enjoys painting, wood carving, knitting. Known for their calm and curious personality, Adam is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_litoralis"
 }

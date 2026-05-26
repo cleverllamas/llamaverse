@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "b5fbe248-4afa-4197-941f-8ccd25b30ec4",
+        "name": "Flicker",
+        "ageYears": 2,
+        "disposition": "serene",
+        "fluffiness": 1,
+        "quirk": "judges every piece of music against a private internal standard it has never revealed",
+        "speciesId": "eef78078-a2a5-5e4d-952e-221fc060a90d",
+        "speciesCommonName": "Beluga Whale",
+        "speciesScientificName": "Delphinapterus leucas",
+        "sizeClass": "large",
+        "ownerName": "Angela",
+        "shelterId": "8d977212-e5ba-55f4-be32-882c53197b49",
+        "shelterName": "The Wool and Scales Rehabilitation Centre"
+      }
+    }
+  }
+}

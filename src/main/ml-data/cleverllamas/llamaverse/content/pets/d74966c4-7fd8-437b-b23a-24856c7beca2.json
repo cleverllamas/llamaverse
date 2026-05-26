@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "d74966c4-7fd8-437b-b23a-24856c7beca2",
+        "name": "Razzle",
+        "ageYears": 17,
+        "disposition": "erratic",
+        "fluffiness": 2,
+        "quirk": "judges every piece of music against a private internal standard it has never revealed",
+        "speciesId": "d8813430-4b4c-5a92-9d22-d3a5b4110d11",
+        "speciesCommonName": "Horseshoe Crab",
+        "speciesScientificName": "Limulus polyphemus",
+        "sizeClass": "medium",
+        "ownerName": "Kestrel",
+        "shelterId": "1d1ceadd-64ed-52d5-a416-b278d95c83d1",
+        "shelterName": "The Cosy Burrow Rescue and Rehoming"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "ba51c10c-01fd-4ec9-a45d-a4e62f862fb4",
+        "name": "Crumble",
+        "ageYears": 1,
+        "disposition": "mischievous",
+        "fluffiness": 1,
+        "quirk": "only eats food arranged in symmetrical patterns",
+        "speciesId": "dac507fc-3d12-56d0-a957-e5e4b7ea894d",
+        "speciesCommonName": "Firefly",
+        "speciesScientificName": "Photinus pyralis",
+        "sizeClass": "tiny",
+        "ownerName": "Derek",
+        "shelterId": "2b312a04-c215-5098-9433-f5aab988726c",
+        "shelterName": "Apex Companions Forever"
+      }
+    }
+  }
+}

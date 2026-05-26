@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "d415e71d-bd65-4269-a9f1-3eb59b331ded",
+        "name": "Tintinnabulation",
+        "ageYears": 19,
+        "disposition": "aloof",
+        "fluffiness": 2,
+        "quirk": "only communicates using interpretive movement between 9 and 10am",
+        "speciesId": "43aa0a79-d15b-52e8-b72c-925ed35f3e3e",
+        "speciesCommonName": "Giant Clam",
+        "speciesScientificName": "Tridacna gigas",
+        "sizeClass": "gigantic",
+        "ownerName": "Boris",
+        "shelterId": "6d613241-5ad3-5197-8b01-500e8b607567",
+        "shelterName": "Fernanda's Home for Misunderstood Creatures"
+      }
+    }
+  }
+}

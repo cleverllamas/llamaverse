@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Capybara",
+        "sizeClass": "large",
+        "fluffiness": 4,
+        "typicalDisposition": "serene",
+        "typicalLifespanYears": 12,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Mammalia",
+          "order": "Rodentia",
+          "family": "Caviidae",
+          "genus": "Hydrochoerus",
+          "species": "Hydrochoerus hydrochaeris"
+        },
+        "description": "The world's largest rodent. Universally liked by all other animals. Llamas consider the capybara the embodiment of good social energy. Very popular pets.",
+        "id": "9caae520-fba2-54d7-ad50-e3e7e17c9d96"
+      }
+    }
+  }
+}

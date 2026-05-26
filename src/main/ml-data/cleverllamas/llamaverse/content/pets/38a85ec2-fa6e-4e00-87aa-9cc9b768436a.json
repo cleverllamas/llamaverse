@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "38a85ec2-fa6e-4e00-87aa-9cc9b768436a",
+        "name": "Snickerdoodle",
+        "ageYears": 2,
+        "disposition": "earnest",
+        "fluffiness": 2,
+        "quirk": "has never once been surprised by anything",
+        "speciesId": "8caf5f47-d6f0-5244-9dfc-3e271a0023b0",
+        "speciesCommonName": "Glass Frog",
+        "speciesScientificName": "Hyalinobatrachium valerioi",
+        "sizeClass": "tiny",
+        "ownerName": "Kestrel",
+        "shelterId": "4e1e0f71-7c69-5073-ab12-27cfd4257912",
+        "shelterName": "The Old Pond Sanctuary"
+      }
+    }
+  }
+}

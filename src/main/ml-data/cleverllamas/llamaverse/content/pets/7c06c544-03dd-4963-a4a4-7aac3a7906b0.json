@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "7c06c544-03dd-4963-a4a4-7aac3a7906b0",
+        "name": "Blorpington",
+        "ageYears": 7,
+        "disposition": "stoic",
+        "fluffiness": 8,
+        "quirk": "has attempted to file taxes three years in a row without opposable thumbs",
+        "speciesId": "087abb24-d5df-5dcc-904b-3a9880c55edd",
+        "speciesCommonName": "Fennec Fox",
+        "speciesScientificName": "Vulpes zerda",
+        "sizeClass": "small",
+        "ownerName": "Derek",
+        "shelterId": "43593191-478d-5f0a-82ec-63ff4cc4122e",
+        "shelterName": "The Patagonian Wild Wing Refuge"
+      }
+    }
+  }
+}

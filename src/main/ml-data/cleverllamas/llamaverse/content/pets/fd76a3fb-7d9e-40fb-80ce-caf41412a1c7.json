@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "fd76a3fb-7d9e-40fb-80ce-caf41412a1c7",
+        "name": "Flicker",
+        "ageYears": 0,
+        "disposition": "serene",
+        "fluffiness": 1,
+        "quirk": "organises its food alphabetically before eating",
+        "speciesId": "6e85a264-e217-534f-b888-2d67ace79c21",
+        "speciesCommonName": "Harlequin Shrimp",
+        "speciesScientificName": "Hymenocera picta",
+        "sizeClass": "tiny",
+        "ownerName": "Anthony",
+        "shelterId": "e9a0f6a9-5a3f-51a3-ae37-19773f4ac55f",
+        "shelterName": "The Archipelago Orphanage"
+      }
+    }
+  }
+}

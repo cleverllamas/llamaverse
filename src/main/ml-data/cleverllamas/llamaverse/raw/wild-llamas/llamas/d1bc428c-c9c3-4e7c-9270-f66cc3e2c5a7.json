@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Huacaya",
   "placeOfBirth": "Thompsonton, Spain",
-  "description": "Jacob is a brown-eyed llama with red hair, standing 173 cm tall. Originally from Thompsonton, Spain, Jacob enjoys gardening, painting, reading. Known for their gentle and energetic personality, Jacob is a beloved member of the llama community."
+  "description": "Jacob is a brown-eyed llama with red hair, standing 173 cm tall. Originally from Thompsonton, Spain, Jacob enjoys gardening, painting, reading. Known for their gentle and energetic personality, Jacob is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_vellifer"
 }

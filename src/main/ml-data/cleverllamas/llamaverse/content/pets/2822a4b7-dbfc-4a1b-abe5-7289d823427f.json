@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "2822a4b7-dbfc-4a1b-abe5-7289d823427f",
+        "name": "Snickerdoodle",
+        "ageYears": 5,
+        "disposition": "hyperactive",
+        "fluffiness": 5,
+        "quirk": "insists on a bedtime story every night",
+        "speciesId": "06dc65d2-4a3f-5273-9b99-1eaffac0131a",
+        "speciesCommonName": "Wolverine",
+        "speciesScientificName": "Gulo gulo",
+        "sizeClass": "medium",
+        "ownerName": "Monique",
+        "shelterId": "a80124a7-0a88-582c-9362-e5c7aecd90d2",
+        "shelterName": "The Peculiar Menagerie of Llamaville East"
+      }
+    }
+  }
+}

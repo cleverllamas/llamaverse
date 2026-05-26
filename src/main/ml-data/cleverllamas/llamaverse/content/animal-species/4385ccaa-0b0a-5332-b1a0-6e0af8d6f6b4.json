@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Pangolin",
+        "sizeClass": "medium",
+        "fluffiness": 1,
+        "typicalDisposition": "armoured",
+        "typicalLifespanYears": 20,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Mammalia",
+          "order": "Pholidota",
+          "family": "Manidae",
+          "genus": "Manis",
+          "species": "Manis pentadactyla"
+        },
+        "description": "The only mammal entirely covered in scales. Rolls into a ball when threatened. The most illegally trafficked animal in the human world, which llamas find unconscionable.",
+        "id": "4385ccaa-0b0a-5332-b1a0-6e0af8d6f6b4"
+      }
+    }
+  }
+}

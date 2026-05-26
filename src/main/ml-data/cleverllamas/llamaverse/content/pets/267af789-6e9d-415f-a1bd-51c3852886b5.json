@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "267af789-6e9d-415f-a1bd-51c3852886b5",
+        "name": "Flicker",
+        "ageYears": 1,
+        "disposition": "curious",
+        "fluffiness": 1,
+        "quirk": "constructed a scale model of the hay festival from memory",
+        "speciesId": "1d5714f3-7780-56e6-a2fd-494df6fe1bb8",
+        "speciesCommonName": "Glaucus atlanticus (Blue Dragon Sea Slug)",
+        "speciesScientificName": "Glaucus atlanticus",
+        "sizeClass": "tiny",
+        "ownerName": "Gwen",
+        "shelterId": "2b312a04-c215-5098-9433-f5aab988726c",
+        "shelterName": "Apex Companions Forever"
+      }
+    }
+  }
+}

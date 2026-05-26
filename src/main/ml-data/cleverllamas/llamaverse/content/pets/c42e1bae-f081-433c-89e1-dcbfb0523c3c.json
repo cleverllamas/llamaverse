@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "c42e1bae-f081-433c-89e1-dcbfb0523c3c",
+        "name": "Twitch",
+        "ageYears": 2,
+        "disposition": "devoted",
+        "fluffiness": 1,
+        "quirk": "knows one card trick and performs it at every possible opportunity",
+        "speciesId": "6e85a264-e217-534f-b888-2d67ace79c21",
+        "speciesCommonName": "Harlequin Shrimp",
+        "speciesScientificName": "Hymenocera picta",
+        "sizeClass": "tiny",
+        "ownerName": "Angela",
+        "shelterId": "4e1e0f71-7c69-5073-ab12-27cfd4257912",
+        "shelterName": "The Old Pond Sanctuary"
+      }
+    }
+  }
+}

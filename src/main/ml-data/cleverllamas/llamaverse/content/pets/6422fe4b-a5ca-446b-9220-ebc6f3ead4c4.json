@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "6422fe4b-a5ca-446b-9220-ebc6f3ead4c4",
+        "name": "Razzle",
+        "ageYears": 14,
+        "disposition": "theatrical",
+        "fluffiness": 1,
+        "quirk": "has memorised the bus timetable for a city it has never visited",
+        "speciesId": "52e97f4e-6aee-54e7-bcee-296237e2cb22",
+        "speciesCommonName": "Komodo Dragon",
+        "speciesScientificName": "Varanus komodoensis",
+        "sizeClass": "large",
+        "ownerName": "Monique",
+        "shelterId": "2770733d-7079-5abc-92e8-6a21c74559c1",
+        "shelterName": "Deep Blue Creature Sanctuary"
+      }
+    }
+  }
+}

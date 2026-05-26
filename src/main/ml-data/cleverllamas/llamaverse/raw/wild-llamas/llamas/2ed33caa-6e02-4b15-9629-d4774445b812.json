@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Hybrid",
   "placeOfBirth": "Port Kathryn, Georgia",
-  "description": "Bradley is a blue-eyed llama with red hair, standing 133 cm tall. Originally from Port Kathryn, Georgia, Bradley enjoys gardening, painting, cooking. Known for their gentle and friendly personality, Bradley is a beloved member of the llama community."
+  "description": "Bradley is a blue-eyed llama with red hair, standing 133 cm tall. Originally from Port Kathryn, Georgia, Bradley enjoys gardening, painting, cooking. Known for their gentle and friendly personality, Bradley is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_borealis"
 }

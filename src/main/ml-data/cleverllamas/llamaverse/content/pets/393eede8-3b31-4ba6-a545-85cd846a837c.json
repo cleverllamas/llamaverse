@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "393eede8-3b31-4ba6-a545-85cd846a837c",
+        "name": "Shimmer",
+        "ageYears": 1,
+        "disposition": "grumpy",
+        "fluffiness": 1,
+        "quirk": "only eats food arranged in symmetrical patterns",
+        "speciesId": "acbe160a-34a5-5c3e-b09b-16f95ee4ebeb",
+        "speciesCommonName": "Mimic Octopus",
+        "speciesScientificName": "Thaumoctopus mimicus",
+        "sizeClass": "small",
+        "ownerName": "Horatio",
+        "shelterId": "869456e1-451e-554f-96f2-4a54e832dd46",
+        "shelterName": "Bradley's Extreme Fauna Compound"
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "companies"
+    },
+    "instance": {
+      "companies": {
+        "id": "50005555-6666-7777-8888-9999aaaabbbb",
+        "name": "Clever Llamavas Ltd",
+        "ticker": "private",
+        "sector": "Technology Consulting",
+        "headquarters": "Llamaville Professional District",
+        "founded": 2015,
+        "ceoName": "Ashley",
+        "employees": 34,
+        "revenueHayBalesMillions": 18,
+        "description": "Clever Llamavas is the llamaverse's most respected independent MarkLogic consultancy. Small by design, the firm takes a maximum of twelve active client engagements at any time. The firm is particularly known for performance turnarounds \u2014 assignments where a client's MarkLogic deployment is underperforming and Clever Llamavas is brought in to diagnose and fix. In every recorded engagement, the root cause has involved at least one missing index.",
+        "marklogicUse": "Internal project management and knowledge base \u2014 on MarkLogic, naturally"
+      }
+    }
+  }
+}

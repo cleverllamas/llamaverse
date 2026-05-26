@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "518439da-d9f3-4912-8a2b-e659b9d8ce56",
+        "name": "Twizzle",
+        "ageYears": 11,
+        "disposition": "cheerful",
+        "fluffiness": 6,
+        "quirk": "has been learning to juggle for three years with no progress",
+        "speciesId": "8fa76313-6503-54ba-880e-990c276858b3",
+        "speciesCommonName": "Clouded Leopard",
+        "speciesScientificName": "Neofelis nebulosa",
+        "sizeClass": "medium",
+        "ownerName": "Anthony",
+        "shelterId": "8d977212-e5ba-55f4-be32-882c53197b49",
+        "shelterName": "The Wool and Scales Rehabilitation Centre"
+      }
+    }
+  }
+}

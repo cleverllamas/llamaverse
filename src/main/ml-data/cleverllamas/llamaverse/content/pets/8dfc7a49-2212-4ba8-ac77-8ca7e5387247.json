@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "8dfc7a49-2212-4ba8-ac77-8ca7e5387247",
+        "name": "Twizzle",
+        "ageYears": 0,
+        "disposition": "curious",
+        "fluffiness": 1,
+        "quirk": "believes it is being followed, correctly",
+        "speciesId": "832c436c-2009-5a0d-9129-44da183292f1",
+        "speciesCommonName": "Satanic Leaf-tailed Gecko",
+        "speciesScientificName": "Uroplatus phantasticus",
+        "sizeClass": "tiny",
+        "ownerName": "Monique",
+        "shelterId": "1d1ceadd-64ed-52d5-a416-b278d95c83d1",
+        "shelterName": "The Cosy Burrow Rescue and Rehoming"
+      }
+    }
+  }
+}

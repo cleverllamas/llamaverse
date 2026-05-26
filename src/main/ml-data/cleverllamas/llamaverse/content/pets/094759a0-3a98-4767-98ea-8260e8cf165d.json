@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "094759a0-3a98-4767-98ea-8260e8cf165d",
+        "name": "Waggle",
+        "ageYears": 5,
+        "disposition": "mischievous",
+        "fluffiness": 1,
+        "quirk": "knows one card trick and performs it at every possible opportunity",
+        "speciesId": "8caf5f47-d6f0-5244-9dfc-3e271a0023b0",
+        "speciesCommonName": "Glass Frog",
+        "speciesScientificName": "Hyalinobatrachium valerioi",
+        "sizeClass": "tiny",
+        "ownerName": "Alice",
+        "shelterId": "2b312a04-c215-5098-9433-f5aab988726c",
+        "shelterName": "Apex Companions Forever"
+      }
+    }
+  }
+}

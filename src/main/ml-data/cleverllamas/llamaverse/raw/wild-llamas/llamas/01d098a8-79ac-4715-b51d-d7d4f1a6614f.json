@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Suri",
   "placeOfBirth": "Dianaview, Australia",
-  "description": "Emily is a gray-eyed llama with red hair, standing 122 cm tall. Originally from Dianaview, Australia, Emily enjoys painting, hiking, dancing. Known for their energetic and curious personality, Emily is a beloved member of the llama community."
+  "description": "Emily is a gray-eyed llama with red hair, standing 122 cm tall. Originally from Dianaview, Australia, Emily enjoys painting, hiking, dancing. Known for their energetic and curious personality, Emily is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_andinus"
 }

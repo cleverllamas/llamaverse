@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "36ee0683-689f-4c3f-abfe-351080836b46",
+        "name": "Razzle",
+        "ageYears": 3,
+        "disposition": "hyperactive",
+        "fluffiness": 2,
+        "quirk": "has been composing the same symphony for eleven years",
+        "speciesId": "a2ed5be3-68fd-57c7-bb40-cae87ba09f37",
+        "speciesCommonName": "Narwhal",
+        "speciesScientificName": "Monodon monoceros",
+        "sizeClass": "gigantic",
+        "ownerName": "Kestrel",
+        "shelterId": "6d613241-5ad3-5197-8b01-500e8b607567",
+        "shelterName": "Fernanda's Home for Misunderstood Creatures"
+      }
+    }
+  }
+}

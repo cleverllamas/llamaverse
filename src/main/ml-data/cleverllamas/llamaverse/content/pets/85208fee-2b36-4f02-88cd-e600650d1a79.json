@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "85208fee-2b36-4f02-88cd-e600650d1a79",
+        "name": "Floss",
+        "ageYears": 1,
+        "disposition": "aloof",
+        "fluffiness": 1,
+        "quirk": "is writing a novel but will not discuss the plot",
+        "speciesId": "a27d03fc-4ac2-530a-a350-bae0d6c38aac",
+        "speciesCommonName": "Bombardier Beetle",
+        "speciesScientificName": "Brachinus crepitans",
+        "sizeClass": "tiny",
+        "ownerName": "Freddie",
+        "shelterId": "4e1e0f71-7c69-5073-ab12-27cfd4257912",
+        "shelterName": "The Old Pond Sanctuary"
+      }
+    }
+  }
+}

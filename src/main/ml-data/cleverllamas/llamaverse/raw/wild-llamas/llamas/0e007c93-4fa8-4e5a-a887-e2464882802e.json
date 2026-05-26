@@ -7,5 +7,6 @@
   "hairColor": "White",
   "breed": "Hybrid",
   "placeOfBirth": "Port Brendachester, French Polynesia",
-  "description": "Rick is a blue-eyed llama with white hair, standing 146 cm tall. Originally from Port Brendachester, French Polynesia, Rick enjoys singing, reading, wood carving. Known for their shy and mischievous personality, Rick is a beloved member of the llama community."
+  "description": "Rick is a blue-eyed llama with white hair, standing 146 cm tall. Originally from Port Brendachester, French Polynesia, Rick enjoys singing, reading, wood carving. Known for their shy and mischievous personality, Rick is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_borealis"
 }

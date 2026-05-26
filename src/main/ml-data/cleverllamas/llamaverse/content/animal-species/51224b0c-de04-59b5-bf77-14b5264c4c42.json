@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Sperm Whale",
+        "sizeClass": "gigantic",
+        "fluffiness": 1,
+        "typicalDisposition": "deep",
+        "typicalLifespanYears": 70,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Mammalia",
+          "order": "Artiodactyla",
+          "family": "Physeteridae",
+          "genus": "Physeter",
+          "species": "Physeter macrocephalus"
+        },
+        "description": "Has the largest brain of any animal. Dives 2km deep. Sleeps vertically in groups near the surface. Llamas with access to deep ocean keep them and communicate via interpretive dance.",
+        "id": "51224b0c-de04-59b5-bf77-14b5264c4c42"
+      }
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "schools"
+    },
+    "instance": {
+      "schools": {
+        "id": "ff660077-1188-4299-33aa-112233445566",
+        "name": "Institute of Secret Power Development",
+        "abbreviation": "ISPD",
+        "location": "Undisclosed, accessible by invitation only",
+        "founded": 1776,
+        "type": "Specialist Academy",
+        "specialisms": [
+          "Secret Power Theory",
+          "Applied Power Techniques",
+          "Power Ethics",
+          "Suppression Methods"
+        ],
+        "enrolment": 120,
+        "tuitionHayBalesPerYear": 0,
+        "description": "The Institute of Secret Power Development does not officially exist. Its address is not published. Its faculty are not named in any public record. Its graduates do not acknowledge attending. What is known \u2014 largely through inference and the occasional overheard conversation at hay festivals \u2014 is that the Institute has operated continuously since 1776, that its programme lasts exactly three years, and that admission requires demonstrating a secret power of at least Category Three severity. Notably, every llama in the named llamaverse registry has a secret power. The Institute has not commented.",
+        "notableAlumni": [
+          "Classified"
+        ]
+      }
+    }
+  }
+}

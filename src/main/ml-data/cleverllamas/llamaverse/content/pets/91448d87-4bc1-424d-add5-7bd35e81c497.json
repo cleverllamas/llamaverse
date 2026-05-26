@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "91448d87-4bc1-424d-add5-7bd35e81c497",
+        "name": "Fringe",
+        "ageYears": 6,
+        "disposition": "eccentric",
+        "fluffiness": 1,
+        "quirk": "naps in increasingly creative locations",
+        "speciesId": "8867c7bb-9643-55dc-b087-78a3f587f238",
+        "speciesCommonName": "Vampire Squid",
+        "speciesScientificName": "Vampyroteuthis infernalis",
+        "sizeClass": "small",
+        "ownerName": "Anthony",
+        "shelterId": "2b312a04-c215-5098-9433-f5aab988726c",
+        "shelterName": "Apex Companions Forever"
+      }
+    }
+  }
+}

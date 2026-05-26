@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "a290978f-0dec-43b2-9ebc-4b77ba94ca46",
+        "name": "Snapper",
+        "ageYears": 7,
+        "disposition": "aloof",
+        "fluffiness": 9,
+        "quirk": "maintains a written log of everything it finds interesting, which is everything",
+        "speciesId": "087abb24-d5df-5dcc-904b-3a9880c55edd",
+        "speciesCommonName": "Fennec Fox",
+        "speciesScientificName": "Vulpes zerda",
+        "sizeClass": "small",
+        "ownerName": "Monique",
+        "shelterId": "e9a0f6a9-5a3f-51a3-ae37-19773f4ac55f",
+        "shelterName": "The Archipelago Orphanage"
+      }
+    }
+  }
+}

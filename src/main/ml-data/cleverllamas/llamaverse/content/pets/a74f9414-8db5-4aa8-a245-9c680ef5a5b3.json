@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "a74f9414-8db5-4aa8-a245-9c680ef5a5b3",
+        "name": "Fringe",
+        "ageYears": 1,
+        "disposition": "cheerful",
+        "fluffiness": 2,
+        "quirk": "refuses to make eye contact but sends heartfelt letters",
+        "speciesId": "acbe160a-34a5-5c3e-b09b-16f95ee4ebeb",
+        "speciesCommonName": "Mimic Octopus",
+        "speciesScientificName": "Thaumoctopus mimicus",
+        "sizeClass": "small",
+        "ownerName": "Nigel",
+        "shelterId": "c8de3d2b-6e9a-5ed1-bda7-9a50f977ddb9",
+        "shelterName": "The Quiet Pool"
+      }
+    }
+  }
+}

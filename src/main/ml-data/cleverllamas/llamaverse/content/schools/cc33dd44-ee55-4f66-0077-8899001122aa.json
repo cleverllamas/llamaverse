@@ -1,0 +1,31 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "schools"
+    },
+    "instance": {
+      "schools": {
+        "id": "cc33dd44-ee55-4f66-0077-8899001122aa",
+        "name": "Patagonian School of Mystical Arts",
+        "abbreviation": "PSMA",
+        "location": "Southern Patagonia, near the Leaf Falls",
+        "founded": 1841,
+        "type": "Specialist Academy",
+        "specialisms": [
+          "Secret Power Development",
+          "Mystical Philosophy",
+          "Advanced Leaf Studies",
+          "Epistemology of Hay"
+        ],
+        "enrolment": 620,
+        "tuitionHayBalesPerYear": 950,
+        "description": "The oldest specialist academy in the llamaverse, the Patagonian School of Mystical Arts has trained generations of secret-power practitioners and philosophers. Its entrance examination is oral and lasts three days, conducted entirely outdoors regardless of weather. The school has no fixed curriculum; students design their own programme with a faculty mentor. Angela studied here for four years; the school claims her heritage designation as its greatest honour.",
+        "notableAlumni": [
+          "Angela (Leaf Dancer)",
+          "Professor Beatrice (Hay Problem)",
+          "Ashley (Druid's Sight)"
+        ]
+      }
+    }
+  }
+}

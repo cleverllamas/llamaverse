@@ -7,5 +7,6 @@
   "hairColor": "Gray",
   "breed": "Hybrid",
   "placeOfBirth": "Kellyfort, Paraguay",
-  "description": "Jennifer is a gray-eyed llama with gray hair, standing 185 cm tall. Originally from Kellyfort, Paraguay, Jennifer enjoys wood carving, knitting, singing. Known for their gentle and calm personality, Jennifer is a beloved member of the llama community."
+  "description": "Jennifer is a gray-eyed llama with gray hair, standing 185 cm tall. Originally from Kellyfort, Paraguay, Jennifer enjoys wood carving, knitting, singing. Known for their gentle and calm personality, Jennifer is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriensis"
 }

@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "7464f8ed-5ab7-4470-808b-70416426c3e5",
+        "name": "Knick",
+        "ageYears": 29,
+        "disposition": "serene",
+        "fluffiness": 1,
+        "quirk": "sleeps only in prime-numbered minutes",
+        "speciesId": "ac69524c-7513-5955-bdf2-126d2e06c74b",
+        "speciesCommonName": "White Rhinoceros",
+        "speciesScientificName": "Ceratotherium simum",
+        "sizeClass": "gigantic",
+        "ownerName": "Beatrice",
+        "shelterId": "4e1e0f71-7c69-5073-ab12-27cfd4257912",
+        "shelterName": "The Old Pond Sanctuary"
+      }
+    }
+  }
+}

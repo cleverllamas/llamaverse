@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Beluga Whale",
+        "sizeClass": "large",
+        "fluffiness": 1,
+        "typicalDisposition": "chatty",
+        "typicalLifespanYears": 70,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Mammalia",
+          "order": "Artiodactyla",
+          "family": "Monodontidae",
+          "genus": "Delphinapterus",
+          "species": "Delphinapterus leucas"
+        },
+        "description": "Called the 'canary of the sea' for its wide vocal range. Can change the shape of its forehead bulge (its melon) by moving air. Llamas who keep belugas report highly engaging conversations.",
+        "id": "eef78078-a2a5-5e4d-952e-221fc060a90d"
+      }
+    }
+  }
+}

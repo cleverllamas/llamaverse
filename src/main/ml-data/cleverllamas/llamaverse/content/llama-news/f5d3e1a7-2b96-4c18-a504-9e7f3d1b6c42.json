@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "llama-news"
+    },
+    "instance": {
+      "llama-news": {
+        "id": "f5d3e1a7-2b96-4c18-a504-9e7f3d1b6c42",
+        "headline": "Study Proves Near-Query Search Outperforms Keyword Matching by 40 Percent",
+        "byline": "Anthony",
+        "publishedDate": "2025-05-20",
+        "section": "Technology",
+        "tags": [
+          "search",
+          "near query",
+          "word proximity",
+          "information retrieval",
+          "MarkLogic",
+          "precision"
+        ],
+        "summary": "Researchers at the Llamaverse Institute of Technology found that near-query retrieval achieves 40 percent higher precision than keyword matching.",
+        "body": "TECHNOLOGY CAMPUS \u2014 Researchers at the Llamaverse Institute of Technology have published results showing that near-query retrieval \u2014 scoring documents based on the distance between query terms \u2014 significantly outperforms standard keyword matching on enterprise document collections.\n\nAnalysing 2.4 million government and financial documents, the study found near-query approaches achieved 40 percent higher precision at rank 10, with no significant penalty in recall.\n\n'If someone searches for \"Aaron chess championship\", a document where those words appear within five words of each other is almost certainly more relevant than one where they appear in three different sections,' said lead author Dr Fernanda.\n\nThe research team used MarkLogic's cts:near-query() function, which supports a distance parameter defining the maximum word distance between terms. The function integrates naturally with relevance scoring, allowing documents with proximate terms to rank higher without manual boost configuration."
+      }
+    }
+  }
+}

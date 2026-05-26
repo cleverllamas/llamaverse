@@ -1,0 +1,25 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "professions"
+    },
+    "instance": {
+      "professions": {
+        "id": "b8c9d0e1-f2a3-4b4c-5d6e-7f8a9b0c1d2e",
+        "title": "Theatre Director",
+        "sector": "Arts",
+        "description": "Theatre directors in the llamaverse oversee productions at a network of over two hundred professional stages, from the grand National Llamaverse Theatre in Llamaville to intimate experimental venues in the Patagonian arts district. The most celebrated directors work across disciplines, blending classical llama drama with dance, music, and \u2014 increasingly \u2014 immersive data visualisation. Angela has appeared as guest director twice at the National Theatre.",
+        "typicalSalaryHayBales": 24000,
+        "seniorityLevel": "Mid-Level",
+        "requiredYearsExperience": 7,
+        "keySkills": [
+          "dramatic interpretation",
+          "ensemble leadership",
+          "text analysis",
+          "spatial composition"
+        ],
+        "secretPowerAdvantage": "Leaf Dancer \u2014 shapes physical space with unusual authority"
+      }
+    }
+  }
+}

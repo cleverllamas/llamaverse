@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "f58c205a-990f-40b8-af03-b853e1c47588",
+        "name": "Plonk",
+        "ageYears": 8,
+        "disposition": "cheerful",
+        "fluffiness": 2,
+        "quirk": "refuses to acknowledge Mondays",
+        "speciesId": "f10a2a25-b64d-5f51-bef7-d2d25f12028e",
+        "speciesCommonName": "Green Iguana",
+        "speciesScientificName": "Iguana iguana",
+        "sizeClass": "large",
+        "ownerName": "Freddie",
+        "shelterId": "2b312a04-c215-5098-9433-f5aab988726c",
+        "shelterName": "Apex Companions Forever"
+      }
+    }
+  }
+}

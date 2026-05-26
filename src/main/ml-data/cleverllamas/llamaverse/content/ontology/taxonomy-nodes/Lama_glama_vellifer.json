@@ -1,0 +1,10 @@
+{
+  "uri": "http://cleverllamas.com/llamaverse/species/Lama_glama_vellifer",
+  "type": "Species",
+  "label": "Lama glama vellifer",
+  "description": "Highland fluffy llamas. Visible from several kilometres on a clear day.",
+  "parentUri": "http://cleverllamas.com/llamaverse/genus/Lama",
+  "phylumKey": "Vellosa",
+  "classKey": "Alpinus",
+  "speciesKey": "Lama_glama_vellifer"
+}

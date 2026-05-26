@@ -7,5 +7,6 @@
   "hairColor": "Brown",
   "breed": "Suri",
   "placeOfBirth": "Port Kimberly, Guatemala",
-  "description": "Jeffery is a green-eyed llama with brown hair, standing 106 cm tall. Originally from Port Kimberly, Guatemala, Jeffery enjoys gardening, cooking, singing. Known for their curious and friendly personality, Jeffery is a beloved member of the llama community."
+  "description": "Jeffery is a green-eyed llama with brown hair, standing 106 cm tall. Originally from Port Kimberly, Guatemala, Jeffery enjoys gardening, cooking, singing. Known for their curious and friendly personality, Jeffery is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriforest"
 }

@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Huacaya",
   "placeOfBirth": "Andersonshire, Estonia",
-  "description": "Teresa is a blue-eyed llama with red hair, standing 196 cm tall. Originally from Andersonshire, Estonia, Teresa enjoys wood carving, reading, cooking. Known for their friendly and calm personality, Teresa is a beloved member of the llama community."
+  "description": "Teresa is a blue-eyed llama with red hair, standing 196 cm tall. Originally from Andersonshire, Estonia, Teresa enjoys wood carving, reading, cooking. Known for their friendly and calm personality, Teresa is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriborealis"
 }

@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Proboscis Monkey",
+        "sizeClass": "medium",
+        "fluffiness": 3,
+        "typicalDisposition": "distinguished",
+        "typicalLifespanYears": 20,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Mammalia",
+          "order": "Primates",
+          "family": "Cercopithecidae",
+          "genus": "Nasalis",
+          "species": "Nasalis larvatus"
+        },
+        "description": "Has an enormously elongated nose. Males with larger noses are considered more attractive. Llamas appreciate the straightforward aesthetic criteria.",
+        "id": "8f774c69-2270-5765-9bdb-98a0a85802ec"
+      }
+    }
+  }
+}

@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Suri",
   "placeOfBirth": "Barnesport, Ghana",
-  "description": "Jill is a gray-eyed llama with red hair, standing 188 cm tall. Originally from Barnesport, Ghana, Jill enjoys singing, cooking, knitting. Known for their calm and curious personality, Jill is a beloved member of the llama community."
+  "description": "Jill is a gray-eyed llama with red hair, standing 188 cm tall. Originally from Barnesport, Ghana, Jill enjoys singing, cooking, knitting. Known for their calm and curious personality, Jill is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_vellaboreas"
 }

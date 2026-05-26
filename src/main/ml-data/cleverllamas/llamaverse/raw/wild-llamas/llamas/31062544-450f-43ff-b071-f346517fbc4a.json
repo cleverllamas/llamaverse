@@ -7,5 +7,6 @@
   "hairColor": "Brown",
   "breed": "Suri",
   "placeOfBirth": "South Kathrynshire, Mali",
-  "description": "Michael is a brown-eyed llama with brown hair, standing 101 cm tall. Originally from South Kathrynshire, Mali, Michael enjoys gardening, singing, dancing. Known for their mischievous and gentle personality, Michael is a beloved member of the llama community."
+  "description": "Michael is a brown-eyed llama with brown hair, standing 101 cm tall. Originally from South Kathrynshire, Mali, Michael enjoys gardening, singing, dancing. Known for their mischievous and gentle personality, Michael is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_andinus"
 }

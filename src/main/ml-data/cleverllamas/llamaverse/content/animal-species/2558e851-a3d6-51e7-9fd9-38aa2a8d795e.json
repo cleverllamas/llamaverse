@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Vorticella",
+        "sizeClass": "microscopic",
+        "fluffiness": 1,
+        "typicalDisposition": "springy",
+        "typicalLifespanYears": 1,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Ciliophora",
+          "class": "Oligohymenophorea",
+          "order": "Sessilida",
+          "family": "Vorticellidae",
+          "genus": "Vorticella",
+          "species": "Vorticella convallaria"
+        },
+        "description": "Extends and retracts on a coiled stalk with alarming speed. Llamas find the motion deeply satisfying.",
+        "id": "2558e851-a3d6-51e7-9fd9-38aa2a8d795e"
+      }
+    }
+  }
+}

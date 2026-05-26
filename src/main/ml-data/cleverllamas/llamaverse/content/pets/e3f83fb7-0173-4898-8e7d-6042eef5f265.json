@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "e3f83fb7-0173-4898-8e7d-6042eef5f265",
+        "name": "Crumple",
+        "ageYears": 2,
+        "disposition": "mischievous",
+        "fluffiness": 2,
+        "quirk": "is training for a marathon at a very leisurely pace",
+        "speciesId": "6565f20e-3b20-5609-906d-eb3327ea541c",
+        "speciesCommonName": "Giant Millipede",
+        "speciesScientificName": "Archispirostreptus gigas",
+        "sizeClass": "small",
+        "ownerName": "Aaron",
+        "shelterId": "c8de3d2b-6e9a-5ed1-bda7-9a50f977ddb9",
+        "shelterName": "The Quiet Pool"
+      }
+    }
+  }
+}

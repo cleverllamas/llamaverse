@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "582e9219-d707-4f16-8e2d-9d6b15eaa965",
+        "name": "Pudding",
+        "ageYears": 0,
+        "disposition": "hyperactive",
+        "fluffiness": 2,
+        "quirk": "has been learning to juggle for three years with no progress",
+        "speciesId": "5b5b57d6-344d-5913-bf87-dac3a883d652",
+        "speciesCommonName": "Emperor Scorpion",
+        "speciesScientificName": "Pandinus imperator",
+        "sizeClass": "small",
+        "ownerName": "Derek",
+        "shelterId": "43593191-478d-5f0a-82ec-63ff4cc4122e",
+        "shelterName": "The Patagonian Wild Wing Refuge"
+      }
+    }
+  }
+}

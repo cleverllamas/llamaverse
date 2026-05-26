@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "96c43a33-2177-4ddf-a9f3-8cd40f1c85bb",
+        "name": "Skitter",
+        "ageYears": 17,
+        "disposition": "earnest",
+        "fluffiness": 2,
+        "quirk": "sleeps only in prime-numbered minutes",
+        "speciesId": "826bb5ba-ae06-53d7-a1cc-2956b8f8e5c5",
+        "speciesCommonName": "Aardvark",
+        "speciesScientificName": "Orycteropus afer",
+        "sizeClass": "large",
+        "ownerName": "Anthony",
+        "shelterId": "a80124a7-0a88-582c-9362-e5c7aecd90d2",
+        "shelterName": "The Peculiar Menagerie of Llamaville East"
+      }
+    }
+  }
+}

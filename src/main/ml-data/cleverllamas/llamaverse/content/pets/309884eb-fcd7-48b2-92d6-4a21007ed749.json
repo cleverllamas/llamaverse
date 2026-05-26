@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "309884eb-fcd7-48b2-92d6-4a21007ed749",
+        "name": "Glimmer",
+        "ageYears": 15,
+        "disposition": "aloof",
+        "fluffiness": 2,
+        "quirk": "has attempted to file taxes three years in a row without opposable thumbs",
+        "speciesId": "8bd7dc50-f0d6-5b61-b314-d81e140a3847",
+        "speciesCommonName": "Chinese Giant Salamander",
+        "speciesScientificName": "Andrias davidianus",
+        "sizeClass": "large",
+        "ownerName": "Derek",
+        "shelterId": "4e1e0f71-7c69-5073-ab12-27cfd4257912",
+        "shelterName": "The Old Pond Sanctuary"
+      }
+    }
+  }
+}

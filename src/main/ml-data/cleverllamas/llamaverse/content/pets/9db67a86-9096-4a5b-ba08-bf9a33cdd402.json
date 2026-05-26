@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "9db67a86-9096-4a5b-ba08-bf9a33cdd402",
+        "name": "Splodge",
+        "ageYears": 13,
+        "disposition": "dignified",
+        "fluffiness": 4,
+        "quirk": "has memorised the bus timetable for a city it has never visited",
+        "speciesId": "5ac795c2-d264-5759-ac18-540698beaa0c",
+        "speciesCommonName": "Secretary Bird",
+        "speciesScientificName": "Sagittarius serpentarius",
+        "sizeClass": "large",
+        "ownerName": "Lorenzo",
+        "shelterId": "7437ed74-37ab-5121-a86c-723531fb55b3",
+        "shelterName": "The Galaxy of Small Things"
+      }
+    }
+  }
+}

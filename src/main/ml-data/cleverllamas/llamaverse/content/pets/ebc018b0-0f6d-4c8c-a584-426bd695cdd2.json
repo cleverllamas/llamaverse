@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "ebc018b0-0f6d-4c8c-a584-426bd695cdd2",
+        "name": "Flicker",
+        "ageYears": 23,
+        "disposition": "stoic",
+        "fluffiness": 1,
+        "quirk": "maintains a written log of everything it finds interesting, which is everything",
+        "speciesId": "cc6872d7-a2bd-50c8-9beb-fff7ad0e6f7d",
+        "speciesCommonName": "Coconut Crab",
+        "speciesScientificName": "Birgus latro",
+        "sizeClass": "large",
+        "ownerName": "Jasper",
+        "shelterId": "c8de3d2b-6e9a-5ed1-bda7-9a50f977ddb9",
+        "shelterName": "The Quiet Pool"
+      }
+    }
+  }
+}

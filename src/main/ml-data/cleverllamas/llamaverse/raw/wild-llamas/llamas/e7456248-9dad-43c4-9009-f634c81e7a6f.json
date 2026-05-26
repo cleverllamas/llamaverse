@@ -7,5 +7,6 @@
   "hairColor": "Black",
   "breed": "Hybrid",
   "placeOfBirth": "East Aaron, Madagascar",
-  "description": "Mario is a hazel-eyed llama with black hair, standing 175 cm tall. Originally from East Aaron, Madagascar, Mario enjoys hiking, gardening, reading. Known for their playful and gentle personality, Mario is a beloved member of the llama community."
+  "description": "Mario is a hazel-eyed llama with black hair, standing 175 cm tall. Originally from East Aaron, Madagascar, Mario enjoys hiking, gardening, reading. Known for their playful and gentle personality, Mario is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_vellaridus"
 }

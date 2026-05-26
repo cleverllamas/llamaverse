@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "f6446443-cae1-4957-9ff3-5bbcbeac7000",
+        "name": "Burble",
+        "ageYears": 1,
+        "disposition": "philosophical",
+        "fluffiness": 1,
+        "quirk": "only eats food arranged in symmetrical patterns",
+        "speciesId": "bdd7992a-2a0d-598f-889c-eab1ec052b31",
+        "speciesCommonName": "Dwarf Cherry Shrimp",
+        "speciesScientificName": "Neocaridina davidi",
+        "sizeClass": "tiny",
+        "ownerName": "Percy",
+        "shelterId": "869456e1-451e-554f-96f2-4a54e832dd46",
+        "shelterName": "Bradley's Extreme Fauna Compound"
+      }
+    }
+  }
+}

@@ -7,5 +7,6 @@
   "hairColor": "Brown",
   "breed": "Hybrid",
   "placeOfBirth": "Brandonside, Mauritania",
-  "description": "Kirk is a blue-eyed llama with brown hair, standing 142 cm tall. Originally from Brandonside, Mauritania, Kirk enjoys singing, wood carving, reading. Known for their gentle and friendly personality, Kirk is a beloved member of the llama community."
+  "description": "Kirk is a blue-eyed llama with brown hair, standing 142 cm tall. Originally from Brandonside, Mauritania, Kirk enjoys singing, wood carving, reading. Known for their gentle and friendly personality, Kirk is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_borealis"
 }

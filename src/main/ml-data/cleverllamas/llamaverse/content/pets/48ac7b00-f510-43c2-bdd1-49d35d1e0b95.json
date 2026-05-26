@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "48ac7b00-f510-43c2-bdd1-49d35d1e0b95",
+        "name": "Knack",
+        "ageYears": 0,
+        "disposition": "aloof",
+        "fluffiness": 3,
+        "quirk": "is writing a novel but will not discuss the plot",
+        "speciesId": "aca2173d-21bd-5c07-a825-a3755227bd9f",
+        "speciesCommonName": "Decorator Crab",
+        "speciesScientificName": "Camposcia retusa",
+        "sizeClass": "small",
+        "ownerName": "Anthony",
+        "shelterId": "2b312a04-c215-5098-9433-f5aab988726c",
+        "shelterName": "Apex Companions Forever"
+      }
+    }
+  }
+}

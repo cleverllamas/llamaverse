@@ -7,5 +7,6 @@
   "hairColor": "Brown",
   "breed": "Hybrid",
   "placeOfBirth": "West Tylerville, Bosnia and Herzegovina",
-  "description": "Ariel is a gray-eyed llama with brown hair, standing 159 cm tall. Originally from West Tylerville, Bosnia and Herzegovina, Ariel enjoys wood carving, hiking, cooking. Known for their curious and energetic personality, Ariel is a beloved member of the llama community."
+  "description": "Ariel is a gray-eyed llama with brown hair, standing 159 cm tall. Originally from West Tylerville, Bosnia and Herzegovina, Ariel enjoys wood carving, hiking, cooking. Known for their curious and energetic personality, Ariel is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_borealis"
 }

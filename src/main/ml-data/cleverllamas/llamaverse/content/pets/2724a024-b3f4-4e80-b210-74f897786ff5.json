@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "2724a024-b3f4-4e80-b210-74f897786ff5",
+        "name": "Snapper",
+        "ageYears": 57,
+        "disposition": "earnest",
+        "fluffiness": 1,
+        "quirk": "is writing a novel but will not discuss the plot",
+        "speciesId": "1520e2a9-f4e6-511c-8e08-d0a5c220b9f7",
+        "speciesCommonName": "Mata Mata Turtle",
+        "speciesScientificName": "Chelus fimbriata",
+        "sizeClass": "medium",
+        "ownerName": "Miranda",
+        "shelterId": "7437ed74-37ab-5121-a86c-723531fb55b3",
+        "shelterName": "The Galaxy of Small Things"
+      }
+    }
+  }
+}

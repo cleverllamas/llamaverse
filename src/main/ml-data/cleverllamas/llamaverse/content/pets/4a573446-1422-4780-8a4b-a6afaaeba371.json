@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "4a573446-1422-4780-8a4b-a6afaaeba371",
+        "name": "Clatter",
+        "ageYears": 16,
+        "disposition": "hyperactive",
+        "fluffiness": 2,
+        "quirk": "has attempted to file taxes three years in a row without opposable thumbs",
+        "speciesId": "4385ccaa-0b0a-5332-b1a0-6e0af8d6f6b4",
+        "speciesCommonName": "Pangolin",
+        "speciesScientificName": "Manis pentadactyla",
+        "sizeClass": "medium",
+        "ownerName": "Aaron",
+        "shelterId": "4e1e0f71-7c69-5073-ab12-27cfd4257912",
+        "shelterName": "The Old Pond Sanctuary"
+      }
+    }
+  }
+}

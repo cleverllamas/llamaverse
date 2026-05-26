@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "d8a7aea5-7fcf-469e-b88e-3cdb86d3ff1a",
+        "name": "Stumble",
+        "ageYears": 0,
+        "disposition": "timid",
+        "fluffiness": 5,
+        "quirk": "is writing a novel but will not discuss the plot",
+        "speciesId": "ec504d29-e007-58bc-9630-df64eaf83f62",
+        "speciesCommonName": "Peacock Spider",
+        "speciesScientificName": "Maratus volans",
+        "sizeClass": "microscopic",
+        "ownerName": "Lorenzo",
+        "shelterId": "6d613241-5ad3-5197-8b01-500e8b607567",
+        "shelterName": "Fernanda's Home for Misunderstood Creatures"
+      }
+    }
+  }
+}

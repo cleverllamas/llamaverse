@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "7afd36b0-43eb-4d6f-889f-f2a8ab15edd7",
+        "name": "Tipple",
+        "ageYears": 7,
+        "disposition": "earnest",
+        "fluffiness": 4,
+        "quirk": "has attempted to file taxes three years in a row without opposable thumbs",
+        "speciesId": "5ac795c2-d264-5759-ac18-540698beaa0c",
+        "speciesCommonName": "Secretary Bird",
+        "speciesScientificName": "Sagittarius serpentarius",
+        "sizeClass": "large",
+        "ownerName": "Beatrice",
+        "shelterId": "2770733d-7079-5abc-92e8-6a21c74559c1",
+        "shelterName": "Deep Blue Creature Sanctuary"
+      }
+    }
+  }
+}

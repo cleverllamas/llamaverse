@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "fa50d95d-f6e4-4e29-b662-ac603aee8c4c",
+        "name": "Brouhaha",
+        "ageYears": 0,
+        "disposition": "regal",
+        "fluffiness": 1,
+        "quirk": "is training for a marathon at a very leisurely pace",
+        "speciesId": "1dadf7e9-db4d-5568-a4c1-f79b5045b492",
+        "speciesCommonName": "Goliath Frog",
+        "speciesScientificName": "Conraua goliath",
+        "sizeClass": "medium",
+        "ownerName": "Freddie",
+        "shelterId": "43593191-478d-5f0a-82ec-63ff4cc4122e",
+        "shelterName": "The Patagonian Wild Wing Refuge"
+      }
+    }
+  }
+}

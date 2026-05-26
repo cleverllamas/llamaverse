@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "f313b74f-b1d9-42f7-b474-344d09bba201",
+        "name": "Knick",
+        "ageYears": 15,
+        "disposition": "bombastic",
+        "fluffiness": 8,
+        "quirk": "refuses to make eye contact but sends heartfelt letters",
+        "speciesId": "7c65a493-b712-5936-a711-75affb2377f9",
+        "speciesCommonName": "Resplendent Quetzal",
+        "speciesScientificName": "Pharomachrus mocinno",
+        "sizeClass": "small",
+        "ownerName": "Jasper",
+        "shelterId": "8d977212-e5ba-55f4-be32-882c53197b49",
+        "shelterName": "The Wool and Scales Rehabilitation Centre"
+      }
+    }
+  }
+}

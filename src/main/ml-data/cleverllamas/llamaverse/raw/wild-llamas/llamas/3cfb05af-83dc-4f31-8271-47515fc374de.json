@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Hybrid",
   "placeOfBirth": "Pamelahaven, Japan",
-  "description": "Duane is a brown-eyed llama with red hair, standing 183 cm tall. Originally from Pamelahaven, Japan, Duane enjoys gardening, painting, cooking. Known for their energetic and friendly personality, Duane is a beloved member of the llama community."
+  "description": "Duane is a brown-eyed llama with red hair, standing 183 cm tall. Originally from Pamelahaven, Japan, Duane enjoys gardening, painting, cooking. Known for their energetic and friendly personality, Duane is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_borealis"
 }

@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "7851f4f3-63e7-4af7-b503-82ba4efa5623",
+        "name": "Widdershins",
+        "ageYears": 2,
+        "disposition": "grumpy",
+        "fluffiness": 4,
+        "quirk": "has attempted to file taxes three years in a row without opposable thumbs",
+        "speciesId": "9998af61-5369-5a12-bf9b-f90997e4bbc3",
+        "speciesCommonName": "African Pygmy Hedgehog",
+        "speciesScientificName": "Atelerix albiventris",
+        "sizeClass": "tiny",
+        "ownerName": "Nigel",
+        "shelterId": "a80124a7-0a88-582c-9362-e5c7aecd90d2",
+        "shelterName": "The Peculiar Menagerie of Llamaville East"
+      }
+    }
+  }
+}

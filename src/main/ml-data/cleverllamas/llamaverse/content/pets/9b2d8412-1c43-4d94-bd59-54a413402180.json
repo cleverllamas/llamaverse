@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "9b2d8412-1c43-4d94-bd59-54a413402180",
+        "name": "Noodlesworth",
+        "ageYears": 0,
+        "disposition": "dignified",
+        "fluffiness": 1,
+        "quirk": "has never once been surprised by anything",
+        "speciesId": "e078ed59-8084-58c0-885d-cfc5156eb559",
+        "speciesCommonName": "Sea Sparkle",
+        "speciesScientificName": "Noctiluca scintillans",
+        "sizeClass": "microscopic",
+        "ownerName": "Ophelia",
+        "shelterId": "fea3da74-6337-5053-bffe-89e75d14ef03",
+        "shelterName": "The Wandering Fleece Animal Sanctuary"
+      }
+    }
+  }
+}

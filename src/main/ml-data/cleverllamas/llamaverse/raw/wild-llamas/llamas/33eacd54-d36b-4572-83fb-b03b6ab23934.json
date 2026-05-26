@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Huacaya",
   "placeOfBirth": "Karenfort, Timor-Leste",
-  "description": "Brian is a hazel-eyed llama with red hair, standing 144 cm tall. Originally from Karenfort, Timor-Leste, Brian enjoys knitting, gardening, cooking. Known for their playful and mischievous personality, Brian is a beloved member of the llama community."
+  "description": "Brian is a hazel-eyed llama with red hair, standing 144 cm tall. Originally from Karenfort, Timor-Leste, Brian enjoys knitting, gardening, cooking. Known for their playful and mischievous personality, Brian is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_andinus"
 }

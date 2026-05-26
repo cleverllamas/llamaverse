@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "2ea2981b-b5c0-4b7c-a4a6-87db0b80b35a",
+        "name": "Wriggle",
+        "ageYears": 5,
+        "disposition": "eccentric",
+        "fluffiness": 6,
+        "quirk": "constructed a scale model of the hay festival from memory",
+        "speciesId": "5ac795c2-d264-5759-ac18-540698beaa0c",
+        "speciesCommonName": "Secretary Bird",
+        "speciesScientificName": "Sagittarius serpentarius",
+        "sizeClass": "large",
+        "ownerName": "Derek",
+        "shelterId": "1acdd953-9df4-5cad-ab5a-eb612f2e855c",
+        "shelterName": "Primate House of the Andes"
+      }
+    }
+  }
+}

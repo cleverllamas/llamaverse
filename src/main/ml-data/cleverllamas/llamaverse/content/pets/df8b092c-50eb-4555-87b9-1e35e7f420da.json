@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "df8b092c-50eb-4555-87b9-1e35e7f420da",
+        "name": "Tipple",
+        "ageYears": 48,
+        "disposition": "earnest",
+        "fluffiness": 1,
+        "quirk": "believes it is being followed, correctly",
+        "speciesId": "cc6872d7-a2bd-50c8-9beb-fff7ad0e6f7d",
+        "speciesCommonName": "Coconut Crab",
+        "speciesScientificName": "Birgus latro",
+        "sizeClass": "large",
+        "ownerName": "Beatrice",
+        "shelterId": "1d1ceadd-64ed-52d5-a416-b278d95c83d1",
+        "shelterName": "The Cosy Burrow Rescue and Rehoming"
+      }
+    }
+  }
+}

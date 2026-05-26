@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "75890059-f68f-4c0f-a2db-32e538750663",
+        "name": "Widdershins",
+        "ageYears": 2,
+        "disposition": "aloof",
+        "fluffiness": 2,
+        "quirk": "organises its food alphabetically before eating",
+        "speciesId": "d8813430-4b4c-5a92-9d22-d3a5b4110d11",
+        "speciesCommonName": "Horseshoe Crab",
+        "speciesScientificName": "Limulus polyphemus",
+        "sizeClass": "medium",
+        "ownerName": "Angela",
+        "shelterId": "43593191-478d-5f0a-82ec-63ff4cc4122e",
+        "shelterName": "The Patagonian Wild Wing Refuge"
+      }
+    }
+  }
+}

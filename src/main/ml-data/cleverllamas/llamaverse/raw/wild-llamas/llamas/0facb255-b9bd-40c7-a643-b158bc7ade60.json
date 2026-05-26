@@ -7,5 +7,6 @@
   "hairColor": "Brown",
   "breed": "Suri",
   "placeOfBirth": "South Whitneyland, Poland",
-  "description": "Alex is a brown-eyed llama with brown hair, standing 142 cm tall. Originally from South Whitneyland, Poland, Alex enjoys painting, dancing, reading. Known for their calm and curious personality, Alex is a beloved member of the llama community."
+  "description": "Alex is a brown-eyed llama with brown hair, standing 142 cm tall. Originally from South Whitneyland, Poland, Alex enjoys painting, dancing, reading. Known for their calm and curious personality, Alex is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_borealis"
 }

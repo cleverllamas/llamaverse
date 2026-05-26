@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "2dcfaaac-2bae-4daa-9653-051e431ff51a",
+        "name": "Gloop",
+        "ageYears": 0,
+        "disposition": "earnest",
+        "fluffiness": 1,
+        "quirk": "refuses to acknowledge Mondays",
+        "speciesId": "e9be7d46-a699-577d-8254-16ede509068b",
+        "speciesCommonName": "Acorn Barnacle",
+        "speciesScientificName": "Semibalanus balanoides",
+        "sizeClass": "microscopic",
+        "ownerName": "Isolde",
+        "shelterId": "4e1e0f71-7c69-5073-ab12-27cfd4257912",
+        "shelterName": "The Old Pond Sanctuary"
+      }
+    }
+  }
+}

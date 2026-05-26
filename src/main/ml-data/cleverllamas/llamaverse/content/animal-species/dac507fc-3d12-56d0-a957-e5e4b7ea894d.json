@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Firefly",
+        "sizeClass": "tiny",
+        "fluffiness": 1,
+        "typicalDisposition": "romantic",
+        "typicalLifespanYears": 2,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Arthropoda",
+          "class": "Insecta",
+          "order": "Coleoptera",
+          "family": "Lampyridae",
+          "genus": "Photinus",
+          "species": "Photinus pyralis"
+        },
+        "description": "Each species has a unique light-flash pattern for attracting mates. Llamas keep meadows of them and the summer display is a major cultural event.",
+        "id": "dac507fc-3d12-56d0-a957-e5e4b7ea894d"
+      }
+    }
+  }
+}

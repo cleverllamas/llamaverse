@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Hybrid",
   "placeOfBirth": "Katiehaven, Antigua and Barbuda",
-  "description": "Shawn is a blue-eyed llama with red hair, standing 168 cm tall. Originally from Katiehaven, Antigua and Barbuda, Shawn enjoys wood carving, hiking, cooking. Known for their shy and mischievous personality, Shawn is a beloved member of the llama community."
+  "description": "Shawn is a blue-eyed llama with red hair, standing 168 cm tall. Originally from Katiehaven, Antigua and Barbuda, Shawn enjoys wood carving, hiking, cooking. Known for their shy and mischievous personality, Shawn is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_andinus"
 }

@@ -7,5 +7,6 @@
   "hairColor": "Gray",
   "breed": "Suri",
   "placeOfBirth": "Zavalahaven, Japan",
-  "description": "Matthew is a hazel-eyed llama with gray hair, standing 103 cm tall. Originally from Zavalahaven, Japan, Matthew enjoys hiking, gardening, singing. Known for their playful and friendly personality, Matthew is a beloved member of the llama community."
+  "description": "Matthew is a hazel-eyed llama with gray hair, standing 103 cm tall. Originally from Zavalahaven, Japan, Matthew enjoys hiking, gardening, singing. Known for their playful and friendly personality, Matthew is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriensis"
 }

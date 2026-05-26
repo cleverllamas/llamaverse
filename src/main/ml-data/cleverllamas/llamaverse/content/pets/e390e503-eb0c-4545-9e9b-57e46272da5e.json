@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "e390e503-eb0c-4545-9e9b-57e46272da5e",
+        "name": "Snickerdoodle",
+        "ageYears": 1,
+        "disposition": "sneaky",
+        "fluffiness": 1,
+        "quirk": "knows one card trick and performs it at every possible opportunity",
+        "speciesId": "acbe160a-34a5-5c3e-b09b-16f95ee4ebeb",
+        "speciesCommonName": "Mimic Octopus",
+        "speciesScientificName": "Thaumoctopus mimicus",
+        "sizeClass": "small",
+        "ownerName": "Beatrice",
+        "shelterId": "e9a0f6a9-5a3f-51a3-ae37-19773f4ac55f",
+        "shelterName": "The Archipelago Orphanage"
+      }
+    }
+  }
+}

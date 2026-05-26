@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "llama-news"
+    },
+    "instance": {
+      "llama-news": {
+        "id": "3b8e1f5a-7c29-4d04-b513-6d2f4c9e8b27",
+        "headline": "Trigger-Based Audit System Catches Rogue Data Pipeline in Real Time",
+        "byline": "Bradley",
+        "publishedDate": "2025-04-25",
+        "section": "Technology",
+        "tags": [
+          "triggers",
+          "audit",
+          "pipeline",
+          "MarkLogic",
+          "compliance",
+          "real-time"
+        ],
+        "summary": "A financial services firm avoided a regulatory breach after a MarkLogic pre-commit trigger detected unexpected documents before the transaction committed.",
+        "body": "FINANCE QUARTER \u2014 A financial services firm operating in the llamaverse avoided a significant regulatory breach last month after a MarkLogic database trigger detected unexpected documents being loaded into a sensitive collection and fired an automated alert before the ingest transaction committed.\n\nThe trigger, a pre-commit trigger configured on the collection 'regulated-records', checked each incoming document against a set of validation rules. When a data pipeline began loading customer records with missing consent flags, the trigger rejected the transaction and sent an alert to the compliance team within milliseconds.\n\n'Without the pre-commit trigger, those records would have been in the database,' said the firm's head of data engineering. 'We would not have known until the daily audit report, which runs overnight. By then the damage would have been done.'\n\nThe incident has renewed interest in trigger-based data governance across the financial services industry. Best practices recommend keeping trigger logic lightweight and idempotent \u2014 and never calling external services synchronously from within a pre-commit trigger."
+      }
+    }
+  }
+}

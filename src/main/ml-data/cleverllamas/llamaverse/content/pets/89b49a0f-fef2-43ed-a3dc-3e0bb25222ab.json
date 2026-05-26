@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "89b49a0f-fef2-43ed-a3dc-3e0bb25222ab",
+        "name": "Hullabaloo",
+        "ageYears": 0,
+        "disposition": "theatrical",
+        "fluffiness": 1,
+        "quirk": "maintains a written log of everything it finds interesting, which is everything",
+        "speciesId": "acbe160a-34a5-5c3e-b09b-16f95ee4ebeb",
+        "speciesCommonName": "Mimic Octopus",
+        "speciesScientificName": "Thaumoctopus mimicus",
+        "sizeClass": "small",
+        "ownerName": "Beatrice",
+        "shelterId": "e9a0f6a9-5a3f-51a3-ae37-19773f4ac55f",
+        "shelterName": "The Archipelago Orphanage"
+      }
+    }
+  }
+}

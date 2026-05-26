@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "59a795e8-a289-4166-81af-309d63fbc5c7",
+        "name": "Shimmer",
+        "ageYears": 26,
+        "disposition": "timid",
+        "fluffiness": 3,
+        "quirk": "has been composing the same symphony for eleven years",
+        "speciesId": "4c4cb07f-a441-57c5-ac05-d70405a98f4c",
+        "speciesCommonName": "Cassowary",
+        "speciesScientificName": "Casuarius casuarius",
+        "sizeClass": "large",
+        "ownerName": "Bradley",
+        "shelterId": "c8de3d2b-6e9a-5ed1-bda7-9a50f977ddb9",
+        "shelterName": "The Quiet Pool"
+      }
+    }
+  }
+}

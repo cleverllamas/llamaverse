@@ -7,5 +7,6 @@
   "hairColor": "Brown",
   "breed": "Hybrid",
   "placeOfBirth": "North Julieburgh, Equatorial Guinea",
-  "description": "Jennifer is a blue-eyed llama with brown hair, standing 120 cm tall. Originally from North Julieburgh, Equatorial Guinea, Jennifer enjoys singing, reading, hiking. Known for their mischievous and curious personality, Jennifer is a beloved member of the llama community."
+  "description": "Jennifer is a blue-eyed llama with brown hair, standing 120 cm tall. Originally from North Julieburgh, Equatorial Guinea, Jennifer enjoys singing, reading, hiking. Known for their mischievous and curious personality, Jennifer is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_litoralis"
 }

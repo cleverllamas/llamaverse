@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "87602aa8-0e2b-475b-a47c-d174857c1791",
+        "name": "Tangle",
+        "ageYears": 8,
+        "disposition": "regal",
+        "fluffiness": 7,
+        "quirk": "has never once been surprised by anything",
+        "speciesId": "06dc65d2-4a3f-5273-9b99-1eaffac0131a",
+        "speciesCommonName": "Wolverine",
+        "speciesScientificName": "Gulo gulo",
+        "sizeClass": "medium",
+        "ownerName": "Anthony",
+        "shelterId": "1d1ceadd-64ed-52d5-a416-b278d95c83d1",
+        "shelterName": "The Cosy Burrow Rescue and Rehoming"
+      }
+    }
+  }
+}

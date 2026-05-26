@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "caab443c-5722-4884-a65c-8dc80ef99b64",
+        "name": "Fidget",
+        "ageYears": 4,
+        "disposition": "timid",
+        "fluffiness": 2,
+        "quirk": "has been composing the same symphony for eleven years",
+        "speciesId": "ce9431b4-718d-5339-a62d-8e30a0146993",
+        "speciesCommonName": "Giant Pacific Octopus",
+        "speciesScientificName": "Enteroctopus dofleini",
+        "sizeClass": "large",
+        "ownerName": "Boris",
+        "shelterId": "1d1ceadd-64ed-52d5-a416-b278d95c83d1",
+        "shelterName": "The Cosy Burrow Rescue and Rehoming"
+      }
+    }
+  }
+}

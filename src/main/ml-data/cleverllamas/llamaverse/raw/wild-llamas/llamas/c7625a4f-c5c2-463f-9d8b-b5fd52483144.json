@@ -7,5 +7,6 @@
   "hairColor": "Brown",
   "breed": "Huacaya",
   "placeOfBirth": "Morrisshire, France",
-  "description": "William is a gray-eyed llama with brown hair, standing 110 cm tall. Originally from Morrisshire, France, William enjoys dancing, singing, reading. Known for their playful and gentle personality, William is a beloved member of the llama community."
+  "description": "William is a gray-eyed llama with brown hair, standing 110 cm tall. Originally from Morrisshire, France, William enjoys dancing, singing, reading. Known for their playful and gentle personality, William is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_vellaridus"
 }

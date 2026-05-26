@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "llama-news"
+    },
+    "instance": {
+      "llama-news": {
+        "id": "c1a5f8d3-4b62-4e29-8c7a-2f9e3d6b5a18",
+        "headline": "Annual Hay Festival Sets Consumption Record; Aaron Takes Top Prize Again",
+        "byline": "Angela",
+        "publishedDate": "2025-07-14",
+        "section": "Culture",
+        "tags": [
+          "hay festival",
+          "Aaron",
+          "record",
+          "culture",
+          "competition",
+          "agriculture"
+        ],
+        "summary": "The 47th Annual Llamaverse Hay Festival drew 84,000 attendees and concluded with Aaron claiming his fifth consecutive competitive eating title.",
+        "body": "FESTIVAL GROUNDS \u2014 The 47th Annual Llamaverse Hay Festival concluded on Saturday evening with Aaron claiming the Golden Bale trophy for a fifth consecutive year, consuming 47 bales of mixed timothy hay in under two hours.\n\n'I approach hay the same way I approach chess,' Aaron said. 'With patience, complete focus, and respect for the opponent. In this case the opponent is the hay.'\n\nThe festival drew 84,000 attendees across four days. Beyond spectacle, it has become a showcase for agricultural innovation. This year's technology exhibition featured four startups building sensor networks for hay quality monitoring \u2014 all storing telemetry in document databases, two specifically citing MarkLogic's range index capabilities for real-time quality scoring across millions of sensor readings."
+      }
+    }
+  }
+}

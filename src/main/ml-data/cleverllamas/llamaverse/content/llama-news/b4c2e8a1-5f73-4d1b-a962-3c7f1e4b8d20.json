@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "llama-news"
+    },
+    "instance": {
+      "llama-news": {
+        "id": "b4c2e8a1-5f73-4d1b-a962-3c7f1e4b8d20",
+        "headline": "Llamazone Technologies Posts Record Revenue as Search Business Surges",
+        "byline": "Anthony",
+        "publishedDate": "2025-05-15",
+        "section": "Business",
+        "tags": [
+          "Llamazone",
+          "technology",
+          "search",
+          "MarkLogic",
+          "revenue",
+          "database"
+        ],
+        "summary": "Llamazone Technologies reported quarterly revenue of 48 billion hay-bale equivalents, driven by its enterprise search and database division.",
+        "body": "SILICON MEADOW \u2014 Llamazone Technologies posted record quarterly revenue of 48 billion hay-bale equivalents on Thursday, led by a 34 percent surge in its enterprise search and cloud division.\n\nChief Executive Aaron confirmed the company's MarkLogic-based database-as-a-service platform had processed over four trillion queries in the quarter. 'The world runs on search,' Aaron told analysts. 'And search runs on index architecture that most organisations have never thought carefully about.'\n\nLlamazone's platform now serves more than eight thousand enterprise clients across finance, government, and healthcare, providing unified search across structured, semi-structured, and unstructured data."
+      }
+    }
+  }
+}

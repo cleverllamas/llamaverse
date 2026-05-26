@@ -1,0 +1,10 @@
+{
+  "uri": "http://cleverllamas.com/llamaverse/species/Lama_glama_vellaboreas",
+  "type": "Species",
+  "label": "Lama glama vellaboreas",
+  "description": "Tundra fluffy llamas. Completely indistinguishable from snowdrifts in winter. Several are lost annually.",
+  "parentUri": "http://cleverllamas.com/llamaverse/genus/Lama",
+  "phylumKey": "Vellosa",
+  "classKey": "Boreus",
+  "speciesKey": "Lama_glama_vellaboreas"
+}

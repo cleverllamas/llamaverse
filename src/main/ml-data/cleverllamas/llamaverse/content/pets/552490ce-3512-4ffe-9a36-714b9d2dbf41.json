@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "552490ce-3512-4ffe-9a36-714b9d2dbf41",
+        "name": "Fizzle",
+        "ageYears": 1,
+        "disposition": "bombastic",
+        "fluffiness": 1,
+        "quirk": "stages elaborate fake emergencies to see who responds fastest",
+        "speciesId": "0d0586d7-02c8-59e4-bf65-dcb62dac406b",
+        "speciesCommonName": "Leaf Insect",
+        "speciesScientificName": "Phyllium giganteum",
+        "sizeClass": "tiny",
+        "ownerName": "Lorenzo",
+        "shelterId": "8d977212-e5ba-55f4-be32-882c53197b49",
+        "shelterName": "The Wool and Scales Rehabilitation Centre"
+      }
+    }
+  }
+}

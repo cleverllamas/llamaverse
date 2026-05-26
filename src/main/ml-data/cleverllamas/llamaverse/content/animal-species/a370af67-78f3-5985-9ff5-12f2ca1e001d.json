@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Pygmy Seahorse",
+        "sizeClass": "microscopic",
+        "fluffiness": 2,
+        "typicalDisposition": "shy",
+        "typicalLifespanYears": 2,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Actinopterygii",
+          "order": "Syngnathiformes",
+          "family": "Syngnathidae",
+          "genus": "Hippocampus",
+          "species": "Hippocampus bargibanti"
+        },
+        "description": "2cm long and nearly invisible against coral. Males carry the young. Llamas consider this species morally superior to most.",
+        "id": "a370af67-78f3-5985-9ff5-12f2ca1e001d"
+      }
+    }
+  }
+}

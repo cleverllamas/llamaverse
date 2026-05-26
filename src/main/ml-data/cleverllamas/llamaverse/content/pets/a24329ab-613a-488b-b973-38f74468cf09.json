@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "a24329ab-613a-488b-b973-38f74468cf09",
+        "name": "Gloop",
+        "ageYears": 4,
+        "disposition": "devoted",
+        "fluffiness": 4,
+        "quirk": "knows one card trick and performs it at every possible opportunity",
+        "speciesId": "f8bde832-614a-5966-8152-f899cf3af853",
+        "speciesCommonName": "Axolotl",
+        "speciesScientificName": "Ambystoma mexicanum",
+        "sizeClass": "small",
+        "ownerName": "Isolde",
+        "shelterId": "2770733d-7079-5abc-92e8-6a21c74559c1",
+        "shelterName": "Deep Blue Creature Sanctuary"
+      }
+    }
+  }
+}

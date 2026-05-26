@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "1033fa37-5ddf-4dce-b7ed-0a226844eea8",
+        "name": "Skitter",
+        "ageYears": 8,
+        "disposition": "dignified",
+        "fluffiness": 2,
+        "quirk": "is training for a marathon at a very leisurely pace",
+        "speciesId": "cc6872d7-a2bd-50c8-9beb-fff7ad0e6f7d",
+        "speciesCommonName": "Coconut Crab",
+        "speciesScientificName": "Birgus latro",
+        "sizeClass": "large",
+        "ownerName": "Ashley",
+        "shelterId": "2b312a04-c215-5098-9433-f5aab988726c",
+        "shelterName": "Apex Companions Forever"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "8abdef30-e5a8-4b7d-9830-6bf766ddfa55",
+        "name": "Stumble",
+        "ageYears": 2,
+        "disposition": "mischievous",
+        "fluffiness": 3,
+        "quirk": "organises its food alphabetically before eating",
+        "speciesId": "9caae520-fba2-54d7-ad50-e3e7e17c9d96",
+        "speciesCommonName": "Capybara",
+        "speciesScientificName": "Hydrochoerus hydrochaeris",
+        "sizeClass": "large",
+        "ownerName": "Fernanda",
+        "shelterId": "4e1e0f71-7c69-5073-ab12-27cfd4257912",
+        "shelterName": "The Old Pond Sanctuary"
+      }
+    }
+  }
+}

@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Suri",
   "placeOfBirth": "Blacktown, Belize",
-  "description": "Crystal is a green-eyed llama with red hair, standing 176 cm tall. Originally from Blacktown, Belize, Crystal enjoys reading, wood carving, dancing. Known for their friendly and energetic personality, Crystal is a beloved member of the llama community."
+  "description": "Crystal is a green-eyed llama with red hair, standing 176 cm tall. Originally from Blacktown, Belize, Crystal enjoys reading, wood carving, dancing. Known for their friendly and energetic personality, Crystal is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_deserticola"
 }

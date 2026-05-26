@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "9b9a90cc-52c9-4eb7-ac5a-e93c00d25dca",
+        "name": "Fizzle",
+        "ageYears": 3,
+        "disposition": "grumpy",
+        "fluffiness": 4,
+        "quirk": "has attempted to file taxes three years in a row without opposable thumbs",
+        "speciesId": "3dc7ce14-9c2a-5e33-b387-4fd40e0cbcc4",
+        "speciesCommonName": "Mandrill",
+        "speciesScientificName": "Mandrillus sphinx",
+        "sizeClass": "large",
+        "ownerName": "Aaron",
+        "shelterId": "c8de3d2b-6e9a-5ed1-bda7-9a50f977ddb9",
+        "shelterName": "The Quiet Pool"
+      }
+    }
+  }
+}

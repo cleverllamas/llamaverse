@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "a4a39e5d-ee44-43a4-abcb-d47d5d678096",
+        "name": "Gobsmack",
+        "ageYears": 2,
+        "disposition": "lazy",
+        "fluffiness": 9,
+        "quirk": "knows one card trick and performs it at every possible opportunity",
+        "speciesId": "bc4c453d-1bf5-5319-8eb8-2ff5b197d557",
+        "speciesCommonName": "Pygmy Slow Loris",
+        "speciesScientificName": "Xanthonycticebus pygmaeus",
+        "sizeClass": "tiny",
+        "ownerName": "Lorenzo",
+        "shelterId": "869456e1-451e-554f-96f2-4a54e832dd46",
+        "shelterName": "Bradley's Extreme Fauna Compound"
+      }
+    }
+  }
+}

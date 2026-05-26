@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Hybrid",
   "placeOfBirth": "Shafferborough, Saint Pierre and Miquelon",
-  "description": "Andres is a gray-eyed llama with red hair, standing 151 cm tall. Originally from Shafferborough, Saint Pierre and Miquelon, Andres enjoys wood carving, knitting, painting. Known for their shy and mischievous personality, Andres is a beloved member of the llama community."
+  "description": "Andres is a gray-eyed llama with red hair, standing 151 cm tall. Originally from Shafferborough, Saint Pierre and Miquelon, Andres enjoys wood carving, knitting, painting. Known for their shy and mischievous personality, Andres is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriphilus"
 }

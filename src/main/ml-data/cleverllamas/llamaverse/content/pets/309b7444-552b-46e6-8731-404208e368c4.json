@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "309b7444-552b-46e6-8731-404208e368c4",
+        "name": "Gurgle",
+        "ageYears": 1,
+        "disposition": "aloof",
+        "fluffiness": 1,
+        "quirk": "only eats food arranged in symmetrical patterns",
+        "speciesId": "7a0a0b09-06f3-5534-8613-4da111d626fd",
+        "speciesCommonName": "Vinegaroon",
+        "speciesScientificName": "Mastigoproctus giganteus",
+        "sizeClass": "small",
+        "ownerName": "Percy",
+        "shelterId": "2b312a04-c215-5098-9433-f5aab988726c",
+        "shelterName": "Apex Companions Forever"
+      }
+    }
+  }
+}

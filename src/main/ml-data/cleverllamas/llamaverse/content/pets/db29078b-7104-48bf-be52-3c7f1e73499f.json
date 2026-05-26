@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "db29078b-7104-48bf-be52-3c7f1e73499f",
+        "name": "Gloop",
+        "ageYears": 0,
+        "disposition": "cheerful",
+        "fluffiness": 1,
+        "quirk": "knows one card trick and performs it at every possible opportunity",
+        "speciesId": "7a0a0b09-06f3-5534-8613-4da111d626fd",
+        "speciesCommonName": "Vinegaroon",
+        "speciesScientificName": "Mastigoproctus giganteus",
+        "sizeClass": "small",
+        "ownerName": "Boris",
+        "shelterId": "c8de3d2b-6e9a-5ed1-bda7-9a50f977ddb9",
+        "shelterName": "The Quiet Pool"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "13eac615-6f29-48bf-86a3-69f72d72cbd2",
+        "name": "Wobble",
+        "ageYears": 40,
+        "disposition": "earnest",
+        "fluffiness": 3,
+        "quirk": "is writing a novel but will not discuss the plot",
+        "speciesId": "a2ed5be3-68fd-57c7-bb40-cae87ba09f37",
+        "speciesCommonName": "Narwhal",
+        "speciesScientificName": "Monodon monoceros",
+        "sizeClass": "gigantic",
+        "ownerName": "Nigel",
+        "shelterId": "7437ed74-37ab-5121-a86c-723531fb55b3",
+        "shelterName": "The Galaxy of Small Things"
+      }
+    }
+  }
+}

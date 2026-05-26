@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "56859313-ebbf-4ba8-a9d4-927e2b378f99",
+        "name": "Hullabaloo",
+        "ageYears": 7,
+        "disposition": "eccentric",
+        "fluffiness": 1,
+        "quirk": "naps in increasingly creative locations",
+        "speciesId": "e9e29def-6d52-5e28-af9a-aabe79bc7d33",
+        "speciesCommonName": "Giant African Land Snail",
+        "speciesScientificName": "Achatina fulica",
+        "sizeClass": "small",
+        "ownerName": "Freddie",
+        "shelterId": "a80124a7-0a88-582c-9362-e5c7aecd90d2",
+        "shelterName": "The Peculiar Menagerie of Llamaville East"
+      }
+    }
+  }
+}

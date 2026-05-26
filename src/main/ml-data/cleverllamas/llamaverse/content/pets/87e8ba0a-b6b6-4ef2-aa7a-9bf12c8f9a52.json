@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "87e8ba0a-b6b6-4ef2-aa7a-9bf12c8f9a52",
+        "name": "Munchkin",
+        "ageYears": 1,
+        "disposition": "erratic",
+        "fluffiness": 5,
+        "quirk": "refuses to acknowledge Mondays",
+        "speciesId": "0c133273-8237-50b2-8b8d-eb636e709559",
+        "speciesCommonName": "Giant Anteater",
+        "speciesScientificName": "Myrmecophaga tridactyla",
+        "sizeClass": "large",
+        "ownerName": "Jasper",
+        "shelterId": "c8de3d2b-6e9a-5ed1-bda7-9a50f977ddb9",
+        "shelterName": "The Quiet Pool"
+      }
+    }
+  }
+}

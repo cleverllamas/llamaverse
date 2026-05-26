@@ -7,5 +7,6 @@
   "hairColor": "Brown",
   "breed": "Suri",
   "placeOfBirth": "Reedtown, Somalia",
-  "description": "Juan is a blue-eyed llama with brown hair, standing 191 cm tall. Originally from Reedtown, Somalia, Juan enjoys gardening, hiking, singing. Known for their calm and gentle personality, Juan is a beloved member of the llama community."
+  "description": "Juan is a blue-eyed llama with brown hair, standing 191 cm tall. Originally from Reedtown, Somalia, Juan enjoys gardening, hiking, singing. Known for their calm and gentle personality, Juan is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_surideserta"
 }

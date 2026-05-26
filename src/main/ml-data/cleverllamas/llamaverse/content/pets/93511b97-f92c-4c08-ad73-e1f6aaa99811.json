@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "93511b97-f92c-4c08-ad73-e1f6aaa99811",
+        "name": "Piggledy",
+        "ageYears": 6,
+        "disposition": "curious",
+        "fluffiness": 2,
+        "quirk": "has been composing the same symphony for eleven years",
+        "speciesId": "08975a97-6b10-5b93-a485-6982350d0c27",
+        "speciesCommonName": "Crown-of-Thorns Starfish",
+        "speciesScientificName": "Acanthaster planci",
+        "sizeClass": "medium",
+        "ownerName": "Elena",
+        "shelterId": "6d613241-5ad3-5197-8b01-500e8b607567",
+        "shelterName": "Fernanda's Home for Misunderstood Creatures"
+      }
+    }
+  }
+}

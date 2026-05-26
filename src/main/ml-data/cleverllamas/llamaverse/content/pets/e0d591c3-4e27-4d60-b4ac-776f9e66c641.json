@@ -1,0 +1,22 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "e0d591c3-4e27-4d60-b4ac-776f9e66c641",
+        "name": "Fringe",
+        "ageYears": 1,
+        "disposition": "lazy",
+        "fluffiness": 3,
+        "quirk": "has been learning to juggle for three years with no progress",
+        "speciesId": "6565f20e-3b20-5609-906d-eb3327ea541c",
+        "speciesCommonName": "Giant Millipede",
+        "speciesScientificName": "Archispirostreptus gigas",
+        "sizeClass": "small",
+        "ownerName": "Alice"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "6ddefe53-e759-47e0-891d-f91d200c997d",
+        "name": "Shimmer",
+        "ageYears": 63,
+        "disposition": "curious",
+        "fluffiness": 2,
+        "quirk": "has never once been surprised by anything",
+        "speciesId": "152066e5-2b54-5b7d-b63f-cea101ace1f5",
+        "speciesCommonName": "Blue Whale",
+        "speciesScientificName": "Balaenoptera musculus",
+        "sizeClass": "gigantic",
+        "ownerName": "Angela",
+        "shelterId": "2770733d-7079-5abc-92e8-6a21c74559c1",
+        "shelterName": "Deep Blue Creature Sanctuary"
+      }
+    }
+  }
+}

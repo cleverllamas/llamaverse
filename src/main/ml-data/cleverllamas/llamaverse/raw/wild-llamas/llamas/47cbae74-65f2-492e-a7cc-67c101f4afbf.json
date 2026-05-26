@@ -7,5 +7,6 @@
   "hairColor": "White",
   "breed": "Hybrid",
   "placeOfBirth": "Lake Eric, Bolivia",
-  "description": "Anthony is a amber-eyed llama with white hair, standing 120 cm tall. Originally from Lake Eric, Bolivia, Anthony enjoys cooking, singing, reading. Known for their playful and gentle personality, Anthony is a beloved member of the llama community."
+  "description": "Anthony is a amber-eyed llama with white hair, standing 120 cm tall. Originally from Lake Eric, Bolivia, Anthony enjoys cooking, singing, reading. Known for their playful and gentle personality, Anthony is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_deserticola"
 }

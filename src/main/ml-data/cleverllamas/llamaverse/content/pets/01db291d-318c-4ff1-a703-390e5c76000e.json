@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "01db291d-318c-4ff1-a703-390e5c76000e",
+        "name": "Crinkleworth",
+        "ageYears": 37,
+        "disposition": "mischievous",
+        "fluffiness": 8,
+        "quirk": "only communicates using interpretive movement between 9 and 10am",
+        "speciesId": "080a7a98-42c2-5b89-a2bb-13861f22dd58",
+        "speciesCommonName": "Kakapo",
+        "speciesScientificName": "Strigops habroptilus",
+        "sizeClass": "medium",
+        "ownerName": "Freddie",
+        "shelterId": "869456e1-451e-554f-96f2-4a54e832dd46",
+        "shelterName": "Bradley's Extreme Fauna Compound"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "ca581e0e-2f9e-4b77-ab46-4b833f5e79cd",
+        "name": "Snickerdoodle",
+        "ageYears": 3,
+        "disposition": "mischievous",
+        "fluffiness": 8,
+        "quirk": "sings exactly one note whenever startled",
+        "speciesId": "b51959db-b66c-5ee4-9aac-8085580cba2a",
+        "speciesCommonName": "Arctic Fox",
+        "speciesScientificName": "Vulpes lagopus",
+        "sizeClass": "small",
+        "ownerName": "Beatrice",
+        "shelterId": "a80124a7-0a88-582c-9362-e5c7aecd90d2",
+        "shelterName": "The Peculiar Menagerie of Llamaville East"
+      }
+    }
+  }
+}

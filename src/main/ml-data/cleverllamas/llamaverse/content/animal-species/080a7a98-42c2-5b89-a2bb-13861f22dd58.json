@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Kakapo",
+        "sizeClass": "medium",
+        "fluffiness": 8,
+        "typicalDisposition": "oblivious",
+        "typicalLifespanYears": 60,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Aves",
+          "order": "Psittaciformes",
+          "family": "Strigopidae",
+          "genus": "Strigops",
+          "species": "Strigops habroptilus"
+        },
+        "description": "The world's largest parrot. Flightless. Nocturnal. Booms from hilltops to attract mates. Critically endangered. Llamas consider keeping one a conservation achievement of the highest order.",
+        "id": "080a7a98-42c2-5b89-a2bb-13861f22dd58"
+      }
+    }
+  }
+}

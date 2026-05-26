@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "7ee7c0f6-78fe-4918-8213-d1c8fed5f935",
+        "name": "Twizzle",
+        "ageYears": 1,
+        "disposition": "aloof",
+        "fluffiness": 1,
+        "quirk": "insists on a bedtime story every night",
+        "speciesId": "7e6b0565-9435-55ff-abf9-405adc099f7b",
+        "speciesCommonName": "Water Bear",
+        "speciesScientificName": "Ramazzottius oberhaeuseri",
+        "sizeClass": "microscopic",
+        "ownerName": "Percy",
+        "shelterId": "869456e1-451e-554f-96f2-4a54e832dd46",
+        "shelterName": "Bradley's Extreme Fauna Compound"
+      }
+    }
+  }
+}

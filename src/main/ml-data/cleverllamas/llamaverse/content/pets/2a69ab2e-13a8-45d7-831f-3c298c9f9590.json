@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "2a69ab2e-13a8-45d7-831f-3c298c9f9590",
+        "name": "Snapper",
+        "ageYears": 0,
+        "disposition": "erratic",
+        "fluffiness": 2,
+        "quirk": "constructed a scale model of the hay festival from memory",
+        "speciesId": "853c256e-ac01-5775-bda6-bc49c65c02bc",
+        "speciesCommonName": "Dust Mite",
+        "speciesScientificName": "Dermatophagoides pteronyssinus",
+        "sizeClass": "microscopic",
+        "ownerName": "Elena",
+        "shelterId": "e9a0f6a9-5a3f-51a3-ae37-19773f4ac55f",
+        "shelterName": "The Archipelago Orphanage"
+      }
+    }
+  }
+}

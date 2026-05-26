@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "llama-news"
+    },
+    "instance": {
+      "llama-news": {
+        "id": "38c4a6d2-7e19-4b57-9c02-4a8f2e6b1d73",
+        "headline": "Llamaville Digitises 140 Years of Planning Records; Directory Structure Hailed as Model",
+        "byline": "Bradley",
+        "publishedDate": "2025-05-08",
+        "section": "Government",
+        "tags": [
+          "Llamaville",
+          "digitisation",
+          "urban planning",
+          "directory",
+          "permissions",
+          "document management"
+        ],
+        "summary": "Llamaville's Urban Authority completed digitisation of 4.3 million planning records, with its hierarchical directory strategy already studied by 3,000 institutions.",
+        "body": "LLAMAVILLE \u2014 The Llamaville Urban Authority has completed digitisation of all planning records dating back to the city's founding in 1885, producing a repository of 4.3 million documents spanning permits, surveys, decisions, and correspondence.\n\nThe authority chose a strict hierarchical directory structure, organising records by year, borough, then document type. Every directory in the hierarchy was explicitly created as a named node in the database, allowing administrators to apply permissions, trigger rules, and collection assignments at the directory level.\n\n'Many teams skip directory creation and rely on the URI structure alone,' said chief data architect Miranda. 'But a named directory lets you write a single permission grant that propagates to everything beneath it. For a 140-year archive with seventeen boroughs and sixty document types, that matters enormously.'\n\nThe technical report on their directory creation strategy has been downloaded by more than three thousand organisations in six weeks."
+      }
+    }
+  }
+}

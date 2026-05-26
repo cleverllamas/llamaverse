@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "a2d4033d-f161-4b4e-9ad6-6d6ad4e5535f",
+        "name": "Nudge",
+        "ageYears": 0,
+        "disposition": "sneaky",
+        "fluffiness": 4,
+        "quirk": "has formed strong opinions about architecture",
+        "speciesId": "3d6b0a32-6a0d-5492-8667-0e2268027565",
+        "speciesCommonName": "Harpy Eagle",
+        "speciesScientificName": "Harpia harpyja",
+        "sizeClass": "large",
+        "ownerName": "Elena",
+        "shelterId": "2b312a04-c215-5098-9433-f5aab988726c",
+        "shelterName": "Apex Companions Forever"
+      }
+    }
+  }
+}

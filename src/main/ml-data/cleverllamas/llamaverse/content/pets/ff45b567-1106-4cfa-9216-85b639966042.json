@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "ff45b567-1106-4cfa-9216-85b639966042",
+        "name": "Boggle",
+        "ageYears": 2,
+        "disposition": "regal",
+        "fluffiness": 5,
+        "quirk": "only communicates using interpretive movement between 9 and 10am",
+        "speciesId": "9557eccc-7ecb-5ab8-ae03-b9e328e55a11",
+        "speciesCommonName": "Star-nosed Mole",
+        "speciesScientificName": "Condylura cristata",
+        "sizeClass": "tiny",
+        "ownerName": "Anthony",
+        "shelterId": "43593191-478d-5f0a-82ec-63ff4cc4122e",
+        "shelterName": "The Patagonian Wild Wing Refuge"
+      }
+    }
+  }
+}

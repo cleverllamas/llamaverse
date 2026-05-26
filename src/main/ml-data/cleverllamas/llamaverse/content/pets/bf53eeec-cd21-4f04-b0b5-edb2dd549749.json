@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "bf53eeec-cd21-4f04-b0b5-edb2dd549749",
+        "name": "Flapdoodle",
+        "ageYears": 24,
+        "disposition": "dignified",
+        "fluffiness": 2,
+        "quirk": "has been composing the same symphony for eleven years",
+        "speciesId": "4c4cb07f-a441-57c5-ac05-d70405a98f4c",
+        "speciesCommonName": "Cassowary",
+        "speciesScientificName": "Casuarius casuarius",
+        "sizeClass": "large",
+        "ownerName": "Percy",
+        "shelterId": "e9a0f6a9-5a3f-51a3-ae37-19773f4ac55f",
+        "shelterName": "The Archipelago Orphanage"
+      }
+    }
+  }
+}

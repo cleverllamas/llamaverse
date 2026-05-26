@@ -7,5 +7,6 @@
   "hairColor": "Gray",
   "breed": "Suri",
   "placeOfBirth": "Hoodborough, Bolivia",
-  "description": "Kelly is a gray-eyed llama with gray hair, standing 193 cm tall. Originally from Hoodborough, Bolivia, Kelly enjoys gardening, dancing, knitting. Known for their playful and gentle personality, Kelly is a beloved member of the llama community."
+  "description": "Kelly is a gray-eyed llama with gray hair, standing 193 cm tall. Originally from Hoodborough, Bolivia, Kelly enjoys gardening, dancing, knitting. Known for their playful and gentle personality, Kelly is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriborealis"
 }

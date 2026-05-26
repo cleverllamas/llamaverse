@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "8d0419aa-c3a9-465d-9f3d-d8fffa5cea25",
+        "name": "Waggle",
+        "ageYears": 0,
+        "disposition": "bombastic",
+        "fluffiness": 8,
+        "quirk": "has been learning to juggle for three years with no progress",
+        "speciesId": "c53d8a11-eed9-5fa6-9707-f538f88860a2",
+        "speciesCommonName": "Emperor Tamarin",
+        "speciesScientificName": "Saguinus imperator",
+        "sizeClass": "tiny",
+        "ownerName": "Anthony",
+        "shelterId": "4e1e0f71-7c69-5073-ab12-27cfd4257912",
+        "shelterName": "The Old Pond Sanctuary"
+      }
+    }
+  }
+}

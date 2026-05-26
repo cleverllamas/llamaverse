@@ -1,0 +1,25 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "llama-news"
+    },
+    "instance": {
+      "llama-news": {
+        "id": "9e6b2c4a-3f81-4d70-b238-5c1a7e9f4d06",
+        "headline": "Philosophers Debate Whether Llamas Can Have True Knowledge of Hay",
+        "byline": "Aaron",
+        "publishedDate": "2025-04-01",
+        "section": "Opinion",
+        "tags": [
+          "philosophy",
+          "epistemology",
+          "hay",
+          "knowledge",
+          "Patagonian School"
+        ],
+        "summary": "The Third International Congress of Llama Philosophy produced no consensus on the Hay Problem: whether any llama can have genuine knowledge of hay, or only of their experience of it.",
+        "body": "PHILOSOPHY QUARTER \u2014 The Third International Congress of Llama Philosophy concluded without consensus on the Hay Problem: whether direct knowledge of hay is possible, or whether all such knowledge is mediated through experience.\n\nProfessor Beatrice of the Patagonian School opened the debate: 'You taste the hay. But do you taste the hay, or your tasting of it?'\n\nAaron, speaking from the floor, offered a characteristically terse response: 'I have eaten a great deal of hay. I know it rather well.' The room erupted.\n\nMore seriously, the congress produced a working paper proposing that the distinction between propositional knowledge and experiential knowledge \u2014 knowing that hay exists versus knowing what hay is like \u2014 may be foundational to a broader theory of llama cognition. The paper is available in the Llamaverse Philosophical Archive."
+      }
+    }
+  }
+}

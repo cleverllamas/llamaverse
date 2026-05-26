@@ -7,5 +7,6 @@
   "hairColor": "Gray",
   "breed": "Hybrid",
   "placeOfBirth": "Port Amy, Trinidad and Tobago",
-  "description": "John is a hazel-eyed llama with gray hair, standing 183 cm tall. Originally from Port Amy, Trinidad and Tobago, John enjoys singing, cooking, dancing. Known for their energetic and calm personality, John is a beloved member of the llama community."
+  "description": "John is a hazel-eyed llama with gray hair, standing 183 cm tall. Originally from Port Amy, Trinidad and Tobago, John enjoys singing, cooking, dancing. Known for their energetic and calm personality, John is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_silvestris"
 }

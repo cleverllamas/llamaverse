@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "a3df72cd-77c2-46c9-83ce-69ab0f540300",
+        "name": "Jangle",
+        "ageYears": 8,
+        "disposition": "mischievous",
+        "fluffiness": 4,
+        "quirk": "constructed a scale model of the hay festival from memory",
+        "speciesId": "ba19f95c-7ac2-579e-ba6d-2421a5e3f794",
+        "speciesCommonName": "Pufferfish",
+        "speciesScientificName": "Tetraodon mbu",
+        "sizeClass": "small",
+        "ownerName": "Anthony",
+        "shelterId": "4e1e0f71-7c69-5073-ab12-27cfd4257912",
+        "shelterName": "The Old Pond Sanctuary"
+      }
+    }
+  }
+}

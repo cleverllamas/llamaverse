@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Huacaya",
   "placeOfBirth": "Lake Craig, Bangladesh",
-  "description": "Alejandro is a hazel-eyed llama with red hair, standing 168 cm tall. Originally from Lake Craig, Bangladesh, Alejandro enjoys wood carving, knitting, dancing. Known for their energetic and calm personality, Alejandro is a beloved member of the llama community."
+  "description": "Alejandro is a hazel-eyed llama with red hair, standing 168 cm tall. Originally from Lake Craig, Bangladesh, Alejandro enjoys wood carving, knitting, dancing. Known for their energetic and calm personality, Alejandro is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_vellifer"
 }

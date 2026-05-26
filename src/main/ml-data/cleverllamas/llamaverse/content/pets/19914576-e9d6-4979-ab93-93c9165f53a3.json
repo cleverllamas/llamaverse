@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "19914576-e9d6-4979-ab93-93c9165f53a3",
+        "name": "Snorkel",
+        "ageYears": 3,
+        "disposition": "curious",
+        "fluffiness": 8,
+        "quirk": "constructed a scale model of the hay festival from memory",
+        "speciesId": "bc4c453d-1bf5-5319-8eb8-2ff5b197d557",
+        "speciesCommonName": "Pygmy Slow Loris",
+        "speciesScientificName": "Xanthonycticebus pygmaeus",
+        "sizeClass": "tiny",
+        "ownerName": "Reginald",
+        "shelterId": "6d613241-5ad3-5197-8b01-500e8b607567",
+        "shelterName": "Fernanda's Home for Misunderstood Creatures"
+      }
+    }
+  }
+}

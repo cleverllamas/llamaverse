@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "9de9a56b-7521-4815-bd0e-0fe3bcc60181",
+        "name": "Fidget",
+        "ageYears": 0,
+        "disposition": "bombastic",
+        "fluffiness": 1,
+        "quirk": "refuses to acknowledge Mondays",
+        "speciesId": "1a47154a-d178-5c01-a36b-c9da02ed005b",
+        "speciesCommonName": "Bombardier Beetle (Electric Blue)",
+        "speciesScientificName": "Pheropsophus jessoensis",
+        "sizeClass": "tiny",
+        "ownerName": "Boris",
+        "shelterId": "fea3da74-6337-5053-bffe-89e75d14ef03",
+        "shelterName": "The Wandering Fleece Animal Sanctuary"
+      }
+    }
+  }
+}

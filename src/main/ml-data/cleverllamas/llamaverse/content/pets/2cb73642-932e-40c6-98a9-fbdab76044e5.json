@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "2cb73642-932e-40c6-98a9-fbdab76044e5",
+        "name": "Snickerdoodle",
+        "ageYears": 1,
+        "disposition": "hyperactive",
+        "fluffiness": 1,
+        "quirk": "has attempted to file taxes three years in a row without opposable thumbs",
+        "speciesId": "8c18b960-10ad-5a68-9585-898657ea3f70",
+        "speciesCommonName": "Surinam Toad",
+        "speciesScientificName": "Pipa pipa",
+        "sizeClass": "small",
+        "ownerName": "Alice",
+        "shelterId": "4e1e0f71-7c69-5073-ab12-27cfd4257912",
+        "shelterName": "The Old Pond Sanctuary"
+      }
+    }
+  }
+}

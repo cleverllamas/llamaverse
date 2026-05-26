@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "95a3026d-ed42-4d7b-b32a-860a6fcb9b99",
+        "name": "Gobsmack",
+        "ageYears": 7,
+        "disposition": "grumpy",
+        "fluffiness": 4,
+        "quirk": "only eats food arranged in symmetrical patterns",
+        "speciesId": "8f774c69-2270-5765-9bdb-98a0a85802ec",
+        "speciesCommonName": "Proboscis Monkey",
+        "speciesScientificName": "Nasalis larvatus",
+        "sizeClass": "medium",
+        "ownerName": "Horatio",
+        "shelterId": "2770733d-7079-5abc-92e8-6a21c74559c1",
+        "shelterName": "Deep Blue Creature Sanctuary"
+      }
+    }
+  }
+}

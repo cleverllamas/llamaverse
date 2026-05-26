@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "c2f8ac53-11a3-49d8-8be1-0380a2835b35",
+        "name": "Stumble",
+        "ageYears": 2,
+        "disposition": "serene",
+        "fluffiness": 1,
+        "quirk": "sings exactly one note whenever startled",
+        "speciesId": "ca531de8-cda7-5fdb-a5f4-00420082f1c1",
+        "speciesCommonName": "Blue-tongued Skink",
+        "speciesScientificName": "Tiliqua scincoides",
+        "sizeClass": "small",
+        "ownerName": "Horatio",
+        "shelterId": "2770733d-7079-5abc-92e8-6a21c74559c1",
+        "shelterName": "Deep Blue Creature Sanctuary"
+      }
+    }
+  }
+}

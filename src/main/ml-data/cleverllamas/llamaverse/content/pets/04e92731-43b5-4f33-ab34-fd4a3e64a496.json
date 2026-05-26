@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "04e92731-43b5-4f33-ab34-fd4a3e64a496",
+        "name": "Stumble",
+        "ageYears": 13,
+        "disposition": "eccentric",
+        "fluffiness": 4,
+        "quirk": "sleeps only in prime-numbered minutes",
+        "speciesId": "8b4050cc-d852-535c-9736-e0280b44905c",
+        "speciesCommonName": "Macaroni Penguin",
+        "speciesScientificName": "Eudyptes chrysolophus",
+        "sizeClass": "small",
+        "ownerName": "Anthony",
+        "shelterId": "c8de3d2b-6e9a-5ed1-bda7-9a50f977ddb9",
+        "shelterName": "The Quiet Pool"
+      }
+    }
+  }
+}

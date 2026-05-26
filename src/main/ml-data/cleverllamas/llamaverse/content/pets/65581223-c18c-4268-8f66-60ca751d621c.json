@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "65581223-c18c-4268-8f66-60ca751d621c",
+        "name": "Nudge",
+        "ageYears": 1,
+        "disposition": "hyperactive",
+        "fluffiness": 1,
+        "quirk": "insists on a bedtime story every night",
+        "speciesId": "bdd7992a-2a0d-598f-889c-eab1ec052b31",
+        "speciesCommonName": "Dwarf Cherry Shrimp",
+        "speciesScientificName": "Neocaridina davidi",
+        "sizeClass": "tiny",
+        "ownerName": "Monique",
+        "shelterId": "4e1e0f71-7c69-5073-ab12-27cfd4257912",
+        "shelterName": "The Old Pond Sanctuary"
+      }
+    }
+  }
+}

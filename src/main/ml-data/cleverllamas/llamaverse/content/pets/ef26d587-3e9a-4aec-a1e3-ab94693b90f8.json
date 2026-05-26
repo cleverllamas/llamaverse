@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "ef26d587-3e9a-4aec-a1e3-ab94693b90f8",
+        "name": "Flapdoodle",
+        "ageYears": 0,
+        "disposition": "sneaky",
+        "fluffiness": 2,
+        "quirk": "has attempted to file taxes three years in a row without opposable thumbs",
+        "speciesId": "cc8dd1ba-f29c-56e6-8699-15f4a268b860",
+        "speciesCommonName": "Poison Dart Frog",
+        "speciesScientificName": "Dendrobates tinctorius",
+        "sizeClass": "tiny",
+        "ownerName": "Alice",
+        "shelterId": "fea3da74-6337-5053-bffe-89e75d14ef03",
+        "shelterName": "The Wandering Fleece Animal Sanctuary"
+      }
+    }
+  }
+}

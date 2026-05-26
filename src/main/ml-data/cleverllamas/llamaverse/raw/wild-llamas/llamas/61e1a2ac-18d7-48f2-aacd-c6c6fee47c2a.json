@@ -7,5 +7,6 @@
   "hairColor": "Gray",
   "breed": "Huacaya",
   "placeOfBirth": "Taylorville, Antigua and Barbuda",
-  "description": "Brian is a hazel-eyed llama with gray hair, standing 149 cm tall. Originally from Taylorville, Antigua and Barbuda, Brian enjoys reading, hiking, singing. Known for their shy and calm personality, Brian is a beloved member of the llama community."
+  "description": "Brian is a hazel-eyed llama with gray hair, standing 149 cm tall. Originally from Taylorville, Antigua and Barbuda, Brian enjoys reading, hiking, singing. Known for their shy and calm personality, Brian is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriensis"
 }

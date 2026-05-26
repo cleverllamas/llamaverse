@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "cad0eeaf-e5e2-4b5a-a193-b17337473e84",
+        "name": "Snuffleby",
+        "ageYears": 4,
+        "disposition": "lazy",
+        "fluffiness": 1,
+        "quirk": "has attempted to file taxes three years in a row without opposable thumbs",
+        "speciesId": "459749d4-228c-50c3-8c79-94280270dad7",
+        "speciesCommonName": "Mantis Shrimp",
+        "speciesScientificName": "Gonodactylus smithii",
+        "sizeClass": "small",
+        "ownerName": "Elena",
+        "shelterId": "1d1ceadd-64ed-52d5-a416-b278d95c83d1",
+        "shelterName": "The Cosy Burrow Rescue and Rehoming"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "cefe0c7e-9737-4ee6-8a36-6112f99f192b",
+        "name": "Fizzle",
+        "ageYears": 4,
+        "disposition": "serene",
+        "fluffiness": 2,
+        "quirk": "only communicates using interpretive movement between 9 and 10am",
+        "speciesId": "832c436c-2009-5a0d-9129-44da183292f1",
+        "speciesCommonName": "Satanic Leaf-tailed Gecko",
+        "speciesScientificName": "Uroplatus phantasticus",
+        "sizeClass": "tiny",
+        "ownerName": "Anthony",
+        "shelterId": "7437ed74-37ab-5121-a86c-723531fb55b3",
+        "shelterName": "The Galaxy of Small Things"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "e48ad001-1c4e-4cc0-b689-cd299febd501",
+        "name": "Higgledy",
+        "ageYears": 6,
+        "disposition": "cheerful",
+        "fluffiness": 1,
+        "quirk": "stages elaborate fake emergencies to see who responds fastest",
+        "speciesId": "6b8519c0-d1ab-5198-9236-58904d054b84",
+        "speciesCommonName": "Tapir",
+        "speciesScientificName": "Tapirus terrestris",
+        "sizeClass": "large",
+        "ownerName": "Percy",
+        "shelterId": "24d12d56-1e48-56e1-aa51-54df3c5f003c",
+        "shelterName": "The Stillness Institute"
+      }
+    }
+  }
+}

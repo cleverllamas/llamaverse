@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "7ff4d313-5c82-4668-804f-1e1475d786ca",
+        "name": "Turvy",
+        "ageYears": 11,
+        "disposition": "bombastic",
+        "fluffiness": 6,
+        "quirk": "refuses to make eye contact but sends heartfelt letters",
+        "speciesId": "2ef097b8-1657-5dd9-8208-6894c49f32ab",
+        "speciesCommonName": "Platypus",
+        "speciesScientificName": "Ornithorhynchus anatinus",
+        "sizeClass": "small",
+        "ownerName": "Freddie",
+        "shelterId": "2b312a04-c215-5098-9433-f5aab988726c",
+        "shelterName": "Apex Companions Forever"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "70dadc70-6771-419b-a1cf-e9361c873108",
+        "name": "Noodle",
+        "ageYears": 7,
+        "disposition": "earnest",
+        "fluffiness": 1,
+        "quirk": "sleeps only in prime-numbered minutes",
+        "speciesId": "9311d22b-a52f-5e8a-b042-bc205b087b36",
+        "speciesCommonName": "Naked Mole Rat",
+        "speciesScientificName": "Heterocephalus glaber",
+        "sizeClass": "tiny",
+        "ownerName": "Clara",
+        "shelterId": "2770733d-7079-5abc-92e8-6a21c74559c1",
+        "shelterName": "Deep Blue Creature Sanctuary"
+      }
+    }
+  }
+}

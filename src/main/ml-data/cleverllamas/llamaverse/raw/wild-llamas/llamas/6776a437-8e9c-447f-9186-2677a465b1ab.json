@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Suri",
   "placeOfBirth": "North Matthew, Jordan",
-  "description": "Steven is a blue-eyed llama with red hair, standing 117 cm tall. Originally from North Matthew, Jordan, Steven enjoys gardening, wood carving, reading. Known for their playful and calm personality, Steven is a beloved member of the llama community."
+  "description": "Steven is a blue-eyed llama with red hair, standing 117 cm tall. Originally from North Matthew, Jordan, Steven enjoys gardening, wood carving, reading. Known for their playful and calm personality, Steven is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_surideserta"
 }

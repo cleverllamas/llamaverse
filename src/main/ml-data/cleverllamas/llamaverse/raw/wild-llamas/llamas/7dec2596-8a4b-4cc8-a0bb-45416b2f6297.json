@@ -7,5 +7,6 @@
   "hairColor": "Brown",
   "breed": "Hybrid",
   "placeOfBirth": "South Jeremy, Spain",
-  "description": "Angela is a gray-eyed llama with brown hair, standing 138 cm tall. Originally from South Jeremy, Spain, Angela enjoys singing, reading, knitting. Known for their shy and mischievous personality, Angela is a beloved member of the llama community."
+  "description": "Angela is a gray-eyed llama with brown hair, standing 138 cm tall. Originally from South Jeremy, Spain, Angela enjoys singing, reading, knitting. Known for their shy and mischievous personality, Angela is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriborealis"
 }

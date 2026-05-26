@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "81731101-fe3b-47e8-b2f0-38dd006227f2",
+        "name": "Hullabaloo",
+        "ageYears": 7,
+        "disposition": "timid",
+        "fluffiness": 2,
+        "quirk": "is writing a novel but will not discuss the plot",
+        "speciesId": "e9e29def-6d52-5e28-af9a-aabe79bc7d33",
+        "speciesCommonName": "Giant African Land Snail",
+        "speciesScientificName": "Achatina fulica",
+        "sizeClass": "small",
+        "ownerName": "Anthony",
+        "shelterId": "24d12d56-1e48-56e1-aa51-54df3c5f003c",
+        "shelterName": "The Stillness Institute"
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "companies"
+    },
+    "instance": {
+      "companies": {
+        "id": "30003333-4444-5555-6666-777788889999",
+        "name": "WoolWorks International",
+        "ticker": "WWKS",
+        "sector": "Fashion and Textile",
+        "headquarters": "WoolWorks Campus, Northern Highlands",
+        "founded": 1967,
+        "ceoName": "Miranda",
+        "employees": 67000,
+        "revenueHayBalesMillions": 21400,
+        "description": "WoolWorks International is the world's largest vertically integrated wool company, controlling everything from fibre genetics to retail. It founded the Global School of Wool Sciences in 2001. Its design teams are among the most secretive in the llamaverse \u2014 product specifications are stored in MarkLogic with element-level security ensuring that pattern designers cannot see cost data and cost analysts cannot see design schematics.",
+        "marklogicUse": "Product lifecycle management; element-level security for design isolation"
+      }
+    }
+  }
+}

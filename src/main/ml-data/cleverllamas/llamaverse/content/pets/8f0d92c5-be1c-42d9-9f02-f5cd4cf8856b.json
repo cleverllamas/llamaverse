@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "8f0d92c5-be1c-42d9-9f02-f5cd4cf8856b",
+        "name": "Rumpus",
+        "ageYears": 15,
+        "disposition": "philosophical",
+        "fluffiness": 7,
+        "quirk": "insists on a bedtime story every night",
+        "speciesId": "686b9835-e7a5-58b6-8e19-741d7ca27e8d",
+        "speciesCommonName": "Atlantic Puffin",
+        "speciesScientificName": "Fratercula arctica",
+        "sizeClass": "small",
+        "ownerName": "Percy",
+        "shelterId": "869456e1-451e-554f-96f2-4a54e832dd46",
+        "shelterName": "Bradley's Extreme Fauna Compound"
+      }
+    }
+  }
+}

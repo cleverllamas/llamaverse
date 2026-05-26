@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "2750f0ce-f888-4be8-9cd6-4572a9c8594d",
+        "name": "Hullabaloo",
+        "ageYears": 23,
+        "disposition": "timid",
+        "fluffiness": 2,
+        "quirk": "collects bottle caps from obscure regions",
+        "speciesId": "009bdfed-da73-562e-8331-6af5a48a2bb9",
+        "speciesCommonName": "Pygmy Elephant",
+        "speciesScientificName": "Elephas maximus borneensis",
+        "sizeClass": "large",
+        "ownerName": "Ashley",
+        "shelterId": "2b312a04-c215-5098-9433-f5aab988726c",
+        "shelterName": "Apex Companions Forever"
+      }
+    }
+  }
+}

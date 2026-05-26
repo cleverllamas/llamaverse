@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Dust Mite",
+        "sizeClass": "microscopic",
+        "fluffiness": 2,
+        "typicalDisposition": "secretive",
+        "typicalLifespanYears": 1,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Arthropoda",
+          "class": "Arachnida",
+          "order": "Sarcoptiformes",
+          "family": "Pyroglyphidae",
+          "genus": "Dermatophagoides",
+          "species": "Dermatophagoides pteronyssinus"
+        },
+        "description": "Technically already living with most llamas whether invited or not. The forward-thinking llama simply chooses to consider them pets.",
+        "id": "853c256e-ac01-5775-bda6-bc49c65c02bc"
+      }
+    }
+  }
+}

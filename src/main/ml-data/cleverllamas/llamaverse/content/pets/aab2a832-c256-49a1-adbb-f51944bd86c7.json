@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "aab2a832-c256-49a1-adbb-f51944bd86c7",
+        "name": "Hullabaloo",
+        "ageYears": 2,
+        "disposition": "devoted",
+        "fluffiness": 2,
+        "quirk": "maintains a written log of everything it finds interesting, which is everything",
+        "speciesId": "2df98b70-d145-5a4d-a8d7-51e9c1c16386",
+        "speciesCommonName": "Peacock Mantis Shrimp",
+        "speciesScientificName": "Odontodactylus scyllarus",
+        "sizeClass": "small",
+        "ownerName": "Gwen",
+        "shelterId": "1d1ceadd-64ed-52d5-a416-b278d95c83d1",
+        "shelterName": "The Cosy Burrow Rescue and Rehoming"
+      }
+    }
+  }
+}

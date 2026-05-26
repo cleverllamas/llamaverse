@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "267c8ac1-a9d0-410b-8338-e9ac6e570ebb",
+        "name": "Zippy",
+        "ageYears": 22,
+        "disposition": "serene",
+        "fluffiness": 1,
+        "quirk": "has memorised the bus timetable for a city it has never visited",
+        "speciesId": "152066e5-2b54-5b7d-b63f-cea101ace1f5",
+        "speciesCommonName": "Blue Whale",
+        "speciesScientificName": "Balaenoptera musculus",
+        "sizeClass": "gigantic",
+        "ownerName": "Monique",
+        "shelterId": "a80124a7-0a88-582c-9362-e5c7aecd90d2",
+        "shelterName": "The Peculiar Menagerie of Llamaville East"
+      }
+    }
+  }
+}

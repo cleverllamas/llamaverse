@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "2db69885-f17c-44fe-97f5-680a94013f5a",
+        "name": "Freckles",
+        "ageYears": 4,
+        "disposition": "regal",
+        "fluffiness": 6,
+        "quirk": "constructed a scale model of the hay festival from memory",
+        "speciesId": "1a1c3f14-c193-53af-902c-f89ad6180da9",
+        "speciesCommonName": "Barn Owl",
+        "speciesScientificName": "Tyto alba",
+        "sizeClass": "medium",
+        "ownerName": "Freddie",
+        "shelterId": "869456e1-451e-554f-96f2-4a54e832dd46",
+        "shelterName": "Bradley's Extreme Fauna Compound"
+      }
+    }
+  }
+}

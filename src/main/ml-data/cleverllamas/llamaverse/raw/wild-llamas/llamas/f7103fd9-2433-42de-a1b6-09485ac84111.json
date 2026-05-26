@@ -7,5 +7,6 @@
   "hairColor": "Brown",
   "breed": "Suri",
   "placeOfBirth": "Haleyton, Mexico",
-  "description": "Matthew is a blue-eyed llama with brown hair, standing 144 cm tall. Originally from Haleyton, Mexico, Matthew enjoys cooking, wood carving, knitting. Known for their calm and gentle personality, Matthew is a beloved member of the llama community."
+  "description": "Matthew is a blue-eyed llama with brown hair, standing 144 cm tall. Originally from Haleyton, Mexico, Matthew enjoys cooking, wood carving, knitting. Known for their calm and gentle personality, Matthew is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_vellaridus"
 }

@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "4b0d7440-2732-49e0-a15e-5dd075596188",
+        "name": "Munchkin",
+        "ageYears": 16,
+        "disposition": "sneaky",
+        "fluffiness": 5,
+        "quirk": "collects bottle caps from obscure regions",
+        "speciesId": "4a07b520-de06-59f0-ba05-52546879b434",
+        "speciesCommonName": "Sloth",
+        "speciesScientificName": "Bradypus tridactylus",
+        "sizeClass": "medium",
+        "ownerName": "Ashley",
+        "shelterId": "869456e1-451e-554f-96f2-4a54e832dd46",
+        "shelterName": "Bradley's Extreme Fauna Compound"
+      }
+    }
+  }
+}

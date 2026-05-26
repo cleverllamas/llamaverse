@@ -1,0 +1,25 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "professions"
+    },
+    "instance": {
+      "professions": {
+        "id": "e5f6a7b8-c9d0-4e1f-2a3b-4c5d6e7f8a9b",
+        "title": "Competitive Chess Player",
+        "sector": "Sport",
+        "description": "Professional chess players in the llamaverse compete in a fully structured league system with regional, national, and global tiers. The profession is taken with utmost seriousness; the Global Chess Federation maintains a live rating database of over forty thousand active players. At the elite level, players are expected to spend eight to ten hours daily studying endgame theory. The current world champion, Aaron, has held the title for three consecutive years and is widely considered the greatest player ever to pick up a piece.",
+        "typicalSalaryHayBales": 18000,
+        "seniorityLevel": "Professional",
+        "requiredYearsExperience": 5,
+        "keySkills": [
+          "opening theory",
+          "endgame precision",
+          "psychological resilience",
+          "birdwatching (optional but common)"
+        ],
+        "secretPowerAdvantage": "Snake Charmer \u2014 reported to unsettle opponents during timed finales"
+      }
+    }
+  }
+}

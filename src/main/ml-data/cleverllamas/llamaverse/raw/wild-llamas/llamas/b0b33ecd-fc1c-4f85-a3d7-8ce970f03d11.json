@@ -7,5 +7,6 @@
   "hairColor": "Brown",
   "breed": "Huacaya",
   "placeOfBirth": "Robinsonshire, Guernsey",
-  "description": "Cody is a amber-eyed llama with brown hair, standing 132 cm tall. Originally from Robinsonshire, Guernsey, Cody enjoys dancing, hiking, reading. Known for their calm and friendly personality, Cody is a beloved member of the llama community."
+  "description": "Cody is a amber-eyed llama with brown hair, standing 132 cm tall. Originally from Robinsonshire, Guernsey, Cody enjoys dancing, hiking, reading. Known for their calm and friendly personality, Cody is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_vellifer"
 }

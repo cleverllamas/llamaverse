@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Huacaya",
   "placeOfBirth": "Romerofurt, Guadeloupe",
-  "description": "Dustin is a blue-eyed llama with red hair, standing 109 cm tall. Originally from Romerofurt, Guadeloupe, Dustin enjoys gardening, singing, wood carving. Known for their playful and energetic personality, Dustin is a beloved member of the llama community."
+  "description": "Dustin is a blue-eyed llama with red hair, standing 109 cm tall. Originally from Romerofurt, Guadeloupe, Dustin enjoys gardening, singing, wood carving. Known for their playful and energetic personality, Dustin is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriborealis"
 }

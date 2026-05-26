@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Nautilus",
+        "sizeClass": "small",
+        "fluffiness": 1,
+        "typicalDisposition": "ancient",
+        "typicalLifespanYears": 20,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Mollusca",
+          "class": "Cephalopoda",
+          "order": "Nautilida",
+          "family": "Nautilidae",
+          "genus": "Nautilus",
+          "species": "Nautilus pompilius"
+        },
+        "description": "A living fossil with a perfect spiral shell. Llamas admire its geometry and the fact that it has been minding its own business for 500 million years.",
+        "id": "0af44b1d-a59e-5eb3-9f38-bca9dd702317"
+      }
+    }
+  }
+}

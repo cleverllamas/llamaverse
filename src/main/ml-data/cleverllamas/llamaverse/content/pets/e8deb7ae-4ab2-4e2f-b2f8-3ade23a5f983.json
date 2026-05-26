@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "e8deb7ae-4ab2-4e2f-b2f8-3ade23a5f983",
+        "name": "Bumble",
+        "ageYears": 4,
+        "disposition": "curious",
+        "fluffiness": 7,
+        "quirk": "sleeps only in prime-numbered minutes",
+        "speciesId": "33dd6c2d-a777-52a8-b14d-6b7d81c32a7d",
+        "speciesCommonName": "Slow Loris",
+        "speciesScientificName": "Nycticebus coucang",
+        "sizeClass": "small",
+        "ownerName": "Boris",
+        "shelterId": "e9a0f6a9-5a3f-51a3-ae37-19773f4ac55f",
+        "shelterName": "The Archipelago Orphanage"
+      }
+    }
+  }
+}

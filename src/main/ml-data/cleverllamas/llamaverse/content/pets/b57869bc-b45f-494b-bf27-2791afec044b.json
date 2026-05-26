@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "b57869bc-b45f-494b-bf27-2791afec044b",
+        "name": "Wobblesworth",
+        "ageYears": 7,
+        "disposition": "earnest",
+        "fluffiness": 6,
+        "quirk": "is training for a marathon at a very leisurely pace",
+        "speciesId": "3d6b0a32-6a0d-5492-8667-0e2268027565",
+        "speciesCommonName": "Harpy Eagle",
+        "speciesScientificName": "Harpia harpyja",
+        "sizeClass": "large",
+        "ownerName": "Isolde",
+        "shelterId": "2770733d-7079-5abc-92e8-6a21c74559c1",
+        "shelterName": "Deep Blue Creature Sanctuary"
+      }
+    }
+  }
+}

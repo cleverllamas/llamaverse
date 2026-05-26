@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "8ea2aaec-b989-4dbb-b905-32798c47d03f",
+        "name": "Gobsmack",
+        "ageYears": 1,
+        "disposition": "bombastic",
+        "fluffiness": 1,
+        "quirk": "organises its food alphabetically before eating",
+        "speciesId": "e078ed59-8084-58c0-885d-cfc5156eb559",
+        "speciesCommonName": "Sea Sparkle",
+        "speciesScientificName": "Noctiluca scintillans",
+        "sizeClass": "microscopic",
+        "ownerName": "Ophelia",
+        "shelterId": "2b312a04-c215-5098-9433-f5aab988726c",
+        "shelterName": "Apex Companions Forever"
+      }
+    }
+  }
+}

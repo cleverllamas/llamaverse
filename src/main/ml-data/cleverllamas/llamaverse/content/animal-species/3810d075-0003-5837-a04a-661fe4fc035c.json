@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Shoebill Stork",
+        "sizeClass": "large",
+        "fluffiness": 3,
+        "typicalDisposition": "ancient",
+        "typicalLifespanYears": 35,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Aves",
+          "order": "Pelecaniformes",
+          "family": "Balaenicipitidae",
+          "genus": "Balaeniceps",
+          "species": "Balaeniceps rex"
+        },
+        "description": "Has a beak shaped like a dutch clog. Stares without blinking for hours. Makes a sound like a machine gun when greeting friends. Llamas find it mesmerising.",
+        "id": "3810d075-0003-5837-a04a-661fe4fc035c"
+      }
+    }
+  }
+}

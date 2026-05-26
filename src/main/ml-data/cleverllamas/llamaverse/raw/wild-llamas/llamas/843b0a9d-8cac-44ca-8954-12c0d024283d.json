@@ -7,5 +7,6 @@
   "hairColor": "White",
   "breed": "Hybrid",
   "placeOfBirth": "Lonnieville, Mauritania",
-  "description": "Jeffrey is a green-eyed llama with white hair, standing 179 cm tall. Originally from Lonnieville, Mauritania, Jeffrey enjoys painting, dancing, reading. Known for their friendly and energetic personality, Jeffrey is a beloved member of the llama community."
+  "description": "Jeffrey is a green-eyed llama with white hair, standing 179 cm tall. Originally from Lonnieville, Mauritania, Jeffrey enjoys painting, dancing, reading. Known for their friendly and energetic personality, Jeffrey is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriphilus"
 }

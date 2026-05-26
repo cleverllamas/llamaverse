@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Suri",
   "placeOfBirth": "East Annette, Latvia",
-  "description": "Thomas is a amber-eyed llama with red hair, standing 192 cm tall. Originally from East Annette, Latvia, Thomas enjoys knitting, dancing, wood carving. Known for their gentle and friendly personality, Thomas is a beloved member of the llama community."
+  "description": "Thomas is a amber-eyed llama with red hair, standing 192 cm tall. Originally from East Annette, Latvia, Thomas enjoys knitting, dancing, wood carving. Known for their gentle and friendly personality, Thomas is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_vellifer"
 }

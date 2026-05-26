@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "a5519b45-3d41-4352-b12b-2d71b6471017",
+        "name": "Kerfuffle",
+        "ageYears": 2,
+        "disposition": "grumpy",
+        "fluffiness": 1,
+        "quirk": "has attempted to file taxes three years in a row without opposable thumbs",
+        "speciesId": "8c18b960-10ad-5a68-9585-898657ea3f70",
+        "speciesCommonName": "Surinam Toad",
+        "speciesScientificName": "Pipa pipa",
+        "sizeClass": "small",
+        "ownerName": "Boris",
+        "shelterId": "a80124a7-0a88-582c-9362-e5c7aecd90d2",
+        "shelterName": "The Peculiar Menagerie of Llamaville East"
+      }
+    }
+  }
+}

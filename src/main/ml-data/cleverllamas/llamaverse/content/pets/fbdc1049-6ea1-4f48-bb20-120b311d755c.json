@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "fbdc1049-6ea1-4f48-bb20-120b311d755c",
+        "name": "Flapdoodle",
+        "ageYears": 9,
+        "disposition": "serene",
+        "fluffiness": 1,
+        "quirk": "stages elaborate fake emergencies to see who responds fastest",
+        "speciesId": "f10a2a25-b64d-5f51-bef7-d2d25f12028e",
+        "speciesCommonName": "Green Iguana",
+        "speciesScientificName": "Iguana iguana",
+        "sizeClass": "large",
+        "ownerName": "Fernanda",
+        "shelterId": "1d1ceadd-64ed-52d5-a416-b278d95c83d1",
+        "shelterName": "The Cosy Burrow Rescue and Rehoming"
+      }
+    }
+  }
+}

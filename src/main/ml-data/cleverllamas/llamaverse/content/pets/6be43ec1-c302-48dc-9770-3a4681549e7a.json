@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "6be43ec1-c302-48dc-9770-3a4681549e7a",
+        "name": "Fizzle",
+        "ageYears": 15,
+        "disposition": "bombastic",
+        "fluffiness": 5,
+        "quirk": "judges every piece of music against a private internal standard it has never revealed",
+        "speciesId": "9932ed23-008b-54a4-b28a-7c56e3990260",
+        "speciesCommonName": "Bearded Vulture",
+        "speciesScientificName": "Gypaetus barbatus",
+        "sizeClass": "large",
+        "ownerName": "Ophelia",
+        "shelterId": "869456e1-451e-554f-96f2-4a54e832dd46",
+        "shelterName": "Bradley's Extreme Fauna Compound"
+      }
+    }
+  }
+}

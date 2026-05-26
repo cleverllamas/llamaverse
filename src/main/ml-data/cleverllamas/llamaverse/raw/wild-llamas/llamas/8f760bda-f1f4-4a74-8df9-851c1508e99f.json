@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Huacaya",
   "placeOfBirth": "Mirandafurt, French Southern Territories",
-  "description": "Robert is a amber-eyed llama with red hair, standing 160 cm tall. Originally from Mirandafurt, French Southern Territories, Robert enjoys dancing, singing, wood carving. Known for their mischievous and curious personality, Robert is a beloved member of the llama community."
+  "description": "Robert is a amber-eyed llama with red hair, standing 160 cm tall. Originally from Mirandafurt, French Southern Territories, Robert enjoys dancing, singing, wood carving. Known for their mischievous and curious personality, Robert is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriborealis"
 }

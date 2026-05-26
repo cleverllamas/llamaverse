@@ -7,5 +7,6 @@
   "hairColor": "Silver",
   "breed": "Hybrid",
   "placeOfBirth": "Lake Alexburgh, Tuvalu",
-  "description": "Tracy is a hazel-eyed llama with silver hair, standing 196 cm tall. Originally from Lake Alexburgh, Tuvalu, Tracy enjoys wood carving, painting, reading. Known for their calm and friendly personality, Tracy is a beloved member of the llama community."
+  "description": "Tracy is a hazel-eyed llama with silver hair, standing 196 cm tall. Originally from Lake Alexburgh, Tuvalu, Tracy enjoys wood carving, painting, reading. Known for their calm and friendly personality, Tracy is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_borealis"
 }

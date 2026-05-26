@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "b4b5e07c-e750-4e5b-a573-51eda5a6f2c0",
+        "name": "Knack",
+        "ageYears": 3,
+        "disposition": "eccentric",
+        "fluffiness": 3,
+        "quirk": "has formed strong opinions about architecture",
+        "speciesId": "4f869f58-53fa-5caa-bad0-1aa47b133741",
+        "speciesCommonName": "Leafy Sea Dragon",
+        "speciesScientificName": "Phycodurus eques",
+        "sizeClass": "small",
+        "ownerName": "Anthony",
+        "shelterId": "869456e1-451e-554f-96f2-4a54e832dd46",
+        "shelterName": "Bradley's Extreme Fauna Compound"
+      }
+    }
+  }
+}

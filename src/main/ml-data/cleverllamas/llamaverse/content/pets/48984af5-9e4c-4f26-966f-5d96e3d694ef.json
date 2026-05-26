@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "48984af5-9e4c-4f26-966f-5d96e3d694ef",
+        "name": "Kerfuffle",
+        "ageYears": 11,
+        "disposition": "sneaky",
+        "fluffiness": 2,
+        "quirk": "refuses to acknowledge Mondays",
+        "speciesId": "4385ccaa-0b0a-5332-b1a0-6e0af8d6f6b4",
+        "speciesCommonName": "Pangolin",
+        "speciesScientificName": "Manis pentadactyla",
+        "sizeClass": "medium",
+        "ownerName": "Clara",
+        "shelterId": "2770733d-7079-5abc-92e8-6a21c74559c1",
+        "shelterName": "Deep Blue Creature Sanctuary"
+      }
+    }
+  }
+}

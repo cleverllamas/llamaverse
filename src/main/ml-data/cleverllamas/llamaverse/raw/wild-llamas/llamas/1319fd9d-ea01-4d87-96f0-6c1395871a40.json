@@ -7,5 +7,6 @@
   "hairColor": "Black",
   "breed": "Hybrid",
   "placeOfBirth": "Port Tiffanybury, Jersey",
-  "description": "William is a brown-eyed llama with black hair, standing 175 cm tall. Originally from Port Tiffanybury, Jersey, William enjoys singing, hiking, wood carving. Known for their energetic and calm personality, William is a beloved member of the llama community."
+  "description": "William is a brown-eyed llama with black hair, standing 175 cm tall. Originally from Port Tiffanybury, Jersey, William enjoys singing, hiking, wood carving. Known for their energetic and calm personality, William is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_andinus"
 }

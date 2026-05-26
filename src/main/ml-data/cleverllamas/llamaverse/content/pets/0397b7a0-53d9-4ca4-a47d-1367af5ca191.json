@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "0397b7a0-53d9-4ca4-a47d-1367af5ca191",
+        "name": "Rumpus",
+        "ageYears": 2,
+        "disposition": "bombastic",
+        "fluffiness": 1,
+        "quirk": "knows one card trick and performs it at every possible opportunity",
+        "speciesId": "5b5b57d6-344d-5913-bf87-dac3a883d652",
+        "speciesCommonName": "Emperor Scorpion",
+        "speciesScientificName": "Pandinus imperator",
+        "sizeClass": "small",
+        "ownerName": "Ophelia",
+        "shelterId": "c8de3d2b-6e9a-5ed1-bda7-9a50f977ddb9",
+        "shelterName": "The Quiet Pool"
+      }
+    }
+  }
+}

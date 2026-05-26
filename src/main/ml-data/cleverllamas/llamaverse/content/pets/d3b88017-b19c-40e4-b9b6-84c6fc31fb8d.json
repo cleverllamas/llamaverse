@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "d3b88017-b19c-40e4-b9b6-84c6fc31fb8d",
+        "name": "Shimmer",
+        "ageYears": 10,
+        "disposition": "earnest",
+        "fluffiness": 2,
+        "quirk": "only communicates using interpretive movement between 9 and 10am",
+        "speciesId": "af3dcf5c-cb3c-5f9d-9028-c1ca22e3d06b",
+        "speciesCommonName": "Tuatara",
+        "speciesScientificName": "Sphenodon punctatus",
+        "sizeClass": "small",
+        "ownerName": "Angela",
+        "shelterId": "869456e1-451e-554f-96f2-4a54e832dd46",
+        "shelterName": "Bradley's Extreme Fauna Compound"
+      }
+    }
+  }
+}

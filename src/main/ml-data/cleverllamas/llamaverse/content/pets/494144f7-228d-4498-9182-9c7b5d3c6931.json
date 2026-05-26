@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "494144f7-228d-4498-9182-9c7b5d3c6931",
+        "name": "Flibbertigibbet",
+        "ageYears": 1,
+        "disposition": "stoic",
+        "fluffiness": 2,
+        "quirk": "has been composing the same symphony for eleven years",
+        "speciesId": "0d0586d7-02c8-59e4-bf65-dcb62dac406b",
+        "speciesCommonName": "Leaf Insect",
+        "speciesScientificName": "Phyllium giganteum",
+        "sizeClass": "tiny",
+        "ownerName": "Bradley",
+        "shelterId": "24d12d56-1e48-56e1-aa51-54df3c5f003c",
+        "shelterName": "The Stillness Institute"
+      }
+    }
+  }
+}

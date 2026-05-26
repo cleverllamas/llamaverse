@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "245b70fc-e6c4-43d6-864b-f452d6a739e6",
+        "name": "Grumble",
+        "ageYears": 0,
+        "disposition": "aloof",
+        "fluffiness": 2,
+        "quirk": "maintains a written log of everything it finds interesting, which is everything",
+        "speciesId": "da4571df-9cf3-530c-8e2f-9c15e57d3bcd",
+        "speciesCommonName": "Glow-worm",
+        "speciesScientificName": "Lampyris noctiluca",
+        "sizeClass": "tiny",
+        "ownerName": "Ophelia",
+        "shelterId": "1d1ceadd-64ed-52d5-a416-b278d95c83d1",
+        "shelterName": "The Cosy Burrow Rescue and Rehoming"
+      }
+    }
+  }
+}

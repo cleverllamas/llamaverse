@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Vampire Squid",
+        "sizeClass": "small",
+        "fluffiness": 1,
+        "typicalDisposition": "gothic",
+        "typicalLifespanYears": 8,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Mollusca",
+          "class": "Cephalopoda",
+          "order": "Vampyromorphida",
+          "family": "Vampyroteuthidae",
+          "genus": "Vampyroteuthis",
+          "species": "Vampyroteuthis infernalis"
+        },
+        "description": "Its scientific name translates to 'vampire squid from hell'. It is neither squid nor octopus. Llamas who keep them tend to have strong aesthetic opinions.",
+        "id": "8867c7bb-9643-55dc-b087-78a3f587f238"
+      }
+    }
+  }
+}

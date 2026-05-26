@@ -1,0 +1,38 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "jobs"
+    },
+    "instance": {
+      "jobs": {
+        "id": "j6000006-ffff-4001-2222-333344445555",
+        "title": "Hay Quality Analytics Engineer",
+        "company": "HayStack Corporation",
+        "companyId": "20002222-3333-4444-5555-666677778888",
+        "location": "Northern Highlands Agripark (on-site)",
+        "postedDate": "2025-05-20",
+        "closingDate": "2025-07-15",
+        "salaryHayBalesMin": 28000,
+        "salaryHayBalesMax": 35000,
+        "employmentType": "Permanent",
+        "seniorityLevel": "Mid-Level",
+        "description": "HayStack Corporation is hiring a Hay Quality Analytics Engineer to develop real-time scoring models over our 200-million-reading-per-day sensor telemetry platform. You will write range index\u2013backed queries in MarkLogic to detect moisture anomalies, nutrient deficiencies, and pest indicators in real time. You will also design element range indexes for new sensor data types being rolled out in Q3.",
+        "requirements": [
+          "Experience with MarkLogic range indexes",
+          "Ability to design element range index configurations",
+          "XQuery proficiency",
+          "Agricultural science background preferred but not required",
+          "Comfortable with large-scale numeric data"
+        ],
+        "postedByName": "Fernanda",
+        "tags": [
+          "analytics",
+          "range index",
+          "MarkLogic",
+          "IoT",
+          "HayStack"
+        ]
+      }
+    }
+  }
+}

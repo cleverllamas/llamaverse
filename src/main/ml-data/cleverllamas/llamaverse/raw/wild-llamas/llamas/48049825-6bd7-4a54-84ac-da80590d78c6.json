@@ -7,5 +7,6 @@
   "hairColor": "Black",
   "breed": "Suri",
   "placeOfBirth": "New Tonyabury, Equatorial Guinea",
-  "description": "Thomas is a brown-eyed llama with black hair, standing 118 cm tall. Originally from New Tonyabury, Equatorial Guinea, Thomas enjoys singing, gardening, wood carving. Known for their curious and friendly personality, Thomas is a beloved member of the llama community."
+  "description": "Thomas is a brown-eyed llama with black hair, standing 118 cm tall. Originally from New Tonyabury, Equatorial Guinea, Thomas enjoys singing, gardening, wood carving. Known for their curious and friendly personality, Thomas is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_deserticola"
 }

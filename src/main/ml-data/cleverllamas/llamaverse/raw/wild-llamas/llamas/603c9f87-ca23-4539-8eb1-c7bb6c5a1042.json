@@ -7,5 +7,6 @@
   "hairColor": "Brown",
   "breed": "Suri",
   "placeOfBirth": "West Emma, Slovenia",
-  "description": "Alexis is a green-eyed llama with brown hair, standing 174 cm tall. Originally from West Emma, Slovenia, Alexis enjoys knitting, dancing, singing. Known for their gentle and shy personality, Alexis is a beloved member of the llama community."
+  "description": "Alexis is a green-eyed llama with brown hair, standing 174 cm tall. Originally from West Emma, Slovenia, Alexis enjoys knitting, dancing, singing. Known for their gentle and shy personality, Alexis is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriensis"
 }

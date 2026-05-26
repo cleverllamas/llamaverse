@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "19422af7-f392-4d50-97ed-bf200c86b7e5",
+        "name": "Kerfuffle Jr",
+        "ageYears": 7,
+        "disposition": "stoic",
+        "fluffiness": 2,
+        "quirk": "has formed strong opinions about architecture",
+        "speciesId": "ac69524c-7513-5955-bdf2-126d2e06c74b",
+        "speciesCommonName": "White Rhinoceros",
+        "speciesScientificName": "Ceratotherium simum",
+        "sizeClass": "gigantic",
+        "ownerName": "Elena",
+        "shelterId": "a80124a7-0a88-582c-9362-e5c7aecd90d2",
+        "shelterName": "The Peculiar Menagerie of Llamaville East"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "3c139415-c0cc-4cb6-939f-f8704cc485d3",
+        "name": "Crinkleworth",
+        "ageYears": 44,
+        "disposition": "serene",
+        "fluffiness": 1,
+        "quirk": "has memorised all 88 Beethoven piano sonatas",
+        "speciesId": "8bd7dc50-f0d6-5b61-b314-d81e140a3847",
+        "speciesCommonName": "Chinese Giant Salamander",
+        "speciesScientificName": "Andrias davidianus",
+        "sizeClass": "large",
+        "ownerName": "Alice",
+        "shelterId": "1d1ceadd-64ed-52d5-a416-b278d95c83d1",
+        "shelterName": "The Cosy Burrow Rescue and Rehoming"
+      }
+    }
+  }
+}

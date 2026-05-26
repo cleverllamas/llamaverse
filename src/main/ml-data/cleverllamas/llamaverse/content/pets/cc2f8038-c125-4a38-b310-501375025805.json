@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "cc2f8038-c125-4a38-b310-501375025805",
+        "name": "Glimmer",
+        "ageYears": 0,
+        "disposition": "regal",
+        "fluffiness": 1,
+        "quirk": "refuses to make eye contact but sends heartfelt letters",
+        "speciesId": "0d0586d7-02c8-59e4-bf65-dcb62dac406b",
+        "speciesCommonName": "Leaf Insect",
+        "speciesScientificName": "Phyllium giganteum",
+        "sizeClass": "tiny",
+        "ownerName": "Percy",
+        "shelterId": "8d977212-e5ba-55f4-be32-882c53197b49",
+        "shelterName": "The Wool and Scales Rehabilitation Centre"
+      }
+    }
+  }
+}

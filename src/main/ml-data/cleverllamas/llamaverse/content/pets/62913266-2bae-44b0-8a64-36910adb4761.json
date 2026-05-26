@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "62913266-2bae-44b0-8a64-36910adb4761",
+        "name": "Crinkleworth",
+        "ageYears": 35,
+        "disposition": "philosophical",
+        "fluffiness": 1,
+        "quirk": "is training for a marathon at a very leisurely pace",
+        "speciesId": "16b1975b-35a4-56f7-9e1e-1a6b54f998fe",
+        "speciesCommonName": "African Elephant",
+        "speciesScientificName": "Loxodonta africana",
+        "sizeClass": "gigantic",
+        "ownerName": "Freddie",
+        "shelterId": "2770733d-7079-5abc-92e8-6a21c74559c1",
+        "shelterName": "Deep Blue Creature Sanctuary"
+      }
+    }
+  }
+}

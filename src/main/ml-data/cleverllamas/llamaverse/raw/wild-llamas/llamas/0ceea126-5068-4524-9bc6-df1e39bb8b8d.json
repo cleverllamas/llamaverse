@@ -7,5 +7,6 @@
   "hairColor": "Black",
   "breed": "Suri",
   "placeOfBirth": "Lake Spencerton, Kazakhstan",
-  "description": "Kristin is a green-eyed llama with black hair, standing 100 cm tall. Originally from Lake Spencerton, Kazakhstan, Kristin enjoys hiking, wood carving, dancing. Known for their energetic and friendly personality, Kristin is a beloved member of the llama community."
+  "description": "Kristin is a green-eyed llama with black hair, standing 100 cm tall. Originally from Lake Spencerton, Kazakhstan, Kristin enjoys hiking, wood carving, dancing. Known for their energetic and friendly personality, Kristin is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_borealis"
 }

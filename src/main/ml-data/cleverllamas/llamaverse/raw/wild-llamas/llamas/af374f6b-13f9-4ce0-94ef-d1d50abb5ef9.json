@@ -7,5 +7,6 @@
   "hairColor": "Brown",
   "breed": "Hybrid",
   "placeOfBirth": "Brianhaven, Palau",
-  "description": "Ian is a green-eyed llama with brown hair, standing 119 cm tall. Originally from Brianhaven, Palau, Ian enjoys reading, wood carving, cooking. Known for their energetic and gentle personality, Ian is a beloved member of the llama community."
+  "description": "Ian is a green-eyed llama with brown hair, standing 119 cm tall. Originally from Brianhaven, Palau, Ian enjoys reading, wood carving, cooking. Known for their energetic and gentle personality, Ian is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriborealis"
 }

@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "85d52675-0fbe-4a98-aa4c-d46e47e19e52",
+        "name": "Swoopington",
+        "ageYears": 2,
+        "disposition": "stoic",
+        "fluffiness": 1,
+        "quirk": "sleeps only in prime-numbered minutes",
+        "speciesId": "009bdfed-da73-562e-8331-6af5a48a2bb9",
+        "speciesCommonName": "Pygmy Elephant",
+        "speciesScientificName": "Elephas maximus borneensis",
+        "sizeClass": "large",
+        "ownerName": "Fernanda",
+        "shelterId": "1d1ceadd-64ed-52d5-a416-b278d95c83d1",
+        "shelterName": "The Cosy Burrow Rescue and Rehoming"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "c008e1ef-f8fd-4f04-b4b7-a36e60550a7f",
+        "name": "Burble",
+        "ageYears": 18,
+        "disposition": "dignified",
+        "fluffiness": 1,
+        "quirk": "organises its food alphabetically before eating",
+        "speciesId": "eef78078-a2a5-5e4d-952e-221fc060a90d",
+        "speciesCommonName": "Beluga Whale",
+        "speciesScientificName": "Delphinapterus leucas",
+        "sizeClass": "large",
+        "ownerName": "Ashley",
+        "shelterId": "fea3da74-6337-5053-bffe-89e75d14ef03",
+        "shelterName": "The Wandering Fleece Animal Sanctuary"
+      }
+    }
+  }
+}

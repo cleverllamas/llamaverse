@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "9e42d865-d6ad-49f9-abd3-97962e956956",
+        "name": "Freckles",
+        "ageYears": 1,
+        "disposition": "serene",
+        "fluffiness": 1,
+        "quirk": "only communicates using interpretive movement between 9 and 10am",
+        "speciesId": "a370af67-78f3-5985-9ff5-12f2ca1e001d",
+        "speciesCommonName": "Pygmy Seahorse",
+        "speciesScientificName": "Hippocampus bargibanti",
+        "sizeClass": "microscopic",
+        "ownerName": "Isolde",
+        "shelterId": "24d12d56-1e48-56e1-aa51-54df3c5f003c",
+        "shelterName": "The Stillness Institute"
+      }
+    }
+  }
+}

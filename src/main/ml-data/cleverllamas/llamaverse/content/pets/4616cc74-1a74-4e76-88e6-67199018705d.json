@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "4616cc74-1a74-4e76-88e6-67199018705d",
+        "name": "Shuffle",
+        "ageYears": 1,
+        "disposition": "aloof",
+        "fluffiness": 2,
+        "quirk": "has memorised the bus timetable for a city it has never visited",
+        "speciesId": "9998af61-5369-5a12-bf9b-f90997e4bbc3",
+        "speciesCommonName": "African Pygmy Hedgehog",
+        "speciesScientificName": "Atelerix albiventris",
+        "sizeClass": "tiny",
+        "ownerName": "Alice",
+        "shelterId": "6d613241-5ad3-5197-8b01-500e8b607567",
+        "shelterName": "Fernanda's Home for Misunderstood Creatures"
+      }
+    }
+  }
+}

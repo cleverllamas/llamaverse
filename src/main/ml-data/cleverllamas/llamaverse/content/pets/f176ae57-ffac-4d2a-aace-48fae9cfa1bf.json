@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "f176ae57-ffac-4d2a-aace-48fae9cfa1bf",
+        "name": "Gloop",
+        "ageYears": 15,
+        "disposition": "serene",
+        "fluffiness": 4,
+        "quirk": "stages elaborate fake emergencies to see who responds fastest",
+        "speciesId": "4c4cb07f-a441-57c5-ac05-d70405a98f4c",
+        "speciesCommonName": "Cassowary",
+        "speciesScientificName": "Casuarius casuarius",
+        "sizeClass": "large",
+        "ownerName": "Fernanda",
+        "shelterId": "a80124a7-0a88-582c-9362-e5c7aecd90d2",
+        "shelterName": "The Peculiar Menagerie of Llamaville East"
+      }
+    }
+  }
+}

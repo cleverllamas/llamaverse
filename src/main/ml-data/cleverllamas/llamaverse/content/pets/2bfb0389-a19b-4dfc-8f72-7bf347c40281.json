@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "2bfb0389-a19b-4dfc-8f72-7bf347c40281",
+        "name": "Piggledy",
+        "ageYears": 2,
+        "disposition": "cheerful",
+        "fluffiness": 1,
+        "quirk": "refuses to make eye contact but sends heartfelt letters",
+        "speciesId": "51224b0c-de04-59b5-bf77-14b5264c4c42",
+        "speciesCommonName": "Sperm Whale",
+        "speciesScientificName": "Physeter macrocephalus",
+        "sizeClass": "gigantic",
+        "ownerName": "Kestrel",
+        "shelterId": "2b312a04-c215-5098-9433-f5aab988726c",
+        "shelterName": "Apex Companions Forever"
+      }
+    }
+  }
+}

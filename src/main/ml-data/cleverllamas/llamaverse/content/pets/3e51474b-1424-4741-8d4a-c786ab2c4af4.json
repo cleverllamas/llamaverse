@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "3e51474b-1424-4741-8d4a-c786ab2c4af4",
+        "name": "Twizzle",
+        "ageYears": 16,
+        "disposition": "stoic",
+        "fluffiness": 1,
+        "quirk": "believes it is being followed, correctly",
+        "speciesId": "d8813430-4b4c-5a92-9d22-d3a5b4110d11",
+        "speciesCommonName": "Horseshoe Crab",
+        "speciesScientificName": "Limulus polyphemus",
+        "sizeClass": "medium",
+        "ownerName": "Alice",
+        "shelterId": "4e1e0f71-7c69-5073-ab12-27cfd4257912",
+        "shelterName": "The Old Pond Sanctuary"
+      }
+    }
+  }
+}

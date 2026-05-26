@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "210c2445-6742-4fa9-b847-8f31b34aa809",
+        "name": "Sprocket",
+        "ageYears": 17,
+        "disposition": "eccentric",
+        "fluffiness": 1,
+        "quirk": "is training for a marathon at a very leisurely pace",
+        "speciesId": "d199e379-f3cc-52af-8af8-0b61d7653216",
+        "speciesCommonName": "Pygmy Hippopotamus",
+        "speciesScientificName": "Choeropsis liberiensis",
+        "sizeClass": "medium",
+        "ownerName": "Aaron",
+        "shelterId": "e9a0f6a9-5a3f-51a3-ae37-19773f4ac55f",
+        "shelterName": "The Archipelago Orphanage"
+      }
+    }
+  }
+}

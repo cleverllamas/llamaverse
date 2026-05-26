@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "274c4dc6-2e4e-45ad-a33b-1b16a4243d8c",
+        "name": "Swoopington",
+        "ageYears": 13,
+        "disposition": "sneaky",
+        "fluffiness": 2,
+        "quirk": "insists on a bedtime story every night",
+        "speciesId": "6b8519c0-d1ab-5198-9236-58904d054b84",
+        "speciesCommonName": "Tapir",
+        "speciesScientificName": "Tapirus terrestris",
+        "sizeClass": "large",
+        "ownerName": "Angela",
+        "shelterId": "fea3da74-6337-5053-bffe-89e75d14ef03",
+        "shelterName": "The Wandering Fleece Animal Sanctuary"
+      }
+    }
+  }
+}

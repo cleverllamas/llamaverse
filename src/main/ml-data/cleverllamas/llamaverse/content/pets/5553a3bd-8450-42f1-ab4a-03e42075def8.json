@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "5553a3bd-8450-42f1-ab4a-03e42075def8",
+        "name": "Fizzle",
+        "ageYears": 33,
+        "disposition": "cheerful",
+        "fluffiness": 1,
+        "quirk": "is training for a marathon at a very leisurely pace",
+        "speciesId": "a2ed5be3-68fd-57c7-bb40-cae87ba09f37",
+        "speciesCommonName": "Narwhal",
+        "speciesScientificName": "Monodon monoceros",
+        "sizeClass": "gigantic",
+        "ownerName": "Isolde",
+        "shelterId": "869456e1-451e-554f-96f2-4a54e832dd46",
+        "shelterName": "Bradley's Extreme Fauna Compound"
+      }
+    }
+  }
+}

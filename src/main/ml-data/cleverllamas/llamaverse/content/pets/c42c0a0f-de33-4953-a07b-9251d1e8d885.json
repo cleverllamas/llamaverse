@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "c42c0a0f-de33-4953-a07b-9251d1e8d885",
+        "name": "Quibbleston",
+        "ageYears": 17,
+        "disposition": "erratic",
+        "fluffiness": 1,
+        "quirk": "naps in increasingly creative locations",
+        "speciesId": "7acd6049-592a-5864-a177-72f1152e140a",
+        "speciesCommonName": "Freshwater Hydra",
+        "speciesScientificName": "Hydra vulgaris",
+        "sizeClass": "microscopic",
+        "ownerName": "Freddie",
+        "shelterId": "1d1ceadd-64ed-52d5-a416-b278d95c83d1",
+        "shelterName": "The Cosy Burrow Rescue and Rehoming"
+      }
+    }
+  }
+}

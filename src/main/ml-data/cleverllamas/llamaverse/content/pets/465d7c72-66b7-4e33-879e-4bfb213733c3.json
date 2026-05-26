@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "465d7c72-66b7-4e33-879e-4bfb213733c3",
+        "name": "Nudge",
+        "ageYears": 2,
+        "disposition": "stoic",
+        "fluffiness": 2,
+        "quirk": "has been learning to juggle for three years with no progress",
+        "speciesId": "ae2e8ce1-dd67-555a-93b2-1d567d30adb4",
+        "speciesCommonName": "Tardigrade \u2014 Water Bear (Arctic)",
+        "speciesScientificName": "Milnesium tardigradum",
+        "sizeClass": "microscopic",
+        "ownerName": "Monique",
+        "shelterId": "24d12d56-1e48-56e1-aa51-54df3c5f003c",
+        "shelterName": "The Stillness Institute"
+      }
+    }
+  }
+}

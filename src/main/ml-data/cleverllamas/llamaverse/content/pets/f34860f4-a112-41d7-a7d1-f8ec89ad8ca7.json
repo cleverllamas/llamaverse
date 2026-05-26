@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "f34860f4-a112-41d7-a7d1-f8ec89ad8ca7",
+        "name": "Bafflement",
+        "ageYears": 5,
+        "disposition": "sneaky",
+        "fluffiness": 1,
+        "quirk": "insists on a bedtime story every night",
+        "speciesId": "6565f20e-3b20-5609-906d-eb3327ea541c",
+        "speciesCommonName": "Giant Millipede",
+        "speciesScientificName": "Archispirostreptus gigas",
+        "sizeClass": "small",
+        "ownerName": "Lorenzo",
+        "shelterId": "1d1ceadd-64ed-52d5-a416-b278d95c83d1",
+        "shelterName": "The Cosy Burrow Rescue and Rehoming"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "b67f02bd-8390-40e4-bac1-8187f5f423ca",
+        "name": "Shimmer",
+        "ageYears": 2,
+        "disposition": "regal",
+        "fluffiness": 1,
+        "quirk": "refuses to make eye contact but sends heartfelt letters",
+        "speciesId": "b101d7c8-5027-59ec-9ce4-4f84b8d08328",
+        "speciesCommonName": "Clownfish",
+        "speciesScientificName": "Amphiprion ocellaris",
+        "sizeClass": "tiny",
+        "ownerName": "Horatio",
+        "shelterId": "e9a0f6a9-5a3f-51a3-ae37-19773f4ac55f",
+        "shelterName": "The Archipelago Orphanage"
+      }
+    }
+  }
+}

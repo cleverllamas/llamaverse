@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Pygmy Elephant",
+        "sizeClass": "large",
+        "fluffiness": 1,
+        "typicalDisposition": "gentle",
+        "typicalLifespanYears": 50,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Mammalia",
+          "order": "Proboscidea",
+          "family": "Elephantidae",
+          "genus": "Elephas",
+          "species": "Elephas maximus borneensis"
+        },
+        "description": "A dwarf subspecies of Asian elephant. Rounder face, longer tail, calmer disposition. Llamas consider it the approachable version of a great animal.",
+        "id": "009bdfed-da73-562e-8331-6af5a48a2bb9"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "36c51765-a4a5-4970-a276-1cf339881fd7",
+        "name": "Gurgle",
+        "ageYears": 1,
+        "disposition": "erratic",
+        "fluffiness": 9,
+        "quirk": "believes it is being followed, correctly",
+        "speciesId": "f4a2908b-b359-5a03-8800-adf104dc483d",
+        "speciesCommonName": "Chinchilla",
+        "speciesScientificName": "Chinchilla lanigera",
+        "sizeClass": "small",
+        "ownerName": "Kestrel",
+        "shelterId": "c8de3d2b-6e9a-5ed1-bda7-9a50f977ddb9",
+        "shelterName": "The Quiet Pool"
+      }
+    }
+  }
+}

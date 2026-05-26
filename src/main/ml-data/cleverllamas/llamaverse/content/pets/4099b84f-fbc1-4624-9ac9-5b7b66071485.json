@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "4099b84f-fbc1-4624-9ac9-5b7b66071485",
+        "name": "Crumple",
+        "ageYears": 10,
+        "disposition": "hyperactive",
+        "fluffiness": 6,
+        "quirk": "has formed strong opinions about architecture",
+        "speciesId": "06dc65d2-4a3f-5273-9b99-1eaffac0131a",
+        "speciesCommonName": "Wolverine",
+        "speciesScientificName": "Gulo gulo",
+        "sizeClass": "medium",
+        "ownerName": "Reginald",
+        "shelterId": "8d977212-e5ba-55f4-be32-882c53197b49",
+        "shelterName": "The Wool and Scales Rehabilitation Centre"
+      }
+    }
+  }
+}

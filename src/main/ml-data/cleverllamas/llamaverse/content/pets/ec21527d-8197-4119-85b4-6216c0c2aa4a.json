@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "ec21527d-8197-4119-85b4-6216c0c2aa4a",
+        "name": "Pudding",
+        "ageYears": 1,
+        "disposition": "regal",
+        "fluffiness": 1,
+        "quirk": "maintains a written log of everything it finds interesting, which is everything",
+        "speciesId": "35e2d451-c968-5861-9de3-d10f8d8e6ff1",
+        "speciesCommonName": "Praying Mantis",
+        "speciesScientificName": "Mantis religiosa",
+        "sizeClass": "small",
+        "ownerName": "Fernanda",
+        "shelterId": "2770733d-7079-5abc-92e8-6a21c74559c1",
+        "shelterName": "Deep Blue Creature Sanctuary"
+      }
+    }
+  }
+}

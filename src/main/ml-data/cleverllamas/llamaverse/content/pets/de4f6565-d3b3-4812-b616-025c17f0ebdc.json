@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "de4f6565-d3b3-4812-b616-025c17f0ebdc",
+        "name": "Kerfuffle Jr",
+        "ageYears": 0,
+        "disposition": "grumpy",
+        "fluffiness": 3,
+        "quirk": "is training for a marathon at a very leisurely pace",
+        "speciesId": "9557eccc-7ecb-5ab8-ae03-b9e328e55a11",
+        "speciesCommonName": "Star-nosed Mole",
+        "speciesScientificName": "Condylura cristata",
+        "sizeClass": "tiny",
+        "ownerName": "Angela",
+        "shelterId": "a80124a7-0a88-582c-9362-e5c7aecd90d2",
+        "shelterName": "The Peculiar Menagerie of Llamaville East"
+      }
+    }
+  }
+}

@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Hybrid",
   "placeOfBirth": "Christianfort, Cyprus",
-  "description": "Andrea is a hazel-eyed llama with red hair, standing 173 cm tall. Originally from Christianfort, Cyprus, Andrea enjoys dancing, hiking, knitting. Known for their gentle and friendly personality, Andrea is a beloved member of the llama community."
+  "description": "Andrea is a hazel-eyed llama with red hair, standing 173 cm tall. Originally from Christianfort, Cyprus, Andrea enjoys dancing, hiking, knitting. Known for their gentle and friendly personality, Andrea is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_vellicosta"
 }

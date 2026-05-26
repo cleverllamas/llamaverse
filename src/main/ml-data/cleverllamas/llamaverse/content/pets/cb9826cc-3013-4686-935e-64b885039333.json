@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "cb9826cc-3013-4686-935e-64b885039333",
+        "name": "Dingleberry",
+        "ageYears": 9,
+        "disposition": "earnest",
+        "fluffiness": 3,
+        "quirk": "has memorised the bus timetable for a city it has never visited",
+        "speciesId": "bda1985c-57f7-5c9f-b344-5c7fe15f25b5",
+        "speciesCommonName": "Giraffe",
+        "speciesScientificName": "Giraffa camelopardalis",
+        "sizeClass": "gigantic",
+        "ownerName": "Jasper",
+        "shelterId": "c8de3d2b-6e9a-5ed1-bda7-9a50f977ddb9",
+        "shelterName": "The Quiet Pool"
+      }
+    }
+  }
+}

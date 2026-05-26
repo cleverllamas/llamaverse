@@ -1,0 +1,10 @@
+{
+  "uri": "http://cleverllamas.com/llamaverse/species/Lama_glama_suriensis",
+  "type": "Species",
+  "label": "Lama glama suriensis",
+  "description": "Highland suri llamas with exceptionally long silky locks that catch the Andean light dramatically.",
+  "parentUri": "http://cleverllamas.com/llamaverse/genus/Lama",
+  "phylumKey": "Suri",
+  "classKey": "Alpinus",
+  "speciesKey": "Lama_glama_suriensis"
+}

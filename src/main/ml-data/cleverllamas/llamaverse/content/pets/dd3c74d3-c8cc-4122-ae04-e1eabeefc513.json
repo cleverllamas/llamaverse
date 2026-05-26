@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "dd3c74d3-c8cc-4122-ae04-e1eabeefc513",
+        "name": "Wobblesworth",
+        "ageYears": 0,
+        "disposition": "cheerful",
+        "fluffiness": 1,
+        "quirk": "judges every piece of music against a private internal standard it has never revealed",
+        "speciesId": "ae2e8ce1-dd67-555a-93b2-1d567d30adb4",
+        "speciesCommonName": "Tardigrade \u2014 Water Bear (Arctic)",
+        "speciesScientificName": "Milnesium tardigradum",
+        "sizeClass": "microscopic",
+        "ownerName": "Angela",
+        "shelterId": "1d1ceadd-64ed-52d5-a416-b278d95c83d1",
+        "shelterName": "The Cosy Burrow Rescue and Rehoming"
+      }
+    }
+  }
+}

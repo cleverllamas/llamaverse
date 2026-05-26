@@ -7,5 +7,6 @@
   "hairColor": "Black",
   "breed": "Suri",
   "placeOfBirth": "Barbaraton, Georgia",
-  "description": "Michael is a blue-eyed llama with black hair, standing 187 cm tall. Originally from Barbaraton, Georgia, Michael enjoys painting, reading, wood carving. Known for their curious and gentle personality, Michael is a beloved member of the llama community."
+  "description": "Michael is a blue-eyed llama with black hair, standing 187 cm tall. Originally from Barbaraton, Georgia, Michael enjoys painting, reading, wood carving. Known for their curious and gentle personality, Michael is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_andinus"
 }

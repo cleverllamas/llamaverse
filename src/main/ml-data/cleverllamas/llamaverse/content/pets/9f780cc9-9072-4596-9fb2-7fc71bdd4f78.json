@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "9f780cc9-9072-4596-9fb2-7fc71bdd4f78",
+        "name": "Pebble",
+        "ageYears": 0,
+        "disposition": "earnest",
+        "fluffiness": 2,
+        "quirk": "naps in increasingly creative locations",
+        "speciesId": "f2e330c3-bc54-5fb9-a438-747f1bf83e84",
+        "speciesCommonName": "Armadillo Lizard",
+        "speciesScientificName": "Ouroborus cataphractus",
+        "sizeClass": "tiny",
+        "ownerName": "Isolde",
+        "shelterId": "8d977212-e5ba-55f4-be32-882c53197b49",
+        "shelterName": "The Wool and Scales Rehabilitation Centre"
+      }
+    }
+  }
+}

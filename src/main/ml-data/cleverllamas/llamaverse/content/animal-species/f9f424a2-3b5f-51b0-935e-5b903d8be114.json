@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Snow Leopard",
+        "sizeClass": "large",
+        "fluffiness": 9,
+        "typicalDisposition": "secretive",
+        "typicalLifespanYears": 21,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Mammalia",
+          "order": "Carnivora",
+          "family": "Felidae",
+          "genus": "Panthera",
+          "species": "Panthera uncia"
+        },
+        "description": "Wraps its enormous fluffy tail around itself for warmth in mountain winters. Never roars; only purrs. Llamas in the high Andes sometimes share territory with them.",
+        "id": "f9f424a2-3b5f-51b0-935e-5b903d8be114"
+      }
+    }
+  }
+}

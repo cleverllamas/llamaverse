@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "407dfa5f-6e6e-48ae-96e1-0f0654a81504",
+        "name": "Splodge",
+        "ageYears": 1,
+        "disposition": "timid",
+        "fluffiness": 7,
+        "quirk": "has memorised all 88 Beethoven piano sonatas",
+        "speciesId": "2ef097b8-1657-5dd9-8208-6894c49f32ab",
+        "speciesCommonName": "Platypus",
+        "speciesScientificName": "Ornithorhynchus anatinus",
+        "sizeClass": "small",
+        "ownerName": "Beatrice",
+        "shelterId": "6d613241-5ad3-5197-8b01-500e8b607567",
+        "shelterName": "Fernanda's Home for Misunderstood Creatures"
+      }
+    }
+  }
+}

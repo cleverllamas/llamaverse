@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "ce524b59-8531-48a7-af75-eab34e869409",
+        "name": "Rumpus",
+        "ageYears": 25,
+        "disposition": "erratic",
+        "fluffiness": 2,
+        "quirk": "refuses to make eye contact but sends heartfelt letters",
+        "speciesId": "cc882f01-70bc-59f2-9224-e7c81406e187",
+        "speciesCommonName": "Coelacanth",
+        "speciesScientificName": "Latimeria chalumnae",
+        "sizeClass": "large",
+        "ownerName": "Boris",
+        "shelterId": "4e1e0f71-7c69-5073-ab12-27cfd4257912",
+        "shelterName": "The Old Pond Sanctuary"
+      }
+    }
+  }
+}

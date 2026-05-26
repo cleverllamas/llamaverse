@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "5ef42476-b41e-4b3a-91a9-2f7d58cc61fe",
+        "name": "Burble",
+        "ageYears": 10,
+        "disposition": "sneaky",
+        "fluffiness": 4,
+        "quirk": "stages elaborate fake emergencies to see who responds fastest",
+        "speciesId": "208c6fe2-20b6-5575-94a3-a77cf28d333e",
+        "speciesCommonName": "Tarsier",
+        "speciesScientificName": "Cephalopachus bancanus",
+        "sizeClass": "tiny",
+        "ownerName": "Kestrel",
+        "shelterId": "c8de3d2b-6e9a-5ed1-bda7-9a50f977ddb9",
+        "shelterName": "The Quiet Pool"
+      }
+    }
+  }
+}

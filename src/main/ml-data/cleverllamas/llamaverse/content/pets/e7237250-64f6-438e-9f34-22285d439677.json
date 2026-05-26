@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "e7237250-64f6-438e-9f34-22285d439677",
+        "name": "Brouhaha",
+        "ageYears": 5,
+        "disposition": "cheerful",
+        "fluffiness": 7,
+        "quirk": "naps in increasingly creative locations",
+        "speciesId": "bc4c453d-1bf5-5319-8eb8-2ff5b197d557",
+        "speciesCommonName": "Pygmy Slow Loris",
+        "speciesScientificName": "Xanthonycticebus pygmaeus",
+        "sizeClass": "tiny",
+        "ownerName": "Percy",
+        "shelterId": "6d613241-5ad3-5197-8b01-500e8b607567",
+        "shelterName": "Fernanda's Home for Misunderstood Creatures"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "0a1c2d3a-44c4-4212-bf8d-3e962fbd91b1",
+        "name": "Squiggles",
+        "ageYears": 2,
+        "disposition": "stoic",
+        "fluffiness": 1,
+        "quirk": "has memorised the bus timetable for a city it has never visited",
+        "speciesId": "f2e330c3-bc54-5fb9-a438-747f1bf83e84",
+        "speciesCommonName": "Armadillo Lizard",
+        "speciesScientificName": "Ouroborus cataphractus",
+        "sizeClass": "tiny",
+        "ownerName": "Isolde",
+        "shelterId": "fea3da74-6337-5053-bffe-89e75d14ef03",
+        "shelterName": "The Wandering Fleece Animal Sanctuary"
+      }
+    }
+  }
+}

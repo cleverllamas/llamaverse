@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "90d5ae06-95de-4e71-ba05-88f59e7ae302",
+        "name": "Hullabaloo",
+        "ageYears": 2,
+        "disposition": "stoic",
+        "fluffiness": 1,
+        "quirk": "is training for a marathon at a very leisurely pace",
+        "speciesId": "7e276fc0-aa53-556b-8f1d-c2bd13e28c66",
+        "speciesCommonName": "Pistol Shrimp",
+        "speciesScientificName": "Alpheus heterochaelis",
+        "sizeClass": "tiny",
+        "ownerName": "Derek",
+        "shelterId": "869456e1-451e-554f-96f2-4a54e832dd46",
+        "shelterName": "Bradley's Extreme Fauna Compound"
+      }
+    }
+  }
+}

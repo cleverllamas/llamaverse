@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "1256266c-f0c2-4786-8a25-9b59f986427e",
+        "name": "Munchkin",
+        "ageYears": 0,
+        "disposition": "serene",
+        "fluffiness": 3,
+        "quirk": "organises its food alphabetically before eating",
+        "speciesId": "87e455dd-f1ed-5609-8b15-d694c7837106",
+        "speciesCommonName": "Dumbo Octopus",
+        "speciesScientificName": "Grimpoteuthis boylei",
+        "sizeClass": "small",
+        "ownerName": "Freddie",
+        "shelterId": "c8de3d2b-6e9a-5ed1-bda7-9a50f977ddb9",
+        "shelterName": "The Quiet Pool"
+      }
+    }
+  }
+}

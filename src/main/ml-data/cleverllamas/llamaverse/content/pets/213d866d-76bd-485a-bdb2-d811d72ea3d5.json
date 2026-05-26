@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "213d866d-76bd-485a-bdb2-d811d72ea3d5",
+        "name": "Clatter",
+        "ageYears": 29,
+        "disposition": "mischievous",
+        "fluffiness": 8,
+        "quirk": "organises its food alphabetically before eating",
+        "speciesId": "080a7a98-42c2-5b89-a2bb-13861f22dd58",
+        "speciesCommonName": "Kakapo",
+        "speciesScientificName": "Strigops habroptilus",
+        "sizeClass": "medium",
+        "ownerName": "Gwen",
+        "shelterId": "fea3da74-6337-5053-bffe-89e75d14ef03",
+        "shelterName": "The Wandering Fleece Animal Sanctuary"
+      }
+    }
+  }
+}

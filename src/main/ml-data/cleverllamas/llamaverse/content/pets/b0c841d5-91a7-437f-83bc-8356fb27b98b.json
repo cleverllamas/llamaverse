@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "b0c841d5-91a7-437f-83bc-8356fb27b98b",
+        "name": "Kerfuffle Jr",
+        "ageYears": 2,
+        "disposition": "mischievous",
+        "fluffiness": 6,
+        "quirk": "sleeps only in prime-numbered minutes",
+        "speciesId": "8fa76313-6503-54ba-880e-990c276858b3",
+        "speciesCommonName": "Clouded Leopard",
+        "speciesScientificName": "Neofelis nebulosa",
+        "sizeClass": "medium",
+        "ownerName": "Lorenzo",
+        "shelterId": "a80124a7-0a88-582c-9362-e5c7aecd90d2",
+        "shelterName": "The Peculiar Menagerie of Llamaville East"
+      }
+    }
+  }
+}

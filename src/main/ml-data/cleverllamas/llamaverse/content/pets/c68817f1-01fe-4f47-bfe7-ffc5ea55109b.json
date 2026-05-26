@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "c68817f1-01fe-4f47-bfe7-ffc5ea55109b",
+        "name": "Turvy",
+        "ageYears": 11,
+        "disposition": "serene",
+        "fluffiness": 1,
+        "quirk": "judges every piece of music against a private internal standard it has never revealed",
+        "speciesId": "9685c463-34e2-53b7-b6c9-1be449c42eb0",
+        "speciesCommonName": "Hellbender Salamander",
+        "speciesScientificName": "Cryptobranchus alleganiensis",
+        "sizeClass": "medium",
+        "ownerName": "Horatio",
+        "shelterId": "1d1ceadd-64ed-52d5-a416-b278d95c83d1",
+        "shelterName": "The Cosy Burrow Rescue and Rehoming"
+      }
+    }
+  }
+}

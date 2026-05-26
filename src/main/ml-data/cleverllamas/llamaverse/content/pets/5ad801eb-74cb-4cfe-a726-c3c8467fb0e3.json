@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "5ad801eb-74cb-4cfe-a726-c3c8467fb0e3",
+        "name": "Clatter",
+        "ageYears": 0,
+        "disposition": "theatrical",
+        "fluffiness": 1,
+        "quirk": "stages elaborate fake emergencies to see who responds fastest",
+        "speciesId": "d389fe5d-7600-5b1b-be44-d2325c69d673",
+        "speciesCommonName": "Mimic Octopus (second variant)",
+        "speciesScientificName": "Wunderpus photogenicus",
+        "sizeClass": "small",
+        "ownerName": "Monique",
+        "shelterId": "2b312a04-c215-5098-9433-f5aab988726c",
+        "shelterName": "Apex Companions Forever"
+      }
+    }
+  }
+}

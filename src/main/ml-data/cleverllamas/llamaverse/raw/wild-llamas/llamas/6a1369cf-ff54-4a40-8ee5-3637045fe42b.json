@@ -7,5 +7,6 @@
   "hairColor": "Brown",
   "breed": "Huacaya",
   "placeOfBirth": "East Stevenburgh, Honduras",
-  "description": "David is a blue-eyed llama with brown hair, standing 173 cm tall. Originally from East Stevenburgh, Honduras, David enjoys cooking, singing, hiking. Known for their curious and playful personality, David is a beloved member of the llama community."
+  "description": "David is a blue-eyed llama with brown hair, standing 173 cm tall. Originally from East Stevenburgh, Honduras, David enjoys cooking, singing, hiking. Known for their curious and playful personality, David is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriforest"
 }

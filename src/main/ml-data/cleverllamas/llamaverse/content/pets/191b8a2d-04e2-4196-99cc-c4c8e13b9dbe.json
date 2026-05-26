@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "191b8a2d-04e2-4196-99cc-c4c8e13b9dbe",
+        "name": "Crumple",
+        "ageYears": 2,
+        "disposition": "cheerful",
+        "fluffiness": 6,
+        "quirk": "has been composing the same symphony for eleven years",
+        "speciesId": "8b4050cc-d852-535c-9736-e0280b44905c",
+        "speciesCommonName": "Macaroni Penguin",
+        "speciesScientificName": "Eudyptes chrysolophus",
+        "sizeClass": "small",
+        "ownerName": "Beatrice",
+        "shelterId": "6d613241-5ad3-5197-8b01-500e8b607567",
+        "shelterName": "Fernanda's Home for Misunderstood Creatures"
+      }
+    }
+  }
+}

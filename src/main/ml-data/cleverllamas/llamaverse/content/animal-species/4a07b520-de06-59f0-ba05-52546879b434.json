@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Sloth",
+        "sizeClass": "medium",
+        "fluffiness": 5,
+        "typicalDisposition": "deliberate",
+        "typicalLifespanYears": 30,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Mammalia",
+          "order": "Pilosa",
+          "family": "Bradypodidae",
+          "genus": "Bradypus",
+          "species": "Bradypus tridactylus"
+        },
+        "description": "Moves so slowly that algae grows on its fur. Descends from trees once a week to defecate, a decision llamas consider respectably ritualistic.",
+        "id": "4a07b520-de06-59f0-ba05-52546879b434"
+      }
+    }
+  }
+}

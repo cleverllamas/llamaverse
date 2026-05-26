@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "1b367a51-e066-4981-9cc6-93311d9a0489",
+        "name": "Plonk",
+        "ageYears": 62,
+        "disposition": "bombastic",
+        "fluffiness": 1,
+        "quirk": "collects bottle caps from obscure regions",
+        "speciesId": "43aa0a79-d15b-52e8-b72c-925ed35f3e3e",
+        "speciesCommonName": "Giant Clam",
+        "speciesScientificName": "Tridacna gigas",
+        "sizeClass": "gigantic",
+        "ownerName": "Lorenzo",
+        "shelterId": "a80124a7-0a88-582c-9362-e5c7aecd90d2",
+        "shelterName": "The Peculiar Menagerie of Llamaville East"
+      }
+    }
+  }
+}

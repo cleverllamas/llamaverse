@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "494b1e76-46ca-4d2d-8186-36b0486ed711",
+        "name": "Flapdoodle",
+        "ageYears": 1,
+        "disposition": "philosophical",
+        "fluffiness": 3,
+        "quirk": "constructed a scale model of the hay festival from memory",
+        "speciesId": "9557eccc-7ecb-5ab8-ae03-b9e328e55a11",
+        "speciesCommonName": "Star-nosed Mole",
+        "speciesScientificName": "Condylura cristata",
+        "sizeClass": "tiny",
+        "ownerName": "Ophelia",
+        "shelterId": "8d977212-e5ba-55f4-be32-882c53197b49",
+        "shelterName": "The Wool and Scales Rehabilitation Centre"
+      }
+    }
+  }
+}

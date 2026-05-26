@@ -7,5 +7,6 @@
   "hairColor": "Brown",
   "breed": "Huacaya",
   "placeOfBirth": "Mullenbury, Slovenia",
-  "description": "Steven is a brown-eyed llama with brown hair, standing 130 cm tall. Originally from Mullenbury, Slovenia, Steven enjoys hiking, gardening, cooking. Known for their energetic and calm personality, Steven is a beloved member of the llama community."
+  "description": "Steven is a brown-eyed llama with brown hair, standing 130 cm tall. Originally from Mullenbury, Slovenia, Steven enjoys hiking, gardening, cooking. Known for their energetic and calm personality, Steven is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_silvestris"
 }

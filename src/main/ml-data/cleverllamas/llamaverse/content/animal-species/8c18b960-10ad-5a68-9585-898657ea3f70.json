@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Surinam Toad",
+        "sizeClass": "small",
+        "fluffiness": 1,
+        "typicalDisposition": "unusual",
+        "typicalLifespanYears": 8,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Amphibia",
+          "order": "Anura",
+          "family": "Pipidae",
+          "genus": "Pipa",
+          "species": "Pipa pipa"
+        },
+        "description": "Carries eggs embedded in its back skin. Young emerge by bursting through the skin. Llamas who research this before buying one frequently reconsider.",
+        "id": "8c18b960-10ad-5a68-9585-898657ea3f70"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "e9366fbe-441d-463c-ac73-88e2733d60a7",
+        "name": "Fringe",
+        "ageYears": 30,
+        "disposition": "lazy",
+        "fluffiness": 1,
+        "quirk": "insists on a bedtime story every night",
+        "speciesId": "009bdfed-da73-562e-8331-6af5a48a2bb9",
+        "speciesCommonName": "Pygmy Elephant",
+        "speciesScientificName": "Elephas maximus borneensis",
+        "sizeClass": "large",
+        "ownerName": "Boris",
+        "shelterId": "869456e1-451e-554f-96f2-4a54e832dd46",
+        "shelterName": "Bradley's Extreme Fauna Compound"
+      }
+    }
+  }
+}

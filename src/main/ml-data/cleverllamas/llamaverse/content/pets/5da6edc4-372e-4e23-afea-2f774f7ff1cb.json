@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "5da6edc4-372e-4e23-afea-2f774f7ff1cb",
+        "name": "Snapper",
+        "ageYears": 13,
+        "disposition": "hyperactive",
+        "fluffiness": 5,
+        "quirk": "only communicates using interpretive movement between 9 and 10am",
+        "speciesId": "4a07b520-de06-59f0-ba05-52546879b434",
+        "speciesCommonName": "Sloth",
+        "speciesScientificName": "Bradypus tridactylus",
+        "sizeClass": "medium",
+        "ownerName": "Monique",
+        "shelterId": "c8de3d2b-6e9a-5ed1-bda7-9a50f977ddb9",
+        "shelterName": "The Quiet Pool"
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "uri": "http://cleverllamas.com/llamaverse/species/Lama_glama_borealis",
+  "type": "Species",
+  "label": "Lama glama borealis",
+  "description": "Arctic woolly llamas whose fleece density reaches extraordinary levels in winter.",
+  "parentUri": "http://cleverllamas.com/llamaverse/genus/Lama",
+  "phylumKey": "Lanuda",
+  "classKey": "Boreus",
+  "speciesKey": "Lama_glama_borealis"
+}

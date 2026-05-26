@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Blue Whale",
+        "sizeClass": "gigantic",
+        "fluffiness": 1,
+        "typicalDisposition": "immense",
+        "typicalLifespanYears": 90,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Mammalia",
+          "order": "Artiodactyla",
+          "family": "Balaenopteridae",
+          "genus": "Balaenoptera",
+          "species": "Balaenoptera musculus"
+        },
+        "description": "The largest animal that has ever lived. Its heart is the size of a small car. Llamas who keep them own entire private bays.",
+        "id": "152066e5-2b54-5b7d-b63f-cea101ace1f5"
+      }
+    }
+  }
+}

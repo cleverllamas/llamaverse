@@ -7,5 +7,6 @@
   "hairColor": "Blonde",
   "breed": "Hybrid",
   "placeOfBirth": "Dannyfurt, Svalbard & Jan Mayen Islands",
-  "description": "Michael is a hazel-eyed llama with blonde hair, standing 174 cm tall. Originally from Dannyfurt, Svalbard & Jan Mayen Islands, Michael enjoys hiking, painting, singing. Known for their playful and shy personality, Michael is a beloved member of the llama community."
+  "description": "Michael is a hazel-eyed llama with blonde hair, standing 174 cm tall. Originally from Dannyfurt, Svalbard & Jan Mayen Islands, Michael enjoys hiking, painting, singing. Known for their playful and shy personality, Michael is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_deserticola"
 }

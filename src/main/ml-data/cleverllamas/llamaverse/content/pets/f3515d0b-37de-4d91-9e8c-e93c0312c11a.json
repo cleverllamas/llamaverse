@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "f3515d0b-37de-4d91-9e8c-e93c0312c11a",
+        "name": "Quibbleston",
+        "ageYears": 27,
+        "disposition": "devoted",
+        "fluffiness": 1,
+        "quirk": "sleeps only in prime-numbered minutes",
+        "speciesId": "c22b5f4d-e296-54a6-b2a1-469b4a119572",
+        "speciesCommonName": "Immortal Jellyfish",
+        "speciesScientificName": "Turritopsis dohrnii",
+        "sizeClass": "microscopic",
+        "ownerName": "Gwen",
+        "shelterId": "1d1ceadd-64ed-52d5-a416-b278d95c83d1",
+        "shelterName": "The Cosy Burrow Rescue and Rehoming"
+      }
+    }
+  }
+}

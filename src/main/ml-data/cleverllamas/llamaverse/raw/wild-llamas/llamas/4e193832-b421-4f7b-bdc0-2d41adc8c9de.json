@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Suri",
   "placeOfBirth": "Lake Gina, Fiji",
-  "description": "Kevin is a blue-eyed llama with red hair, standing 156 cm tall. Originally from Lake Gina, Fiji, Kevin enjoys gardening, knitting, cooking. Known for their playful and mischievous personality, Kevin is a beloved member of the llama community."
+  "description": "Kevin is a blue-eyed llama with red hair, standing 156 cm tall. Originally from Lake Gina, Fiji, Kevin enjoys gardening, knitting, cooking. Known for their playful and mischievous personality, Kevin is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_borealis"
 }

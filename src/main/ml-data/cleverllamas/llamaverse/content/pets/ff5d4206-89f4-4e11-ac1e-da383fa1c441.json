@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "ff5d4206-89f4-4e11-ac1e-da383fa1c441",
+        "name": "Fringe",
+        "ageYears": 11,
+        "disposition": "curious",
+        "fluffiness": 2,
+        "quirk": "has been learning to juggle for three years with no progress",
+        "speciesId": "4cb28c77-0517-541b-af3b-f1c4cc5efbd3",
+        "speciesCommonName": "Magnificent Frigatebird",
+        "speciesScientificName": "Fregata magnificens",
+        "sizeClass": "large",
+        "ownerName": "Miranda",
+        "shelterId": "8d977212-e5ba-55f4-be32-882c53197b49",
+        "shelterName": "The Wool and Scales Rehabilitation Centre"
+      }
+    }
+  }
+}

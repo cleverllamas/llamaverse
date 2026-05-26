@@ -1,0 +1,7 @@
+{
+  "uri": "http://cleverllamas.com/llamaverse/order/Artifices",
+  "type": "Order",
+  "label": "Artifices",
+  "description": "Creative artisan llamas \u2014 weavers, potters, composers, architects. Frequently underestimated and always correct about aesthetics.",
+  "parentUri": "http://cleverllamas.com/llamaverse/kingdom/Llamalia"
+}

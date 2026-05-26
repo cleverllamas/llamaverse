@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "3d45bea2-d152-4da4-94bb-7dd52f658abe",
+        "name": "Crinkleworth",
+        "ageYears": 9,
+        "disposition": "theatrical",
+        "fluffiness": 1,
+        "quirk": "knows one card trick and performs it at every possible opportunity",
+        "speciesId": "af3dcf5c-cb3c-5f9d-9028-c1ca22e3d06b",
+        "speciesCommonName": "Tuatara",
+        "speciesScientificName": "Sphenodon punctatus",
+        "sizeClass": "small",
+        "ownerName": "Fernanda",
+        "shelterId": "4e1e0f71-7c69-5073-ab12-27cfd4257912",
+        "shelterName": "The Old Pond Sanctuary"
+      }
+    }
+  }
+}

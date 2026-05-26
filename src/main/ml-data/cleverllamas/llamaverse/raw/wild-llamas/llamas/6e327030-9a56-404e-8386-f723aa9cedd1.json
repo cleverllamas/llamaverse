@@ -7,5 +7,6 @@
   "hairColor": "Black",
   "breed": "Suri",
   "placeOfBirth": "Riveraville, Bulgaria",
-  "description": "Diana is a green-eyed llama with black hair, standing 162 cm tall. Originally from Riveraville, Bulgaria, Diana enjoys wood carving, knitting, hiking. Known for their shy and playful personality, Diana is a beloved member of the llama community."
+  "description": "Diana is a green-eyed llama with black hair, standing 162 cm tall. Originally from Riveraville, Bulgaria, Diana enjoys wood carving, knitting, hiking. Known for their shy and playful personality, Diana is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriborealis"
 }

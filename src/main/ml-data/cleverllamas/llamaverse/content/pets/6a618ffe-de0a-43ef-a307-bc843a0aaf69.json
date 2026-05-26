@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "6a618ffe-de0a-43ef-a307-bc843a0aaf69",
+        "name": "Pebble",
+        "ageYears": 9,
+        "disposition": "erratic",
+        "fluffiness": 10,
+        "quirk": "refuses to make eye contact but sends heartfelt letters",
+        "speciesId": "f9f424a2-3b5f-51b0-935e-5b903d8be114",
+        "speciesCommonName": "Snow Leopard",
+        "speciesScientificName": "Panthera uncia",
+        "sizeClass": "large",
+        "ownerName": "Monique",
+        "shelterId": "869456e1-451e-554f-96f2-4a54e832dd46",
+        "shelterName": "Bradley's Extreme Fauna Compound"
+      }
+    }
+  }
+}

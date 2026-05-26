@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "0ac46ad2-cb92-498f-9e2d-299f61d309ef",
+        "name": "Dazzle",
+        "ageYears": 4,
+        "disposition": "earnest",
+        "fluffiness": 1,
+        "quirk": "is writing a novel but will not discuss the plot",
+        "speciesId": "d191c6f3-b4e9-5af5-a642-3b80b969af04",
+        "speciesCommonName": "Thorny Devil",
+        "speciesScientificName": "Moloch horridus",
+        "sizeClass": "tiny",
+        "ownerName": "Ophelia",
+        "shelterId": "8d977212-e5ba-55f4-be32-882c53197b49",
+        "shelterName": "The Wool and Scales Rehabilitation Centre"
+      }
+    }
+  }
+}

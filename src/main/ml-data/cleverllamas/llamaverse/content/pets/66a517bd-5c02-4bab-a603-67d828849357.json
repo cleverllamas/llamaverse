@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "66a517bd-5c02-4bab-a603-67d828849357",
+        "name": "Biscuit",
+        "ageYears": 6,
+        "disposition": "regal",
+        "fluffiness": 9,
+        "quirk": "organises its food alphabetically before eating",
+        "speciesId": "b51959db-b66c-5ee4-9aac-8085580cba2a",
+        "speciesCommonName": "Arctic Fox",
+        "speciesScientificName": "Vulpes lagopus",
+        "sizeClass": "small",
+        "ownerName": "Lorenzo",
+        "shelterId": "2770733d-7079-5abc-92e8-6a21c74559c1",
+        "shelterName": "Deep Blue Creature Sanctuary"
+      }
+    }
+  }
+}

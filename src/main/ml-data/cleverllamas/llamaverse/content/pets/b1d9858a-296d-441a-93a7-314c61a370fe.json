@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "b1d9858a-296d-441a-93a7-314c61a370fe",
+        "name": "Flicker",
+        "ageYears": 42,
+        "disposition": "sneaky",
+        "fluffiness": 1,
+        "quirk": "refuses to make eye contact but sends heartfelt letters",
+        "speciesId": "cc882f01-70bc-59f2-9224-e7c81406e187",
+        "speciesCommonName": "Coelacanth",
+        "speciesScientificName": "Latimeria chalumnae",
+        "sizeClass": "large",
+        "ownerName": "Clara",
+        "shelterId": "4e1e0f71-7c69-5073-ab12-27cfd4257912",
+        "shelterName": "The Old Pond Sanctuary"
+      }
+    }
+  }
+}

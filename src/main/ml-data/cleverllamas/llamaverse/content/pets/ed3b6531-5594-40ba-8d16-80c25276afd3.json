@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "ed3b6531-5594-40ba-8d16-80c25276afd3",
+        "name": "Swoopington",
+        "ageYears": 0,
+        "disposition": "dignified",
+        "fluffiness": 4,
+        "quirk": "maintains a written log of everything it finds interesting, which is everything",
+        "speciesId": "9557eccc-7ecb-5ab8-ae03-b9e328e55a11",
+        "speciesCommonName": "Star-nosed Mole",
+        "speciesScientificName": "Condylura cristata",
+        "sizeClass": "tiny",
+        "ownerName": "Alice",
+        "shelterId": "43593191-478d-5f0a-82ec-63ff4cc4122e",
+        "shelterName": "The Patagonian Wild Wing Refuge"
+      }
+    }
+  }
+}

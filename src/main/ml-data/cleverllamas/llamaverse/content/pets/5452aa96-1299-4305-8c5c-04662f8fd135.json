@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "5452aa96-1299-4305-8c5c-04662f8fd135",
+        "name": "Rumpus",
+        "ageYears": 33,
+        "disposition": "earnest",
+        "fluffiness": 1,
+        "quirk": "believes it is being followed, correctly",
+        "speciesId": "bbd8c274-3adb-53ac-a054-a083bdfc43ba",
+        "speciesCommonName": "Gal\u00e1pagos Tortoise",
+        "speciesScientificName": "Chelonoidis niger",
+        "sizeClass": "gigantic",
+        "ownerName": "Jasper",
+        "shelterId": "e9a0f6a9-5a3f-51a3-ae37-19773f4ac55f",
+        "shelterName": "The Archipelago Orphanage"
+      }
+    }
+  }
+}

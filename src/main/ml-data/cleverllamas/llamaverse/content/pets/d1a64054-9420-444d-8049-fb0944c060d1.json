@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "d1a64054-9420-444d-8049-fb0944c060d1",
+        "name": "Fizzle",
+        "ageYears": 1,
+        "disposition": "serene",
+        "fluffiness": 1,
+        "quirk": "has memorised the bus timetable for a city it has never visited",
+        "speciesId": "6e6b7d29-e998-5259-bc2c-cf497befc045",
+        "speciesCommonName": "Garden Snail",
+        "speciesScientificName": "Helix aspersa",
+        "sizeClass": "tiny",
+        "ownerName": "Nigel",
+        "shelterId": "a80124a7-0a88-582c-9362-e5c7aecd90d2",
+        "shelterName": "The Peculiar Menagerie of Llamaville East"
+      }
+    }
+  }
+}

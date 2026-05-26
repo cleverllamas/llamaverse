@@ -1,0 +1,116 @@
+<http://cleverllamas.com/llamaverse/kingdom/Llamalia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://cleverllamas.com/llamaverse/type/Kingdom> .
+<http://cleverllamas.com/llamaverse/kingdom/Llamalia> <http://www.w3.org/2000/01/rdf-schema#label> "Llamalia"@en .
+<http://cleverllamas.com/llamaverse/phylum/Lanuda> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://cleverllamas.com/llamaverse/type/Phylum> .
+<http://cleverllamas.com/llamaverse/phylum/Lanuda> <http://www.w3.org/2000/01/rdf-schema#label> "Lanuda"@en .
+<http://cleverllamas.com/llamaverse/phylum/Lanuda> <http://cleverllamas.com/llamaverse/subClassOf> <http://cleverllamas.com/llamaverse/kingdom/Llamalia> .
+<http://cleverllamas.com/llamaverse/phylum/Suri> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://cleverllamas.com/llamaverse/type/Phylum> .
+<http://cleverllamas.com/llamaverse/phylum/Suri> <http://www.w3.org/2000/01/rdf-schema#label> "Suri"@en .
+<http://cleverllamas.com/llamaverse/phylum/Suri> <http://cleverllamas.com/llamaverse/subClassOf> <http://cleverllamas.com/llamaverse/kingdom/Llamalia> .
+<http://cleverllamas.com/llamaverse/phylum/Vellosa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://cleverllamas.com/llamaverse/type/Phylum> .
+<http://cleverllamas.com/llamaverse/phylum/Vellosa> <http://www.w3.org/2000/01/rdf-schema#label> "Vellosa"@en .
+<http://cleverllamas.com/llamaverse/phylum/Vellosa> <http://cleverllamas.com/llamaverse/subClassOf> <http://cleverllamas.com/llamaverse/kingdom/Llamalia> .
+<http://cleverllamas.com/llamaverse/class/Alpinus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://cleverllamas.com/llamaverse/type/Class> .
+<http://cleverllamas.com/llamaverse/class/Alpinus> <http://www.w3.org/2000/01/rdf-schema#label> "Alpinus"@en .
+<http://cleverllamas.com/llamaverse/class/Alpinus> <http://cleverllamas.com/llamaverse/subClassOf> <http://cleverllamas.com/llamaverse/kingdom/Llamalia> .
+<http://cleverllamas.com/llamaverse/class/Litoralis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://cleverllamas.com/llamaverse/type/Class> .
+<http://cleverllamas.com/llamaverse/class/Litoralis> <http://www.w3.org/2000/01/rdf-schema#label> "Litoralis"@en .
+<http://cleverllamas.com/llamaverse/class/Litoralis> <http://cleverllamas.com/llamaverse/subClassOf> <http://cleverllamas.com/llamaverse/kingdom/Llamalia> .
+<http://cleverllamas.com/llamaverse/class/Aridus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://cleverllamas.com/llamaverse/type/Class> .
+<http://cleverllamas.com/llamaverse/class/Aridus> <http://www.w3.org/2000/01/rdf-schema#label> "Aridus"@en .
+<http://cleverllamas.com/llamaverse/class/Aridus> <http://cleverllamas.com/llamaverse/subClassOf> <http://cleverllamas.com/llamaverse/kingdom/Llamalia> .
+<http://cleverllamas.com/llamaverse/class/Silvaticus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://cleverllamas.com/llamaverse/type/Class> .
+<http://cleverllamas.com/llamaverse/class/Silvaticus> <http://www.w3.org/2000/01/rdf-schema#label> "Silvaticus"@en .
+<http://cleverllamas.com/llamaverse/class/Silvaticus> <http://cleverllamas.com/llamaverse/subClassOf> <http://cleverllamas.com/llamaverse/kingdom/Llamalia> .
+<http://cleverllamas.com/llamaverse/class/Boreus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://cleverllamas.com/llamaverse/type/Class> .
+<http://cleverllamas.com/llamaverse/class/Boreus> <http://www.w3.org/2000/01/rdf-schema#label> "Boreus"@en .
+<http://cleverllamas.com/llamaverse/class/Boreus> <http://cleverllamas.com/llamaverse/subClassOf> <http://cleverllamas.com/llamaverse/kingdom/Llamalia> .
+<http://cleverllamas.com/llamaverse/order/Scholares> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://cleverllamas.com/llamaverse/type/Order> .
+<http://cleverllamas.com/llamaverse/order/Scholares> <http://www.w3.org/2000/01/rdf-schema#label> "Scholares"@en .
+<http://cleverllamas.com/llamaverse/order/Scholares> <http://cleverllamas.com/llamaverse/subClassOf> <http://cleverllamas.com/llamaverse/kingdom/Llamalia> .
+<http://cleverllamas.com/llamaverse/order/Athletici> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://cleverllamas.com/llamaverse/type/Order> .
+<http://cleverllamas.com/llamaverse/order/Athletici> <http://www.w3.org/2000/01/rdf-schema#label> "Athletici"@en .
+<http://cleverllamas.com/llamaverse/order/Athletici> <http://cleverllamas.com/llamaverse/subClassOf> <http://cleverllamas.com/llamaverse/kingdom/Llamalia> .
+<http://cleverllamas.com/llamaverse/order/Artifices> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://cleverllamas.com/llamaverse/type/Order> .
+<http://cleverllamas.com/llamaverse/order/Artifices> <http://www.w3.org/2000/01/rdf-schema#label> "Artifices"@en .
+<http://cleverllamas.com/llamaverse/order/Artifices> <http://cleverllamas.com/llamaverse/subClassOf> <http://cleverllamas.com/llamaverse/kingdom/Llamalia> .
+<http://cleverllamas.com/llamaverse/order/Mercatores> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://cleverllamas.com/llamaverse/type/Order> .
+<http://cleverllamas.com/llamaverse/order/Mercatores> <http://www.w3.org/2000/01/rdf-schema#label> "Mercatores"@en .
+<http://cleverllamas.com/llamaverse/order/Mercatores> <http://cleverllamas.com/llamaverse/subClassOf> <http://cleverllamas.com/llamaverse/kingdom/Llamalia> .
+<http://cleverllamas.com/llamaverse/order/Pastores> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://cleverllamas.com/llamaverse/type/Order> .
+<http://cleverllamas.com/llamaverse/order/Pastores> <http://www.w3.org/2000/01/rdf-schema#label> "Pastores"@en .
+<http://cleverllamas.com/llamaverse/order/Pastores> <http://cleverllamas.com/llamaverse/subClassOf> <http://cleverllamas.com/llamaverse/kingdom/Llamalia> .
+<http://cleverllamas.com/llamaverse/order/Diplomatici> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://cleverllamas.com/llamaverse/type/Order> .
+<http://cleverllamas.com/llamaverse/order/Diplomatici> <http://www.w3.org/2000/01/rdf-schema#label> "Diplomatici"@en .
+<http://cleverllamas.com/llamaverse/order/Diplomatici> <http://cleverllamas.com/llamaverse/subClassOf> <http://cleverllamas.com/llamaverse/kingdom/Llamalia> .
+<http://cleverllamas.com/llamaverse/family/Andesidae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://cleverllamas.com/llamaverse/type/Family> .
+<http://cleverllamas.com/llamaverse/family/Andesidae> <http://www.w3.org/2000/01/rdf-schema#label> "Andesidae"@en .
+<http://cleverllamas.com/llamaverse/family/Andesidae> <http://cleverllamas.com/llamaverse/subClassOf> <http://cleverllamas.com/llamaverse/kingdom/Llamalia> .
+<http://cleverllamas.com/llamaverse/family/Patagonidae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://cleverllamas.com/llamaverse/type/Family> .
+<http://cleverllamas.com/llamaverse/family/Patagonidae> <http://www.w3.org/2000/01/rdf-schema#label> "Patagonidae"@en .
+<http://cleverllamas.com/llamaverse/family/Patagonidae> <http://cleverllamas.com/llamaverse/subClassOf> <http://cleverllamas.com/llamaverse/kingdom/Llamalia> .
+<http://cleverllamas.com/llamaverse/family/Pampeidae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://cleverllamas.com/llamaverse/type/Family> .
+<http://cleverllamas.com/llamaverse/family/Pampeidae> <http://www.w3.org/2000/01/rdf-schema#label> "Pampeidae"@en .
+<http://cleverllamas.com/llamaverse/family/Pampeidae> <http://cleverllamas.com/llamaverse/subClassOf> <http://cleverllamas.com/llamaverse/kingdom/Llamalia> .
+<http://cleverllamas.com/llamaverse/family/Cuscidae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://cleverllamas.com/llamaverse/type/Family> .
+<http://cleverllamas.com/llamaverse/family/Cuscidae> <http://www.w3.org/2000/01/rdf-schema#label> "Cuscidae"@en .
+<http://cleverllamas.com/llamaverse/family/Cuscidae> <http://cleverllamas.com/llamaverse/subClassOf> <http://cleverllamas.com/llamaverse/kingdom/Llamalia> .
+<http://cleverllamas.com/llamaverse/family/Titicacidae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://cleverllamas.com/llamaverse/type/Family> .
+<http://cleverllamas.com/llamaverse/family/Titicacidae> <http://www.w3.org/2000/01/rdf-schema#label> "Titicacidae"@en .
+<http://cleverllamas.com/llamaverse/family/Titicacidae> <http://cleverllamas.com/llamaverse/subClassOf> <http://cleverllamas.com/llamaverse/kingdom/Llamalia> .
+<http://cleverllamas.com/llamaverse/family/Arequipidae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://cleverllamas.com/llamaverse/type/Family> .
+<http://cleverllamas.com/llamaverse/family/Arequipidae> <http://www.w3.org/2000/01/rdf-schema#label> "Arequipidae"@en .
+<http://cleverllamas.com/llamaverse/family/Arequipidae> <http://cleverllamas.com/llamaverse/subClassOf> <http://cleverllamas.com/llamaverse/kingdom/Llamalia> .
+<http://cleverllamas.com/llamaverse/family/Huancaidae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://cleverllamas.com/llamaverse/type/Family> .
+<http://cleverllamas.com/llamaverse/family/Huancaidae> <http://www.w3.org/2000/01/rdf-schema#label> "Huancaidae"@en .
+<http://cleverllamas.com/llamaverse/family/Huancaidae> <http://cleverllamas.com/llamaverse/subClassOf> <http://cleverllamas.com/llamaverse/kingdom/Llamalia> .
+<http://cleverllamas.com/llamaverse/family/Pampasidae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://cleverllamas.com/llamaverse/type/Family> .
+<http://cleverllamas.com/llamaverse/family/Pampasidae> <http://www.w3.org/2000/01/rdf-schema#label> "Pampasidae"@en .
+<http://cleverllamas.com/llamaverse/family/Pampasidae> <http://cleverllamas.com/llamaverse/subClassOf> <http://cleverllamas.com/llamaverse/kingdom/Llamalia> .
+<http://cleverllamas.com/llamaverse/genus/Lama> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://cleverllamas.com/llamaverse/type/Genus> .
+<http://cleverllamas.com/llamaverse/genus/Lama> <http://www.w3.org/2000/01/rdf-schema#label> "Lama"@en .
+<http://cleverllamas.com/llamaverse/genus/Lama> <http://cleverllamas.com/llamaverse/subClassOf> <http://cleverllamas.com/llamaverse/kingdom/Llamalia> .
+<http://cleverllamas.com/llamaverse/species/Lama_glama_andinus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://cleverllamas.com/llamaverse/type/Species> .
+<http://cleverllamas.com/llamaverse/species/Lama_glama_andinus> <http://www.w3.org/2000/01/rdf-schema#label> "Lama glama andinus"@en .
+<http://cleverllamas.com/llamaverse/species/Lama_glama_andinus> <http://cleverllamas.com/llamaverse/subClassOf> <http://cleverllamas.com/llamaverse/genus/Lama> .
+<http://cleverllamas.com/llamaverse/species/Lama_glama_litoralis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://cleverllamas.com/llamaverse/type/Species> .
+<http://cleverllamas.com/llamaverse/species/Lama_glama_litoralis> <http://www.w3.org/2000/01/rdf-schema#label> "Lama glama litoralis"@en .
+<http://cleverllamas.com/llamaverse/species/Lama_glama_litoralis> <http://cleverllamas.com/llamaverse/subClassOf> <http://cleverllamas.com/llamaverse/genus/Lama> .
+<http://cleverllamas.com/llamaverse/species/Lama_glama_deserticola> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://cleverllamas.com/llamaverse/type/Species> .
+<http://cleverllamas.com/llamaverse/species/Lama_glama_deserticola> <http://www.w3.org/2000/01/rdf-schema#label> "Lama glama deserticola"@en .
+<http://cleverllamas.com/llamaverse/species/Lama_glama_deserticola> <http://cleverllamas.com/llamaverse/subClassOf> <http://cleverllamas.com/llamaverse/genus/Lama> .
+<http://cleverllamas.com/llamaverse/species/Lama_glama_silvestris> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://cleverllamas.com/llamaverse/type/Species> .
+<http://cleverllamas.com/llamaverse/species/Lama_glama_silvestris> <http://www.w3.org/2000/01/rdf-schema#label> "Lama glama silvestris"@en .
+<http://cleverllamas.com/llamaverse/species/Lama_glama_silvestris> <http://cleverllamas.com/llamaverse/subClassOf> <http://cleverllamas.com/llamaverse/genus/Lama> .
+<http://cleverllamas.com/llamaverse/species/Lama_glama_borealis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://cleverllamas.com/llamaverse/type/Species> .
+<http://cleverllamas.com/llamaverse/species/Lama_glama_borealis> <http://www.w3.org/2000/01/rdf-schema#label> "Lama glama borealis"@en .
+<http://cleverllamas.com/llamaverse/species/Lama_glama_borealis> <http://cleverllamas.com/llamaverse/subClassOf> <http://cleverllamas.com/llamaverse/genus/Lama> .
+<http://cleverllamas.com/llamaverse/species/Lama_glama_suriensis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://cleverllamas.com/llamaverse/type/Species> .
+<http://cleverllamas.com/llamaverse/species/Lama_glama_suriensis> <http://www.w3.org/2000/01/rdf-schema#label> "Lama glama suriensis"@en .
+<http://cleverllamas.com/llamaverse/species/Lama_glama_suriensis> <http://cleverllamas.com/llamaverse/subClassOf> <http://cleverllamas.com/llamaverse/genus/Lama> .
+<http://cleverllamas.com/llamaverse/species/Lama_glama_suriphilus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://cleverllamas.com/llamaverse/type/Species> .
+<http://cleverllamas.com/llamaverse/species/Lama_glama_suriphilus> <http://www.w3.org/2000/01/rdf-schema#label> "Lama glama suriphilus"@en .
+<http://cleverllamas.com/llamaverse/species/Lama_glama_suriphilus> <http://cleverllamas.com/llamaverse/subClassOf> <http://cleverllamas.com/llamaverse/genus/Lama> .
+<http://cleverllamas.com/llamaverse/species/Lama_glama_surideserta> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://cleverllamas.com/llamaverse/type/Species> .
+<http://cleverllamas.com/llamaverse/species/Lama_glama_surideserta> <http://www.w3.org/2000/01/rdf-schema#label> "Lama glama surideserta"@en .
+<http://cleverllamas.com/llamaverse/species/Lama_glama_surideserta> <http://cleverllamas.com/llamaverse/subClassOf> <http://cleverllamas.com/llamaverse/genus/Lama> .
+<http://cleverllamas.com/llamaverse/species/Lama_glama_suriforest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://cleverllamas.com/llamaverse/type/Species> .
+<http://cleverllamas.com/llamaverse/species/Lama_glama_suriforest> <http://www.w3.org/2000/01/rdf-schema#label> "Lama glama suriforest"@en .
+<http://cleverllamas.com/llamaverse/species/Lama_glama_suriforest> <http://cleverllamas.com/llamaverse/subClassOf> <http://cleverllamas.com/llamaverse/genus/Lama> .
+<http://cleverllamas.com/llamaverse/species/Lama_glama_suriborealis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://cleverllamas.com/llamaverse/type/Species> .
+<http://cleverllamas.com/llamaverse/species/Lama_glama_suriborealis> <http://www.w3.org/2000/01/rdf-schema#label> "Lama glama suriborealis"@en .
+<http://cleverllamas.com/llamaverse/species/Lama_glama_suriborealis> <http://cleverllamas.com/llamaverse/subClassOf> <http://cleverllamas.com/llamaverse/genus/Lama> .
+<http://cleverllamas.com/llamaverse/species/Lama_glama_vellifer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://cleverllamas.com/llamaverse/type/Species> .
+<http://cleverllamas.com/llamaverse/species/Lama_glama_vellifer> <http://www.w3.org/2000/01/rdf-schema#label> "Lama glama vellifer"@en .
+<http://cleverllamas.com/llamaverse/species/Lama_glama_vellifer> <http://cleverllamas.com/llamaverse/subClassOf> <http://cleverllamas.com/llamaverse/genus/Lama> .
+<http://cleverllamas.com/llamaverse/species/Lama_glama_vellicosta> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://cleverllamas.com/llamaverse/type/Species> .
+<http://cleverllamas.com/llamaverse/species/Lama_glama_vellicosta> <http://www.w3.org/2000/01/rdf-schema#label> "Lama glama vellicosta"@en .
+<http://cleverllamas.com/llamaverse/species/Lama_glama_vellicosta> <http://cleverllamas.com/llamaverse/subClassOf> <http://cleverllamas.com/llamaverse/genus/Lama> .
+<http://cleverllamas.com/llamaverse/species/Lama_glama_vellaridus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://cleverllamas.com/llamaverse/type/Species> .
+<http://cleverllamas.com/llamaverse/species/Lama_glama_vellaridus> <http://www.w3.org/2000/01/rdf-schema#label> "Lama glama vellaridus"@en .
+<http://cleverllamas.com/llamaverse/species/Lama_glama_vellaridus> <http://cleverllamas.com/llamaverse/subClassOf> <http://cleverllamas.com/llamaverse/genus/Lama> .
+<http://cleverllamas.com/llamaverse/species/Lama_glama_vellasilva> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://cleverllamas.com/llamaverse/type/Species> .
+<http://cleverllamas.com/llamaverse/species/Lama_glama_vellasilva> <http://www.w3.org/2000/01/rdf-schema#label> "Lama glama vellasilva"@en .
+<http://cleverllamas.com/llamaverse/species/Lama_glama_vellasilva> <http://cleverllamas.com/llamaverse/subClassOf> <http://cleverllamas.com/llamaverse/genus/Lama> .
+<http://cleverllamas.com/llamaverse/species/Lama_glama_vellaboreas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://cleverllamas.com/llamaverse/type/Species> .
+<http://cleverllamas.com/llamaverse/species/Lama_glama_vellaboreas> <http://www.w3.org/2000/01/rdf-schema#label> "Lama glama vellaboreas"@en .
+<http://cleverllamas.com/llamaverse/species/Lama_glama_vellaboreas> <http://cleverllamas.com/llamaverse/subClassOf> <http://cleverllamas.com/llamaverse/genus/Lama> .

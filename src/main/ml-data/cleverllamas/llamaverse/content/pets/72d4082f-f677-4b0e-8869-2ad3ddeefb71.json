@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "72d4082f-f677-4b0e-8869-2ad3ddeefb71",
+        "name": "Stumble",
+        "ageYears": 3,
+        "disposition": "stoic",
+        "fluffiness": 1,
+        "quirk": "refuses to make eye contact but sends heartfelt letters",
+        "speciesId": "a417c180-20e9-5c37-9f4d-7bfb1f384522",
+        "speciesCommonName": "Sea Cucumber",
+        "speciesScientificName": "Holothuria scabra",
+        "sizeClass": "small",
+        "ownerName": "Aaron",
+        "shelterId": "c8de3d2b-6e9a-5ed1-bda7-9a50f977ddb9",
+        "shelterName": "The Quiet Pool"
+      }
+    }
+  }
+}

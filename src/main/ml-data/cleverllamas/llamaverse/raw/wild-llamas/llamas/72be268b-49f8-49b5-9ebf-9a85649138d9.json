@@ -7,5 +7,6 @@
   "hairColor": "Silver",
   "breed": "Suri",
   "placeOfBirth": "Shawborough, Serbia",
-  "description": "Cassandra is a gray-eyed llama with silver hair, standing 134 cm tall. Originally from Shawborough, Serbia, Cassandra enjoys gardening, knitting, singing. Known for their curious and gentle personality, Cassandra is a beloved member of the llama community."
+  "description": "Cassandra is a gray-eyed llama with silver hair, standing 134 cm tall. Originally from Shawborough, Serbia, Cassandra enjoys gardening, knitting, singing. Known for their curious and gentle personality, Cassandra is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriensis"
 }

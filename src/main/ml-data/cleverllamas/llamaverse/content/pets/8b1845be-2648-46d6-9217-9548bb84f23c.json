@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "8b1845be-2648-46d6-9217-9548bb84f23c",
+        "name": "Flicker",
+        "ageYears": 5,
+        "disposition": "affectionate",
+        "fluffiness": 1,
+        "quirk": "constructed a scale model of the hay festival from memory",
+        "speciesId": "6e6b7d29-e998-5259-bc2c-cf497befc045",
+        "speciesCommonName": "Garden Snail",
+        "speciesScientificName": "Helix aspersa",
+        "sizeClass": "tiny",
+        "ownerName": "Elena",
+        "shelterId": "869456e1-451e-554f-96f2-4a54e832dd46",
+        "shelterName": "Bradley's Extreme Fauna Compound"
+      }
+    }
+  }
+}

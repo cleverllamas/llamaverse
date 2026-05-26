@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "849acaec-a46e-4923-9227-11128674bb3f",
+        "name": "Noodlesworth",
+        "ageYears": 35,
+        "disposition": "cheerful",
+        "fluffiness": 1,
+        "quirk": "organises its food alphabetically before eating",
+        "speciesId": "43aa0a79-d15b-52e8-b72c-925ed35f3e3e",
+        "speciesCommonName": "Giant Clam",
+        "speciesScientificName": "Tridacna gigas",
+        "sizeClass": "gigantic",
+        "ownerName": "Ophelia",
+        "shelterId": "e9a0f6a9-5a3f-51a3-ae37-19773f4ac55f",
+        "shelterName": "The Archipelago Orphanage"
+      }
+    }
+  }
+}

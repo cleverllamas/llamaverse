@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "0bd6b580-7148-4cd7-87f5-2a9e82888e90",
+        "name": "Tintinnabulation",
+        "ageYears": 9,
+        "disposition": "hyperactive",
+        "fluffiness": 2,
+        "quirk": "has memorised all 88 Beethoven piano sonatas",
+        "speciesId": "8caf5f47-d6f0-5244-9dfc-3e271a0023b0",
+        "speciesCommonName": "Glass Frog",
+        "speciesScientificName": "Hyalinobatrachium valerioi",
+        "sizeClass": "tiny",
+        "ownerName": "Jasper",
+        "shelterId": "869456e1-451e-554f-96f2-4a54e832dd46",
+        "shelterName": "Bradley's Extreme Fauna Compound"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "9fc4074b-0168-4a48-9f42-ff871f60cd4f",
+        "name": "Boggle",
+        "ageYears": 0,
+        "disposition": "lazy",
+        "fluffiness": 1,
+        "quirk": "has been learning to juggle for three years with no progress",
+        "speciesId": "4df56e07-201b-57a6-81f4-3ad89e89a46f",
+        "speciesCommonName": "Ostracod",
+        "speciesScientificName": "Cypris pubera",
+        "sizeClass": "microscopic",
+        "ownerName": "Monique",
+        "shelterId": "fea3da74-6337-5053-bffe-89e75d14ef03",
+        "shelterName": "The Wandering Fleece Animal Sanctuary"
+      }
+    }
+  }
+}

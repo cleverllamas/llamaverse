@@ -7,5 +7,6 @@
   "hairColor": "White",
   "breed": "Huacaya",
   "placeOfBirth": "South Alexandraton, Libyan Arab Jamahiriya",
-  "description": "Amy is a gray-eyed llama with white hair, standing 123 cm tall. Originally from South Alexandraton, Libyan Arab Jamahiriya, Amy enjoys painting, wood carving, gardening. Known for their mischievous and friendly personality, Amy is a beloved member of the llama community."
+  "description": "Amy is a gray-eyed llama with white hair, standing 123 cm tall. Originally from South Alexandraton, Libyan Arab Jamahiriya, Amy enjoys painting, wood carving, gardening. Known for their mischievous and friendly personality, Amy is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_andinus"
 }

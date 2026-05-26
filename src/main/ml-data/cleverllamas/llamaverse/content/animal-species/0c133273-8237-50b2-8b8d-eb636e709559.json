@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Giant Anteater",
+        "sizeClass": "large",
+        "fluffiness": 4,
+        "typicalDisposition": "purposeful",
+        "typicalLifespanYears": 15,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Mammalia",
+          "order": "Pilosa",
+          "family": "Myrmecophagidae",
+          "genus": "Myrmecophaga",
+          "species": "Myrmecophaga tridactyla"
+        },
+        "description": "Eats 35,000 ants and termites per day. Cannot chew anything. Has 4cm claws it folds under when walking. Llamas find its dedication to a single purpose admirable.",
+        "id": "0c133273-8237-50b2-8b8d-eb636e709559"
+      }
+    }
+  }
+}

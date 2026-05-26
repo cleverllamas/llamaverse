@@ -7,5 +7,6 @@
   "hairColor": "Gray",
   "breed": "Suri",
   "placeOfBirth": "Hallside, Australia",
-  "description": "Phillip is a brown-eyed llama with gray hair, standing 193 cm tall. Originally from Hallside, Australia, Phillip enjoys cooking, singing, painting. Known for their gentle and shy personality, Phillip is a beloved member of the llama community."
+  "description": "Phillip is a brown-eyed llama with gray hair, standing 193 cm tall. Originally from Hallside, Australia, Phillip enjoys cooking, singing, painting. Known for their gentle and shy personality, Phillip is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_borealis"
 }

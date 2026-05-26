@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Nematode",
+        "sizeClass": "microscopic",
+        "fluffiness": 1,
+        "typicalDisposition": "relentless",
+        "typicalLifespanYears": 1,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Nematoda",
+          "class": "Chromadorea",
+          "order": "Rhabditida",
+          "family": "Rhabditidae",
+          "genus": "Caenorhabditis",
+          "species": "Caenorhabditis elegans"
+        },
+        "description": "Has exactly 959 cells. Llama scientists know each one by name. A firm favourite with biologist llamas.",
+        "id": "ae752e8e-5741-575f-8293-97abe1393e0e"
+      }
+    }
+  }
+}

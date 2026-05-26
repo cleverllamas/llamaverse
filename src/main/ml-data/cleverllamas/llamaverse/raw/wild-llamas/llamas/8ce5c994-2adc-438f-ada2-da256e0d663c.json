@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Hybrid",
   "placeOfBirth": "Millertown, Belize",
-  "description": "Paul is a brown-eyed llama with red hair, standing 113 cm tall. Originally from Millertown, Belize, Paul enjoys wood carving, reading, dancing. Known for their gentle and playful personality, Paul is a beloved member of the llama community."
+  "description": "Paul is a brown-eyed llama with red hair, standing 113 cm tall. Originally from Millertown, Belize, Paul enjoys wood carving, reading, dancing. Known for their gentle and playful personality, Paul is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriborealis"
 }

@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "2c73af85-7df6-4f07-b386-fc159f62d9d6",
+        "name": "Jangle",
+        "ageYears": 7,
+        "disposition": "aloof",
+        "fluffiness": 2,
+        "quirk": "has attempted to file taxes three years in a row without opposable thumbs",
+        "speciesId": "7acd6049-592a-5864-a177-72f1152e140a",
+        "speciesCommonName": "Freshwater Hydra",
+        "speciesScientificName": "Hydra vulgaris",
+        "sizeClass": "microscopic",
+        "ownerName": "Angela",
+        "shelterId": "e9a0f6a9-5a3f-51a3-ae37-19773f4ac55f",
+        "shelterName": "The Archipelago Orphanage"
+      }
+    }
+  }
+}

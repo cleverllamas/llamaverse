@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "2b1fd147-e19a-4916-a7d2-1f304a199900",
+        "name": "Stumble",
+        "ageYears": 3,
+        "disposition": "serene",
+        "fluffiness": 5,
+        "quirk": "has never once been surprised by anything",
+        "speciesId": "8fa76313-6503-54ba-880e-990c276858b3",
+        "speciesCommonName": "Clouded Leopard",
+        "speciesScientificName": "Neofelis nebulosa",
+        "sizeClass": "medium",
+        "ownerName": "Aaron",
+        "shelterId": "8d977212-e5ba-55f4-be32-882c53197b49",
+        "shelterName": "The Wool and Scales Rehabilitation Centre"
+      }
+    }
+  }
+}

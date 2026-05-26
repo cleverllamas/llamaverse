@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "df7e4378-0194-4c6c-b5d7-ecda5353f67b",
+        "name": "Stumble",
+        "ageYears": 2,
+        "disposition": "grumpy",
+        "fluffiness": 4,
+        "quirk": "insists on a bedtime story every night",
+        "speciesId": "f62702e8-fe68-5f20-8a46-2fffaa958865",
+        "speciesCommonName": "Velvet Worm",
+        "speciesScientificName": "Peripatopsis capensis",
+        "sizeClass": "tiny",
+        "ownerName": "Nigel",
+        "shelterId": "24d12d56-1e48-56e1-aa51-54df3c5f003c",
+        "shelterName": "The Stillness Institute"
+      }
+    }
+  }
+}

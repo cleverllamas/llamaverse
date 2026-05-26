@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "e2612100-30c4-43e2-a860-75d2e56867e2",
+        "name": "Shimmer",
+        "ageYears": 52,
+        "disposition": "devoted",
+        "fluffiness": 3,
+        "quirk": "has never once been surprised by anything",
+        "speciesId": "7e172705-39a5-5fb7-adfb-8228eeb1856e",
+        "speciesCommonName": "Orca",
+        "speciesScientificName": "Orcinus orca",
+        "sizeClass": "gigantic",
+        "ownerName": "Horatio",
+        "shelterId": "2770733d-7079-5abc-92e8-6a21c74559c1",
+        "shelterName": "Deep Blue Creature Sanctuary"
+      }
+    }
+  }
+}

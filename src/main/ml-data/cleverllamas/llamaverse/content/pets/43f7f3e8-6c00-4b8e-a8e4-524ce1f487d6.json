@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "43f7f3e8-6c00-4b8e-a8e4-524ce1f487d6",
+        "name": "Rumpus",
+        "ageYears": 11,
+        "disposition": "timid",
+        "fluffiness": 2,
+        "quirk": "has been composing the same symphony for eleven years",
+        "speciesId": "ca531de8-cda7-5fdb-a5f4-00420082f1c1",
+        "speciesCommonName": "Blue-tongued Skink",
+        "speciesScientificName": "Tiliqua scincoides",
+        "sizeClass": "small",
+        "ownerName": "Monique",
+        "shelterId": "1d1ceadd-64ed-52d5-a416-b278d95c83d1",
+        "shelterName": "The Cosy Burrow Rescue and Rehoming"
+      }
+    }
+  }
+}

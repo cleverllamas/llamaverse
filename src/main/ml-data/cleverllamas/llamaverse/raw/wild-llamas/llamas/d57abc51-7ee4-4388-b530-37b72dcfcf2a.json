@@ -7,5 +7,6 @@
   "hairColor": "White",
   "breed": "Hybrid",
   "placeOfBirth": "Alvaradoville, Colombia",
-  "description": "Robert is a hazel-eyed llama with white hair, standing 143 cm tall. Originally from Alvaradoville, Colombia, Robert enjoys dancing, wood carving, painting. Known for their friendly and calm personality, Robert is a beloved member of the llama community."
+  "description": "Robert is a hazel-eyed llama with white hair, standing 143 cm tall. Originally from Alvaradoville, Colombia, Robert enjoys dancing, wood carving, painting. Known for their friendly and calm personality, Robert is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_vellicosta"
 }

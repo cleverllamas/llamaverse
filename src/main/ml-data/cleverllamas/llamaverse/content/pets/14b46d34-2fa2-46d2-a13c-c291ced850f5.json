@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "14b46d34-2fa2-46d2-a13c-c291ced850f5",
+        "name": "Blorpington",
+        "ageYears": 2,
+        "disposition": "affectionate",
+        "fluffiness": 1,
+        "quirk": "sleeps only in prime-numbered minutes",
+        "speciesId": "08975a97-6b10-5b93-a485-6982350d0c27",
+        "speciesCommonName": "Crown-of-Thorns Starfish",
+        "speciesScientificName": "Acanthaster planci",
+        "sizeClass": "medium",
+        "ownerName": "Ophelia",
+        "shelterId": "43593191-478d-5f0a-82ec-63ff4cc4122e",
+        "shelterName": "The Patagonian Wild Wing Refuge"
+      }
+    }
+  }
+}

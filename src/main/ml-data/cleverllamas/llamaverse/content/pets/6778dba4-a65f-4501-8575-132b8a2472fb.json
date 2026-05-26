@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "6778dba4-a65f-4501-8575-132b8a2472fb",
+        "name": "Boggle",
+        "ageYears": 0,
+        "disposition": "dignified",
+        "fluffiness": 1,
+        "quirk": "organises its food alphabetically before eating",
+        "speciesId": "394eb58a-7760-55f9-ab05-7ccdcc0fca2f",
+        "speciesCommonName": "Giant Squid",
+        "speciesScientificName": "Architeuthis dux",
+        "sizeClass": "gigantic",
+        "ownerName": "Horatio",
+        "shelterId": "e9a0f6a9-5a3f-51a3-ae37-19773f4ac55f",
+        "shelterName": "The Archipelago Orphanage"
+      }
+    }
+  }
+}

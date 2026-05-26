@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "5ca7d7ae-d4e3-4a67-bc88-c56c21d5fcb7",
+        "name": "Wobble",
+        "ageYears": 8,
+        "disposition": "bombastic",
+        "fluffiness": 2,
+        "quirk": "knows one card trick and performs it at every possible opportunity",
+        "speciesId": "f10a2a25-b64d-5f51-bef7-d2d25f12028e",
+        "speciesCommonName": "Green Iguana",
+        "speciesScientificName": "Iguana iguana",
+        "sizeClass": "large",
+        "ownerName": "Ophelia",
+        "shelterId": "24d12d56-1e48-56e1-aa51-54df3c5f003c",
+        "shelterName": "The Stillness Institute"
+      }
+    }
+  }
+}

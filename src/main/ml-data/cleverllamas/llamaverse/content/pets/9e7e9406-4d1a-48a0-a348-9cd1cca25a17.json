@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "9e7e9406-4d1a-48a0-a348-9cd1cca25a17",
+        "name": "Boggle",
+        "ageYears": 0,
+        "disposition": "earnest",
+        "fluffiness": 5,
+        "quirk": "knows one card trick and performs it at every possible opportunity",
+        "speciesId": "0c133273-8237-50b2-8b8d-eb636e709559",
+        "speciesCommonName": "Giant Anteater",
+        "speciesScientificName": "Myrmecophaga tridactyla",
+        "sizeClass": "large",
+        "ownerName": "Ophelia",
+        "shelterId": "1acdd953-9df4-5cad-ab5a-eb612f2e855c",
+        "shelterName": "Primate House of the Andes"
+      }
+    }
+  }
+}

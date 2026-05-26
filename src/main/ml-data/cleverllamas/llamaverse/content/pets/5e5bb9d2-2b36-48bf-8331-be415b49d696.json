@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "5e5bb9d2-2b36-48bf-8331-be415b49d696",
+        "name": "Burble",
+        "ageYears": 4,
+        "disposition": "lazy",
+        "fluffiness": 2,
+        "quirk": "maintains a written log of everything it finds interesting, which is everything",
+        "speciesId": "38f8892b-60ac-5c16-b857-5aebc8b1dd83",
+        "speciesCommonName": "Hissing Cockroach",
+        "speciesScientificName": "Gromphadorhina portentosa",
+        "sizeClass": "small",
+        "ownerName": "Ophelia",
+        "shelterId": "1d1ceadd-64ed-52d5-a416-b278d95c83d1",
+        "shelterName": "The Cosy Burrow Rescue and Rehoming"
+      }
+    }
+  }
+}

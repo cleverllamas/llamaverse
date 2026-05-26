@@ -7,5 +7,6 @@
   "hairColor": "Brown",
   "breed": "Suri",
   "placeOfBirth": "Karenfurt, Morocco",
-  "description": "Claudia is a brown-eyed llama with brown hair, standing 164 cm tall. Originally from Karenfurt, Morocco, Claudia enjoys gardening, singing, dancing. Known for their shy and gentle personality, Claudia is a beloved member of the llama community."
+  "description": "Claudia is a brown-eyed llama with brown hair, standing 164 cm tall. Originally from Karenfurt, Morocco, Claudia enjoys gardening, singing, dancing. Known for their shy and gentle personality, Claudia is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_deserticola"
 }

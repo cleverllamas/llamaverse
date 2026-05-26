@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Hybrid",
   "placeOfBirth": "North Austin, Norfolk Island",
-  "description": "Lauren is a gray-eyed llama with red hair, standing 156 cm tall. Originally from North Austin, Norfolk Island, Lauren enjoys knitting, dancing, painting. Known for their curious and calm personality, Lauren is a beloved member of the llama community."
+  "description": "Lauren is a gray-eyed llama with red hair, standing 156 cm tall. Originally from North Austin, Norfolk Island, Lauren enjoys knitting, dancing, painting. Known for their curious and calm personality, Lauren is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_vellaridus"
 }

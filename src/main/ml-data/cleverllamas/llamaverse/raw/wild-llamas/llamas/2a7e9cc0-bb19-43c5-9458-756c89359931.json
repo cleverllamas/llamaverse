@@ -7,5 +7,6 @@
   "hairColor": "Brown",
   "breed": "Hybrid",
   "placeOfBirth": "Parkerfurt, Uganda",
-  "description": "Sean is a blue-eyed llama with brown hair, standing 160 cm tall. Originally from Parkerfurt, Uganda, Sean enjoys hiking, cooking, dancing. Known for their mischievous and friendly personality, Sean is a beloved member of the llama community."
+  "description": "Sean is a blue-eyed llama with brown hair, standing 160 cm tall. Originally from Parkerfurt, Uganda, Sean enjoys hiking, cooking, dancing. Known for their mischievous and friendly personality, Sean is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_silvestris"
 }

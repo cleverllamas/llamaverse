@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Tarsier",
+        "sizeClass": "tiny",
+        "fluffiness": 4,
+        "typicalDisposition": "wide-eyed",
+        "typicalLifespanYears": 24,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Mammalia",
+          "order": "Primates",
+          "family": "Tarsiidae",
+          "genus": "Cephalopachus",
+          "species": "Cephalopachus bancanus"
+        },
+        "description": "Eyes so large they cannot move them in their sockets. Can rotate its head 180 degrees. The most purely nocturnal primate. Llamas find the commitment to being awake at night solidarity-inducing.",
+        "id": "208c6fe2-20b6-5575-94a3-a77cf28d333e"
+      }
+    }
+  }
+}

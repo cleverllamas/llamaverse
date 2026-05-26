@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "9bb3b3ca-d88f-4e43-8710-04a6d707c96e",
+        "name": "Bristle",
+        "ageYears": 1,
+        "disposition": "affectionate",
+        "fluffiness": 2,
+        "quirk": "is training for a marathon at a very leisurely pace",
+        "speciesId": "86740326-9afe-5c95-a5a8-c7045272e940",
+        "speciesCommonName": "Stick Insect",
+        "speciesScientificName": "Phasma gigas",
+        "sizeClass": "small",
+        "ownerName": "Ophelia",
+        "shelterId": "c8de3d2b-6e9a-5ed1-bda7-9a50f977ddb9",
+        "shelterName": "The Quiet Pool"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "cdd6ebb7-8e91-4322-afdc-da8495a03649",
+        "name": "Fringe",
+        "ageYears": 1,
+        "disposition": "mischievous",
+        "fluffiness": 10,
+        "quirk": "insists on a bedtime story every night",
+        "speciesId": "f9f424a2-3b5f-51b0-935e-5b903d8be114",
+        "speciesCommonName": "Snow Leopard",
+        "speciesScientificName": "Panthera uncia",
+        "sizeClass": "large",
+        "ownerName": "Angela",
+        "shelterId": "fea3da74-6337-5053-bffe-89e75d14ef03",
+        "shelterName": "The Wandering Fleece Animal Sanctuary"
+      }
+    }
+  }
+}

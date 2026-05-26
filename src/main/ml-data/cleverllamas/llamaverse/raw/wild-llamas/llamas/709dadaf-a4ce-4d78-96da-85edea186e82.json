@@ -7,5 +7,6 @@
   "hairColor": "Brown",
   "breed": "Huacaya",
   "placeOfBirth": "South Edward, Israel",
-  "description": "Steven is a green-eyed llama with brown hair, standing 146 cm tall. Originally from South Edward, Israel, Steven enjoys wood carving, singing, knitting. Known for their curious and friendly personality, Steven is a beloved member of the llama community."
+  "description": "Steven is a green-eyed llama with brown hair, standing 146 cm tall. Originally from South Edward, Israel, Steven enjoys wood carving, singing, knitting. Known for their curious and friendly personality, Steven is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriensis"
 }

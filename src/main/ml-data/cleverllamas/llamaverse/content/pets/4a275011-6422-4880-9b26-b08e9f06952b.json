@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "4a275011-6422-4880-9b26-b08e9f06952b",
+        "name": "Stumble",
+        "ageYears": 0,
+        "disposition": "timid",
+        "fluffiness": 2,
+        "quirk": "only eats food arranged in symmetrical patterns",
+        "speciesId": "853c256e-ac01-5775-bda6-bc49c65c02bc",
+        "speciesCommonName": "Dust Mite",
+        "speciesScientificName": "Dermatophagoides pteronyssinus",
+        "sizeClass": "microscopic",
+        "ownerName": "Horatio",
+        "shelterId": "1d1ceadd-64ed-52d5-a416-b278d95c83d1",
+        "shelterName": "The Cosy Burrow Rescue and Rehoming"
+      }
+    }
+  }
+}

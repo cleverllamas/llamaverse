@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Stick Insect",
+        "sizeClass": "small",
+        "fluffiness": 1,
+        "typicalDisposition": "invisible",
+        "typicalLifespanYears": 3,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Arthropoda",
+          "class": "Insecta",
+          "order": "Phasmatodea",
+          "family": "Phasmatidae",
+          "genus": "Phasma",
+          "species": "Phasma gigas"
+        },
+        "description": "Masters of disguise. Llamas frequently lose track of them and then rediscover them weeks later on a bookshelf, utterly unbothered.",
+        "id": "86740326-9afe-5c95-a5a8-c7045272e940"
+      }
+    }
+  }
+}

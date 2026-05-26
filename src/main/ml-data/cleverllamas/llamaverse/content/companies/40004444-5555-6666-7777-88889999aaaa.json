@@ -1,0 +1,22 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "companies"
+    },
+    "instance": {
+      "companies": {
+        "id": "40004444-5555-6666-7777-88889999aaaa",
+        "name": "SpinLlama Quantum Labs",
+        "ticker": "SPLQ",
+        "sector": "Quantum Technology",
+        "headquarters": "Llamaverse Institute of Technology Research Campus",
+        "founded": 2019,
+        "ceoName": "Bradley",
+        "employees": 840,
+        "revenueHayBalesMillions": 410,
+        "description": "SpinLlama is the llamaverse's leading quantum computing startup, emerging from the LIT research programme. Bradley, whose secret power is Time Whispering, serves as CEO and reportedly conducts board meetings in reverse chronological order as a meditation technique. The company's core product simulates quantum entanglement in classical computing environments; its experimental data is stored as XML in MarkLogic, with namespace-qualified path expressions used throughout the query layer.",
+        "marklogicUse": "Quantum simulation result store; complex XML with namespace-heavy queries"
+      }
+    }
+  }
+}

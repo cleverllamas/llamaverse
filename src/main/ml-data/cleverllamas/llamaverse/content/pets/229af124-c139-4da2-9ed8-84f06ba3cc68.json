@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "229af124-c139-4da2-9ed8-84f06ba3cc68",
+        "name": "Glimmer",
+        "ageYears": 12,
+        "disposition": "dignified",
+        "fluffiness": 2,
+        "quirk": "has been composing the same symphony for eleven years",
+        "speciesId": "f10a2a25-b64d-5f51-bef7-d2d25f12028e",
+        "speciesCommonName": "Green Iguana",
+        "speciesScientificName": "Iguana iguana",
+        "sizeClass": "large",
+        "ownerName": "Clara",
+        "shelterId": "fea3da74-6337-5053-bffe-89e75d14ef03",
+        "shelterName": "The Wandering Fleece Animal Sanctuary"
+      }
+    }
+  }
+}

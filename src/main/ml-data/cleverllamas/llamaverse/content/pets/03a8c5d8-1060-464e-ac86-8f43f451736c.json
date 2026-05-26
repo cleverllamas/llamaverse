@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "03a8c5d8-1060-464e-ac86-8f43f451736c",
+        "name": "Glimmer",
+        "ageYears": 1,
+        "disposition": "eccentric",
+        "fluffiness": 1,
+        "quirk": "collects bottle caps from obscure regions",
+        "speciesId": "d389fe5d-7600-5b1b-be44-d2325c69d673",
+        "speciesCommonName": "Mimic Octopus (second variant)",
+        "speciesScientificName": "Wunderpus photogenicus",
+        "sizeClass": "small",
+        "ownerName": "Lorenzo",
+        "shelterId": "e9a0f6a9-5a3f-51a3-ae37-19773f4ac55f",
+        "shelterName": "The Archipelago Orphanage"
+      }
+    }
+  }
+}

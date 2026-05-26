@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "f9dc795d-ca41-4c16-b18d-640b592327e3",
+        "name": "Twitch",
+        "ageYears": 5,
+        "disposition": "lazy",
+        "fluffiness": 4,
+        "quirk": "has been composing the same symphony for eleven years",
+        "speciesId": "8b4050cc-d852-535c-9736-e0280b44905c",
+        "speciesCommonName": "Macaroni Penguin",
+        "speciesScientificName": "Eudyptes chrysolophus",
+        "sizeClass": "small",
+        "ownerName": "Clara",
+        "shelterId": "e9a0f6a9-5a3f-51a3-ae37-19773f4ac55f",
+        "shelterName": "The Archipelago Orphanage"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "2912ec75-f5db-4e2b-b6e3-cb6dac4958d7",
+        "name": "Turvy",
+        "ageYears": 55,
+        "disposition": "hyperactive",
+        "fluffiness": 2,
+        "quirk": "has been composing the same symphony for eleven years",
+        "speciesId": "51224b0c-de04-59b5-bf77-14b5264c4c42",
+        "speciesCommonName": "Sperm Whale",
+        "speciesScientificName": "Physeter macrocephalus",
+        "sizeClass": "gigantic",
+        "ownerName": "Isolde",
+        "shelterId": "2b312a04-c215-5098-9433-f5aab988726c",
+        "shelterName": "Apex Companions Forever"
+      }
+    }
+  }
+}

@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Huacaya",
   "placeOfBirth": "Gibbshaven, Bolivia",
-  "description": "Devin is a hazel-eyed llama with red hair, standing 181 cm tall. Originally from Gibbshaven, Bolivia, Devin enjoys dancing, singing, gardening. Known for their friendly and calm personality, Devin is a beloved member of the llama community."
+  "description": "Devin is a hazel-eyed llama with red hair, standing 181 cm tall. Originally from Gibbshaven, Bolivia, Devin enjoys dancing, singing, gardening. Known for their friendly and calm personality, Devin is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriborealis"
 }

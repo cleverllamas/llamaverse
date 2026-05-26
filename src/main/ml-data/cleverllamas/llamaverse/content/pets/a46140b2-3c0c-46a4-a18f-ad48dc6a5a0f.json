@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "a46140b2-3c0c-46a4-a18f-ad48dc6a5a0f",
+        "name": "Wriggle",
+        "ageYears": 1,
+        "disposition": "affectionate",
+        "fluffiness": 5,
+        "quirk": "refuses to acknowledge Mondays",
+        "speciesId": "f62702e8-fe68-5f20-8a46-2fffaa958865",
+        "speciesCommonName": "Velvet Worm",
+        "speciesScientificName": "Peripatopsis capensis",
+        "sizeClass": "tiny",
+        "ownerName": "Reginald",
+        "shelterId": "7437ed74-37ab-5121-a86c-723531fb55b3",
+        "shelterName": "The Galaxy of Small Things"
+      }
+    }
+  }
+}

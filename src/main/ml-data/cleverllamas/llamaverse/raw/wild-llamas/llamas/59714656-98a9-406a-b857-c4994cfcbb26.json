@@ -7,5 +7,6 @@
   "hairColor": "White",
   "breed": "Hybrid",
   "placeOfBirth": "Port Gregory, Congo",
-  "description": "Peggy is a hazel-eyed llama with white hair, standing 121 cm tall. Originally from Port Gregory, Congo, Peggy enjoys hiking, wood carving, dancing. Known for their playful and shy personality, Peggy is a beloved member of the llama community."
+  "description": "Peggy is a hazel-eyed llama with white hair, standing 121 cm tall. Originally from Port Gregory, Congo, Peggy enjoys hiking, wood carving, dancing. Known for their playful and shy personality, Peggy is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_silvestris"
 }

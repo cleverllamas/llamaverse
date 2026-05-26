@@ -7,5 +7,6 @@
   "hairColor": "Gray",
   "breed": "Suri",
   "placeOfBirth": "Randyland, Belgium",
-  "description": "Thomas is a hazel-eyed llama with gray hair, standing 194 cm tall. Originally from Randyland, Belgium, Thomas enjoys painting, hiking, reading. Known for their curious and gentle personality, Thomas is a beloved member of the llama community."
+  "description": "Thomas is a hazel-eyed llama with gray hair, standing 194 cm tall. Originally from Randyland, Belgium, Thomas enjoys painting, hiking, reading. Known for their curious and gentle personality, Thomas is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_vellaboreas"
 }

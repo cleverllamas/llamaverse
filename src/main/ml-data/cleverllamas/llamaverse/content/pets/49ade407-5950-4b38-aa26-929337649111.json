@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "49ade407-5950-4b38-aa26-929337649111",
+        "name": "Hullabaloo",
+        "ageYears": 11,
+        "disposition": "earnest",
+        "fluffiness": 4,
+        "quirk": "believes it is being followed, correctly",
+        "speciesId": "3dc7ce14-9c2a-5e33-b387-4fd40e0cbcc4",
+        "speciesCommonName": "Mandrill",
+        "speciesScientificName": "Mandrillus sphinx",
+        "sizeClass": "large",
+        "ownerName": "Gwen",
+        "shelterId": "43593191-478d-5f0a-82ec-63ff4cc4122e",
+        "shelterName": "The Patagonian Wild Wing Refuge"
+      }
+    }
+  }
+}

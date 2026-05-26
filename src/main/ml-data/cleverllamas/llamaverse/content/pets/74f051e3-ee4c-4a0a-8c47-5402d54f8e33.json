@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "74f051e3-ee4c-4a0a-8c47-5402d54f8e33",
+        "name": "Tintinnabulation",
+        "ageYears": 125,
+        "disposition": "regal",
+        "fluffiness": 2,
+        "quirk": "believes it is being followed, correctly",
+        "speciesId": "bbd8c274-3adb-53ac-a054-a083bdfc43ba",
+        "speciesCommonName": "Gal\u00e1pagos Tortoise",
+        "speciesScientificName": "Chelonoidis niger",
+        "sizeClass": "gigantic",
+        "ownerName": "Angela",
+        "shelterId": "6d613241-5ad3-5197-8b01-500e8b607567",
+        "shelterName": "Fernanda's Home for Misunderstood Creatures"
+      }
+    }
+  }
+}

@@ -7,5 +7,6 @@
   "hairColor": "Brown",
   "breed": "Suri",
   "placeOfBirth": "Franciscofort, Cuba",
-  "description": "Timothy is a green-eyed llama with brown hair, standing 199 cm tall. Originally from Franciscofort, Cuba, Timothy enjoys knitting, gardening, reading. Known for their curious and friendly personality, Timothy is a beloved member of the llama community."
+  "description": "Timothy is a green-eyed llama with brown hair, standing 199 cm tall. Originally from Franciscofort, Cuba, Timothy enjoys knitting, gardening, reading. Known for their curious and friendly personality, Timothy is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriensis"
 }

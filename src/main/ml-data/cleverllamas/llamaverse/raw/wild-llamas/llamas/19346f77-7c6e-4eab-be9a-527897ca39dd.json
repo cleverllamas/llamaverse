@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Hybrid",
   "placeOfBirth": "Terriberg, Sweden",
-  "description": "James is a gray-eyed llama with red hair, standing 136 cm tall. Originally from Terriberg, Sweden, James enjoys singing, gardening, reading. Known for their friendly and playful personality, James is a beloved member of the llama community."
+  "description": "James is a gray-eyed llama with red hair, standing 136 cm tall. Originally from Terriberg, Sweden, James enjoys singing, gardening, reading. Known for their friendly and playful personality, James is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_silvestris"
 }

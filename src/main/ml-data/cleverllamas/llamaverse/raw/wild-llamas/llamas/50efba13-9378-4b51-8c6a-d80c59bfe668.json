@@ -7,5 +7,6 @@
   "hairColor": "Gray",
   "breed": "Suri",
   "placeOfBirth": "Larsonhaven, New Zealand",
-  "description": "Wendy is a gray-eyed llama with gray hair, standing 157 cm tall. Originally from Larsonhaven, New Zealand, Wendy enjoys painting, wood carving, hiking. Known for their mischievous and curious personality, Wendy is a beloved member of the llama community."
+  "description": "Wendy is a gray-eyed llama with gray hair, standing 157 cm tall. Originally from Larsonhaven, New Zealand, Wendy enjoys painting, wood carving, hiking. Known for their mischievous and curious personality, Wendy is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_andinus"
 }

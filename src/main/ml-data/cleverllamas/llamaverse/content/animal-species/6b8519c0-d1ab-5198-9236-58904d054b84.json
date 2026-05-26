@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Tapir",
+        "sizeClass": "large",
+        "fluffiness": 2,
+        "typicalDisposition": "gentle",
+        "typicalLifespanYears": 30,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Mammalia",
+          "order": "Perissodactyla",
+          "family": "Tapiridae",
+          "genus": "Tapirus",
+          "species": "Tapirus terrestris"
+        },
+        "description": "Has a prehensile snout it uses to grab leaves. An evolutionary holdover from 50 million years ago. Llamas find it endearingly unfashionable.",
+        "id": "6b8519c0-d1ab-5198-9236-58904d054b84"
+      }
+    }
+  }
+}

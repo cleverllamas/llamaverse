@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "663e37fc-25e6-440d-860f-46eb635a4eca",
+        "name": "Nudge",
+        "ageYears": 1,
+        "disposition": "bombastic",
+        "fluffiness": 2,
+        "quirk": "knows one card trick and performs it at every possible opportunity",
+        "speciesId": "394eb58a-7760-55f9-ab05-7ccdcc0fca2f",
+        "speciesCommonName": "Giant Squid",
+        "speciesScientificName": "Architeuthis dux",
+        "sizeClass": "gigantic",
+        "ownerName": "Beatrice",
+        "shelterId": "43593191-478d-5f0a-82ec-63ff4cc4122e",
+        "shelterName": "The Patagonian Wild Wing Refuge"
+      }
+    }
+  }
+}

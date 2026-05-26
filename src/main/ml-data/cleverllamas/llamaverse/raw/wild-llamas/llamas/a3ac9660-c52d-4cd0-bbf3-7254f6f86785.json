@@ -7,5 +7,6 @@
   "hairColor": "White",
   "breed": "Suri",
   "placeOfBirth": "New Lisa, Palestinian Territory",
-  "description": "Julie is a green-eyed llama with white hair, standing 123 cm tall. Originally from New Lisa, Palestinian Territory, Julie enjoys gardening, reading, dancing. Known for their energetic and mischievous personality, Julie is a beloved member of the llama community."
+  "description": "Julie is a green-eyed llama with white hair, standing 123 cm tall. Originally from New Lisa, Palestinian Territory, Julie enjoys gardening, reading, dancing. Known for their energetic and mischievous personality, Julie is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriensis"
 }

@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "41e17878-0af2-44f9-ba51-3052e76bad24",
+        "name": "Turvy",
+        "ageYears": 0,
+        "disposition": "philosophical",
+        "fluffiness": 1,
+        "quirk": "is writing a novel but will not discuss the plot",
+        "speciesId": "ae752e8e-5741-575f-8293-97abe1393e0e",
+        "speciesCommonName": "Nematode",
+        "speciesScientificName": "Caenorhabditis elegans",
+        "sizeClass": "microscopic",
+        "ownerName": "Angela",
+        "shelterId": "6d613241-5ad3-5197-8b01-500e8b607567",
+        "shelterName": "Fernanda's Home for Misunderstood Creatures"
+      }
+    }
+  }
+}

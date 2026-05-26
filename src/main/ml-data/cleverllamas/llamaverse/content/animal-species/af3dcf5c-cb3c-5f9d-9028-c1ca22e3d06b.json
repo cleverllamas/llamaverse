@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Tuatara",
+        "sizeClass": "small",
+        "fluffiness": 1,
+        "typicalDisposition": "ancient",
+        "typicalLifespanYears": 100,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Reptilia",
+          "order": "Rhynchocephalia",
+          "family": "Sphenodontidae",
+          "genus": "Sphenodon",
+          "species": "Sphenodon punctatus"
+        },
+        "description": "The only surviving member of an order that diverged from other reptiles 240 million years ago. Has a third eye on top of its head. Llamas consider it the elder statesperson of the animal kingdom.",
+        "id": "af3dcf5c-cb3c-5f9d-9028-c1ca22e3d06b"
+      }
+    }
+  }
+}

@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Hybrid",
   "placeOfBirth": "East Brian, Colombia",
-  "description": "Peter is a amber-eyed llama with red hair, standing 195 cm tall. Originally from East Brian, Colombia, Peter enjoys painting, wood carving, singing. Known for their friendly and mischievous personality, Peter is a beloved member of the llama community."
+  "description": "Peter is a amber-eyed llama with red hair, standing 195 cm tall. Originally from East Brian, Colombia, Peter enjoys painting, wood carving, singing. Known for their friendly and mischievous personality, Peter is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriborealis"
 }

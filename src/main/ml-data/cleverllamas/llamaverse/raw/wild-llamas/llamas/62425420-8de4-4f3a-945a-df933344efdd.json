@@ -7,5 +7,6 @@
   "hairColor": "Gray",
   "breed": "Suri",
   "placeOfBirth": "Malikport, Solomon Islands",
-  "description": "Kyle is a green-eyed llama with gray hair, standing 132 cm tall. Originally from Malikport, Solomon Islands, Kyle enjoys dancing, reading, gardening. Known for their playful and curious personality, Kyle is a beloved member of the llama community."
+  "description": "Kyle is a green-eyed llama with gray hair, standing 132 cm tall. Originally from Malikport, Solomon Islands, Kyle enjoys dancing, reading, gardening. Known for their playful and curious personality, Kyle is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriensis"
 }

@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "66e806a2-0c58-43ae-b293-bd4fc95f7b3b",
+        "name": "Fidget",
+        "ageYears": 1,
+        "disposition": "sneaky",
+        "fluffiness": 2,
+        "quirk": "refuses to acknowledge Mondays",
+        "speciesId": "8867c7bb-9643-55dc-b087-78a3f587f238",
+        "speciesCommonName": "Vampire Squid",
+        "speciesScientificName": "Vampyroteuthis infernalis",
+        "sizeClass": "small",
+        "ownerName": "Clara",
+        "shelterId": "4e1e0f71-7c69-5073-ab12-27cfd4257912",
+        "shelterName": "The Old Pond Sanctuary"
+      }
+    }
+  }
+}

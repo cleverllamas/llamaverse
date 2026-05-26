@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "13840e3f-3ba8-47e3-82c7-7b85feae78d5",
+        "name": "Fizzle",
+        "ageYears": 3,
+        "disposition": "hyperactive",
+        "fluffiness": 4,
+        "quirk": "organises its food alphabetically before eating",
+        "speciesId": "3810d075-0003-5837-a04a-661fe4fc035c",
+        "speciesCommonName": "Shoebill Stork",
+        "speciesScientificName": "Balaeniceps rex",
+        "sizeClass": "large",
+        "ownerName": "Clara",
+        "shelterId": "24d12d56-1e48-56e1-aa51-54df3c5f003c",
+        "shelterName": "The Stillness Institute"
+      }
+    }
+  }
+}

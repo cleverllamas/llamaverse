@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "2a7e92e4-042c-47a5-b6d7-6bbc36f439de",
+        "name": "Dingleberry",
+        "ageYears": 0,
+        "disposition": "timid",
+        "fluffiness": 1,
+        "quirk": "has memorised the bus timetable for a city it has never visited",
+        "speciesId": "448bb2fb-6c8f-5bbe-a509-6296ebcfb91e",
+        "speciesCommonName": "Blue-ringed Octopus",
+        "speciesScientificName": "Hapalochlaena lunulata",
+        "sizeClass": "tiny",
+        "ownerName": "Boris",
+        "shelterId": "e9a0f6a9-5a3f-51a3-ae37-19773f4ac55f",
+        "shelterName": "The Archipelago Orphanage"
+      }
+    }
+  }
+}

@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Suri",
   "placeOfBirth": "Staceyport, French Guiana",
-  "description": "Whitney is a blue-eyed llama with red hair, standing 145 cm tall. Originally from Staceyport, French Guiana, Whitney enjoys knitting, cooking, gardening. Known for their friendly and calm personality, Whitney is a beloved member of the llama community."
+  "description": "Whitney is a blue-eyed llama with red hair, standing 145 cm tall. Originally from Staceyport, French Guiana, Whitney enjoys knitting, cooking, gardening. Known for their friendly and calm personality, Whitney is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriensis"
 }

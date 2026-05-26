@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Suri",
   "placeOfBirth": "Stevenmouth, Uzbekistan",
-  "description": "Patrick is a green-eyed llama with red hair, standing 148 cm tall. Originally from Stevenmouth, Uzbekistan, Patrick enjoys singing, wood carving, hiking. Known for their gentle and shy personality, Patrick is a beloved member of the llama community."
+  "description": "Patrick is a green-eyed llama with red hair, standing 148 cm tall. Originally from Stevenmouth, Uzbekistan, Patrick enjoys singing, wood carving, hiking. Known for their gentle and shy personality, Patrick is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_borealis"
 }

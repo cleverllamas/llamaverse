@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "7b52a072-32b8-4ac7-8305-737e14dd1435",
+        "name": "Crinkle",
+        "ageYears": 5,
+        "disposition": "lazy",
+        "fluffiness": 7,
+        "quirk": "has never once been surprised by anything",
+        "speciesId": "087abb24-d5df-5dcc-904b-3a9880c55edd",
+        "speciesCommonName": "Fennec Fox",
+        "speciesScientificName": "Vulpes zerda",
+        "sizeClass": "small",
+        "ownerName": "Aaron",
+        "shelterId": "43593191-478d-5f0a-82ec-63ff4cc4122e",
+        "shelterName": "The Patagonian Wild Wing Refuge"
+      }
+    }
+  }
+}

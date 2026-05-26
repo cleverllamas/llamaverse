@@ -7,5 +7,6 @@
   "hairColor": "Gray",
   "breed": "Hybrid",
   "placeOfBirth": "West Matthew, Kazakhstan",
-  "description": "Robert is a blue-eyed llama with gray hair, standing 138 cm tall. Originally from West Matthew, Kazakhstan, Robert enjoys singing, hiking, reading. Known for their gentle and energetic personality, Robert is a beloved member of the llama community."
+  "description": "Robert is a blue-eyed llama with gray hair, standing 138 cm tall. Originally from West Matthew, Kazakhstan, Robert enjoys singing, hiking, reading. Known for their gentle and energetic personality, Robert is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriensis"
 }

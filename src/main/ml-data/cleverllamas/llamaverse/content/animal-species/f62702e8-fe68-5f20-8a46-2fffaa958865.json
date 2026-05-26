@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Velvet Worm",
+        "sizeClass": "tiny",
+        "fluffiness": 4,
+        "typicalDisposition": "ancient",
+        "typicalLifespanYears": 6,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Onychophora",
+          "class": "Udeonychophora",
+          "order": "Euonychophora",
+          "family": "Peripatopsidae",
+          "genus": "Peripatopsis",
+          "species": "Peripatopsis capensis"
+        },
+        "description": "An evolutionary holdover from 500 million years ago. Shoots slime. Llamas consider it a living history lesson.",
+        "id": "f62702e8-fe68-5f20-8a46-2fffaa958865"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "bcb21659-70d1-4c6a-82a9-29ab9f669e38",
+        "name": "Tangle",
+        "ageYears": 0,
+        "disposition": "hyperactive",
+        "fluffiness": 2,
+        "quirk": "judges every piece of music against a private internal standard it has never revealed",
+        "speciesId": "7e6b0565-9435-55ff-abf9-405adc099f7b",
+        "speciesCommonName": "Water Bear",
+        "speciesScientificName": "Ramazzottius oberhaeuseri",
+        "sizeClass": "microscopic",
+        "ownerName": "Aaron",
+        "shelterId": "fea3da74-6337-5053-bffe-89e75d14ef03",
+        "shelterName": "The Wandering Fleece Animal Sanctuary"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "4734766d-36c0-486d-a0d1-6f0d5146fe6c",
+        "name": "Noodle",
+        "ageYears": 9,
+        "disposition": "eccentric",
+        "fluffiness": 2,
+        "quirk": "stages elaborate fake emergencies to see who responds fastest",
+        "speciesId": "3dc7ce14-9c2a-5e33-b387-4fd40e0cbcc4",
+        "speciesCommonName": "Mandrill",
+        "speciesScientificName": "Mandrillus sphinx",
+        "sizeClass": "large",
+        "ownerName": "Horatio",
+        "shelterId": "1d1ceadd-64ed-52d5-a416-b278d95c83d1",
+        "shelterName": "The Cosy Burrow Rescue and Rehoming"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "cf6e2d9e-a6f3-4093-a6f3-9c282f37ff33",
+        "name": "Gobsmack",
+        "ageYears": 40,
+        "disposition": "philosophical",
+        "fluffiness": 9,
+        "quirk": "has memorised the bus timetable for a city it has never visited",
+        "speciesId": "080a7a98-42c2-5b89-a2bb-13861f22dd58",
+        "speciesCommonName": "Kakapo",
+        "speciesScientificName": "Strigops habroptilus",
+        "sizeClass": "medium",
+        "ownerName": "Kestrel",
+        "shelterId": "a80124a7-0a88-582c-9362-e5c7aecd90d2",
+        "shelterName": "The Peculiar Menagerie of Llamaville East"
+      }
+    }
+  }
+}

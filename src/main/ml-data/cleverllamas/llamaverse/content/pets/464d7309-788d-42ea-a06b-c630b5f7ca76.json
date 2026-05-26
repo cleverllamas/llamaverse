@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "464d7309-788d-42ea-a06b-c630b5f7ca76",
+        "name": "Waggle",
+        "ageYears": 1,
+        "disposition": "dignified",
+        "fluffiness": 1,
+        "quirk": "knows one card trick and performs it at every possible opportunity",
+        "speciesId": "ca4dc0c3-4cac-5f51-b512-5b1c824b286b",
+        "speciesCommonName": "Bioluminescent Jellyfish",
+        "speciesScientificName": "Mastigias papua",
+        "sizeClass": "small",
+        "ownerName": "Bradley",
+        "shelterId": "43593191-478d-5f0a-82ec-63ff4cc4122e",
+        "shelterName": "The Patagonian Wild Wing Refuge"
+      }
+    }
+  }
+}

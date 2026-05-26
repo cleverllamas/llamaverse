@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "12e9ef42-e602-4d0e-a6f4-156a68165db7",
+        "name": "Crinkle",
+        "ageYears": 12,
+        "disposition": "affectionate",
+        "fluffiness": 6,
+        "quirk": "sings exactly one note whenever startled",
+        "speciesId": "686b9835-e7a5-58b6-8e19-741d7ca27e8d",
+        "speciesCommonName": "Atlantic Puffin",
+        "speciesScientificName": "Fratercula arctica",
+        "sizeClass": "small",
+        "ownerName": "Gwen",
+        "shelterId": "6d613241-5ad3-5197-8b01-500e8b607567",
+        "shelterName": "Fernanda's Home for Misunderstood Creatures"
+      }
+    }
+  }
+}

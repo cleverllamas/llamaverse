@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "e4a62022-399b-4bbc-a90c-ba79a774d9be",
+        "name": "Waggle",
+        "ageYears": 4,
+        "disposition": "eccentric",
+        "fluffiness": 1,
+        "quirk": "has memorised all 88 Beethoven piano sonatas",
+        "speciesId": "5b5b57d6-344d-5913-bf87-dac3a883d652",
+        "speciesCommonName": "Emperor Scorpion",
+        "speciesScientificName": "Pandinus imperator",
+        "sizeClass": "small",
+        "ownerName": "Derek",
+        "shelterId": "2b312a04-c215-5098-9433-f5aab988726c",
+        "shelterName": "Apex Companions Forever"
+      }
+    }
+  }
+}

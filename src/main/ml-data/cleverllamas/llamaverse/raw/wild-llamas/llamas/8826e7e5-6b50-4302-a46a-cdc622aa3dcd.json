@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Hybrid",
   "placeOfBirth": "Melissaland, British Indian Ocean Territory (Chagos Archipelago)",
-  "description": "Lisa is a hazel-eyed llama with red hair, standing 135 cm tall. Originally from Melissaland, British Indian Ocean Territory (Chagos Archipelago), Lisa enjoys singing, wood carving, reading. Known for their calm and playful personality, Lisa is a beloved member of the llama community."
+  "description": "Lisa is a hazel-eyed llama with red hair, standing 135 cm tall. Originally from Melissaland, British Indian Ocean Territory (Chagos Archipelago), Lisa enjoys singing, wood carving, reading. Known for their calm and playful personality, Lisa is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_surideserta"
 }

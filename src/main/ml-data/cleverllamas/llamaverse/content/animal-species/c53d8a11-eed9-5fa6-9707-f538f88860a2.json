@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Emperor Tamarin",
+        "sizeClass": "tiny",
+        "fluffiness": 7,
+        "typicalDisposition": "imperious",
+        "typicalLifespanYears": 18,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Mammalia",
+          "order": "Primates",
+          "family": "Callitrichidae",
+          "genus": "Saguinus",
+          "species": "Saguinus imperator"
+        },
+        "description": "Named after Kaiser Wilhelm II due to its magnificent white moustache. Weighs 500g. Llamas find the self-presentation impeccable at any scale.",
+        "id": "c53d8a11-eed9-5fa6-9707-f538f88860a2"
+      }
+    }
+  }
+}

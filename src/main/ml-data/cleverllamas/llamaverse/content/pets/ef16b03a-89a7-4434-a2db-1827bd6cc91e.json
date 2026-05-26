@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "ef16b03a-89a7-4434-a2db-1827bd6cc91e",
+        "name": "Gobsmack",
+        "ageYears": 1,
+        "disposition": "stoic",
+        "fluffiness": 1,
+        "quirk": "has been composing the same symphony for eleven years",
+        "speciesId": "ca4dc0c3-4cac-5f51-b512-5b1c824b286b",
+        "speciesCommonName": "Bioluminescent Jellyfish",
+        "speciesScientificName": "Mastigias papua",
+        "sizeClass": "small",
+        "ownerName": "Reginald",
+        "shelterId": "6d613241-5ad3-5197-8b01-500e8b607567",
+        "shelterName": "Fernanda's Home for Misunderstood Creatures"
+      }
+    }
+  }
+}

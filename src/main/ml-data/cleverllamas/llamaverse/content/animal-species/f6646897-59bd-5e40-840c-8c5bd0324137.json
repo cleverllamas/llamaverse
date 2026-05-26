@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Goliath Birdeater Tarantula",
+        "sizeClass": "medium",
+        "fluffiness": 6,
+        "typicalDisposition": "territorial",
+        "typicalLifespanYears": 25,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Arthropoda",
+          "class": "Arachnida",
+          "order": "Araneae",
+          "family": "Theraphosidae",
+          "genus": "Theraphosa",
+          "species": "Theraphosa blondi"
+        },
+        "description": "The world's largest spider. Its leg span exceeds 30cm. Llamas keep them as a status symbol and a conversation starter.",
+        "id": "f6646897-59bd-5e40-840c-8c5bd0324137"
+      }
+    }
+  }
+}

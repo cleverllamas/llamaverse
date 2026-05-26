@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "072fb047-f6cc-401d-ac8a-bf35e71d6b1e",
+        "name": "Twitch",
+        "ageYears": 1,
+        "disposition": "lazy",
+        "fluffiness": 1,
+        "quirk": "has formed strong opinions about architecture",
+        "speciesId": "da4571df-9cf3-530c-8e2f-9c15e57d3bcd",
+        "speciesCommonName": "Glow-worm",
+        "speciesScientificName": "Lampyris noctiluca",
+        "sizeClass": "tiny",
+        "ownerName": "Miranda",
+        "shelterId": "2770733d-7079-5abc-92e8-6a21c74559c1",
+        "shelterName": "Deep Blue Creature Sanctuary"
+      }
+    }
+  }
+}

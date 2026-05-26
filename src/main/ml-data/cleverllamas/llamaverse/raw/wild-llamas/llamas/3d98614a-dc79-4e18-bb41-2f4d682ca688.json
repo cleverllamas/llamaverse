@@ -7,5 +7,6 @@
   "hairColor": "Black",
   "breed": "Huacaya",
   "placeOfBirth": "Elizabethtown, Saint Pierre and Miquelon",
-  "description": "Stephen is a hazel-eyed llama with black hair, standing 136 cm tall. Originally from Elizabethtown, Saint Pierre and Miquelon, Stephen enjoys hiking, wood carving, gardening. Known for their energetic and curious personality, Stephen is a beloved member of the llama community."
+  "description": "Stephen is a hazel-eyed llama with black hair, standing 136 cm tall. Originally from Elizabethtown, Saint Pierre and Miquelon, Stephen enjoys hiking, wood carving, gardening. Known for their energetic and curious personality, Stephen is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_borealis"
 }

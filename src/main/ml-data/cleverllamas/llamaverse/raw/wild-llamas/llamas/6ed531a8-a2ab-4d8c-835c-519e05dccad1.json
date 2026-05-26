@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Suri",
   "placeOfBirth": "Heathershire, Sudan",
-  "description": "Sylvia is a gray-eyed llama with red hair, standing 145 cm tall. Originally from Heathershire, Sudan, Sylvia enjoys reading, knitting, hiking. Known for their curious and energetic personality, Sylvia is a beloved member of the llama community."
+  "description": "Sylvia is a gray-eyed llama with red hair, standing 145 cm tall. Originally from Heathershire, Sudan, Sylvia enjoys reading, knitting, hiking. Known for their curious and energetic personality, Sylvia is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriborealis"
 }

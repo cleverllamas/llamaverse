@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Huacaya",
   "placeOfBirth": "Amandabury, Cape Verde",
-  "description": "Brian is a green-eyed llama with red hair, standing 166 cm tall. Originally from Amandabury, Cape Verde, Brian enjoys singing, cooking, dancing. Known for their playful and friendly personality, Brian is a beloved member of the llama community."
+  "description": "Brian is a green-eyed llama with red hair, standing 166 cm tall. Originally from Amandabury, Cape Verde, Brian enjoys singing, cooking, dancing. Known for their playful and friendly personality, Brian is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_vellifer"
 }

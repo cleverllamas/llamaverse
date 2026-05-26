@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Aye-aye",
+        "sizeClass": "small",
+        "fluffiness": 6,
+        "typicalDisposition": "eccentric",
+        "typicalLifespanYears": 23,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Mammalia",
+          "order": "Primates",
+          "family": "Daubentoniidae",
+          "genus": "Daubentonia",
+          "species": "Daubentonia madagascariensis"
+        },
+        "description": "Has a long skeletal middle finger for tapping on wood and extracting grubs. Enormous eyes. Llamas find it fascinating and keep it in tall trees.",
+        "id": "33dcd8b2-2120-5581-8ec0-a55573d3c3bd"
+      }
+    }
+  }
+}

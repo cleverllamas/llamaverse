@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "732e9c84-ac7e-4970-8682-9faa132802b1",
+        "name": "Twizzle",
+        "ageYears": 13,
+        "disposition": "theatrical",
+        "fluffiness": 1,
+        "quirk": "has memorised all 88 Beethoven piano sonatas",
+        "speciesId": "d191c6f3-b4e9-5af5-a642-3b80b969af04",
+        "speciesCommonName": "Thorny Devil",
+        "speciesScientificName": "Moloch horridus",
+        "sizeClass": "tiny",
+        "ownerName": "Isolde",
+        "shelterId": "7437ed74-37ab-5121-a86c-723531fb55b3",
+        "shelterName": "The Galaxy of Small Things"
+      }
+    }
+  }
+}

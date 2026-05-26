@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "9297ad63-5919-404e-a8e2-035d267be821",
+        "name": "Rumpus",
+        "ageYears": 2,
+        "disposition": "serene",
+        "fluffiness": 1,
+        "quirk": "sings exactly one note whenever startled",
+        "speciesId": "832c436c-2009-5a0d-9129-44da183292f1",
+        "speciesCommonName": "Satanic Leaf-tailed Gecko",
+        "speciesScientificName": "Uroplatus phantasticus",
+        "sizeClass": "tiny",
+        "ownerName": "Ophelia",
+        "shelterId": "4e1e0f71-7c69-5073-ab12-27cfd4257912",
+        "shelterName": "The Old Pond Sanctuary"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "40cd57f6-bac2-402d-b7f3-c68c82f56eb5",
+        "name": "Waggle",
+        "ageYears": 4,
+        "disposition": "earnest",
+        "fluffiness": 2,
+        "quirk": "constructed a scale model of the hay festival from memory",
+        "speciesId": "4cb28c77-0517-541b-af3b-f1c4cc5efbd3",
+        "speciesCommonName": "Magnificent Frigatebird",
+        "speciesScientificName": "Fregata magnificens",
+        "sizeClass": "large",
+        "ownerName": "Kestrel",
+        "shelterId": "c8de3d2b-6e9a-5ed1-bda7-9a50f977ddb9",
+        "shelterName": "The Quiet Pool"
+      }
+    }
+  }
+}

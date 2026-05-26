@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Suri",
   "placeOfBirth": "West Tonyaland, Belgium",
-  "description": "Sean is a brown-eyed llama with red hair, standing 195 cm tall. Originally from West Tonyaland, Belgium, Sean enjoys reading, wood carving, singing. Known for their playful and friendly personality, Sean is a beloved member of the llama community."
+  "description": "Sean is a brown-eyed llama with red hair, standing 195 cm tall. Originally from West Tonyaland, Belgium, Sean enjoys reading, wood carving, singing. Known for their playful and friendly personality, Sean is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_litoralis"
 }

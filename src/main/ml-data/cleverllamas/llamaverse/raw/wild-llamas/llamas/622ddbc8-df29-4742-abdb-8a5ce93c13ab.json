@@ -7,5 +7,6 @@
   "hairColor": "White",
   "breed": "Hybrid",
   "placeOfBirth": "Gonzalezhaven, Madagascar",
-  "description": "Karl is a green-eyed llama with white hair, standing 196 cm tall. Originally from Gonzalezhaven, Madagascar, Karl enjoys dancing, knitting, reading. Known for their friendly and playful personality, Karl is a beloved member of the llama community."
+  "description": "Karl is a green-eyed llama with white hair, standing 196 cm tall. Originally from Gonzalezhaven, Madagascar, Karl enjoys dancing, knitting, reading. Known for their friendly and playful personality, Karl is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriensis"
 }

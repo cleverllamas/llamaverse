@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "40324276-a105-4211-927c-b0d83603505b",
+        "name": "Pringle",
+        "ageYears": 0,
+        "disposition": "cheerful",
+        "fluffiness": 1,
+        "quirk": "sings exactly one note whenever startled",
+        "speciesId": "ae752e8e-5741-575f-8293-97abe1393e0e",
+        "speciesCommonName": "Nematode",
+        "speciesScientificName": "Caenorhabditis elegans",
+        "sizeClass": "microscopic",
+        "ownerName": "Monique",
+        "shelterId": "869456e1-451e-554f-96f2-4a54e832dd46",
+        "shelterName": "Bradley's Extreme Fauna Compound"
+      }
+    }
+  }
+}

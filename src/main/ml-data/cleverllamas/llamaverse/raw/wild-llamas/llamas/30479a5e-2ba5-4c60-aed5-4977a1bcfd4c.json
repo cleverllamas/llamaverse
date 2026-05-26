@@ -7,5 +7,6 @@
   "hairColor": "Blonde",
   "breed": "Hybrid",
   "placeOfBirth": "Maryport, Angola",
-  "description": "Reginald is a brown-eyed llama with blonde hair, standing 153 cm tall. Originally from Maryport, Angola, Reginald enjoys cooking, dancing, painting. Known for their curious and energetic personality, Reginald is a beloved member of the llama community."
+  "description": "Reginald is a brown-eyed llama with blonde hair, standing 153 cm tall. Originally from Maryport, Angola, Reginald enjoys cooking, dancing, painting. Known for their curious and energetic personality, Reginald is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_andinus"
 }

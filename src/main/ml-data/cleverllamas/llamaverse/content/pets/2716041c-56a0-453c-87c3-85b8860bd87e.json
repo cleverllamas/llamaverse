@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "2716041c-56a0-453c-87c3-85b8860bd87e",
+        "name": "Kerfuffle Jr",
+        "ageYears": 12,
+        "disposition": "dignified",
+        "fluffiness": 2,
+        "quirk": "has attempted to file taxes three years in a row without opposable thumbs",
+        "speciesId": "0af44b1d-a59e-5eb3-9f38-bca9dd702317",
+        "speciesCommonName": "Nautilus",
+        "speciesScientificName": "Nautilus pompilius",
+        "sizeClass": "small",
+        "ownerName": "Ophelia",
+        "shelterId": "8d977212-e5ba-55f4-be32-882c53197b49",
+        "shelterName": "The Wool and Scales Rehabilitation Centre"
+      }
+    }
+  }
+}

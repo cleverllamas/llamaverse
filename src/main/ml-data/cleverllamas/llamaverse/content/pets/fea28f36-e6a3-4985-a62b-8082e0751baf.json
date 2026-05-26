@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "fea28f36-e6a3-4985-a62b-8082e0751baf",
+        "name": "Splodge",
+        "ageYears": 4,
+        "disposition": "dignified",
+        "fluffiness": 1,
+        "quirk": "has memorised all 88 Beethoven piano sonatas",
+        "speciesId": "6e6b7d29-e998-5259-bc2c-cf497befc045",
+        "speciesCommonName": "Garden Snail",
+        "speciesScientificName": "Helix aspersa",
+        "sizeClass": "tiny",
+        "ownerName": "Miranda",
+        "shelterId": "a80124a7-0a88-582c-9362-e5c7aecd90d2",
+        "shelterName": "The Peculiar Menagerie of Llamaville East"
+      }
+    }
+  }
+}

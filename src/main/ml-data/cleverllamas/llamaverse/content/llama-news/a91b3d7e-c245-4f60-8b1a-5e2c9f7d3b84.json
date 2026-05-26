@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "llama-news"
+    },
+    "instance": {
+      "llama-news": {
+        "id": "a91b3d7e-c245-4f60-8b1a-5e2c9f7d3b84",
+        "headline": "Government Mandates Bitemporal Record-Keeping for All Public Institutions",
+        "byline": "Bradley",
+        "publishedDate": "2025-03-22",
+        "section": "Government",
+        "tags": [
+          "government",
+          "temporal",
+          "bitemporal",
+          "records",
+          "compliance",
+          "valid-time",
+          "system-time"
+        ],
+        "summary": "New legislation requires all government bodies to maintain bitemporal records \u2014 distinguishing when events occurred from when they were recorded.",
+        "body": "CAPITAL MEADOW \u2014 The Department of Official Records has enacted the Temporal Accuracy in Public Administration Act, requiring all government bodies to maintain bitemporal records by end of the fiscal year.\n\nThe legislation mandates two timestamps on every official record: when the documented event occurred (the 'valid time'), and when it was entered into the system (the 'system time'). The distinction allows auditors to determine not only what was true at any given moment, but when the system knew it \u2014 critical in fraud investigations.\n\n'A system that cannot tell you when it learned something is a system that cannot be fully trusted,' said the Minister for Data Integrity.\n\nMarkLogic's temporal collections feature, which natively supports both valid-time and system-time tracking with full query support, is expected to see significant uptake. The compliance deadline is set for the third quarter of next year."
+      }
+    }
+  }
+}

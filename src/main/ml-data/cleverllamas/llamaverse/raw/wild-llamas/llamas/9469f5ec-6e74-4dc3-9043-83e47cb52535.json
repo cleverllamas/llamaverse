@@ -7,5 +7,6 @@
   "hairColor": "Brown",
   "breed": "Suri",
   "placeOfBirth": "Danielland, Liberia",
-  "description": "Sarah is a hazel-eyed llama with brown hair, standing 127 cm tall. Originally from Danielland, Liberia, Sarah enjoys wood carving, gardening, dancing. Known for their shy and energetic personality, Sarah is a beloved member of the llama community."
+  "description": "Sarah is a hazel-eyed llama with brown hair, standing 127 cm tall. Originally from Danielland, Liberia, Sarah enjoys wood carving, gardening, dancing. Known for their shy and energetic personality, Sarah is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriphilus"
 }

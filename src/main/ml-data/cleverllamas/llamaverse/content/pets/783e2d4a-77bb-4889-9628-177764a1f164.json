@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "783e2d4a-77bb-4889-9628-177764a1f164",
+        "name": "Topsy",
+        "ageYears": 120,
+        "disposition": "bombastic",
+        "fluffiness": 2,
+        "quirk": "sings exactly one note whenever startled",
+        "speciesId": "bbd8c274-3adb-53ac-a054-a083bdfc43ba",
+        "speciesCommonName": "Gal\u00e1pagos Tortoise",
+        "speciesScientificName": "Chelonoidis niger",
+        "sizeClass": "gigantic",
+        "ownerName": "Percy",
+        "shelterId": "6d613241-5ad3-5197-8b01-500e8b607567",
+        "shelterName": "Fernanda's Home for Misunderstood Creatures"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "c6b49c43-dd72-4752-931d-0baeb7f4e27f",
+        "name": "Squelch",
+        "ageYears": 14,
+        "disposition": "cheerful",
+        "fluffiness": 3,
+        "quirk": "refuses to acknowledge Mondays",
+        "speciesId": "7e172705-39a5-5fb7-adfb-8228eeb1856e",
+        "speciesCommonName": "Orca",
+        "speciesScientificName": "Orcinus orca",
+        "sizeClass": "gigantic",
+        "ownerName": "Jasper",
+        "shelterId": "2b312a04-c215-5098-9433-f5aab988726c",
+        "shelterName": "Apex Companions Forever"
+      }
+    }
+  }
+}

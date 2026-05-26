@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Hybrid",
   "placeOfBirth": "North Haley, Costa Rica",
-  "description": "Mary is a hazel-eyed llama with red hair, standing 181 cm tall. Originally from North Haley, Costa Rica, Mary enjoys knitting, painting, reading. Known for their energetic and mischievous personality, Mary is a beloved member of the llama community."
+  "description": "Mary is a hazel-eyed llama with red hair, standing 181 cm tall. Originally from North Haley, Costa Rica, Mary enjoys knitting, painting, reading. Known for their energetic and mischievous personality, Mary is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_vellaboreas"
 }

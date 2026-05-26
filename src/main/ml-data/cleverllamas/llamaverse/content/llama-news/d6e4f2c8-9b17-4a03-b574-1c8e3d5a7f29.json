@@ -1,0 +1,26 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "llama-news"
+    },
+    "instance": {
+      "llama-news": {
+        "id": "d6e4f2c8-9b17-4a03-b574-1c8e3d5a7f29",
+        "headline": "Security Breach at Finance Authority Traced to Misconfigured Document Permissions",
+        "byline": "Ashley",
+        "publishedDate": "2025-02-07",
+        "section": "Technology",
+        "tags": [
+          "security",
+          "permissions",
+          "data breach",
+          "roles",
+          "access control",
+          "MarkLogic"
+        ],
+        "summary": "A major data exposure at the Llamaverse Finance Authority was traced to overly permissive document-level access controls, exposing 1.2 million citizen records.",
+        "body": "FINANCIAL DISTRICT \u2014 A security review commissioned by the Llamaverse Finance Authority has concluded that a data exposure affecting 1.2 million citizen records was caused by a misconfiguration of document-level permissions in the authority's central document store.\n\nSensitive financial records had been loaded with read permissions granted to the public-facing read role rather than the restricted citizen-services role. Because the organisation had not implemented permission queries \u2014 queries that test access rights before returning documents \u2014 the exposure went undetected for six weeks.\n\n'The records were findable by any authenticated user,' the review stated. 'There was no technical barrier to access beyond authentication.'\n\nDatabase administrators familiar with MarkLogic noted that xdmp:document-get-permissions() and collection-scoped permission queries provide exactly the automated verification that could have surfaced the issue at load time. The Finance Authority has committed to implementing permission-query based validation gates on all future ingest pipelines."
+      }
+    }
+  }
+}

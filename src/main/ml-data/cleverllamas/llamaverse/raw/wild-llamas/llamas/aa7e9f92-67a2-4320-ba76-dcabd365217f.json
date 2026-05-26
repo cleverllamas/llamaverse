@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Huacaya",
   "placeOfBirth": "Lake Alicia, French Polynesia",
-  "description": "Christopher is a gray-eyed llama with red hair, standing 132 cm tall. Originally from Lake Alicia, French Polynesia, Christopher enjoys dancing, knitting, wood carving. Known for their calm and playful personality, Christopher is a beloved member of the llama community."
+  "description": "Christopher is a gray-eyed llama with red hair, standing 132 cm tall. Originally from Lake Alicia, French Polynesia, Christopher enjoys dancing, knitting, wood carving. Known for their calm and playful personality, Christopher is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriforest"
 }

@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "46c61145-bf63-4d8b-86d2-fa4c3bbe0211",
+        "name": "Bamboozle",
+        "ageYears": 17,
+        "disposition": "affectionate",
+        "fluffiness": 3,
+        "quirk": "organises its food alphabetically before eating",
+        "speciesId": "826bb5ba-ae06-53d7-a1cc-2956b8f8e5c5",
+        "speciesCommonName": "Aardvark",
+        "speciesScientificName": "Orycteropus afer",
+        "sizeClass": "large",
+        "ownerName": "Freddie",
+        "shelterId": "2770733d-7079-5abc-92e8-6a21c74559c1",
+        "shelterName": "Deep Blue Creature Sanctuary"
+      }
+    }
+  }
+}

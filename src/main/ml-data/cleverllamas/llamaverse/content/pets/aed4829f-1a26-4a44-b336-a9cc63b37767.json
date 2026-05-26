@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "aed4829f-1a26-4a44-b336-a9cc63b37767",
+        "name": "Knack",
+        "ageYears": 8,
+        "disposition": "sneaky",
+        "fluffiness": 8,
+        "quirk": "has memorised all 88 Beethoven piano sonatas",
+        "speciesId": "b51959db-b66c-5ee4-9aac-8085580cba2a",
+        "speciesCommonName": "Arctic Fox",
+        "speciesScientificName": "Vulpes lagopus",
+        "sizeClass": "small",
+        "ownerName": "Clara",
+        "shelterId": "869456e1-451e-554f-96f2-4a54e832dd46",
+        "shelterName": "Bradley's Extreme Fauna Compound"
+      }
+    }
+  }
+}

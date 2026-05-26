@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "dd8f70ba-db94-4d87-9c8e-2478a8bc981a",
+        "name": "Kerfuffle",
+        "ageYears": 1,
+        "disposition": "philosophical",
+        "fluffiness": 1,
+        "quirk": "sleeps only in prime-numbered minutes",
+        "speciesId": "86740326-9afe-5c95-a5a8-c7045272e940",
+        "speciesCommonName": "Stick Insect",
+        "speciesScientificName": "Phasma gigas",
+        "sizeClass": "small",
+        "ownerName": "Fernanda",
+        "shelterId": "a80124a7-0a88-582c-9362-e5c7aecd90d2",
+        "shelterName": "The Peculiar Menagerie of Llamaville East"
+      }
+    }
+  }
+}

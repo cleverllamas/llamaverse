@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "986873c2-4a97-41e6-be0a-da01df1cdbf3",
+        "name": "Knack",
+        "ageYears": 4,
+        "disposition": "eccentric",
+        "fluffiness": 1,
+        "quirk": "maintains a written log of everything it finds interesting, which is everything",
+        "speciesId": "cc8dd1ba-f29c-56e6-8699-15f4a268b860",
+        "speciesCommonName": "Poison Dart Frog",
+        "speciesScientificName": "Dendrobates tinctorius",
+        "sizeClass": "tiny",
+        "ownerName": "Jasper",
+        "shelterId": "43593191-478d-5f0a-82ec-63ff4cc4122e",
+        "shelterName": "The Patagonian Wild Wing Refuge"
+      }
+    }
+  }
+}

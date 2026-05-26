@@ -1,0 +1,18 @@
+'use strict';
+
+const mcpServer = require('./lib/mcp-server.sjs');
+
+/**
+ * MarkLogic Data Service endpoint implementing MCP server
+ * @param {object} message - The MCP protocol message
+ * @returns {object} MCP protocol response
+ */
+function helloWorld(message) {
+  xdmp.log(`MCP Request: ${xdmp.quote(message)}`, 'debug');
+  const response = mcpServer.handleMessage(message);
+  xdmp.log(`MCP Response: ${xdmp.quote(response)}`, 'debug');
+  return response;
+}
+
+// Main module exports
+exports.helloWorld = helloWorld;

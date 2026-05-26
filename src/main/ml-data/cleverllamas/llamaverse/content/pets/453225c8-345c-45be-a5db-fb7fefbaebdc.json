@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "453225c8-345c-45be-a5db-fb7fefbaebdc",
+        "name": "Gloop",
+        "ageYears": 6,
+        "disposition": "serene",
+        "fluffiness": 1,
+        "quirk": "collects bottle caps from obscure regions",
+        "speciesId": "b101d7c8-5027-59ec-9ce4-4f84b8d08328",
+        "speciesCommonName": "Clownfish",
+        "speciesScientificName": "Amphiprion ocellaris",
+        "sizeClass": "tiny",
+        "ownerName": "Nigel",
+        "shelterId": "6d613241-5ad3-5197-8b01-500e8b607567",
+        "shelterName": "Fernanda's Home for Misunderstood Creatures"
+      }
+    }
+  }
+}

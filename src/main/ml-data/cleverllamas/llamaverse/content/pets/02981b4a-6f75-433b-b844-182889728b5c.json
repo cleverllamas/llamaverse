@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "02981b4a-6f75-433b-b844-182889728b5c",
+        "name": "Bafflement",
+        "ageYears": 11,
+        "disposition": "philosophical",
+        "fluffiness": 2,
+        "quirk": "only communicates using interpretive movement between 9 and 10am",
+        "speciesId": "c22b5f4d-e296-54a6-b2a1-469b4a119572",
+        "speciesCommonName": "Immortal Jellyfish",
+        "speciesScientificName": "Turritopsis dohrnii",
+        "sizeClass": "microscopic",
+        "ownerName": "Nigel",
+        "shelterId": "8d977212-e5ba-55f4-be32-882c53197b49",
+        "shelterName": "The Wool and Scales Rehabilitation Centre"
+      }
+    }
+  }
+}

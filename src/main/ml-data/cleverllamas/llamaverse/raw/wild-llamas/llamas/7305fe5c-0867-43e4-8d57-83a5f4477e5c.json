@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Hybrid",
   "placeOfBirth": "Ashleyton, Belgium",
-  "description": "Nancy is a brown-eyed llama with red hair, standing 153 cm tall. Originally from Ashleyton, Belgium, Nancy enjoys dancing, knitting, hiking. Known for their energetic and calm personality, Nancy is a beloved member of the llama community."
+  "description": "Nancy is a brown-eyed llama with red hair, standing 153 cm tall. Originally from Ashleyton, Belgium, Nancy enjoys dancing, knitting, hiking. Known for their energetic and calm personality, Nancy is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriensis"
 }

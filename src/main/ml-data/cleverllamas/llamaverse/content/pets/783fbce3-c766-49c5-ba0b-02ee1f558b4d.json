@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "783fbce3-c766-49c5-ba0b-02ee1f558b4d",
+        "name": "Flicker",
+        "ageYears": 1,
+        "disposition": "theatrical",
+        "fluffiness": 2,
+        "quirk": "sings exactly one note whenever startled",
+        "speciesId": "deb03c1d-b702-5d34-8c3a-d0613d7b4a66",
+        "speciesCommonName": "Bdelloid Rotifer",
+        "speciesScientificName": "Philodina roseola",
+        "sizeClass": "microscopic",
+        "ownerName": "Nigel",
+        "shelterId": "8d977212-e5ba-55f4-be32-882c53197b49",
+        "shelterName": "The Wool and Scales Rehabilitation Centre"
+      }
+    }
+  }
+}

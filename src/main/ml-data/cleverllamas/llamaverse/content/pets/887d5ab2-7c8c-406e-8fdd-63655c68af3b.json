@@ -1,0 +1,22 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "887d5ab2-7c8c-406e-8fdd-63655c68af3b",
+        "name": "Wobblesworth",
+        "ageYears": 1,
+        "disposition": "devoted",
+        "fluffiness": 2,
+        "quirk": "has memorised the bus timetable for a city it has never visited",
+        "speciesId": "0d0586d7-02c8-59e4-bf65-dcb62dac406b",
+        "speciesCommonName": "Leaf Insect",
+        "speciesScientificName": "Phyllium giganteum",
+        "sizeClass": "tiny",
+        "ownerName": "Lorenzo"
+      }
+    }
+  }
+}

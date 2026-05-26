@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "0eec210f-4885-4dfa-b19c-22e4ff4c78eb",
+        "name": "Bafflement",
+        "ageYears": 7,
+        "disposition": "bombastic",
+        "fluffiness": 1,
+        "quirk": "maintains a written log of everything it finds interesting, which is everything",
+        "speciesId": "d191c6f3-b4e9-5af5-a642-3b80b969af04",
+        "speciesCommonName": "Thorny Devil",
+        "speciesScientificName": "Moloch horridus",
+        "sizeClass": "tiny",
+        "ownerName": "Percy",
+        "shelterId": "2b312a04-c215-5098-9433-f5aab988726c",
+        "shelterName": "Apex Companions Forever"
+      }
+    }
+  }
+}

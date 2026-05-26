@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "27099007-24b0-4381-ba94-a8b52571b587",
+        "name": "Freckles",
+        "ageYears": 3,
+        "disposition": "hyperactive",
+        "fluffiness": 9,
+        "quirk": "is training for a marathon at a very leisurely pace",
+        "speciesId": "bc4c453d-1bf5-5319-8eb8-2ff5b197d557",
+        "speciesCommonName": "Pygmy Slow Loris",
+        "speciesScientificName": "Xanthonycticebus pygmaeus",
+        "sizeClass": "tiny",
+        "ownerName": "Aaron",
+        "shelterId": "8d977212-e5ba-55f4-be32-882c53197b49",
+        "shelterName": "The Wool and Scales Rehabilitation Centre"
+      }
+    }
+  }
+}

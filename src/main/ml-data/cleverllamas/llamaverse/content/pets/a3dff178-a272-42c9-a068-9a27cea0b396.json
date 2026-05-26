@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "a3dff178-a272-42c9-a068-9a27cea0b396",
+        "name": "Snuffleby",
+        "ageYears": 5,
+        "disposition": "regal",
+        "fluffiness": 2,
+        "quirk": "has memorised all 88 Beethoven piano sonatas",
+        "speciesId": "88d765fb-8f09-5dd8-b63c-ed660541bea5",
+        "speciesCommonName": "Chameleon",
+        "speciesScientificName": "Chamaeleo calyptratus",
+        "sizeClass": "small",
+        "ownerName": "Ashley",
+        "shelterId": "24d12d56-1e48-56e1-aa51-54df3c5f003c",
+        "shelterName": "The Stillness Institute"
+      }
+    }
+  }
+}

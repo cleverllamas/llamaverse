@@ -1,0 +1,25 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "professions"
+    },
+    "instance": {
+      "professions": {
+        "id": "b2c3d4e5-f6a7-4b8c-9d0e-1f2a3b4c5d6e",
+        "title": "Quantum Physicist",
+        "sector": "Science",
+        "description": "Quantum physicists in the llamaverse study the fundamental behaviour of matter at the sub-atomic level, with particular focus on the Llama Uncertainty Principle \u2014 the empirical observation that a llama in motion cannot be precisely localised without disturbing its hay consumption. Research posts are almost exclusively found at the top three universities.",
+        "typicalSalaryHayBales": 38500,
+        "seniorityLevel": "Senior",
+        "requiredYearsExperience": 12,
+        "keySkills": [
+          "quantum mechanics",
+          "particle physics",
+          "mathematical modelling",
+          "peer review"
+        ],
+        "secretPowerAdvantage": "Time Whisperer \u2014 enables intuition about quantum timeline branching"
+      }
+    }
+  }
+}

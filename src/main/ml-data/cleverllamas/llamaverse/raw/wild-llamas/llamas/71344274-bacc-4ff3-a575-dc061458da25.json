@@ -7,5 +7,6 @@
   "hairColor": "Blonde",
   "breed": "Suri",
   "placeOfBirth": "South Teresachester, Australia",
-  "description": "Carl is a green-eyed llama with blonde hair, standing 107 cm tall. Originally from South Teresachester, Australia, Carl enjoys painting, reading, knitting. Known for their playful and shy personality, Carl is a beloved member of the llama community."
+  "description": "Carl is a green-eyed llama with blonde hair, standing 107 cm tall. Originally from South Teresachester, Australia, Carl enjoys painting, reading, knitting. Known for their playful and shy personality, Carl is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriensis"
 }

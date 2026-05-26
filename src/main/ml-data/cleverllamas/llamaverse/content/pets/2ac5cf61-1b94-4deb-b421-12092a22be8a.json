@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "2ac5cf61-1b94-4deb-b421-12092a22be8a",
+        "name": "Tipple",
+        "ageYears": 1,
+        "disposition": "serene",
+        "fluffiness": 2,
+        "quirk": "has attempted to file taxes three years in a row without opposable thumbs",
+        "speciesId": "448bb2fb-6c8f-5bbe-a509-6296ebcfb91e",
+        "speciesCommonName": "Blue-ringed Octopus",
+        "speciesScientificName": "Hapalochlaena lunulata",
+        "sizeClass": "tiny",
+        "ownerName": "Aaron",
+        "shelterId": "8d977212-e5ba-55f4-be32-882c53197b49",
+        "shelterName": "The Wool and Scales Rehabilitation Centre"
+      }
+    }
+  }
+}

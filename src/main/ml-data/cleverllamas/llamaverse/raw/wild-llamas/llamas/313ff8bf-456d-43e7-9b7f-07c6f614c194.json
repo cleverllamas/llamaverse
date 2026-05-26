@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Hybrid",
   "placeOfBirth": "New Loriberg, Lithuania",
-  "description": "Juan is a amber-eyed llama with red hair, standing 138 cm tall. Originally from New Loriberg, Lithuania, Juan enjoys reading, hiking, painting. Known for their curious and gentle personality, Juan is a beloved member of the llama community."
+  "description": "Juan is a amber-eyed llama with red hair, standing 138 cm tall. Originally from New Loriberg, Lithuania, Juan enjoys reading, hiking, painting. Known for their curious and gentle personality, Juan is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_andinus"
 }

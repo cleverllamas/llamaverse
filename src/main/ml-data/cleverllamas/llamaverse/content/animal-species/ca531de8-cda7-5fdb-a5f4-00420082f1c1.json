@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Blue-tongued Skink",
+        "sizeClass": "small",
+        "fluffiness": 1,
+        "typicalDisposition": "calm",
+        "typicalLifespanYears": 20,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Reptilia",
+          "order": "Squamata",
+          "family": "Scincidae",
+          "genus": "Tiliqua",
+          "species": "Tiliqua scincoides"
+        },
+        "description": "Has a vivid blue tongue it extends slowly when threatened. Llamas find the deliberate drama relatable.",
+        "id": "ca531de8-cda7-5fdb-a5f4-00420082f1c1"
+      }
+    }
+  }
+}

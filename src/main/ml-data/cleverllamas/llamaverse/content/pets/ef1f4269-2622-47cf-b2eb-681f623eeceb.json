@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "ef1f4269-2622-47cf-b2eb-681f623eeceb",
+        "name": "Flibbertigibbet",
+        "ageYears": 2,
+        "disposition": "grumpy",
+        "fluffiness": 2,
+        "quirk": "only eats food arranged in symmetrical patterns",
+        "speciesId": "7cb9a70b-7e6e-5c08-a9c6-733ad6d71cdf",
+        "speciesCommonName": "Amano Shrimp",
+        "speciesScientificName": "Caridina multidentata",
+        "sizeClass": "tiny",
+        "ownerName": "Alice",
+        "shelterId": "869456e1-451e-554f-96f2-4a54e832dd46",
+        "shelterName": "Bradley's Extreme Fauna Compound"
+      }
+    }
+  }
+}

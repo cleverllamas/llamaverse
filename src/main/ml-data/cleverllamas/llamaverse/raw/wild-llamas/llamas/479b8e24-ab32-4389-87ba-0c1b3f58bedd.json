@@ -7,5 +7,6 @@
   "hairColor": "Silver",
   "breed": "Huacaya",
   "placeOfBirth": "Robinstad, Antarctica (the territory South of 60 deg S)",
-  "description": "David is a green-eyed llama with silver hair, standing 144 cm tall. Originally from Robinstad, Antarctica (the territory South of 60 deg S), David enjoys reading, gardening, hiking. Known for their energetic and curious personality, David is a beloved member of the llama community."
+  "description": "David is a green-eyed llama with silver hair, standing 144 cm tall. Originally from Robinstad, Antarctica (the territory South of 60 deg S), David enjoys reading, gardening, hiking. Known for their energetic and curious personality, David is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_deserticola"
 }

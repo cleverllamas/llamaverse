@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Blobfish",
+        "sizeClass": "small",
+        "fluffiness": 1,
+        "typicalDisposition": "resigned",
+        "typicalLifespanYears": 100,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Actinopterygii",
+          "order": "Scorpaeniformes",
+          "family": "Psychrolutidae",
+          "genus": "Psychrolutes",
+          "species": "Psychrolutes marcidus"
+        },
+        "description": "Looks depressed at sea-level pressure. Llamas see this as a personality trait and respond with compassion.",
+        "id": "c3459914-3500-52fc-869a-f401325f49c7"
+      }
+    }
+  }
+}

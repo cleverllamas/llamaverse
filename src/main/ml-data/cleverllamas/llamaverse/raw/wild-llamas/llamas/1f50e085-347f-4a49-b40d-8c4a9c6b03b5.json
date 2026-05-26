@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Hybrid",
   "placeOfBirth": "South Jessica, Mauritania",
-  "description": "Christopher is a green-eyed llama with red hair, standing 116 cm tall. Originally from South Jessica, Mauritania, Christopher enjoys cooking, wood carving, reading. Known for their friendly and playful personality, Christopher is a beloved member of the llama community."
+  "description": "Christopher is a green-eyed llama with red hair, standing 116 cm tall. Originally from South Jessica, Mauritania, Christopher enjoys cooking, wood carving, reading. Known for their friendly and playful personality, Christopher is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_borealis"
 }

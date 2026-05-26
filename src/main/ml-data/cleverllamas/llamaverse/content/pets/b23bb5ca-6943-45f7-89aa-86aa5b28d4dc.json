@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "b23bb5ca-6943-45f7-89aa-86aa5b28d4dc",
+        "name": "Quibbleston",
+        "ageYears": 10,
+        "disposition": "regal",
+        "fluffiness": 5,
+        "quirk": "has memorised all 88 Beethoven piano sonatas",
+        "speciesId": "5ac795c2-d264-5759-ac18-540698beaa0c",
+        "speciesCommonName": "Secretary Bird",
+        "speciesScientificName": "Sagittarius serpentarius",
+        "sizeClass": "large",
+        "ownerName": "Nigel",
+        "shelterId": "24d12d56-1e48-56e1-aa51-54df3c5f003c",
+        "shelterName": "The Stillness Institute"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "8f438dce-eb30-4bfc-aeec-cbf1da7c903a",
+        "name": "Bafflement",
+        "ageYears": 3,
+        "disposition": "earnest",
+        "fluffiness": 2,
+        "quirk": "judges every piece of music against a private internal standard it has never revealed",
+        "speciesId": "ce9431b4-718d-5339-a62d-8e30a0146993",
+        "speciesCommonName": "Giant Pacific Octopus",
+        "speciesScientificName": "Enteroctopus dofleini",
+        "sizeClass": "large",
+        "ownerName": "Beatrice",
+        "shelterId": "43593191-478d-5f0a-82ec-63ff4cc4122e",
+        "shelterName": "The Patagonian Wild Wing Refuge"
+      }
+    }
+  }
+}

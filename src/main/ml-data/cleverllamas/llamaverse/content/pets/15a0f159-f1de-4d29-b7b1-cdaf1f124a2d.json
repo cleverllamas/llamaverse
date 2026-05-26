@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "15a0f159-f1de-4d29-b7b1-cdaf1f124a2d",
+        "name": "Crumple",
+        "ageYears": 15,
+        "disposition": "eccentric",
+        "fluffiness": 2,
+        "quirk": "refuses to acknowledge Mondays",
+        "speciesId": "ca531de8-cda7-5fdb-a5f4-00420082f1c1",
+        "speciesCommonName": "Blue-tongued Skink",
+        "speciesScientificName": "Tiliqua scincoides",
+        "sizeClass": "small",
+        "ownerName": "Freddie",
+        "shelterId": "6d613241-5ad3-5197-8b01-500e8b607567",
+        "shelterName": "Fernanda's Home for Misunderstood Creatures"
+      }
+    }
+  }
+}

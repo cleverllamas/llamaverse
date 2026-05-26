@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "African Elephant",
+        "sizeClass": "gigantic",
+        "fluffiness": 1,
+        "typicalDisposition": "wise",
+        "typicalLifespanYears": 70,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Mammalia",
+          "order": "Proboscidea",
+          "family": "Elephantidae",
+          "genus": "Loxodonta",
+          "species": "Loxodonta africana"
+        },
+        "description": "The largest land animal on earth. Mourns its dead. Has a memory that spans decades. Llamas who keep them require extensive grounds and considerable humility.",
+        "id": "16b1975b-35a4-56f7-9e1e-1a6b54f998fe"
+      }
+    }
+  }
+}

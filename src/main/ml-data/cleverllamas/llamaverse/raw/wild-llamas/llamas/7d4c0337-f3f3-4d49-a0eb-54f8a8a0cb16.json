@@ -7,5 +7,6 @@
   "hairColor": "Black",
   "breed": "Suri",
   "placeOfBirth": "Michaelfort, French Polynesia",
-  "description": "Laura is a hazel-eyed llama with black hair, standing 118 cm tall. Originally from Michaelfort, French Polynesia, Laura enjoys singing, gardening, cooking. Known for their curious and gentle personality, Laura is a beloved member of the llama community."
+  "description": "Laura is a hazel-eyed llama with black hair, standing 118 cm tall. Originally from Michaelfort, French Polynesia, Laura enjoys singing, gardening, cooking. Known for their curious and gentle personality, Laura is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriborealis"
 }

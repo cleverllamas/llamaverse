@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "247a64ab-7792-4aa3-9bf0-b2561906d471",
+        "name": "Boggle",
+        "ageYears": 1,
+        "disposition": "lazy",
+        "fluffiness": 1,
+        "quirk": "sings exactly one note whenever startled",
+        "speciesId": "ae752e8e-5741-575f-8293-97abe1393e0e",
+        "speciesCommonName": "Nematode",
+        "speciesScientificName": "Caenorhabditis elegans",
+        "sizeClass": "microscopic",
+        "ownerName": "Jasper",
+        "shelterId": "2b312a04-c215-5098-9433-f5aab988726c",
+        "shelterName": "Apex Companions Forever"
+      }
+    }
+  }
+}

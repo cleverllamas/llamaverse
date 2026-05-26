@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "b80c70f2-dad2-459d-a166-e941838a6242",
+        "name": "Rumpus",
+        "ageYears": 1,
+        "disposition": "curious",
+        "fluffiness": 1,
+        "quirk": "has formed strong opinions about architecture",
+        "speciesId": "da4571df-9cf3-530c-8e2f-9c15e57d3bcd",
+        "speciesCommonName": "Glow-worm",
+        "speciesScientificName": "Lampyris noctiluca",
+        "sizeClass": "tiny",
+        "ownerName": "Monique",
+        "shelterId": "8d977212-e5ba-55f4-be32-882c53197b49",
+        "shelterName": "The Wool and Scales Rehabilitation Centre"
+      }
+    }
+  }
+}

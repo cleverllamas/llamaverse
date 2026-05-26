@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "4ebb9856-5c39-4ab3-9f6b-360f942cee51",
+        "name": "Zippy",
+        "ageYears": 43,
+        "disposition": "theatrical",
+        "fluffiness": 9,
+        "quirk": "knows one card trick and performs it at every possible opportunity",
+        "speciesId": "080a7a98-42c2-5b89-a2bb-13861f22dd58",
+        "speciesCommonName": "Kakapo",
+        "speciesScientificName": "Strigops habroptilus",
+        "sizeClass": "medium",
+        "ownerName": "Ashley",
+        "shelterId": "8d977212-e5ba-55f4-be32-882c53197b49",
+        "shelterName": "The Wool and Scales Rehabilitation Centre"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "0784581d-ad7b-4e80-b05e-deefb7231894",
+        "name": "Grumble",
+        "ageYears": 4,
+        "disposition": "bombastic",
+        "fluffiness": 2,
+        "quirk": "is training for a marathon at a very leisurely pace",
+        "speciesId": "31f093d5-f0a2-5e25-9b87-e5d0caa82325",
+        "speciesCommonName": "Christmas Tree Worm",
+        "speciesScientificName": "Spirobranchus giganteus",
+        "sizeClass": "tiny",
+        "ownerName": "Miranda",
+        "shelterId": "c8de3d2b-6e9a-5ed1-bda7-9a50f977ddb9",
+        "shelterName": "The Quiet Pool"
+      }
+    }
+  }
+}

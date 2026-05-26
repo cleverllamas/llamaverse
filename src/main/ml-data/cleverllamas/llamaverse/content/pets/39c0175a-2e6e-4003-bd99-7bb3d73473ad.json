@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "39c0175a-2e6e-4003-bd99-7bb3d73473ad",
+        "name": "Fidget",
+        "ageYears": 0,
+        "disposition": "erratic",
+        "fluffiness": 1,
+        "quirk": "refuses to make eye contact but sends heartfelt letters",
+        "speciesId": "2df98b70-d145-5a4d-a8d7-51e9c1c16386",
+        "speciesCommonName": "Peacock Mantis Shrimp",
+        "speciesScientificName": "Odontodactylus scyllarus",
+        "sizeClass": "small",
+        "ownerName": "Elena",
+        "shelterId": "4e1e0f71-7c69-5073-ab12-27cfd4257912",
+        "shelterName": "The Old Pond Sanctuary"
+      }
+    }
+  }
+}

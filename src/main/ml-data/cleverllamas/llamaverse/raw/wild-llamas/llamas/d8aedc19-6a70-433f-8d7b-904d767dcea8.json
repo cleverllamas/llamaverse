@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Huacaya",
   "placeOfBirth": "Grantfort, Cyprus",
-  "description": "Jacob is a hazel-eyed llama with red hair, standing 197 cm tall. Originally from Grantfort, Cyprus, Jacob enjoys gardening, cooking, reading. Known for their playful and friendly personality, Jacob is a beloved member of the llama community."
+  "description": "Jacob is a hazel-eyed llama with red hair, standing 197 cm tall. Originally from Grantfort, Cyprus, Jacob enjoys gardening, cooking, reading. Known for their playful and friendly personality, Jacob is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_vellaridus"
 }

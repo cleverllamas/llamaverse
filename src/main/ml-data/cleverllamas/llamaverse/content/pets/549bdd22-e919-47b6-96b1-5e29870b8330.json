@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "549bdd22-e919-47b6-96b1-5e29870b8330",
+        "name": "Fidget",
+        "ageYears": 7,
+        "disposition": "bombastic",
+        "fluffiness": 4,
+        "quirk": "refuses to acknowledge Mondays",
+        "speciesId": "30169ba6-d3c1-5359-a341-c9367be9b750",
+        "speciesCommonName": "Okapi",
+        "speciesScientificName": "Okapia johnstoni",
+        "sizeClass": "large",
+        "ownerName": "Monique",
+        "shelterId": "24d12d56-1e48-56e1-aa51-54df3c5f003c",
+        "shelterName": "The Stillness Institute"
+      }
+    }
+  }
+}

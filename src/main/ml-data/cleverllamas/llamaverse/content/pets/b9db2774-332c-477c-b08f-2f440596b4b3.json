@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "b9db2774-332c-477c-b08f-2f440596b4b3",
+        "name": "Fizzle",
+        "ageYears": 44,
+        "disposition": "dignified",
+        "fluffiness": 2,
+        "quirk": "naps in increasingly creative locations",
+        "speciesId": "8bd7dc50-f0d6-5b61-b314-d81e140a3847",
+        "speciesCommonName": "Chinese Giant Salamander",
+        "speciesScientificName": "Andrias davidianus",
+        "sizeClass": "large",
+        "ownerName": "Ophelia",
+        "shelterId": "43593191-478d-5f0a-82ec-63ff4cc4122e",
+        "shelterName": "The Patagonian Wild Wing Refuge"
+      }
+    }
+  }
+}

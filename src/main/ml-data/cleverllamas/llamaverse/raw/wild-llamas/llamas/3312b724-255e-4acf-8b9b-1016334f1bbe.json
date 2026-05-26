@@ -7,5 +7,6 @@
   "hairColor": "White",
   "breed": "Hybrid",
   "placeOfBirth": "North Stevenport, Puerto Rico",
-  "description": "Emma is a hazel-eyed llama with white hair, standing 160 cm tall. Originally from North Stevenport, Puerto Rico, Emma enjoys knitting, singing, wood carving. Known for their curious and playful personality, Emma is a beloved member of the llama community."
+  "description": "Emma is a hazel-eyed llama with white hair, standing 160 cm tall. Originally from North Stevenport, Puerto Rico, Emma enjoys knitting, singing, wood carving. Known for their curious and playful personality, Emma is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_andinus"
 }

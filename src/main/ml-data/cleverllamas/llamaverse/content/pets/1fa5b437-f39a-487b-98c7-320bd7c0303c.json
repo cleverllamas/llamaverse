@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "1fa5b437-f39a-487b-98c7-320bd7c0303c",
+        "name": "Waggle",
+        "ageYears": 0,
+        "disposition": "devoted",
+        "fluffiness": 2,
+        "quirk": "has never once been surprised by anything",
+        "speciesId": "6e85a264-e217-534f-b888-2d67ace79c21",
+        "speciesCommonName": "Harlequin Shrimp",
+        "speciesScientificName": "Hymenocera picta",
+        "sizeClass": "tiny",
+        "ownerName": "Nigel",
+        "shelterId": "c8de3d2b-6e9a-5ed1-bda7-9a50f977ddb9",
+        "shelterName": "The Quiet Pool"
+      }
+    }
+  }
+}

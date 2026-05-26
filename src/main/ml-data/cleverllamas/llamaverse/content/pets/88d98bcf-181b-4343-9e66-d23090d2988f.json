@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "88d98bcf-181b-4343-9e66-d23090d2988f",
+        "name": "Noodlesworth",
+        "ageYears": 2,
+        "disposition": "timid",
+        "fluffiness": 8,
+        "quirk": "stages elaborate fake emergencies to see who responds fastest",
+        "speciesId": "1f29dee0-afc6-56d8-a400-842ac656c71e",
+        "speciesCommonName": "Red Panda",
+        "speciesScientificName": "Ailurus fulgens",
+        "sizeClass": "small",
+        "ownerName": "Miranda",
+        "shelterId": "4e1e0f71-7c69-5073-ab12-27cfd4257912",
+        "shelterName": "The Old Pond Sanctuary"
+      }
+    }
+  }
+}

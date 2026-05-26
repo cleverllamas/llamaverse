@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Suri",
   "placeOfBirth": "Freemanport, Oman",
-  "description": "Tabitha is a blue-eyed llama with red hair, standing 127 cm tall. Originally from Freemanport, Oman, Tabitha enjoys dancing, painting, hiking. Known for their gentle and curious personality, Tabitha is a beloved member of the llama community."
+  "description": "Tabitha is a blue-eyed llama with red hair, standing 127 cm tall. Originally from Freemanport, Oman, Tabitha enjoys dancing, painting, hiking. Known for their gentle and curious personality, Tabitha is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriensis"
 }

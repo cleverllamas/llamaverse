@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "8ade902f-3cf7-46c3-8cf4-b0548ac32919",
+        "name": "Floss",
+        "ageYears": 2,
+        "disposition": "theatrical",
+        "fluffiness": 1,
+        "quirk": "sings exactly one note whenever startled",
+        "speciesId": "7cb9a70b-7e6e-5c08-a9c6-733ad6d71cdf",
+        "speciesCommonName": "Amano Shrimp",
+        "speciesScientificName": "Caridina multidentata",
+        "sizeClass": "tiny",
+        "ownerName": "Bradley",
+        "shelterId": "6d613241-5ad3-5197-8b01-500e8b607567",
+        "shelterName": "Fernanda's Home for Misunderstood Creatures"
+      }
+    }
+  }
+}

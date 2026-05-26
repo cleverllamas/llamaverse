@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Suri",
   "placeOfBirth": "West Nancyport, Macedonia",
-  "description": "Jaclyn is a hazel-eyed llama with red hair, standing 132 cm tall. Originally from West Nancyport, Macedonia, Jaclyn enjoys reading, dancing, hiking. Known for their energetic and gentle personality, Jaclyn is a beloved member of the llama community."
+  "description": "Jaclyn is a hazel-eyed llama with red hair, standing 132 cm tall. Originally from West Nancyport, Macedonia, Jaclyn enjoys reading, dancing, hiking. Known for their energetic and gentle personality, Jaclyn is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriborealis"
 }

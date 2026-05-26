@@ -7,5 +7,6 @@
   "hairColor": "Black",
   "breed": "Hybrid",
   "placeOfBirth": "Sarahburgh, Liberia",
-  "description": "Ashley is a gray-eyed llama with black hair, standing 166 cm tall. Originally from Sarahburgh, Liberia, Ashley enjoys cooking, wood carving, gardening. Known for their mischievous and calm personality, Ashley is a beloved member of the llama community."
+  "description": "Ashley is a gray-eyed llama with black hair, standing 166 cm tall. Originally from Sarahburgh, Liberia, Ashley enjoys cooking, wood carving, gardening. Known for their mischievous and calm personality, Ashley is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriensis"
 }

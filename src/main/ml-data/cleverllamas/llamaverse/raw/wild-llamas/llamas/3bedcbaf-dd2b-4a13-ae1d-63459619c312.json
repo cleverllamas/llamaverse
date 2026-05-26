@@ -7,5 +7,6 @@
   "hairColor": "Black",
   "breed": "Hybrid",
   "placeOfBirth": "Glennborough, Gambia",
-  "description": "Jamie is a gray-eyed llama with black hair, standing 164 cm tall. Originally from Glennborough, Gambia, Jamie enjoys wood carving, gardening, hiking. Known for their gentle and energetic personality, Jamie is a beloved member of the llama community."
+  "description": "Jamie is a gray-eyed llama with black hair, standing 164 cm tall. Originally from Glennborough, Gambia, Jamie enjoys wood carving, gardening, hiking. Known for their gentle and energetic personality, Jamie is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_silvestris"
 }

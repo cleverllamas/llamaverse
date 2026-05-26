@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Giant Millipede",
+        "sizeClass": "small",
+        "fluffiness": 2,
+        "typicalDisposition": "gentle",
+        "typicalLifespanYears": 7,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Arthropoda",
+          "class": "Diplopoda",
+          "order": "Spirostreptida",
+          "family": "Spirostreptidae",
+          "genus": "Archispirostreptus",
+          "species": "Archispirostreptus gigas"
+        },
+        "description": "30cm of gentle, slow-moving legs. Llamas find petting them across all 400 legs unexpectedly soothing.",
+        "id": "6565f20e-3b20-5609-906d-eb3327ea541c"
+      }
+    }
+  }
+}

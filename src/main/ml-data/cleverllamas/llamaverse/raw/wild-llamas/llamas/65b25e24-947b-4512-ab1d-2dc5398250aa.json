@@ -7,5 +7,6 @@
   "hairColor": "Gray",
   "breed": "Hybrid",
   "placeOfBirth": "South Kyletown, Israel",
-  "description": "Lisa is a brown-eyed llama with gray hair, standing 153 cm tall. Originally from South Kyletown, Israel, Lisa enjoys reading, painting, singing. Known for their shy and calm personality, Lisa is a beloved member of the llama community."
+  "description": "Lisa is a brown-eyed llama with gray hair, standing 153 cm tall. Originally from South Kyletown, Israel, Lisa enjoys reading, painting, singing. Known for their shy and calm personality, Lisa is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriphilus"
 }

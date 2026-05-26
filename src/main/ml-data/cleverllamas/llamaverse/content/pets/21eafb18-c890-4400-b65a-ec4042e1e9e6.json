@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "21eafb18-c890-4400-b65a-ec4042e1e9e6",
+        "name": "Brouhaha",
+        "ageYears": 9,
+        "disposition": "devoted",
+        "fluffiness": 4,
+        "quirk": "believes it is being followed, correctly",
+        "speciesId": "dd3c34c0-42a2-5716-b11c-936fd620b648",
+        "speciesCommonName": "Tawny Frogmouth",
+        "speciesScientificName": "Podargus strigoides",
+        "sizeClass": "small",
+        "ownerName": "Anthony",
+        "shelterId": "2b312a04-c215-5098-9433-f5aab988726c",
+        "shelterName": "Apex Companions Forever"
+      }
+    }
+  }
+}

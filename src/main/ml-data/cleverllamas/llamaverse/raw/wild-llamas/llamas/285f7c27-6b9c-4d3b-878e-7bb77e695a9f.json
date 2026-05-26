@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Hybrid",
   "placeOfBirth": "Morganmouth, Suriname",
-  "description": "Mary is a blue-eyed llama with red hair, standing 151 cm tall. Originally from Morganmouth, Suriname, Mary enjoys dancing, cooking, painting. Known for their mischievous and calm personality, Mary is a beloved member of the llama community."
+  "description": "Mary is a blue-eyed llama with red hair, standing 151 cm tall. Originally from Morganmouth, Suriname, Mary enjoys dancing, cooking, painting. Known for their mischievous and calm personality, Mary is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_deserticola"
 }

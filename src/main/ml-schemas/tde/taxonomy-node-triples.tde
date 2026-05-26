@@ -1,0 +1,44 @@
+{
+  "template": {
+    "description": "Hierarchy triples from llamaverse taxonomy node documents.",
+    "context": "/uri",
+    "collections": [
+      "ontology"
+    ],
+    "triples": [
+      {
+        "subject": {
+          "val": "sem:iri(.)"
+        },
+        "predicate": {
+          "val": "sem:iri('http://www.w3.org/1999/02/22-rdf-syntax-ns#type')"
+        },
+        "object": {
+          "val": "sem:iri(concat('http://cleverllamas.com/llamaverse/type/', ../type))"
+        }
+      },
+      {
+        "subject": {
+          "val": "sem:iri(.)"
+        },
+        "predicate": {
+          "val": "sem:iri('http://www.w3.org/2000/01/rdf-schema#label')"
+        },
+        "object": {
+          "val": "../label"
+        }
+      },
+      {
+        "subject": {
+          "val": "sem:iri(.)"
+        },
+        "predicate": {
+          "val": "sem:iri('http://www.w3.org/2000/01/rdf-schema#comment')"
+        },
+        "object": {
+          "val": "../description"
+        }
+      }
+    ]
+  }
+}

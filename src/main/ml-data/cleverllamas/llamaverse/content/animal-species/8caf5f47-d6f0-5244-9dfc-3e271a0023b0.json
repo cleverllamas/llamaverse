@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Glass Frog",
+        "sizeClass": "tiny",
+        "fluffiness": 1,
+        "typicalDisposition": "transparent",
+        "typicalLifespanYears": 14,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Amphibia",
+          "order": "Anura",
+          "family": "Centrolenidae",
+          "genus": "Hyalinobatrachium",
+          "species": "Hyalinobatrachium valerioi"
+        },
+        "description": "Its underside is completely transparent. You can see its beating heart. Llamas find this either beautiful or disturbing, usually both.",
+        "id": "8caf5f47-d6f0-5244-9dfc-3e271a0023b0"
+      }
+    }
+  }
+}

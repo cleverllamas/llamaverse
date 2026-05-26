@@ -1,0 +1,31 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "schools"
+    },
+    "instance": {
+      "schools": {
+        "id": "dd44ee55-ff66-4077-1188-990011223344",
+        "name": "Cusco Academy of Advanced Studies",
+        "abbreviation": "CAAS",
+        "location": "Cusco, Peru Region",
+        "founded": 1899,
+        "type": "University",
+        "specialisms": [
+          "History",
+          "Archaeology",
+          "Agricultural Science",
+          "Hay Studies",
+          "Geographic Information Systems"
+        ],
+        "enrolment": 9800,
+        "tuitionHayBalesPerYear": 780,
+        "description": "CAAS is the llamaverse's oldest and most comprehensive research university, situated in the historic city of Cusco. Its GIS and geospatial sciences department pioneered the use of geospatial point-and-region queries for tracking llama movement patterns, a methodology now used by the national tracking network. Aaron completed his early education here before devoting himself full-time to chess.",
+        "notableAlumni": [
+          "Aaron (undergraduate, departed after two years)",
+          "Miranda (chief data architect, Llamaville Urban Authority)"
+        ]
+      }
+    }
+  }
+}

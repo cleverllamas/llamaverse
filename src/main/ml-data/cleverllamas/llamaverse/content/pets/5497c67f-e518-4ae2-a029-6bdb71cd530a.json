@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "5497c67f-e518-4ae2-a029-6bdb71cd530a",
+        "name": "Gurgle",
+        "ageYears": 9,
+        "disposition": "dignified",
+        "fluffiness": 2,
+        "quirk": "refuses to make eye contact but sends heartfelt letters",
+        "speciesId": "7acd6049-592a-5864-a177-72f1152e140a",
+        "speciesCommonName": "Freshwater Hydra",
+        "speciesScientificName": "Hydra vulgaris",
+        "sizeClass": "microscopic",
+        "ownerName": "Angela",
+        "shelterId": "4e1e0f71-7c69-5073-ab12-27cfd4257912",
+        "shelterName": "The Old Pond Sanctuary"
+      }
+    }
+  }
+}

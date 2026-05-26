@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Huacaya",
   "placeOfBirth": "Hutchinsonstad, Moldova",
-  "description": "Jesse is a blue-eyed llama with red hair, standing 191 cm tall. Originally from Hutchinsonstad, Moldova, Jesse enjoys knitting, hiking, cooking. Known for their shy and friendly personality, Jesse is a beloved member of the llama community."
+  "description": "Jesse is a blue-eyed llama with red hair, standing 191 cm tall. Originally from Hutchinsonstad, Moldova, Jesse enjoys knitting, hiking, cooking. Known for their shy and friendly personality, Jesse is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_vellaridus"
 }

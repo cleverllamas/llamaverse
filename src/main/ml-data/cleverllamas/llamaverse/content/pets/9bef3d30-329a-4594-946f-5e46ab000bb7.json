@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "9bef3d30-329a-4594-946f-5e46ab000bb7",
+        "name": "Dazzle",
+        "ageYears": 12,
+        "disposition": "lazy",
+        "fluffiness": 1,
+        "quirk": "has formed strong opinions about architecture",
+        "speciesId": "51224b0c-de04-59b5-bf77-14b5264c4c42",
+        "speciesCommonName": "Sperm Whale",
+        "speciesScientificName": "Physeter macrocephalus",
+        "sizeClass": "gigantic",
+        "ownerName": "Monique",
+        "shelterId": "a80124a7-0a88-582c-9362-e5c7aecd90d2",
+        "shelterName": "The Peculiar Menagerie of Llamaville East"
+      }
+    }
+  }
+}

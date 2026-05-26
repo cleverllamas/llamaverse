@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "c045c99c-3666-48a2-a498-7491e46c4e1d",
+        "name": "Munchkin",
+        "ageYears": 0,
+        "disposition": "erratic",
+        "fluffiness": 1,
+        "quirk": "collects bottle caps from obscure regions",
+        "speciesId": "2558e851-a3d6-51e7-9fd9-38aa2a8d795e",
+        "speciesCommonName": "Vorticella",
+        "speciesScientificName": "Vorticella convallaria",
+        "sizeClass": "microscopic",
+        "ownerName": "Ophelia",
+        "shelterId": "2b312a04-c215-5098-9433-f5aab988726c",
+        "shelterName": "Apex Companions Forever"
+      }
+    }
+  }
+}

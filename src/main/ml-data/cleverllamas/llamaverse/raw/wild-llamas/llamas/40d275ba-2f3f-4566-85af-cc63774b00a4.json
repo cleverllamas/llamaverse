@@ -7,5 +7,6 @@
   "hairColor": "Silver",
   "breed": "Hybrid",
   "placeOfBirth": "Port Brian, French Southern Territories",
-  "description": "Emily is a gray-eyed llama with silver hair, standing 114 cm tall. Originally from Port Brian, French Southern Territories, Emily enjoys hiking, reading, wood carving. Known for their gentle and friendly personality, Emily is a beloved member of the llama community."
+  "description": "Emily is a gray-eyed llama with silver hair, standing 114 cm tall. Originally from Port Brian, French Southern Territories, Emily enjoys hiking, reading, wood carving. Known for their gentle and friendly personality, Emily is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_andinus"
 }

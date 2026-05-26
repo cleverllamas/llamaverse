@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "f0eda078-db2e-411c-b5ca-5f6f5ea5d032",
+        "name": "Crumple",
+        "ageYears": 0,
+        "disposition": "regal",
+        "fluffiness": 2,
+        "quirk": "constructed a scale model of the hay festival from memory",
+        "speciesId": "deb03c1d-b702-5d34-8c3a-d0613d7b4a66",
+        "speciesCommonName": "Bdelloid Rotifer",
+        "speciesScientificName": "Philodina roseola",
+        "sizeClass": "microscopic",
+        "ownerName": "Reginald",
+        "shelterId": "43593191-478d-5f0a-82ec-63ff4cc4122e",
+        "shelterName": "The Patagonian Wild Wing Refuge"
+      }
+    }
+  }
+}

@@ -7,5 +7,6 @@
   "hairColor": "Silver",
   "breed": "Huacaya",
   "placeOfBirth": "Donnaborough, Fiji",
-  "description": "Amy is a gray-eyed llama with silver hair, standing 198 cm tall. Originally from Donnaborough, Fiji, Amy enjoys knitting, wood carving, painting. Known for their calm and playful personality, Amy is a beloved member of the llama community."
+  "description": "Amy is a gray-eyed llama with silver hair, standing 198 cm tall. Originally from Donnaborough, Fiji, Amy enjoys knitting, wood carving, painting. Known for their calm and playful personality, Amy is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_andinus"
 }

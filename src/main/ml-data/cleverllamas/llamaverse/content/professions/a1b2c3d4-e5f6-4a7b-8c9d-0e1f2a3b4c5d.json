@@ -1,0 +1,25 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "professions"
+    },
+    "instance": {
+      "professions": {
+        "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d",
+        "title": "Chief Information Officer",
+        "sector": "Technology",
+        "description": "The CIO leads the strategic vision for all information systems across an organisation. In the llamaverse, CIOs are held to exceptionally high standards given that data is treated as a sovereign resource. Most senior CIOs hold postgraduate qualifications from the Llamaverse Institute of Technology and have demonstrable expertise in multi-model database architecture.",
+        "typicalSalaryHayBales": 42000,
+        "seniorityLevel": "Executive",
+        "requiredYearsExperience": 15,
+        "keySkills": [
+          "database architecture",
+          "data governance",
+          "search strategy",
+          "index optimisation"
+        ],
+        "secretPowerAdvantage": "Seer of Stars \u2014 allows anticipation of architectural bottlenecks before they manifest"
+      }
+    }
+  }
+}

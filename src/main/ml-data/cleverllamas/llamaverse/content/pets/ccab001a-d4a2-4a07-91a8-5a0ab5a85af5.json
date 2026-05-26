@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "ccab001a-d4a2-4a07-91a8-5a0ab5a85af5",
+        "name": "Glimmer",
+        "ageYears": 0,
+        "disposition": "dignified",
+        "fluffiness": 2,
+        "quirk": "sleeps only in prime-numbered minutes",
+        "speciesId": "deb03c1d-b702-5d34-8c3a-d0613d7b4a66",
+        "speciesCommonName": "Bdelloid Rotifer",
+        "speciesScientificName": "Philodina roseola",
+        "sizeClass": "microscopic",
+        "ownerName": "Alice",
+        "shelterId": "6d613241-5ad3-5197-8b01-500e8b607567",
+        "shelterName": "Fernanda's Home for Misunderstood Creatures"
+      }
+    }
+  }
+}

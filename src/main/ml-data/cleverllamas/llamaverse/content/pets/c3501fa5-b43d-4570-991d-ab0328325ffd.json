@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "c3501fa5-b43d-4570-991d-ab0328325ffd",
+        "name": "Piggledy",
+        "ageYears": 4,
+        "disposition": "grumpy",
+        "fluffiness": 4,
+        "quirk": "has memorised all 88 Beethoven piano sonatas",
+        "speciesId": "9caae520-fba2-54d7-ad50-e3e7e17c9d96",
+        "speciesCommonName": "Capybara",
+        "speciesScientificName": "Hydrochoerus hydrochaeris",
+        "sizeClass": "large",
+        "ownerName": "Ashley",
+        "shelterId": "a80124a7-0a88-582c-9362-e5c7aecd90d2",
+        "shelterName": "The Peculiar Menagerie of Llamaville East"
+      }
+    }
+  }
+}

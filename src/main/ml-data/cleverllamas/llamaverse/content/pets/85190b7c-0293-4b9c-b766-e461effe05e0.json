@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "85190b7c-0293-4b9c-b766-e461effe05e0",
+        "name": "Brouhaha",
+        "ageYears": 0,
+        "disposition": "bombastic",
+        "fluffiness": 1,
+        "quirk": "refuses to acknowledge Mondays",
+        "speciesId": "e9be7d46-a699-577d-8254-16ede509068b",
+        "speciesCommonName": "Acorn Barnacle",
+        "speciesScientificName": "Semibalanus balanoides",
+        "sizeClass": "microscopic",
+        "ownerName": "Clara",
+        "shelterId": "fea3da74-6337-5053-bffe-89e75d14ef03",
+        "shelterName": "The Wandering Fleece Animal Sanctuary"
+      }
+    }
+  }
+}

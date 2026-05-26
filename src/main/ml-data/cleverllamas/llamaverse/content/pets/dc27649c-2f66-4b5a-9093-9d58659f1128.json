@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "dc27649c-2f66-4b5a-9093-9d58659f1128",
+        "name": "Rumpus",
+        "ageYears": 3,
+        "disposition": "cheerful",
+        "fluffiness": 2,
+        "quirk": "sings exactly one note whenever startled",
+        "speciesId": "bd2fdee3-46e5-56ce-820d-196cc31184ab",
+        "speciesCommonName": "Hippopotamus",
+        "speciesScientificName": "Hippopotamus amphibius",
+        "sizeClass": "gigantic",
+        "ownerName": "Reginald",
+        "shelterId": "24d12d56-1e48-56e1-aa51-54df3c5f003c",
+        "shelterName": "The Stillness Institute"
+      }
+    }
+  }
+}

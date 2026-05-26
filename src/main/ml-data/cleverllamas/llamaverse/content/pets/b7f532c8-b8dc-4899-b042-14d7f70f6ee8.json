@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "b7f532c8-b8dc-4899-b042-14d7f70f6ee8",
+        "name": "Pudding",
+        "ageYears": 0,
+        "disposition": "theatrical",
+        "fluffiness": 1,
+        "quirk": "knows one card trick and performs it at every possible opportunity",
+        "speciesId": "6e85a264-e217-534f-b888-2d67ace79c21",
+        "speciesCommonName": "Harlequin Shrimp",
+        "speciesScientificName": "Hymenocera picta",
+        "sizeClass": "tiny",
+        "ownerName": "Aaron",
+        "shelterId": "869456e1-451e-554f-96f2-4a54e832dd46",
+        "shelterName": "Bradley's Extreme Fauna Compound"
+      }
+    }
+  }
+}

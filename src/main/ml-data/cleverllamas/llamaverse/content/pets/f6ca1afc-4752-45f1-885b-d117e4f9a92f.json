@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "f6ca1afc-4752-45f1-885b-d117e4f9a92f",
+        "name": "Dimple",
+        "ageYears": 8,
+        "disposition": "aloof",
+        "fluffiness": 6,
+        "quirk": "collects bottle caps from obscure regions",
+        "speciesId": "8fa76313-6503-54ba-880e-990c276858b3",
+        "speciesCommonName": "Clouded Leopard",
+        "speciesScientificName": "Neofelis nebulosa",
+        "sizeClass": "medium",
+        "ownerName": "Ashley",
+        "shelterId": "2770733d-7079-5abc-92e8-6a21c74559c1",
+        "shelterName": "Deep Blue Creature Sanctuary"
+      }
+    }
+  }
+}

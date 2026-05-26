@@ -7,5 +7,6 @@
   "hairColor": "White",
   "breed": "Suri",
   "placeOfBirth": "South David, Senegal",
-  "description": "John is a brown-eyed llama with white hair, standing 178 cm tall. Originally from South David, Senegal, John enjoys reading, knitting, hiking. Known for their energetic and shy personality, John is a beloved member of the llama community."
+  "description": "John is a brown-eyed llama with white hair, standing 178 cm tall. Originally from South David, Senegal, John enjoys reading, knitting, hiking. Known for their energetic and shy personality, John is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_vellaboreas"
 }

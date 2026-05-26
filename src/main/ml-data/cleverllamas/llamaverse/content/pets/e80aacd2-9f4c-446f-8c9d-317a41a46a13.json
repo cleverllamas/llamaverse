@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "e80aacd2-9f4c-446f-8c9d-317a41a46a13",
+        "name": "Floss",
+        "ageYears": 2,
+        "disposition": "dignified",
+        "fluffiness": 5,
+        "quirk": "knows one card trick and performs it at every possible opportunity",
+        "speciesId": "4a07b520-de06-59f0-ba05-52546879b434",
+        "speciesCommonName": "Sloth",
+        "speciesScientificName": "Bradypus tridactylus",
+        "sizeClass": "medium",
+        "ownerName": "Freddie",
+        "shelterId": "2770733d-7079-5abc-92e8-6a21c74559c1",
+        "shelterName": "Deep Blue Creature Sanctuary"
+      }
+    }
+  }
+}

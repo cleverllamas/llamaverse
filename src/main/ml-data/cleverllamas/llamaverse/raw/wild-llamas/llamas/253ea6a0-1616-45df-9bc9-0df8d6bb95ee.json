@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Hybrid",
   "placeOfBirth": "Munozburgh, Saint Martin",
-  "description": "Belinda is a amber-eyed llama with red hair, standing 100 cm tall. Originally from Munozburgh, Saint Martin, Belinda enjoys gardening, dancing, singing. Known for their mischievous and energetic personality, Belinda is a beloved member of the llama community."
+  "description": "Belinda is a amber-eyed llama with red hair, standing 100 cm tall. Originally from Munozburgh, Saint Martin, Belinda enjoys gardening, dancing, singing. Known for their mischievous and energetic personality, Belinda is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_litoralis"
 }

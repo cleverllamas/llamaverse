@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Hippopotamus",
+        "sizeClass": "gigantic",
+        "fluffiness": 1,
+        "typicalDisposition": "unpredictable",
+        "typicalLifespanYears": 45,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Mammalia",
+          "order": "Artiodactyla",
+          "family": "Hippopotamidae",
+          "genus": "Hippopotamus",
+          "species": "Hippopotamus amphibius"
+        },
+        "description": "Secretes a natural sunscreen from its skin. Despite appearances, more closely related to whales than to pigs. Llamas keep them in very large ponds and maintain respectful distances.",
+        "id": "bd2fdee3-46e5-56ce-820d-196cc31184ab"
+      }
+    }
+  }
+}

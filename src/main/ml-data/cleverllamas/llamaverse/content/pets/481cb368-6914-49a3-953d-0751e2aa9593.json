@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "481cb368-6914-49a3-953d-0751e2aa9593",
+        "name": "Crumble",
+        "ageYears": 15,
+        "disposition": "cheerful",
+        "fluffiness": 1,
+        "quirk": "judges every piece of music against a private internal standard it has never revealed",
+        "speciesId": "bd2fdee3-46e5-56ce-820d-196cc31184ab",
+        "speciesCommonName": "Hippopotamus",
+        "speciesScientificName": "Hippopotamus amphibius",
+        "sizeClass": "gigantic",
+        "ownerName": "Freddie",
+        "shelterId": "869456e1-451e-554f-96f2-4a54e832dd46",
+        "shelterName": "Bradley's Extreme Fauna Compound"
+      }
+    }
+  }
+}

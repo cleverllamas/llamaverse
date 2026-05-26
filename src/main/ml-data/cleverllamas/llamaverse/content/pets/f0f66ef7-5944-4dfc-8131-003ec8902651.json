@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "f0f66ef7-5944-4dfc-8131-003ec8902651",
+        "name": "Gobsmack",
+        "ageYears": 5,
+        "disposition": "erratic",
+        "fluffiness": 4,
+        "quirk": "has attempted to file taxes three years in a row without opposable thumbs",
+        "speciesId": "31f093d5-f0a2-5e25-9b87-e5d0caa82325",
+        "speciesCommonName": "Christmas Tree Worm",
+        "speciesScientificName": "Spirobranchus giganteus",
+        "sizeClass": "tiny",
+        "ownerName": "Boris",
+        "shelterId": "1d1ceadd-64ed-52d5-a416-b278d95c83d1",
+        "shelterName": "The Cosy Burrow Rescue and Rehoming"
+      }
+    }
+  }
+}

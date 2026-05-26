@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "d1600795-75e0-4c08-ad02-06bd1ab0317f",
+        "name": "Splodge",
+        "ageYears": 15,
+        "disposition": "earnest",
+        "fluffiness": 1,
+        "quirk": "has been learning to juggle for three years with no progress",
+        "speciesId": "9685c463-34e2-53b7-b6c9-1be449c42eb0",
+        "speciesCommonName": "Hellbender Salamander",
+        "speciesScientificName": "Cryptobranchus alleganiensis",
+        "sizeClass": "medium",
+        "ownerName": "Kestrel",
+        "shelterId": "43593191-478d-5f0a-82ec-63ff4cc4122e",
+        "shelterName": "The Patagonian Wild Wing Refuge"
+      }
+    }
+  }
+}

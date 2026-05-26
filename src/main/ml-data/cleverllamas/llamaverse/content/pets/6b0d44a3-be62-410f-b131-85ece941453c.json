@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "6b0d44a3-be62-410f-b131-85ece941453c",
+        "name": "Bumble",
+        "ageYears": 15,
+        "disposition": "dignified",
+        "fluffiness": 9,
+        "quirk": "only communicates using interpretive movement between 9 and 10am",
+        "speciesId": "bc4c453d-1bf5-5319-8eb8-2ff5b197d557",
+        "speciesCommonName": "Pygmy Slow Loris",
+        "speciesScientificName": "Xanthonycticebus pygmaeus",
+        "sizeClass": "tiny",
+        "ownerName": "Angela",
+        "shelterId": "869456e1-451e-554f-96f2-4a54e832dd46",
+        "shelterName": "Bradley's Extreme Fauna Compound"
+      }
+    }
+  }
+}

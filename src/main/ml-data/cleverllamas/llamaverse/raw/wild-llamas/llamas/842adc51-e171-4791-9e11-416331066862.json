@@ -7,5 +7,6 @@
   "hairColor": "Brown",
   "breed": "Suri",
   "placeOfBirth": "New Aaronberg, Saint Barthelemy",
-  "description": "Rita is a blue-eyed llama with brown hair, standing 162 cm tall. Originally from New Aaronberg, Saint Barthelemy, Rita enjoys singing, knitting, hiking. Known for their calm and friendly personality, Rita is a beloved member of the llama community."
+  "description": "Rita is a blue-eyed llama with brown hair, standing 162 cm tall. Originally from New Aaronberg, Saint Barthelemy, Rita enjoys singing, knitting, hiking. Known for their calm and friendly personality, Rita is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriphilus"
 }

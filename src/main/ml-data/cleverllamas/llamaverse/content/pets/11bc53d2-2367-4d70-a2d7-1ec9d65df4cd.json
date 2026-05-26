@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "11bc53d2-2367-4d70-a2d7-1ec9d65df4cd",
+        "name": "Snuffleby",
+        "ageYears": 7,
+        "disposition": "devoted",
+        "fluffiness": 4,
+        "quirk": "constructed a scale model of the hay festival from memory",
+        "speciesId": "ba19f95c-7ac2-579e-ba6d-2421a5e3f794",
+        "speciesCommonName": "Pufferfish",
+        "speciesScientificName": "Tetraodon mbu",
+        "sizeClass": "small",
+        "ownerName": "Reginald",
+        "shelterId": "1d1ceadd-64ed-52d5-a416-b278d95c83d1",
+        "shelterName": "The Cosy Burrow Rescue and Rehoming"
+      }
+    }
+  }
+}

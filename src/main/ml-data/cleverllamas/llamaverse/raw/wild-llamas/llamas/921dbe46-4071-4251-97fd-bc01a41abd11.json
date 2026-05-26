@@ -7,5 +7,6 @@
   "hairColor": "Gray",
   "breed": "Hybrid",
   "placeOfBirth": "East Gabriel, Micronesia",
-  "description": "Catherine is a hazel-eyed llama with gray hair, standing 105 cm tall. Originally from East Gabriel, Micronesia, Catherine enjoys cooking, reading, gardening. Known for their energetic and gentle personality, Catherine is a beloved member of the llama community."
+  "description": "Catherine is a hazel-eyed llama with gray hair, standing 105 cm tall. Originally from East Gabriel, Micronesia, Catherine enjoys cooking, reading, gardening. Known for their energetic and gentle personality, Catherine is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriensis"
 }

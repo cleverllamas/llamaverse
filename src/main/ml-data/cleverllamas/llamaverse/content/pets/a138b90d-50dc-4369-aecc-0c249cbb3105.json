@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "a138b90d-50dc-4369-aecc-0c249cbb3105",
+        "name": "Pudding",
+        "ageYears": 26,
+        "disposition": "serene",
+        "fluffiness": 1,
+        "quirk": "knows one card trick and performs it at every possible opportunity",
+        "speciesId": "16b1975b-35a4-56f7-9e1e-1a6b54f998fe",
+        "speciesCommonName": "African Elephant",
+        "speciesScientificName": "Loxodonta africana",
+        "sizeClass": "gigantic",
+        "ownerName": "Jasper",
+        "shelterId": "8d977212-e5ba-55f4-be32-882c53197b49",
+        "shelterName": "The Wool and Scales Rehabilitation Centre"
+      }
+    }
+  }
+}

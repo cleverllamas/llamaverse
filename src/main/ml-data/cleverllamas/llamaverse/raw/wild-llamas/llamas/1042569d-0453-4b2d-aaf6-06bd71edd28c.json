@@ -7,5 +7,6 @@
   "hairColor": "Black",
   "breed": "Suri",
   "placeOfBirth": "South Jose, Paraguay",
-  "description": "Daniel is a brown-eyed llama with black hair, standing 158 cm tall. Originally from South Jose, Paraguay, Daniel enjoys singing, hiking, cooking. Known for their energetic and shy personality, Daniel is a beloved member of the llama community."
+  "description": "Daniel is a brown-eyed llama with black hair, standing 158 cm tall. Originally from South Jose, Paraguay, Daniel enjoys singing, hiking, cooking. Known for their energetic and shy personality, Daniel is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_andinus"
 }

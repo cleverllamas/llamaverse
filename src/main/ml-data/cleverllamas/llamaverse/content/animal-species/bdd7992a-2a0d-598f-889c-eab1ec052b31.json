@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Dwarf Cherry Shrimp",
+        "sizeClass": "tiny",
+        "fluffiness": 1,
+        "typicalDisposition": "industrious",
+        "typicalLifespanYears": 2,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Arthropoda",
+          "class": "Malacostraca",
+          "order": "Decapoda",
+          "family": "Atyidae",
+          "genus": "Neocaridina",
+          "species": "Neocaridina davidi"
+        },
+        "description": "Cherry-red. Constantly cleaning. Llamas admire their work ethic enormously.",
+        "id": "bdd7992a-2a0d-598f-889c-eab1ec052b31"
+      }
+    }
+  }
+}

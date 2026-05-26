@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "f42d7269-7953-4a3d-a65b-6f3d323c2587",
+        "name": "Crumble",
+        "ageYears": 10,
+        "disposition": "devoted",
+        "fluffiness": 1,
+        "quirk": "insists on a bedtime story every night",
+        "speciesId": "4385ccaa-0b0a-5332-b1a0-6e0af8d6f6b4",
+        "speciesCommonName": "Pangolin",
+        "speciesScientificName": "Manis pentadactyla",
+        "sizeClass": "medium",
+        "ownerName": "Percy",
+        "shelterId": "7437ed74-37ab-5121-a86c-723531fb55b3",
+        "shelterName": "The Galaxy of Small Things"
+      }
+    }
+  }
+}

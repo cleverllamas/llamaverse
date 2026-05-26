@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "2c0c9d42-95ca-41e6-b38a-2e20a9ab78bb",
+        "name": "Snorkel",
+        "ageYears": 1,
+        "disposition": "cheerful",
+        "fluffiness": 2,
+        "quirk": "knows one card trick and performs it at every possible opportunity",
+        "speciesId": "d389fe5d-7600-5b1b-be44-d2325c69d673",
+        "speciesCommonName": "Mimic Octopus (second variant)",
+        "speciesScientificName": "Wunderpus photogenicus",
+        "sizeClass": "small",
+        "ownerName": "Horatio",
+        "shelterId": "c8de3d2b-6e9a-5ed1-bda7-9a50f977ddb9",
+        "shelterName": "The Quiet Pool"
+      }
+    }
+  }
+}

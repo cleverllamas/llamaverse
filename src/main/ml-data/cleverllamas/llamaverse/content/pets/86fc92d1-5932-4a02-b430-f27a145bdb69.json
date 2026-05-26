@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "86fc92d1-5932-4a02-b430-f27a145bdb69",
+        "name": "Twizzle",
+        "ageYears": 19,
+        "disposition": "erratic",
+        "fluffiness": 1,
+        "quirk": "only communicates using interpretive movement between 9 and 10am",
+        "speciesId": "ac69524c-7513-5955-bdf2-126d2e06c74b",
+        "speciesCommonName": "White Rhinoceros",
+        "speciesScientificName": "Ceratotherium simum",
+        "sizeClass": "gigantic",
+        "ownerName": "Reginald",
+        "shelterId": "2770733d-7079-5abc-92e8-6a21c74559c1",
+        "shelterName": "Deep Blue Creature Sanctuary"
+      }
+    }
+  }
+}

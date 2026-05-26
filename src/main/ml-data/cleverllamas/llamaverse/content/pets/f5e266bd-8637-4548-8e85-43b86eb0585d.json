@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "f5e266bd-8637-4548-8e85-43b86eb0585d",
+        "name": "Razzle",
+        "ageYears": 12,
+        "disposition": "affectionate",
+        "fluffiness": 2,
+        "quirk": "sings exactly one note whenever startled",
+        "speciesId": "826bb5ba-ae06-53d7-a1cc-2956b8f8e5c5",
+        "speciesCommonName": "Aardvark",
+        "speciesScientificName": "Orycteropus afer",
+        "sizeClass": "large",
+        "ownerName": "Nigel",
+        "shelterId": "43593191-478d-5f0a-82ec-63ff4cc4122e",
+        "shelterName": "The Patagonian Wild Wing Refuge"
+      }
+    }
+  }
+}

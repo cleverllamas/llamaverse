@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "dbbc9473-6166-44ec-831c-ec0677f5f0ab",
+        "name": "Snuffleby",
+        "ageYears": 0,
+        "disposition": "dignified",
+        "fluffiness": 2,
+        "quirk": "believes it is being followed, correctly",
+        "speciesId": "87e455dd-f1ed-5609-8b15-d694c7837106",
+        "speciesCommonName": "Dumbo Octopus",
+        "speciesScientificName": "Grimpoteuthis boylei",
+        "sizeClass": "small",
+        "ownerName": "Angela",
+        "shelterId": "e9a0f6a9-5a3f-51a3-ae37-19773f4ac55f",
+        "shelterName": "The Archipelago Orphanage"
+      }
+    }
+  }
+}

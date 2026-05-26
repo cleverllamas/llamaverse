@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "b5a428b9-4621-450f-8732-984f59a99afd",
+        "name": "Kerfuffle Jr",
+        "ageYears": 12,
+        "disposition": "erratic",
+        "fluffiness": 10,
+        "quirk": "sleeps only in prime-numbered minutes",
+        "speciesId": "f4a2908b-b359-5a03-8800-adf104dc483d",
+        "speciesCommonName": "Chinchilla",
+        "speciesScientificName": "Chinchilla lanigera",
+        "sizeClass": "small",
+        "ownerName": "Derek",
+        "shelterId": "e9a0f6a9-5a3f-51a3-ae37-19773f4ac55f",
+        "shelterName": "The Archipelago Orphanage"
+      }
+    }
+  }
+}

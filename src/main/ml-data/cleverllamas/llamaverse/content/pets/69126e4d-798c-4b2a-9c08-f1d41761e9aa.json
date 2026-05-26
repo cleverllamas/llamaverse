@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "69126e4d-798c-4b2a-9c08-f1d41761e9aa",
+        "name": "Twitch",
+        "ageYears": 6,
+        "disposition": "serene",
+        "fluffiness": 3,
+        "quirk": "maintains a written log of everything it finds interesting, which is everything",
+        "speciesId": "bda1985c-57f7-5c9f-b344-5c7fe15f25b5",
+        "speciesCommonName": "Giraffe",
+        "speciesScientificName": "Giraffa camelopardalis",
+        "sizeClass": "gigantic",
+        "ownerName": "Fernanda",
+        "shelterId": "43593191-478d-5f0a-82ec-63ff4cc4122e",
+        "shelterName": "The Patagonian Wild Wing Refuge"
+      }
+    }
+  }
+}

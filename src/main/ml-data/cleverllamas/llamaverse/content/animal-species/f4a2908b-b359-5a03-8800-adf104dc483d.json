@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Chinchilla",
+        "sizeClass": "small",
+        "fluffiness": 10,
+        "typicalDisposition": "erratic",
+        "typicalLifespanYears": 15,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Mammalia",
+          "order": "Rodentia",
+          "family": "Chinchillidae",
+          "genus": "Chinchilla",
+          "species": "Chinchilla lanigera"
+        },
+        "description": "Has the densest fur of any land animal. Jumps unexpectedly to great heights. Llamas find the chaos charming.",
+        "id": "f4a2908b-b359-5a03-8800-adf104dc483d"
+      }
+    }
+  }
+}

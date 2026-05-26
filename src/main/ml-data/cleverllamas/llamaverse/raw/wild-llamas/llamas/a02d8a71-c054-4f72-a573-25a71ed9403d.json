@@ -7,5 +7,6 @@
   "hairColor": "Silver",
   "breed": "Suri",
   "placeOfBirth": "East Patricia, French Guiana",
-  "description": "Audrey is a amber-eyed llama with silver hair, standing 174 cm tall. Originally from East Patricia, French Guiana, Audrey enjoys knitting, painting, reading. Known for their energetic and mischievous personality, Audrey is a beloved member of the llama community."
+  "description": "Audrey is a amber-eyed llama with silver hair, standing 174 cm tall. Originally from East Patricia, French Guiana, Audrey enjoys knitting, painting, reading. Known for their energetic and mischievous personality, Audrey is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriensis"
 }

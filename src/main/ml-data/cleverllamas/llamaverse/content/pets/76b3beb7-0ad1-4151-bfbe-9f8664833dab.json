@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "76b3beb7-0ad1-4151-bfbe-9f8664833dab",
+        "name": "Bamboozle",
+        "ageYears": 10,
+        "disposition": "regal",
+        "fluffiness": 1,
+        "quirk": "organises its food alphabetically before eating",
+        "speciesId": "52e97f4e-6aee-54e7-bcee-296237e2cb22",
+        "speciesCommonName": "Komodo Dragon",
+        "speciesScientificName": "Varanus komodoensis",
+        "sizeClass": "large",
+        "ownerName": "Anthony",
+        "shelterId": "a80124a7-0a88-582c-9362-e5c7aecd90d2",
+        "shelterName": "The Peculiar Menagerie of Llamaville East"
+      }
+    }
+  }
+}

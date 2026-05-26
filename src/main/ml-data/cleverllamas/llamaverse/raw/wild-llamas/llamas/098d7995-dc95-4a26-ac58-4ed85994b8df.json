@@ -7,5 +7,6 @@
   "hairColor": "Silver",
   "breed": "Huacaya",
   "placeOfBirth": "Port Pamela, Tanzania",
-  "description": "Robert is a brown-eyed llama with silver hair, standing 157 cm tall. Originally from Port Pamela, Tanzania, Robert enjoys cooking, wood carving, painting. Known for their friendly and curious personality, Robert is a beloved member of the llama community."
+  "description": "Robert is a brown-eyed llama with silver hair, standing 157 cm tall. Originally from Port Pamela, Tanzania, Robert enjoys cooking, wood carving, painting. Known for their friendly and curious personality, Robert is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_silvestris"
 }

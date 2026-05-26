@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "a9cc5c87-88f1-4312-a93d-3f4be1bb9dcd",
+        "name": "Stumble",
+        "ageYears": 1,
+        "disposition": "erratic",
+        "fluffiness": 1,
+        "quirk": "is training for a marathon at a very leisurely pace",
+        "speciesId": "1a47154a-d178-5c01-a36b-c9da02ed005b",
+        "speciesCommonName": "Bombardier Beetle (Electric Blue)",
+        "speciesScientificName": "Pheropsophus jessoensis",
+        "sizeClass": "tiny",
+        "ownerName": "Isolde",
+        "shelterId": "e9a0f6a9-5a3f-51a3-ae37-19773f4ac55f",
+        "shelterName": "The Archipelago Orphanage"
+      }
+    }
+  }
+}

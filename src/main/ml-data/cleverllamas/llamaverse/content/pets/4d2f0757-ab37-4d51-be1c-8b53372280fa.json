@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "4d2f0757-ab37-4d51-be1c-8b53372280fa",
+        "name": "Squiggles",
+        "ageYears": 2,
+        "disposition": "timid",
+        "fluffiness": 1,
+        "quirk": "constructed a scale model of the hay festival from memory",
+        "speciesId": "ca531de8-cda7-5fdb-a5f4-00420082f1c1",
+        "speciesCommonName": "Blue-tongued Skink",
+        "speciesScientificName": "Tiliqua scincoides",
+        "sizeClass": "small",
+        "ownerName": "Bradley",
+        "shelterId": "43593191-478d-5f0a-82ec-63ff4cc4122e",
+        "shelterName": "The Patagonian Wild Wing Refuge"
+      }
+    }
+  }
+}

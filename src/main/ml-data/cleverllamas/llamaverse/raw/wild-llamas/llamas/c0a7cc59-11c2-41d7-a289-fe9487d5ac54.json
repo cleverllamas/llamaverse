@@ -7,5 +7,6 @@
   "hairColor": "Gray",
   "breed": "Huacaya",
   "placeOfBirth": "New Frank, New Zealand",
-  "description": "Stanley is a blue-eyed llama with gray hair, standing 129 cm tall. Originally from New Frank, New Zealand, Stanley enjoys wood carving, singing, hiking. Known for their energetic and calm personality, Stanley is a beloved member of the llama community."
+  "description": "Stanley is a blue-eyed llama with gray hair, standing 129 cm tall. Originally from New Frank, New Zealand, Stanley enjoys wood carving, singing, hiking. Known for their energetic and calm personality, Stanley is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_vellifer"
 }

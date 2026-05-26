@@ -7,5 +7,6 @@
   "hairColor": "Silver",
   "breed": "Huacaya",
   "placeOfBirth": "Ballardville, Italy",
-  "description": "Molly is a hazel-eyed llama with silver hair, standing 111 cm tall. Originally from Ballardville, Italy, Molly enjoys cooking, knitting, painting. Known for their energetic and mischievous personality, Molly is a beloved member of the llama community."
+  "description": "Molly is a hazel-eyed llama with silver hair, standing 111 cm tall. Originally from Ballardville, Italy, Molly enjoys cooking, knitting, painting. Known for their energetic and mischievous personality, Molly is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_andinus"
 }

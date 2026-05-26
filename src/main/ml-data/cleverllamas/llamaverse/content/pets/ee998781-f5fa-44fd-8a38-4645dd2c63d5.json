@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "ee998781-f5fa-44fd-8a38-4645dd2c63d5",
+        "name": "Noodle",
+        "ageYears": 0,
+        "disposition": "hyperactive",
+        "fluffiness": 1,
+        "quirk": "insists on a bedtime story every night",
+        "speciesId": "6e85a264-e217-534f-b888-2d67ace79c21",
+        "speciesCommonName": "Harlequin Shrimp",
+        "speciesScientificName": "Hymenocera picta",
+        "sizeClass": "tiny",
+        "ownerName": "Kestrel",
+        "shelterId": "4e1e0f71-7c69-5073-ab12-27cfd4257912",
+        "shelterName": "The Old Pond Sanctuary"
+      }
+    }
+  }
+}

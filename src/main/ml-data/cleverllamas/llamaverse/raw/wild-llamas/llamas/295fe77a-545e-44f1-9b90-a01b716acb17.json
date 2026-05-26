@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Huacaya",
   "placeOfBirth": "New Jose, Aruba",
-  "description": "Jessica is a green-eyed llama with red hair, standing 161 cm tall. Originally from New Jose, Aruba, Jessica enjoys singing, painting, knitting. Known for their gentle and playful personality, Jessica is a beloved member of the llama community."
+  "description": "Jessica is a green-eyed llama with red hair, standing 161 cm tall. Originally from New Jose, Aruba, Jessica enjoys singing, painting, knitting. Known for their gentle and playful personality, Jessica is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_silvestris"
 }

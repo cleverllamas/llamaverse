@@ -7,5 +7,6 @@
   "hairColor": "Black",
   "breed": "Hybrid",
   "placeOfBirth": "Gilberttown, Korea",
-  "description": "Jean is a brown-eyed llama with black hair, standing 171 cm tall. Originally from Gilberttown, Korea, Jean enjoys hiking, painting, singing. Known for their shy and curious personality, Jean is a beloved member of the llama community."
+  "description": "Jean is a brown-eyed llama with black hair, standing 171 cm tall. Originally from Gilberttown, Korea, Jean enjoys hiking, painting, singing. Known for their shy and curious personality, Jean is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriensis"
 }

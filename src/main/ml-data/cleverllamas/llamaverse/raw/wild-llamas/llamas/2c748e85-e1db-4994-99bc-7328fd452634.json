@@ -7,5 +7,6 @@
   "hairColor": "Brown",
   "breed": "Huacaya",
   "placeOfBirth": "East Erikville, Pitcairn Islands",
-  "description": "Jerome is a green-eyed llama with brown hair, standing 126 cm tall. Originally from East Erikville, Pitcairn Islands, Jerome enjoys dancing, cooking, wood carving. Known for their energetic and calm personality, Jerome is a beloved member of the llama community."
+  "description": "Jerome is a green-eyed llama with brown hair, standing 126 cm tall. Originally from East Erikville, Pitcairn Islands, Jerome enjoys dancing, cooking, wood carving. Known for their energetic and calm personality, Jerome is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_borealis"
 }

@@ -7,5 +7,6 @@
   "hairColor": "Brown",
   "breed": "Hybrid",
   "placeOfBirth": "Millerstad, Lesotho",
-  "description": "Matthew is a green-eyed llama with brown hair, standing 163 cm tall. Originally from Millerstad, Lesotho, Matthew enjoys wood carving, gardening, reading. Known for their curious and energetic personality, Matthew is a beloved member of the llama community."
+  "description": "Matthew is a green-eyed llama with brown hair, standing 163 cm tall. Originally from Millerstad, Lesotho, Matthew enjoys wood carving, gardening, reading. Known for their curious and energetic personality, Matthew is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_borealis"
 }

@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "a265d0f3-b42f-458c-824d-14fb4f4b3064",
+        "name": "Boggle",
+        "ageYears": 7,
+        "disposition": "aloof",
+        "fluffiness": 1,
+        "quirk": "refuses to acknowledge Mondays",
+        "speciesId": "e9be7d46-a699-577d-8254-16ede509068b",
+        "speciesCommonName": "Acorn Barnacle",
+        "speciesScientificName": "Semibalanus balanoides",
+        "sizeClass": "microscopic",
+        "ownerName": "Beatrice",
+        "shelterId": "c8de3d2b-6e9a-5ed1-bda7-9a50f977ddb9",
+        "shelterName": "The Quiet Pool"
+      }
+    }
+  }
+}

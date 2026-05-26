@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "965055a7-8e5f-4db6-b2f5-6424ceb2f8f4",
+        "name": "Shuffle",
+        "ageYears": 17,
+        "disposition": "regal",
+        "fluffiness": 10,
+        "quirk": "judges every piece of music against a private internal standard it has never revealed",
+        "speciesId": "92a69b0f-e016-5d73-9c02-c87d20df5dad",
+        "speciesCommonName": "Snowy Owl",
+        "speciesScientificName": "Bubo scandiacus",
+        "sizeClass": "medium",
+        "ownerName": "Boris",
+        "shelterId": "43593191-478d-5f0a-82ec-63ff4cc4122e",
+        "shelterName": "The Patagonian Wild Wing Refuge"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Bearded Vulture",
+        "sizeClass": "large",
+        "fluffiness": 4,
+        "typicalDisposition": "bone-obsessed",
+        "typicalLifespanYears": 40,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Aves",
+          "order": "Accipitriformes",
+          "family": "Accipitridae",
+          "genus": "Gypaetus",
+          "species": "Gypaetus barbatus"
+        },
+        "description": "Its entire diet is bones. Drops them from height onto rocks to crack them. Has orange-red plumage because it bathes in iron-rich mud on purpose. Llamas respect the level of intention.",
+        "id": "9932ed23-008b-54a4-b28a-7c56e3990260"
+      }
+    }
+  }
+}

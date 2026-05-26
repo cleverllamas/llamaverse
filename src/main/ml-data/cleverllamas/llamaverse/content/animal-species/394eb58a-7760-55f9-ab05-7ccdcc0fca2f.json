@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Giant Squid",
+        "sizeClass": "gigantic",
+        "fluffiness": 1,
+        "typicalDisposition": "elusive",
+        "typicalLifespanYears": 5,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Mollusca",
+          "class": "Cephalopoda",
+          "order": "Oegopsida",
+          "family": "Architeuthidae",
+          "genus": "Architeuthis",
+          "species": "Architeuthis dux"
+        },
+        "description": "Up to 13 metres long. Rarely seen alive. Three llamas claim to own one; two are lying.",
+        "id": "394eb58a-7760-55f9-ab05-7ccdcc0fca2f"
+      }
+    }
+  }
+}

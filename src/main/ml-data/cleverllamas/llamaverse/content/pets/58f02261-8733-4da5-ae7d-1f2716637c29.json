@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "58f02261-8733-4da5-ae7d-1f2716637c29",
+        "name": "Glimmer",
+        "ageYears": 15,
+        "disposition": "sneaky",
+        "fluffiness": 1,
+        "quirk": "stages elaborate fake emergencies to see who responds fastest",
+        "speciesId": "d8813430-4b4c-5a92-9d22-d3a5b4110d11",
+        "speciesCommonName": "Horseshoe Crab",
+        "speciesScientificName": "Limulus polyphemus",
+        "sizeClass": "medium",
+        "ownerName": "Beatrice",
+        "shelterId": "2770733d-7079-5abc-92e8-6a21c74559c1",
+        "shelterName": "Deep Blue Creature Sanctuary"
+      }
+    }
+  }
+}

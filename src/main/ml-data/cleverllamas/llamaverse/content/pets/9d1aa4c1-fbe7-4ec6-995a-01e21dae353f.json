@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "9d1aa4c1-fbe7-4ec6-995a-01e21dae353f",
+        "name": "Glimmer",
+        "ageYears": 2,
+        "disposition": "devoted",
+        "fluffiness": 1,
+        "quirk": "stages elaborate fake emergencies to see who responds fastest",
+        "speciesId": "ce9431b4-718d-5339-a62d-8e30a0146993",
+        "speciesCommonName": "Giant Pacific Octopus",
+        "speciesScientificName": "Enteroctopus dofleini",
+        "sizeClass": "large",
+        "ownerName": "Ashley",
+        "shelterId": "a80124a7-0a88-582c-9362-e5c7aecd90d2",
+        "shelterName": "The Peculiar Menagerie of Llamaville East"
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "professions"
+    },
+    "instance": {
+      "professions": {
+        "id": "d0e1f2a3-b4c5-4d6e-7f8a-9b0c1d2e3f4a",
+        "title": "Wildlife Conservationist",
+        "sector": "Environment",
+        "description": "Wildlife conservationists in the llamaverse manage protected habitat for non-dominant species \u2014 most prominently, the fragile human populations that inhabit designated reserves in several northern territories. The profession requires both scientific knowledge and considerable diplomatic skill, as debates over habitat expansion versus economic development are among the most contentious in llamaverse politics.",
+        "typicalSalaryHayBales": 22500,
+        "seniorityLevel": "Mid-Level",
+        "requiredYearsExperience": 5,
+        "keySkills": [
+          "ecosystem management",
+          "geospatial analysis",
+          "conservation policy",
+          "species monitoring"
+        ],
+        "secretPowerAdvantage": "Druid's Sight \u2014 perceives ecological imbalances directly"
+      }
+    }
+  }
+}

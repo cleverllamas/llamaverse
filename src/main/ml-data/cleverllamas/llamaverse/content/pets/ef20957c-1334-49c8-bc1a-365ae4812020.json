@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "ef20957c-1334-49c8-bc1a-365ae4812020",
+        "name": "Tintinnabulation",
+        "ageYears": 1,
+        "disposition": "timid",
+        "fluffiness": 1,
+        "quirk": "judges every piece of music against a private internal standard it has never revealed",
+        "speciesId": "bdd7992a-2a0d-598f-889c-eab1ec052b31",
+        "speciesCommonName": "Dwarf Cherry Shrimp",
+        "speciesScientificName": "Neocaridina davidi",
+        "sizeClass": "tiny",
+        "ownerName": "Elena",
+        "shelterId": "c8de3d2b-6e9a-5ed1-bda7-9a50f977ddb9",
+        "shelterName": "The Quiet Pool"
+      }
+    }
+  }
+}

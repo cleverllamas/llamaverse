@@ -7,5 +7,6 @@
   "hairColor": "Brown",
   "breed": "Hybrid",
   "placeOfBirth": "South Elizabethton, South Georgia and the South Sandwich Islands",
-  "description": "Ann is a blue-eyed llama with brown hair, standing 174 cm tall. Originally from South Elizabethton, South Georgia and the South Sandwich Islands, Ann enjoys reading, painting, singing. Known for their gentle and calm personality, Ann is a beloved member of the llama community."
+  "description": "Ann is a blue-eyed llama with brown hair, standing 174 cm tall. Originally from South Elizabethton, South Georgia and the South Sandwich Islands, Ann enjoys reading, painting, singing. Known for their gentle and calm personality, Ann is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriensis"
 }

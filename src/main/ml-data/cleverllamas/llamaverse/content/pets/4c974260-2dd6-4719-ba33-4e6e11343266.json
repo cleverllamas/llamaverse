@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "4c974260-2dd6-4719-ba33-4e6e11343266",
+        "name": "Snorkel",
+        "ageYears": 1,
+        "disposition": "lazy",
+        "fluffiness": 1,
+        "quirk": "has formed strong opinions about architecture",
+        "speciesId": "38f8892b-60ac-5c16-b857-5aebc8b1dd83",
+        "speciesCommonName": "Hissing Cockroach",
+        "speciesScientificName": "Gromphadorhina portentosa",
+        "sizeClass": "small",
+        "ownerName": "Ophelia",
+        "shelterId": "fea3da74-6337-5053-bffe-89e75d14ef03",
+        "shelterName": "The Wandering Fleece Animal Sanctuary"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "5ddd8819-0f3a-4f21-903d-e4cc439f7e4d",
+        "name": "Knack",
+        "ageYears": 1,
+        "disposition": "hyperactive",
+        "fluffiness": 2,
+        "quirk": "constructed a scale model of the hay festival from memory",
+        "speciesId": "853c256e-ac01-5775-bda6-bc49c65c02bc",
+        "speciesCommonName": "Dust Mite",
+        "speciesScientificName": "Dermatophagoides pteronyssinus",
+        "sizeClass": "microscopic",
+        "ownerName": "Miranda",
+        "shelterId": "24d12d56-1e48-56e1-aa51-54df3c5f003c",
+        "shelterName": "The Stillness Institute"
+      }
+    }
+  }
+}

@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Huacaya",
   "placeOfBirth": "Isabelbury, Brazil",
-  "description": "Elizabeth is a brown-eyed llama with red hair, standing 144 cm tall. Originally from Isabelbury, Brazil, Elizabeth enjoys wood carving, gardening, cooking. Known for their calm and energetic personality, Elizabeth is a beloved member of the llama community."
+  "description": "Elizabeth is a brown-eyed llama with red hair, standing 144 cm tall. Originally from Isabelbury, Brazil, Elizabeth enjoys wood carving, gardening, cooking. Known for their calm and energetic personality, Elizabeth is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_borealis"
 }

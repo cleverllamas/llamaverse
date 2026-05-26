@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "c454a801-7e92-4adc-92e8-f56e166a127b",
+        "name": "Rumpus",
+        "ageYears": 4,
+        "disposition": "mischievous",
+        "fluffiness": 2,
+        "quirk": "judges every piece of music against a private internal standard it has never revealed",
+        "speciesId": "a2ed5be3-68fd-57c7-bb40-cae87ba09f37",
+        "speciesCommonName": "Narwhal",
+        "speciesScientificName": "Monodon monoceros",
+        "sizeClass": "gigantic",
+        "ownerName": "Isolde",
+        "shelterId": "43593191-478d-5f0a-82ec-63ff4cc4122e",
+        "shelterName": "The Patagonian Wild Wing Refuge"
+      }
+    }
+  }
+}

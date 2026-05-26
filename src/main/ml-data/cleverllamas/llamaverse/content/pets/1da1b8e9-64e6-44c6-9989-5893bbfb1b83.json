@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "1da1b8e9-64e6-44c6-9989-5893bbfb1b83",
+        "name": "Twizzle",
+        "ageYears": 21,
+        "disposition": "philosophical",
+        "fluffiness": 6,
+        "quirk": "is training for a marathon at a very leisurely pace",
+        "speciesId": "4a07b520-de06-59f0-ba05-52546879b434",
+        "speciesCommonName": "Sloth",
+        "speciesScientificName": "Bradypus tridactylus",
+        "sizeClass": "medium",
+        "ownerName": "Nigel",
+        "shelterId": "7437ed74-37ab-5121-a86c-723531fb55b3",
+        "shelterName": "The Galaxy of Small Things"
+      }
+    }
+  }
+}

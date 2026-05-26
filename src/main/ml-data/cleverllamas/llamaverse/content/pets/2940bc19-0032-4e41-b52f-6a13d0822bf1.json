@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "2940bc19-0032-4e41-b52f-6a13d0822bf1",
+        "name": "Boggle",
+        "ageYears": 3,
+        "disposition": "hyperactive",
+        "fluffiness": 2,
+        "quirk": "refuses to make eye contact but sends heartfelt letters",
+        "speciesId": "4cb28c77-0517-541b-af3b-f1c4cc5efbd3",
+        "speciesCommonName": "Magnificent Frigatebird",
+        "speciesScientificName": "Fregata magnificens",
+        "sizeClass": "large",
+        "ownerName": "Beatrice",
+        "shelterId": "2b312a04-c215-5098-9433-f5aab988726c",
+        "shelterName": "Apex Companions Forever"
+      }
+    }
+  }
+}

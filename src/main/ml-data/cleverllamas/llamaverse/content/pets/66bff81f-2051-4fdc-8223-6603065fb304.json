@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "66bff81f-2051-4fdc-8223-6603065fb304",
+        "name": "Noodlesworth",
+        "ageYears": 0,
+        "disposition": "timid",
+        "fluffiness": 1,
+        "quirk": "only communicates using interpretive movement between 9 and 10am",
+        "speciesId": "2558e851-a3d6-51e7-9fd9-38aa2a8d795e",
+        "speciesCommonName": "Vorticella",
+        "speciesScientificName": "Vorticella convallaria",
+        "sizeClass": "microscopic",
+        "ownerName": "Angela",
+        "shelterId": "1d1ceadd-64ed-52d5-a416-b278d95c83d1",
+        "shelterName": "The Cosy Burrow Rescue and Rehoming"
+      }
+    }
+  }
+}

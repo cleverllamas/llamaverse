@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "108afd7d-8ba2-4c64-b8d2-ab8cf5220175",
+        "name": "Twizzle",
+        "ageYears": 16,
+        "disposition": "dignified",
+        "fluffiness": 4,
+        "quirk": "insists on a bedtime story every night",
+        "speciesId": "8b4050cc-d852-535c-9736-e0280b44905c",
+        "speciesCommonName": "Macaroni Penguin",
+        "speciesScientificName": "Eudyptes chrysolophus",
+        "sizeClass": "small",
+        "ownerName": "Nigel",
+        "shelterId": "8d977212-e5ba-55f4-be32-882c53197b49",
+        "shelterName": "The Wool and Scales Rehabilitation Centre"
+      }
+    }
+  }
+}

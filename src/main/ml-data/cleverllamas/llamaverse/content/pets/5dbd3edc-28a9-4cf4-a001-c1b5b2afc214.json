@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "5dbd3edc-28a9-4cf4-a001-c1b5b2afc214",
+        "name": "Snuffleby",
+        "ageYears": 0,
+        "disposition": "stoic",
+        "fluffiness": 1,
+        "quirk": "judges every piece of music against a private internal standard it has never revealed",
+        "speciesId": "e078ed59-8084-58c0-885d-cfc5156eb559",
+        "speciesCommonName": "Sea Sparkle",
+        "speciesScientificName": "Noctiluca scintillans",
+        "sizeClass": "microscopic",
+        "ownerName": "Freddie",
+        "shelterId": "8d977212-e5ba-55f4-be32-882c53197b49",
+        "shelterName": "The Wool and Scales Rehabilitation Centre"
+      }
+    }
+  }
+}

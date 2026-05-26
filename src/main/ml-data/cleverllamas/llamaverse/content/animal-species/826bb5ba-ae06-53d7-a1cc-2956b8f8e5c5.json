@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Aardvark",
+        "sizeClass": "large",
+        "fluffiness": 2,
+        "typicalDisposition": "determined",
+        "typicalLifespanYears": 23,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Mammalia",
+          "order": "Tubulidentata",
+          "family": "Orycteropodidae",
+          "genus": "Orycteropus",
+          "species": "Orycteropus afer"
+        },
+        "description": "The only living member of its order. Has a long sticky tongue. Digs faster than any other animal relative to its size. Alphabetically first in most llamaverse animal encyclopaedias, which it takes no pride in.",
+        "id": "826bb5ba-ae06-53d7-a1cc-2956b8f8e5c5"
+      }
+    }
+  }
+}

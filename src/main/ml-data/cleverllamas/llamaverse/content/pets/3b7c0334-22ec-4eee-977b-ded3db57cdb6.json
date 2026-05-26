@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "3b7c0334-22ec-4eee-977b-ded3db57cdb6",
+        "name": "Squelch",
+        "ageYears": 1,
+        "disposition": "grumpy",
+        "fluffiness": 4,
+        "quirk": "constructed a scale model of the hay festival from memory",
+        "speciesId": "9998af61-5369-5a12-bf9b-f90997e4bbc3",
+        "speciesCommonName": "African Pygmy Hedgehog",
+        "speciesScientificName": "Atelerix albiventris",
+        "sizeClass": "tiny",
+        "ownerName": "Lorenzo",
+        "shelterId": "2b312a04-c215-5098-9433-f5aab988726c",
+        "shelterName": "Apex Companions Forever"
+      }
+    }
+  }
+}

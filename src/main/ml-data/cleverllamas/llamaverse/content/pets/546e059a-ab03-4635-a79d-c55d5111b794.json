@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "546e059a-ab03-4635-a79d-c55d5111b794",
+        "name": "Bristle",
+        "ageYears": 1,
+        "disposition": "eccentric",
+        "fluffiness": 1,
+        "quirk": "only eats food arranged in symmetrical patterns",
+        "speciesId": "0d0586d7-02c8-59e4-bf65-dcb62dac406b",
+        "speciesCommonName": "Leaf Insect",
+        "speciesScientificName": "Phyllium giganteum",
+        "sizeClass": "tiny",
+        "ownerName": "Gwen",
+        "shelterId": "1d1ceadd-64ed-52d5-a416-b278d95c83d1",
+        "shelterName": "The Cosy Burrow Rescue and Rehoming"
+      }
+    }
+  }
+}

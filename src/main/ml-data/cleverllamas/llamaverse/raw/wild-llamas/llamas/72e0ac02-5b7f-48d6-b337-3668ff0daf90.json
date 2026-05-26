@@ -7,5 +7,6 @@
   "hairColor": "Black",
   "breed": "Huacaya",
   "placeOfBirth": "Port Beth, Saint Vincent and the Grenadines",
-  "description": "Amy is a gray-eyed llama with black hair, standing 179 cm tall. Originally from Port Beth, Saint Vincent and the Grenadines, Amy enjoys cooking, singing, reading. Known for their gentle and calm personality, Amy is a beloved member of the llama community."
+  "description": "Amy is a gray-eyed llama with black hair, standing 179 cm tall. Originally from Port Beth, Saint Vincent and the Grenadines, Amy enjoys cooking, singing, reading. Known for their gentle and calm personality, Amy is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriensis"
 }

@@ -1,0 +1,14 @@
+{
+  "functionName": "handleMessage",
+  "desc": "MarkLogic MCP Server API endpoint",
+  "params": [{
+    "name": "message",
+    "datatype": "jsonDocument",
+    "desc": "The MCP protocol message to process",
+    "$javaClass": "com.fasterxml.jackson.databind.JsonNode"
+  }],
+  "return": {
+    "datatype": "jsonDocument",
+    "$javaClass": "com.fasterxml.jackson.databind.JsonNode"
+  }
+}

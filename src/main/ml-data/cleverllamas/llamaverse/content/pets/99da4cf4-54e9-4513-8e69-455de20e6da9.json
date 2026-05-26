@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "99da4cf4-54e9-4513-8e69-455de20e6da9",
+        "name": "Flapdoodle",
+        "ageYears": 3,
+        "disposition": "aloof",
+        "fluffiness": 2,
+        "quirk": "insists on a bedtime story every night",
+        "speciesId": "6e6b7d29-e998-5259-bc2c-cf497befc045",
+        "speciesCommonName": "Garden Snail",
+        "speciesScientificName": "Helix aspersa",
+        "sizeClass": "tiny",
+        "ownerName": "Percy",
+        "shelterId": "2b312a04-c215-5098-9433-f5aab988726c",
+        "shelterName": "Apex Companions Forever"
+      }
+    }
+  }
+}

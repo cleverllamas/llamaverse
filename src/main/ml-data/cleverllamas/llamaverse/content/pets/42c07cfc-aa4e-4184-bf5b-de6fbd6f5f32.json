@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "42c07cfc-aa4e-4184-bf5b-de6fbd6f5f32",
+        "name": "Snorkel",
+        "ageYears": 0,
+        "disposition": "devoted",
+        "fluffiness": 2,
+        "quirk": "collects bottle caps from obscure regions",
+        "speciesId": "ae752e8e-5741-575f-8293-97abe1393e0e",
+        "speciesCommonName": "Nematode",
+        "speciesScientificName": "Caenorhabditis elegans",
+        "sizeClass": "microscopic",
+        "ownerName": "Isolde",
+        "shelterId": "4e1e0f71-7c69-5073-ab12-27cfd4257912",
+        "shelterName": "The Old Pond Sanctuary"
+      }
+    }
+  }
+}

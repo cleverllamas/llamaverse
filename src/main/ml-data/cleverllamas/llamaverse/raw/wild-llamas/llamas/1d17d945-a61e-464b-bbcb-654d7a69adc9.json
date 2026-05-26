@@ -7,5 +7,6 @@
   "hairColor": "Brown",
   "breed": "Hybrid",
   "placeOfBirth": "East Angela, Japan",
-  "description": "Melissa is a green-eyed llama with brown hair, standing 110 cm tall. Originally from East Angela, Japan, Melissa enjoys singing, hiking, dancing. Known for their curious and calm personality, Melissa is a beloved member of the llama community."
+  "description": "Melissa is a green-eyed llama with brown hair, standing 110 cm tall. Originally from East Angela, Japan, Melissa enjoys singing, hiking, dancing. Known for their curious and calm personality, Melissa is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_borealis"
 }

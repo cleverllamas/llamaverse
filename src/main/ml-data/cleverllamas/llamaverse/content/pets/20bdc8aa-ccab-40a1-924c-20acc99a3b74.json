@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "20bdc8aa-ccab-40a1-924c-20acc99a3b74",
+        "name": "Grumble",
+        "ageYears": 1,
+        "disposition": "lazy",
+        "fluffiness": 1,
+        "quirk": "refuses to acknowledge Mondays",
+        "speciesId": "448bb2fb-6c8f-5bbe-a509-6296ebcfb91e",
+        "speciesCommonName": "Blue-ringed Octopus",
+        "speciesScientificName": "Hapalochlaena lunulata",
+        "sizeClass": "tiny",
+        "ownerName": "Aaron",
+        "shelterId": "2b312a04-c215-5098-9433-f5aab988726c",
+        "shelterName": "Apex Companions Forever"
+      }
+    }
+  }
+}

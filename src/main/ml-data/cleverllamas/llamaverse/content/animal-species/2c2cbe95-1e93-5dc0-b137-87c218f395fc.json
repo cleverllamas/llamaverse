@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Copepod",
+        "sizeClass": "microscopic",
+        "fluffiness": 1,
+        "typicalDisposition": "hyperactive",
+        "typicalLifespanYears": 1,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Arthropoda",
+          "class": "Copepoda",
+          "order": "Calanoida",
+          "family": "Calanidae",
+          "genus": "Calanus",
+          "species": "Calanus finmarchicus"
+        },
+        "description": "The most abundant animal on earth and the first choice for llamas who want to feel cosmopolitan. Kept by the billion.",
+        "id": "2c2cbe95-1e93-5dc0-b137-87c218f395fc"
+      }
+    }
+  }
+}

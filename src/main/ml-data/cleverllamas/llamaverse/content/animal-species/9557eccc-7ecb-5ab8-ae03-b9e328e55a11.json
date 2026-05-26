@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Star-nosed Mole",
+        "sizeClass": "tiny",
+        "fluffiness": 4,
+        "typicalDisposition": "sensory",
+        "typicalLifespanYears": 5,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Mammalia",
+          "order": "Eulipotyphla",
+          "family": "Talpidae",
+          "genus": "Condylura",
+          "species": "Condylura cristata"
+        },
+        "description": "22 tentacles around its nose containing 25,000 sensory receptors. Can detect and eat prey in under 120 milliseconds. Llamas find it admirable.",
+        "id": "9557eccc-7ecb-5ab8-ae03-b9e328e55a11"
+      }
+    }
+  }
+}

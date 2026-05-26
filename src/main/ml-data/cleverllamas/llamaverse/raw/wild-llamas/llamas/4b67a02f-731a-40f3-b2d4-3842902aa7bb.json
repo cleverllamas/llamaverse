@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Huacaya",
   "placeOfBirth": "Duffyshire, Venezuela",
-  "description": "Warren is a green-eyed llama with red hair, standing 151 cm tall. Originally from Duffyshire, Venezuela, Warren enjoys painting, reading, wood carving. Known for their shy and gentle personality, Warren is a beloved member of the llama community."
+  "description": "Warren is a green-eyed llama with red hair, standing 151 cm tall. Originally from Duffyshire, Venezuela, Warren enjoys painting, reading, wood carving. Known for their shy and gentle personality, Warren is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_silvestris"
 }

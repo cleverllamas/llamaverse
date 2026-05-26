@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "77a8a2c5-8300-49cc-8c24-db909ee14ff8",
+        "name": "Crumple",
+        "ageYears": 23,
+        "disposition": "curious",
+        "fluffiness": 2,
+        "quirk": "stages elaborate fake emergencies to see who responds fastest",
+        "speciesId": "ee5a309a-b82e-55d8-9188-c88eb7e32cdd",
+        "speciesCommonName": "Olm",
+        "speciesScientificName": "Proteus anguinus",
+        "sizeClass": "small",
+        "ownerName": "Alice",
+        "shelterId": "c8de3d2b-6e9a-5ed1-bda7-9a50f977ddb9",
+        "shelterName": "The Quiet Pool"
+      }
+    }
+  }
+}

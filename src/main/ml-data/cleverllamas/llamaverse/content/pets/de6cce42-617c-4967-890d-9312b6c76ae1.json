@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "de6cce42-617c-4967-890d-9312b6c76ae1",
+        "name": "Higgledy",
+        "ageYears": 0,
+        "disposition": "earnest",
+        "fluffiness": 2,
+        "quirk": "collects bottle caps from obscure regions",
+        "speciesId": "394eb58a-7760-55f9-ab05-7ccdcc0fca2f",
+        "speciesCommonName": "Giant Squid",
+        "speciesScientificName": "Architeuthis dux",
+        "sizeClass": "gigantic",
+        "ownerName": "Jasper",
+        "shelterId": "e9a0f6a9-5a3f-51a3-ae37-19773f4ac55f",
+        "shelterName": "The Archipelago Orphanage"
+      }
+    }
+  }
+}

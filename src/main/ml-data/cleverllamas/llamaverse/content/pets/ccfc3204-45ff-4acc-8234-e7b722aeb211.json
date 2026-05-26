@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "ccfc3204-45ff-4acc-8234-e7b722aeb211",
+        "name": "Squelch",
+        "ageYears": 2,
+        "disposition": "serene",
+        "fluffiness": 1,
+        "quirk": "only eats food arranged in symmetrical patterns",
+        "speciesId": "5e293069-9326-5c4b-a7a1-eaea4e4d3449",
+        "speciesCommonName": "Mandarin Dragonet",
+        "speciesScientificName": "Synchiropus splendidus",
+        "sizeClass": "tiny",
+        "ownerName": "Gwen",
+        "shelterId": "2770733d-7079-5abc-92e8-6a21c74559c1",
+        "shelterName": "Deep Blue Creature Sanctuary"
+      }
+    }
+  }
+}

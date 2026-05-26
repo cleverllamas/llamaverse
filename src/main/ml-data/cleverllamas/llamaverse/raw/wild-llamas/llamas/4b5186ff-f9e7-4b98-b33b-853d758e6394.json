@@ -7,5 +7,6 @@
   "hairColor": "Black",
   "breed": "Hybrid",
   "placeOfBirth": "Christopherburgh, Samoa",
-  "description": "George is a gray-eyed llama with black hair, standing 165 cm tall. Originally from Christopherburgh, Samoa, George enjoys reading, gardening, singing. Known for their friendly and gentle personality, George is a beloved member of the llama community."
+  "description": "George is a gray-eyed llama with black hair, standing 165 cm tall. Originally from Christopherburgh, Samoa, George enjoys reading, gardening, singing. Known for their friendly and gentle personality, George is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_silvestris"
 }

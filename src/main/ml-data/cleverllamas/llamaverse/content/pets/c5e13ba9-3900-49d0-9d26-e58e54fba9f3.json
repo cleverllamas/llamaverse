@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "c5e13ba9-3900-49d0-9d26-e58e54fba9f3",
+        "name": "Noodle",
+        "ageYears": 0,
+        "disposition": "aloof",
+        "fluffiness": 8,
+        "quirk": "has memorised the bus timetable for a city it has never visited",
+        "speciesId": "c53d8a11-eed9-5fa6-9707-f538f88860a2",
+        "speciesCommonName": "Emperor Tamarin",
+        "speciesScientificName": "Saguinus imperator",
+        "sizeClass": "tiny",
+        "ownerName": "Isolde",
+        "shelterId": "43593191-478d-5f0a-82ec-63ff4cc4122e",
+        "shelterName": "The Patagonian Wild Wing Refuge"
+      }
+    }
+  }
+}

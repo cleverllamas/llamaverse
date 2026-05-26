@@ -7,5 +7,6 @@
   "hairColor": "Brown",
   "breed": "Hybrid",
   "placeOfBirth": "Port Jeffreyland, Switzerland",
-  "description": "Lori is a brown-eyed llama with brown hair, standing 140 cm tall. Originally from Port Jeffreyland, Switzerland, Lori enjoys dancing, cooking, hiking. Known for their shy and calm personality, Lori is a beloved member of the llama community."
+  "description": "Lori is a brown-eyed llama with brown hair, standing 140 cm tall. Originally from Port Jeffreyland, Switzerland, Lori enjoys dancing, cooking, hiking. Known for their shy and calm personality, Lori is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriborealis"
 }

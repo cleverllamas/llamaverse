@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "4ef2e354-d00d-407c-a887-73f7cc989603",
+        "name": "Clatter",
+        "ageYears": 15,
+        "disposition": "serene",
+        "fluffiness": 1,
+        "quirk": "believes it is being followed, correctly",
+        "speciesId": "c22b5f4d-e296-54a6-b2a1-469b4a119572",
+        "speciesCommonName": "Immortal Jellyfish",
+        "speciesScientificName": "Turritopsis dohrnii",
+        "sizeClass": "microscopic",
+        "ownerName": "Beatrice",
+        "shelterId": "24d12d56-1e48-56e1-aa51-54df3c5f003c",
+        "shelterName": "The Stillness Institute"
+      }
+    }
+  }
+}

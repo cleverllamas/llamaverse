@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "7da12677-5226-4522-82af-d4fb0e2139f2",
+        "name": "Snorkel",
+        "ageYears": 10,
+        "disposition": "theatrical",
+        "fluffiness": 6,
+        "quirk": "has attempted to file taxes three years in a row without opposable thumbs",
+        "speciesId": "686b9835-e7a5-58b6-8e19-741d7ca27e8d",
+        "speciesCommonName": "Atlantic Puffin",
+        "speciesScientificName": "Fratercula arctica",
+        "sizeClass": "small",
+        "ownerName": "Jasper",
+        "shelterId": "8d977212-e5ba-55f4-be32-882c53197b49",
+        "shelterName": "The Wool and Scales Rehabilitation Centre"
+      }
+    }
+  }
+}

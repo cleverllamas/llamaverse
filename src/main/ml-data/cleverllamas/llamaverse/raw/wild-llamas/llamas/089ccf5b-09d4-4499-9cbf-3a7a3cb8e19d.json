@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Huacaya",
   "placeOfBirth": "Lake Thomasview, Albania",
-  "description": "Angela is a hazel-eyed llama with red hair, standing 122 cm tall. Originally from Lake Thomasview, Albania, Angela enjoys wood carving, dancing, painting. Known for their energetic and curious personality, Angela is a beloved member of the llama community."
+  "description": "Angela is a hazel-eyed llama with red hair, standing 122 cm tall. Originally from Lake Thomasview, Albania, Angela enjoys wood carving, dancing, painting. Known for their energetic and curious personality, Angela is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_deserticola"
 }

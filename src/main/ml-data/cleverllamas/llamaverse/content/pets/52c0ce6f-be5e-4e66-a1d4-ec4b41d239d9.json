@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "52c0ce6f-be5e-4e66-a1d4-ec4b41d239d9",
+        "name": "Squelch",
+        "ageYears": 1,
+        "disposition": "devoted",
+        "fluffiness": 2,
+        "quirk": "collects bottle caps from obscure regions",
+        "speciesId": "aca2173d-21bd-5c07-a825-a3755227bd9f",
+        "speciesCommonName": "Decorator Crab",
+        "speciesScientificName": "Camposcia retusa",
+        "sizeClass": "small",
+        "ownerName": "Isolde",
+        "shelterId": "c8de3d2b-6e9a-5ed1-bda7-9a50f977ddb9",
+        "shelterName": "The Quiet Pool"
+      }
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "jobs"
+    },
+    "instance": {
+      "jobs": {
+        "id": "j3000003-cccc-4ddd-eeee-00001111222f",
+        "title": "Principal Quantum Engineer",
+        "company": "SpinLlama Quantum Labs",
+        "companyId": "40004444-5555-6666-7777-88889999aaaa",
+        "location": "LIT Research Campus",
+        "postedDate": "2025-04-22",
+        "closingDate": "2025-06-30",
+        "salaryHayBalesMin": 44000,
+        "salaryHayBalesMax": 54000,
+        "employmentType": "Permanent",
+        "seniorityLevel": "Senior",
+        "description": "SpinLlama Quantum Labs is hiring a Principal Quantum Engineer to lead simulation development for our entanglement modelling platform. You will design and implement novel algorithms for classical simulation of quantum systems, contribute to the company's XML data schema for simulation results, and work closely with Bradley on strategic direction. Note: board meetings are run in reverse chronological order. Candidates should be comfortable with temporal disorientation.",
+        "requirements": [
+          "PhD in quantum physics or equivalent",
+          "Experience with XML data modelling",
+          "Familiarity with MarkLogic path expressions and namespace handling",
+          "Tolerance for non-linear meeting structures",
+          "Willingness to relocate (the campus has excellent hay)"
+        ],
+        "postedByName": "Bradley",
+        "tags": [
+          "quantum",
+          "engineering",
+          "XML",
+          "MarkLogic",
+          "SpinLlama"
+        ]
+      }
+    }
+  }
+}

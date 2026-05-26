@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "75c72543-ab9d-4517-a668-989faf8dafbd",
+        "name": "Fringe",
+        "ageYears": 9,
+        "disposition": "serene",
+        "fluffiness": 1,
+        "quirk": "stages elaborate fake emergencies to see who responds fastest",
+        "speciesId": "ac69524c-7513-5955-bdf2-126d2e06c74b",
+        "speciesCommonName": "White Rhinoceros",
+        "speciesScientificName": "Ceratotherium simum",
+        "sizeClass": "gigantic",
+        "ownerName": "Elena",
+        "shelterId": "a80124a7-0a88-582c-9362-e5c7aecd90d2",
+        "shelterName": "The Peculiar Menagerie of Llamaville East"
+      }
+    }
+  }
+}

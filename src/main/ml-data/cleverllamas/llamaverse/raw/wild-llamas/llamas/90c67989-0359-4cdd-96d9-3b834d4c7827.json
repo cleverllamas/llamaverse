@@ -7,5 +7,6 @@
   "hairColor": "Brown",
   "breed": "Hybrid",
   "placeOfBirth": "East Courtneyland, Malawi",
-  "description": "Christina is a hazel-eyed llama with brown hair, standing 184 cm tall. Originally from East Courtneyland, Malawi, Christina enjoys hiking, dancing, cooking. Known for their playful and friendly personality, Christina is a beloved member of the llama community."
+  "description": "Christina is a hazel-eyed llama with brown hair, standing 184 cm tall. Originally from East Courtneyland, Malawi, Christina enjoys hiking, dancing, cooking. Known for their playful and friendly personality, Christina is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriensis"
 }

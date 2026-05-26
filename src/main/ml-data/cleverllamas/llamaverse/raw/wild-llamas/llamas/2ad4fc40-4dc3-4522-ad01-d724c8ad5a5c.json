@@ -7,5 +7,6 @@
   "hairColor": "Brown",
   "breed": "Suri",
   "placeOfBirth": "New Allenview, Slovakia (Slovak Republic)",
-  "description": "John is a blue-eyed llama with brown hair, standing 159 cm tall. Originally from New Allenview, Slovakia (Slovak Republic), John enjoys dancing, gardening, wood carving. Known for their curious and playful personality, John is a beloved member of the llama community."
+  "description": "John is a blue-eyed llama with brown hair, standing 159 cm tall. Originally from New Allenview, Slovakia (Slovak Republic), John enjoys dancing, gardening, wood carving. Known for their curious and playful personality, John is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_silvestris"
 }

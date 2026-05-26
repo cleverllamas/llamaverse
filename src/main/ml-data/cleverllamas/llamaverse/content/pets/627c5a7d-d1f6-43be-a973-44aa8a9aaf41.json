@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "627c5a7d-d1f6-43be-a973-44aa8a9aaf41",
+        "name": "Skitter",
+        "ageYears": 11,
+        "disposition": "devoted",
+        "fluffiness": 1,
+        "quirk": "is writing a novel but will not discuss the plot",
+        "speciesId": "52e97f4e-6aee-54e7-bcee-296237e2cb22",
+        "speciesCommonName": "Komodo Dragon",
+        "speciesScientificName": "Varanus komodoensis",
+        "sizeClass": "large",
+        "ownerName": "Bradley",
+        "shelterId": "6d613241-5ad3-5197-8b01-500e8b607567",
+        "shelterName": "Fernanda's Home for Misunderstood Creatures"
+      }
+    }
+  }
+}

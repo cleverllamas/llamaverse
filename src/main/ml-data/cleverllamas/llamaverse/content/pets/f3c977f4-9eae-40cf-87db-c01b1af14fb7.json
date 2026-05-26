@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "f3c977f4-9eae-40cf-87db-c01b1af14fb7",
+        "name": "Crumple",
+        "ageYears": 1,
+        "disposition": "grumpy",
+        "fluffiness": 2,
+        "quirk": "has been learning to juggle for three years with no progress",
+        "speciesId": "5e293069-9326-5c4b-a7a1-eaea4e4d3449",
+        "speciesCommonName": "Mandarin Dragonet",
+        "speciesScientificName": "Synchiropus splendidus",
+        "sizeClass": "tiny",
+        "ownerName": "Percy",
+        "shelterId": "c8de3d2b-6e9a-5ed1-bda7-9a50f977ddb9",
+        "shelterName": "The Quiet Pool"
+      }
+    }
+  }
+}

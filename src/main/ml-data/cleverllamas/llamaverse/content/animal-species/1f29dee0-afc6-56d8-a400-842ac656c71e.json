@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Red Panda",
+        "sizeClass": "small",
+        "fluffiness": 9,
+        "typicalDisposition": "solitary",
+        "typicalLifespanYears": 15,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Mammalia",
+          "order": "Carnivora",
+          "family": "Ailuridae",
+          "genus": "Ailurus",
+          "species": "Ailurus fulgens"
+        },
+        "description": "Not a bear, not a raccoon. Fluffy. Eats bamboo. Wrist bone acts as a false thumb. Llamas regard it as the peak of casual animal excellence.",
+        "id": "1f29dee0-afc6-56d8-a400-842ac656c71e"
+      }
+    }
+  }
+}

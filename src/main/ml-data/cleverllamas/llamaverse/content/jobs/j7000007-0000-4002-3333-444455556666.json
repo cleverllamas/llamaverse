@@ -1,0 +1,38 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "jobs"
+    },
+    "instance": {
+      "jobs": {
+        "id": "j7000007-0000-4002-3333-444455556666",
+        "title": "MarkLogic Security Consultant",
+        "company": "Clever Llamavas Ltd",
+        "companyId": "50005555-6666-7777-8888-9999aaaabbbb",
+        "location": "Remote / Llamaville",
+        "postedDate": "2025-05-14",
+        "closingDate": "2025-06-30",
+        "salaryHayBalesMin": 45000,
+        "salaryHayBalesMax": 55000,
+        "employmentType": "Permanent",
+        "seniorityLevel": "Senior",
+        "description": "Clever Llamavas is seeking a MarkLogic Security Consultant to join our Principal Architect team. You will lead engagements focused on the MarkLogic security model \u2014 roles, privileges, amps, document permissions, element-level security \u2014 typically for clients who have discovered that their permission configuration is not what they thought it was. This happens more often than it should. You will help them understand why, and what to do about it.",
+        "requirements": [
+          "Expert-level knowledge of MarkLogic roles, privileges, and amps",
+          "Experience auditing document permissions at scale",
+          "Understanding of permission-query patterns",
+          "Ability to communicate clearly to non-technical stakeholders",
+          "A philosophical acceptance that most security problems are human problems"
+        ],
+        "postedByName": "Ashley",
+        "tags": [
+          "security",
+          "MarkLogic",
+          "permissions",
+          "consulting",
+          "Clever Llamavas"
+        ]
+      }
+    }
+  }
+}

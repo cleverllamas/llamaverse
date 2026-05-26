@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "71762294-1e9f-4c5f-9b06-c4ae0dc13913",
+        "name": "Noodle",
+        "ageYears": 3,
+        "disposition": "philosophical",
+        "fluffiness": 6,
+        "quirk": "only eats food arranged in symmetrical patterns",
+        "speciesId": "2ef097b8-1657-5dd9-8208-6894c49f32ab",
+        "speciesCommonName": "Platypus",
+        "speciesScientificName": "Ornithorhynchus anatinus",
+        "sizeClass": "small",
+        "ownerName": "Nigel",
+        "shelterId": "a80124a7-0a88-582c-9362-e5c7aecd90d2",
+        "shelterName": "The Peculiar Menagerie of Llamaville East"
+      }
+    }
+  }
+}

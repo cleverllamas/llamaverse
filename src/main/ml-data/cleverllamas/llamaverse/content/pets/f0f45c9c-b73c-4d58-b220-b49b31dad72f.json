@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "f0f45c9c-b73c-4d58-b220-b49b31dad72f",
+        "name": "Crinkleworth",
+        "ageYears": 0,
+        "disposition": "regal",
+        "fluffiness": 2,
+        "quirk": "constructed a scale model of the hay festival from memory",
+        "speciesId": "448bb2fb-6c8f-5bbe-a509-6296ebcfb91e",
+        "speciesCommonName": "Blue-ringed Octopus",
+        "speciesScientificName": "Hapalochlaena lunulata",
+        "sizeClass": "tiny",
+        "ownerName": "Bradley",
+        "shelterId": "fea3da74-6337-5053-bffe-89e75d14ef03",
+        "shelterName": "The Wandering Fleece Animal Sanctuary"
+      }
+    }
+  }
+}

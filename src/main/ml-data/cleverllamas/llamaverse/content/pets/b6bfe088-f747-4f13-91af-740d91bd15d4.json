@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "b6bfe088-f747-4f13-91af-740d91bd15d4",
+        "name": "Piggledy",
+        "ageYears": 3,
+        "disposition": "erratic",
+        "fluffiness": 1,
+        "quirk": "sings exactly one note whenever startled",
+        "speciesId": "6565f20e-3b20-5609-906d-eb3327ea541c",
+        "speciesCommonName": "Giant Millipede",
+        "speciesScientificName": "Archispirostreptus gigas",
+        "sizeClass": "small",
+        "ownerName": "Horatio",
+        "shelterId": "869456e1-451e-554f-96f2-4a54e832dd46",
+        "shelterName": "Bradley's Extreme Fauna Compound"
+      }
+    }
+  }
+}

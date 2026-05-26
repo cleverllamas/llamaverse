@@ -7,5 +7,6 @@
   "hairColor": "Blonde",
   "breed": "Huacaya",
   "placeOfBirth": "Stewartshire, Saint Martin",
-  "description": "Amy is a green-eyed llama with blonde hair, standing 141 cm tall. Originally from Stewartshire, Saint Martin, Amy enjoys hiking, wood carving, painting. Known for their gentle and friendly personality, Amy is a beloved member of the llama community."
+  "description": "Amy is a green-eyed llama with blonde hair, standing 141 cm tall. Originally from Stewartshire, Saint Martin, Amy enjoys hiking, wood carving, painting. Known for their gentle and friendly personality, Amy is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_vellaridus"
 }

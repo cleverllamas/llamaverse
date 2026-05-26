@@ -7,5 +7,6 @@
   "hairColor": "Brown",
   "breed": "Huacaya",
   "placeOfBirth": "Elizabethland, Chile",
-  "description": "Stephen is a amber-eyed llama with brown hair, standing 169 cm tall. Originally from Elizabethland, Chile, Stephen enjoys singing, painting, wood carving. Known for their curious and energetic personality, Stephen is a beloved member of the llama community."
+  "description": "Stephen is a amber-eyed llama with brown hair, standing 169 cm tall. Originally from Elizabethland, Chile, Stephen enjoys singing, painting, wood carving. Known for their curious and energetic personality, Stephen is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_silvestris"
 }

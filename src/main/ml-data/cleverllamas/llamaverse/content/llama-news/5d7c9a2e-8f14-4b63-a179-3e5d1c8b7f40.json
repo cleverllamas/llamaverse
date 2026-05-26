@@ -1,0 +1,25 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "llama-news"
+    },
+    "instance": {
+      "llama-news": {
+        "id": "5d7c9a2e-8f14-4b63-a179-3e5d1c8b7f40",
+        "headline": "URI Lexicon Credited with Saving Archive Migration Project from Collapse",
+        "byline": "Anthony",
+        "publishedDate": "2025-03-14",
+        "section": "Technology",
+        "tags": [
+          "URI lexicon",
+          "migration",
+          "performance",
+          "MarkLogic",
+          "archive"
+        ],
+        "summary": "A large-scale document migration running weeks behind schedule was rescued when engineers enabled the URI lexicon and replaced a costly full-database scan.",
+        "body": "TECH DISTRICT \u2014 A document migration project at the Llamaverse National Archive that had fallen six weeks behind schedule was rescued last month when a consulting team enabled the URI lexicon and rewrote the document selection queries.\n\nThe original approach iterated over documents using cts:search() with a path range query, scanning millions of records on every pass. By switching to cts:uris() backed by the URI lexicon, the team reduced query times from forty minutes per batch to under three seconds.\n\n'The URI lexicon is one of the most underused features in MarkLogic,' said the lead consultant, a Clever Llamavas advisor. 'It is not just for listing URIs. It is a navigable index you can walk with cts:uris() using a start value, meaning you can paginate through millions of document URIs without keeping any state in memory.'\n\nThe archive migration completed on time."
+      }
+    }
+  }
+}

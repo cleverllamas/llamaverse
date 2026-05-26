@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Huacaya",
   "placeOfBirth": "Port Colleenville, Austria",
-  "description": "Sarah is a brown-eyed llama with red hair, standing 163 cm tall. Originally from Port Colleenville, Austria, Sarah enjoys singing, reading, gardening. Known for their shy and gentle personality, Sarah is a beloved member of the llama community."
+  "description": "Sarah is a brown-eyed llama with red hair, standing 163 cm tall. Originally from Port Colleenville, Austria, Sarah enjoys singing, reading, gardening. Known for their shy and gentle personality, Sarah is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_deserticola"
 }

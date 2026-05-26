@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Armadillo Lizard",
+        "sizeClass": "tiny",
+        "fluffiness": 1,
+        "typicalDisposition": "defensive",
+        "typicalLifespanYears": 25,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Reptilia",
+          "order": "Squamata",
+          "family": "Cordylidae",
+          "genus": "Ouroborus",
+          "species": "Ouroborus cataphractus"
+        },
+        "description": "Rolls into a tight ball holding its own tail in its mouth. A living dragon symbol. Llamas who study philosophy keep them.",
+        "id": "f2e330c3-bc54-5fb9-a438-747f1bf83e84"
+      }
+    }
+  }
+}

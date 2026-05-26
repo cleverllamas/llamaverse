@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "1689cff7-e55b-48bd-81a3-c800ba66df92",
+        "name": "Gobsmack",
+        "ageYears": 3,
+        "disposition": "erratic",
+        "fluffiness": 2,
+        "quirk": "only eats food arranged in symmetrical patterns",
+        "speciesId": "394eb58a-7760-55f9-ab05-7ccdcc0fca2f",
+        "speciesCommonName": "Giant Squid",
+        "speciesScientificName": "Architeuthis dux",
+        "sizeClass": "gigantic",
+        "ownerName": "Bradley",
+        "shelterId": "7437ed74-37ab-5121-a86c-723531fb55b3",
+        "shelterName": "The Galaxy of Small Things"
+      }
+    }
+  }
+}

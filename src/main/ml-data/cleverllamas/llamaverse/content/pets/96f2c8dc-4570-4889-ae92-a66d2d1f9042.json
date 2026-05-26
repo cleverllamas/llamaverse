@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "96f2c8dc-4570-4889-ae92-a66d2d1f9042",
+        "name": "Waggle",
+        "ageYears": 14,
+        "disposition": "lazy",
+        "fluffiness": 2,
+        "quirk": "is writing a novel but will not discuss the plot",
+        "speciesId": "c3459914-3500-52fc-869a-f401325f49c7",
+        "speciesCommonName": "Blobfish",
+        "speciesScientificName": "Psychrolutes marcidus",
+        "sizeClass": "small",
+        "ownerName": "Elena",
+        "shelterId": "e9a0f6a9-5a3f-51a3-ae37-19773f4ac55f",
+        "shelterName": "The Archipelago Orphanage"
+      }
+    }
+  }
+}

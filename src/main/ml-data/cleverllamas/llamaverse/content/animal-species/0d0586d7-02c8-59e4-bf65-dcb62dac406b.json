@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Leaf Insect",
+        "sizeClass": "tiny",
+        "fluffiness": 1,
+        "typicalDisposition": "cryptic",
+        "typicalLifespanYears": 2,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Arthropoda",
+          "class": "Insecta",
+          "order": "Phasmatodea",
+          "family": "Phylliidae",
+          "genus": "Phyllium",
+          "species": "Phyllium giganteum"
+        },
+        "description": "Indistinguishable from a leaf at any distance. Angela keeps twelve of them and can find eleven at any given time.",
+        "id": "0d0586d7-02c8-59e4-bf65-dcb62dac406b"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "809995d4-4cfc-43e1-b3e2-acc0a8ada694",
+        "name": "Kerfuffle",
+        "ageYears": 0,
+        "disposition": "stoic",
+        "fluffiness": 1,
+        "quirk": "believes it is being followed, correctly",
+        "speciesId": "7acd6049-592a-5864-a177-72f1152e140a",
+        "speciesCommonName": "Freshwater Hydra",
+        "speciesScientificName": "Hydra vulgaris",
+        "sizeClass": "microscopic",
+        "ownerName": "Alice",
+        "shelterId": "1d1ceadd-64ed-52d5-a416-b278d95c83d1",
+        "shelterName": "The Cosy Burrow Rescue and Rehoming"
+      }
+    }
+  }
+}

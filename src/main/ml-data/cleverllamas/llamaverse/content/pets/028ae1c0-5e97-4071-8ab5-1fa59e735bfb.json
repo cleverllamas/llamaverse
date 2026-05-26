@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "028ae1c0-5e97-4071-8ab5-1fa59e735bfb",
+        "name": "Snickerdoodle",
+        "ageYears": 7,
+        "disposition": "affectionate",
+        "fluffiness": 1,
+        "quirk": "judges every piece of music against a private internal standard it has never revealed",
+        "speciesId": "cc8dd1ba-f29c-56e6-8699-15f4a268b860",
+        "speciesCommonName": "Poison Dart Frog",
+        "speciesScientificName": "Dendrobates tinctorius",
+        "sizeClass": "tiny",
+        "ownerName": "Bradley",
+        "shelterId": "8d977212-e5ba-55f4-be32-882c53197b49",
+        "shelterName": "The Wool and Scales Rehabilitation Centre"
+      }
+    }
+  }
+}

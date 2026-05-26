@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "cc37cff9-6a7c-4643-a322-aa1798c13b90",
+        "name": "Bamboozle",
+        "ageYears": 1,
+        "disposition": "dignified",
+        "fluffiness": 1,
+        "quirk": "has memorised the bus timetable for a city it has never visited",
+        "speciesId": "d389fe5d-7600-5b1b-be44-d2325c69d673",
+        "speciesCommonName": "Mimic Octopus (second variant)",
+        "speciesScientificName": "Wunderpus photogenicus",
+        "sizeClass": "small",
+        "ownerName": "Kestrel",
+        "shelterId": "6d613241-5ad3-5197-8b01-500e8b607567",
+        "shelterName": "Fernanda's Home for Misunderstood Creatures"
+      }
+    }
+  }
+}

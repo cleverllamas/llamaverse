@@ -7,5 +7,6 @@
   "hairColor": "Gray",
   "breed": "Suri",
   "placeOfBirth": "New Cindy, Guam",
-  "description": "David is a brown-eyed llama with gray hair, standing 149 cm tall. Originally from New Cindy, Guam, David enjoys dancing, hiking, knitting. Known for their friendly and mischievous personality, David is a beloved member of the llama community."
+  "description": "David is a brown-eyed llama with gray hair, standing 149 cm tall. Originally from New Cindy, Guam, David enjoys dancing, hiking, knitting. Known for their friendly and mischievous personality, David is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriborealis"
 }

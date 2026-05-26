@@ -7,5 +7,6 @@
   "hairColor": "Black",
   "breed": "Suri",
   "placeOfBirth": "East Nichole, Kenya",
-  "description": "Andrew is a green-eyed llama with black hair, standing 160 cm tall. Originally from East Nichole, Kenya, Andrew enjoys singing, gardening, painting. Known for their energetic and gentle personality, Andrew is a beloved member of the llama community."
+  "description": "Andrew is a green-eyed llama with black hair, standing 160 cm tall. Originally from East Nichole, Kenya, Andrew enjoys singing, gardening, painting. Known for their energetic and gentle personality, Andrew is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriphilus"
 }

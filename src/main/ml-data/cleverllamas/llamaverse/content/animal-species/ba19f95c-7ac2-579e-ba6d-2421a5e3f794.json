@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Pufferfish",
+        "sizeClass": "small",
+        "fluffiness": 4,
+        "typicalDisposition": "anxious",
+        "typicalLifespanYears": 10,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Actinopterygii",
+          "order": "Tetraodontiformes",
+          "family": "Tetraodontidae",
+          "genus": "Tetraodon",
+          "species": "Tetraodon mbu"
+        },
+        "description": "Inflates dramatically when frightened. Llamas are instructed not to sneak up on them, a rule that is frequently tested.",
+        "id": "ba19f95c-7ac2-579e-ba6d-2421a5e3f794"
+      }
+    }
+  }
+}

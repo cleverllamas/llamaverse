@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "2ece4019-c613-48de-92a6-5338384a8bcb",
+        "name": "Noodle",
+        "ageYears": 14,
+        "disposition": "aloof",
+        "fluffiness": 2,
+        "quirk": "sings exactly one note whenever startled",
+        "speciesId": "0af44b1d-a59e-5eb3-9f38-bca9dd702317",
+        "speciesCommonName": "Nautilus",
+        "speciesScientificName": "Nautilus pompilius",
+        "sizeClass": "small",
+        "ownerName": "Boris",
+        "shelterId": "4e1e0f71-7c69-5073-ab12-27cfd4257912",
+        "shelterName": "The Old Pond Sanctuary"
+      }
+    }
+  }
+}

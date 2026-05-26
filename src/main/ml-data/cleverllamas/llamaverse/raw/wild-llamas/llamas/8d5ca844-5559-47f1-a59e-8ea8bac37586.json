@@ -7,5 +7,6 @@
   "hairColor": "Silver",
   "breed": "Huacaya",
   "placeOfBirth": "Bretthaven, Turkmenistan",
-  "description": "Marcus is a blue-eyed llama with silver hair, standing 168 cm tall. Originally from Bretthaven, Turkmenistan, Marcus enjoys knitting, hiking, reading. Known for their gentle and energetic personality, Marcus is a beloved member of the llama community."
+  "description": "Marcus is a blue-eyed llama with silver hair, standing 168 cm tall. Originally from Bretthaven, Turkmenistan, Marcus enjoys knitting, hiking, reading. Known for their gentle and energetic personality, Marcus is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriborealis"
 }

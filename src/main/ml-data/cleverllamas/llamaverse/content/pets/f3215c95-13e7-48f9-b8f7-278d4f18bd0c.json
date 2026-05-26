@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "f3215c95-13e7-48f9-b8f7-278d4f18bd0c",
+        "name": "Jangle",
+        "ageYears": 5,
+        "disposition": "eccentric",
+        "fluffiness": 2,
+        "quirk": "insists on a bedtime story every night",
+        "speciesId": "5b5b57d6-344d-5913-bf87-dac3a883d652",
+        "speciesCommonName": "Emperor Scorpion",
+        "speciesScientificName": "Pandinus imperator",
+        "sizeClass": "small",
+        "ownerName": "Angela",
+        "shelterId": "6d613241-5ad3-5197-8b01-500e8b607567",
+        "shelterName": "Fernanda's Home for Misunderstood Creatures"
+      }
+    }
+  }
+}

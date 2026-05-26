@@ -1,0 +1,10 @@
+{
+  "uri": "http://cleverllamas.com/llamaverse/species/Lama_glama_vellasilva",
+  "type": "Species",
+  "label": "Lama glama vellasilva",
+  "description": "Forest fluffy llamas perpetually decorated with leaves, twigs, and small admiring insects.",
+  "parentUri": "http://cleverllamas.com/llamaverse/genus/Lama",
+  "phylumKey": "Vellosa",
+  "classKey": "Silvaticus",
+  "speciesKey": "Lama_glama_vellasilva"
+}

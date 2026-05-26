@@ -1,0 +1,38 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "jobs"
+    },
+    "instance": {
+      "jobs": {
+        "id": "j4000004-dddd-4eee-0000-111122223333",
+        "title": "Data Pipeline Engineer \u2014 Wool Genomics",
+        "company": "WoolWorks International",
+        "companyId": "30003333-4444-5555-6666-777788889999",
+        "location": "WoolWorks Campus, Northern Highlands",
+        "postedDate": "2025-05-18",
+        "closingDate": "2025-07-01",
+        "salaryHayBalesMin": 31000,
+        "salaryHayBalesMax": 38000,
+        "employmentType": "Permanent",
+        "seniorityLevel": "Mid-Level",
+        "description": "WoolWorks International is seeking a Data Pipeline Engineer to join the Genomics Data Infrastructure team. You will build and maintain ingest pipelines for whole-genome sequencing output, transforming raw bioinformatics data into structured documents loaded into MarkLogic. A key responsibility is ensuring that element-level security is correctly applied at ingest time \u2014 design specifications and cost data must remain in separate security partitions.",
+        "requirements": [
+          "3+ years data pipeline experience",
+          "Experience with MarkLogic element-level security or equivalent",
+          "Knowledge of bioinformatics data formats (preferred)",
+          "XQuery or JavaScript SJS proficiency",
+          "Attention to detail with access control configuration"
+        ],
+        "postedByName": "Miranda",
+        "tags": [
+          "pipeline",
+          "MarkLogic",
+          "genomics",
+          "element-level security",
+          "WoolWorks"
+        ]
+      }
+    }
+  }
+}

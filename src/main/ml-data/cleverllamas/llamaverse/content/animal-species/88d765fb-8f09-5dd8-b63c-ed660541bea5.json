@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Chameleon",
+        "sizeClass": "small",
+        "fluffiness": 1,
+        "typicalDisposition": "changeable",
+        "typicalLifespanYears": 10,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Reptilia",
+          "order": "Squamata",
+          "family": "Chamaeleonidae",
+          "genus": "Chamaeleo",
+          "species": "Chamaeleo calyptratus"
+        },
+        "description": "Changes colour not for camouflage but to express mood. Llamas find this refreshingly honest.",
+        "id": "88d765fb-8f09-5dd8-b63c-ed660541bea5"
+      }
+    }
+  }
+}

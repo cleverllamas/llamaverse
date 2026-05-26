@@ -1,0 +1,25 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "professions"
+    },
+    "instance": {
+      "professions": {
+        "id": "d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a",
+        "title": "Supreme Court Justice",
+        "sector": "Law",
+        "description": "Supreme Court Justices sit on the highest judicial body in the llamaverse. Appointments are lifetime positions and are considered among the most prestigious in public life. Justices must have at least twenty years of legal practice and are expected to produce written judgements of extraordinary intellectual rigour. The current court has seven justices, all Huacaya breed, a statistical coincidence the court itself has noted in a footnote.",
+        "typicalSalaryHayBales": 67000,
+        "seniorityLevel": "Executive",
+        "requiredYearsExperience": 20,
+        "keySkills": [
+          "constitutional law",
+          "precedent analysis",
+          "written reasoning",
+          "judicial temperament"
+        ],
+        "secretPowerAdvantage": "Snake Charmer \u2014 useful during oral arguments"
+      }
+    }
+  }
+}

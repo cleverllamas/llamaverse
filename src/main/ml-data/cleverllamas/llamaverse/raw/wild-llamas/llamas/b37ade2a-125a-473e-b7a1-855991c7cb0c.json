@@ -7,5 +7,6 @@
   "hairColor": "Black",
   "breed": "Suri",
   "placeOfBirth": "Port Douglas, Russian Federation",
-  "description": "Cody is a green-eyed llama with black hair, standing 145 cm tall. Originally from Port Douglas, Russian Federation, Cody enjoys knitting, cooking, painting. Known for their energetic and playful personality, Cody is a beloved member of the llama community."
+  "description": "Cody is a green-eyed llama with black hair, standing 145 cm tall. Originally from Port Douglas, Russian Federation, Cody enjoys knitting, cooking, painting. Known for their energetic and playful personality, Cody is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_vellifer"
 }

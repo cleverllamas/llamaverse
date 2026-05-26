@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "c3202bf7-cca2-48d9-bfa0-c9fa2c68193b",
+        "name": "Bumble",
+        "ageYears": 0,
+        "disposition": "cheerful",
+        "fluffiness": 4,
+        "quirk": "has been learning to juggle for three years with no progress",
+        "speciesId": "9932ed23-008b-54a4-b28a-7c56e3990260",
+        "speciesCommonName": "Bearded Vulture",
+        "speciesScientificName": "Gypaetus barbatus",
+        "sizeClass": "large",
+        "ownerName": "Derek",
+        "shelterId": "43593191-478d-5f0a-82ec-63ff4cc4122e",
+        "shelterName": "The Patagonian Wild Wing Refuge"
+      }
+    }
+  }
+}

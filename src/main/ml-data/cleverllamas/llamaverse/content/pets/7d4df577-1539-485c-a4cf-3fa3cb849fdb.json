@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "7d4df577-1539-485c-a4cf-3fa3cb849fdb",
+        "name": "Flicker",
+        "ageYears": 4,
+        "disposition": "aloof",
+        "fluffiness": 1,
+        "quirk": "only eats food arranged in symmetrical patterns",
+        "speciesId": "d8813430-4b4c-5a92-9d22-d3a5b4110d11",
+        "speciesCommonName": "Horseshoe Crab",
+        "speciesScientificName": "Limulus polyphemus",
+        "sizeClass": "medium",
+        "ownerName": "Fernanda",
+        "shelterId": "869456e1-451e-554f-96f2-4a54e832dd46",
+        "shelterName": "Bradley's Extreme Fauna Compound"
+      }
+    }
+  }
+}

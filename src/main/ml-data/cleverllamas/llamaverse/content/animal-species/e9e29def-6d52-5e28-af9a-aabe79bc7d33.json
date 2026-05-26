@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Giant African Land Snail",
+        "sizeClass": "small",
+        "fluffiness": 1,
+        "typicalDisposition": "deliberate",
+        "typicalLifespanYears": 10,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Mollusca",
+          "class": "Gastropoda",
+          "order": "Stylommatophora",
+          "family": "Achatinidae",
+          "genus": "Achatina",
+          "species": "Achatina fulica"
+        },
+        "description": "Up to 30cm long with a magnificent spiralled shell. Llamas enjoy the meditative pace of snail-keeping.",
+        "id": "e9e29def-6d52-5e28-af9a-aabe79bc7d33"
+      }
+    }
+  }
+}

@@ -7,5 +7,6 @@
   "hairColor": "Blonde",
   "breed": "Huacaya",
   "placeOfBirth": "Lake Mark, Brazil",
-  "description": "Emily is a blue-eyed llama with blonde hair, standing 138 cm tall. Originally from Lake Mark, Brazil, Emily enjoys wood carving, reading, painting. Known for their curious and energetic personality, Emily is a beloved member of the llama community."
+  "description": "Emily is a blue-eyed llama with blonde hair, standing 138 cm tall. Originally from Lake Mark, Brazil, Emily enjoys wood carving, reading, painting. Known for their curious and energetic personality, Emily is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_andinus"
 }

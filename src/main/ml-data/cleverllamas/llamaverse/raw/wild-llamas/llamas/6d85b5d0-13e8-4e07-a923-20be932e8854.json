@@ -7,5 +7,6 @@
   "hairColor": "Black",
   "breed": "Suri",
   "placeOfBirth": "Lake Jessicaborough, Svalbard & Jan Mayen Islands",
-  "description": "Gary is a green-eyed llama with black hair, standing 116 cm tall. Originally from Lake Jessicaborough, Svalbard & Jan Mayen Islands, Gary enjoys knitting, reading, hiking. Known for their playful and mischievous personality, Gary is a beloved member of the llama community."
+  "description": "Gary is a green-eyed llama with black hair, standing 116 cm tall. Originally from Lake Jessicaborough, Svalbard & Jan Mayen Islands, Gary enjoys knitting, reading, hiking. Known for their playful and mischievous personality, Gary is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriborealis"
 }

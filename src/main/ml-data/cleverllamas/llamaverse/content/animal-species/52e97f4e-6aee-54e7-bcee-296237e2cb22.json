@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Komodo Dragon",
+        "sizeClass": "large",
+        "fluffiness": 1,
+        "typicalDisposition": "patient",
+        "typicalLifespanYears": 30,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Reptilia",
+          "order": "Squamata",
+          "family": "Varanidae",
+          "genus": "Varanus",
+          "species": "Varanus komodoensis"
+        },
+        "description": "The world's largest lizard. Carries venomous saliva. Llamas who keep them note they are surprisingly good listeners.",
+        "id": "52e97f4e-6aee-54e7-bcee-296237e2cb22"
+      }
+    }
+  }
+}

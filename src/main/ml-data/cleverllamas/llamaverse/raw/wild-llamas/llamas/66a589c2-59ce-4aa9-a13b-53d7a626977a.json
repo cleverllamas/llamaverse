@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Suri",
   "placeOfBirth": "Rubiomouth, Norfolk Island",
-  "description": "Cassandra is a green-eyed llama with red hair, standing 146 cm tall. Originally from Rubiomouth, Norfolk Island, Cassandra enjoys gardening, singing, painting. Known for their energetic and gentle personality, Cassandra is a beloved member of the llama community."
+  "description": "Cassandra is a green-eyed llama with red hair, standing 146 cm tall. Originally from Rubiomouth, Norfolk Island, Cassandra enjoys gardening, singing, painting. Known for their energetic and gentle personality, Cassandra is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_surideserta"
 }

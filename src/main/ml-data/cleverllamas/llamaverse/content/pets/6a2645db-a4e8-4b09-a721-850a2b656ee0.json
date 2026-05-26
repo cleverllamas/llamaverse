@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "6a2645db-a4e8-4b09-a721-850a2b656ee0",
+        "name": "Dingleberry",
+        "ageYears": 3,
+        "disposition": "aloof",
+        "fluffiness": 1,
+        "quirk": "stages elaborate fake emergencies to see who responds fastest",
+        "speciesId": "2df98b70-d145-5a4d-a8d7-51e9c1c16386",
+        "speciesCommonName": "Peacock Mantis Shrimp",
+        "speciesScientificName": "Odontodactylus scyllarus",
+        "sizeClass": "small",
+        "ownerName": "Fernanda",
+        "shelterId": "fea3da74-6337-5053-bffe-89e75d14ef03",
+        "shelterName": "The Wandering Fleece Animal Sanctuary"
+      }
+    }
+  }
+}

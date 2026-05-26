@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "a22488c5-2946-4ffe-9365-4a8a14e62c47",
+        "name": "Twitch",
+        "ageYears": 7,
+        "disposition": "regal",
+        "fluffiness": 5,
+        "quirk": "naps in increasingly creative locations",
+        "speciesId": "dd3c34c0-42a2-5716-b11c-936fd620b648",
+        "speciesCommonName": "Tawny Frogmouth",
+        "speciesScientificName": "Podargus strigoides",
+        "sizeClass": "small",
+        "ownerName": "Fernanda",
+        "shelterId": "a80124a7-0a88-582c-9362-e5c7aecd90d2",
+        "shelterName": "The Peculiar Menagerie of Llamaville East"
+      }
+    }
+  }
+}

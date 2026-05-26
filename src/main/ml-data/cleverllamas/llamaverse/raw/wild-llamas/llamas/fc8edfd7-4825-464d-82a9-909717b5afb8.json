@@ -7,5 +7,6 @@
   "hairColor": "Blonde",
   "breed": "Hybrid",
   "placeOfBirth": "Bakerton, Mongolia",
-  "description": "Gregory is a blue-eyed llama with blonde hair, standing 179 cm tall. Originally from Bakerton, Mongolia, Gregory enjoys cooking, knitting, gardening. Known for their calm and curious personality, Gregory is a beloved member of the llama community."
+  "description": "Gregory is a blue-eyed llama with blonde hair, standing 179 cm tall. Originally from Bakerton, Mongolia, Gregory enjoys cooking, knitting, gardening. Known for their calm and curious personality, Gregory is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_vellaboreas"
 }

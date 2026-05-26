@@ -7,5 +7,6 @@
   "hairColor": "Silver",
   "breed": "Hybrid",
   "placeOfBirth": "Campbellberg, Micronesia",
-  "description": "Brenda is a hazel-eyed llama with silver hair, standing 183 cm tall. Originally from Campbellberg, Micronesia, Brenda enjoys cooking, singing, hiking. Known for their energetic and mischievous personality, Brenda is a beloved member of the llama community."
+  "description": "Brenda is a hazel-eyed llama with silver hair, standing 183 cm tall. Originally from Campbellberg, Micronesia, Brenda enjoys cooking, singing, hiking. Known for their energetic and mischievous personality, Brenda is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_silvestris"
 }

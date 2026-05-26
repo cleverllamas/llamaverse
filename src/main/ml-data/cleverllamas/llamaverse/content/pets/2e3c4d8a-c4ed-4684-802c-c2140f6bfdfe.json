@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "2e3c4d8a-c4ed-4684-802c-c2140f6bfdfe",
+        "name": "Twitch",
+        "ageYears": 70,
+        "disposition": "philosophical",
+        "fluffiness": 3,
+        "quirk": "has never once been surprised by anything",
+        "speciesId": "7e172705-39a5-5fb7-adfb-8228eeb1856e",
+        "speciesCommonName": "Orca",
+        "speciesScientificName": "Orcinus orca",
+        "sizeClass": "gigantic",
+        "ownerName": "Isolde",
+        "shelterId": "8d977212-e5ba-55f4-be32-882c53197b49",
+        "shelterName": "The Wool and Scales Rehabilitation Centre"
+      }
+    }
+  }
+}

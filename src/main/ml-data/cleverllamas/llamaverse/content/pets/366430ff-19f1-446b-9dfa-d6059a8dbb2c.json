@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "366430ff-19f1-446b-9dfa-d6059a8dbb2c",
+        "name": "Piggledy",
+        "ageYears": 1,
+        "disposition": "regal",
+        "fluffiness": 1,
+        "quirk": "collects bottle caps from obscure regions",
+        "speciesId": "7acd6049-592a-5864-a177-72f1152e140a",
+        "speciesCommonName": "Freshwater Hydra",
+        "speciesScientificName": "Hydra vulgaris",
+        "sizeClass": "microscopic",
+        "ownerName": "Elena",
+        "shelterId": "a80124a7-0a88-582c-9362-e5c7aecd90d2",
+        "shelterName": "The Peculiar Menagerie of Llamaville East"
+      }
+    }
+  }
+}

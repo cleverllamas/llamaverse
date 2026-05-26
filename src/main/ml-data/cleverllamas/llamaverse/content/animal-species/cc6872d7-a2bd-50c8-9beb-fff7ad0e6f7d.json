@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Coconut Crab",
+        "sizeClass": "large",
+        "fluffiness": 1,
+        "typicalDisposition": "determined",
+        "typicalLifespanYears": 60,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Arthropoda",
+          "class": "Malacostraca",
+          "order": "Decapoda",
+          "family": "Coenobitidae",
+          "genus": "Birgus",
+          "species": "Birgus latro"
+        },
+        "description": "The largest terrestrial invertebrate. Climbs trees, cracks coconuts, has been known to steal shiny objects including car keys. Llamas admire the entrepreneurial spirit.",
+        "id": "cc6872d7-a2bd-50c8-9beb-fff7ad0e6f7d"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "aac6fc8c-2b1a-420f-aab8-a5e508123f70",
+        "name": "Turvy",
+        "ageYears": 0,
+        "disposition": "eccentric",
+        "fluffiness": 2,
+        "quirk": "has attempted to file taxes three years in a row without opposable thumbs",
+        "speciesId": "7e6b0565-9435-55ff-abf9-405adc099f7b",
+        "speciesCommonName": "Water Bear",
+        "speciesScientificName": "Ramazzottius oberhaeuseri",
+        "sizeClass": "microscopic",
+        "ownerName": "Elena",
+        "shelterId": "43593191-478d-5f0a-82ec-63ff4cc4122e",
+        "shelterName": "The Patagonian Wild Wing Refuge"
+      }
+    }
+  }
+}

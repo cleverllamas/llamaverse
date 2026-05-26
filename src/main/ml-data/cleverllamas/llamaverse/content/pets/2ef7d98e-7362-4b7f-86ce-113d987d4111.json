@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "2ef7d98e-7362-4b7f-86ce-113d987d4111",
+        "name": "Biscuit",
+        "ageYears": 5,
+        "disposition": "devoted",
+        "fluffiness": 6,
+        "quirk": "has been learning to juggle for three years with no progress",
+        "speciesId": "68b9b1ab-0470-5776-a87d-ca0cda7715b9",
+        "speciesCommonName": "Sugar Glider",
+        "speciesScientificName": "Petaurus breviceps",
+        "sizeClass": "tiny",
+        "ownerName": "Boris",
+        "shelterId": "8d977212-e5ba-55f4-be32-882c53197b49",
+        "shelterName": "The Wool and Scales Rehabilitation Centre"
+      }
+    }
+  }
+}

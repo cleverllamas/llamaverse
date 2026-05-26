@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "c09df1c1-30e7-4df1-adab-5377010ffb99",
+        "name": "Higgledy",
+        "ageYears": 1,
+        "disposition": "curious",
+        "fluffiness": 1,
+        "quirk": "naps in increasingly creative locations",
+        "speciesId": "bdd7992a-2a0d-598f-889c-eab1ec052b31",
+        "speciesCommonName": "Dwarf Cherry Shrimp",
+        "speciesScientificName": "Neocaridina davidi",
+        "sizeClass": "tiny",
+        "ownerName": "Beatrice",
+        "shelterId": "e9a0f6a9-5a3f-51a3-ae37-19773f4ac55f",
+        "shelterName": "The Archipelago Orphanage"
+      }
+    }
+  }
+}

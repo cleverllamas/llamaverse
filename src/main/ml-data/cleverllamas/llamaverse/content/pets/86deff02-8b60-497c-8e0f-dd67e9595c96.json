@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "86deff02-8b60-497c-8e0f-dd67e9595c96",
+        "name": "Munchkin",
+        "ageYears": 16,
+        "disposition": "regal",
+        "fluffiness": 1,
+        "quirk": "insists on a bedtime story every night",
+        "speciesId": "bd2fdee3-46e5-56ce-820d-196cc31184ab",
+        "speciesCommonName": "Hippopotamus",
+        "speciesScientificName": "Hippopotamus amphibius",
+        "sizeClass": "gigantic",
+        "ownerName": "Derek",
+        "shelterId": "c8de3d2b-6e9a-5ed1-bda7-9a50f977ddb9",
+        "shelterName": "The Quiet Pool"
+      }
+    }
+  }
+}

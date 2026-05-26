@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "7cedfaef-13cd-486c-a218-c3ce9a529e34",
+        "name": "Piggledy",
+        "ageYears": 2,
+        "disposition": "eccentric",
+        "fluffiness": 2,
+        "quirk": "naps in increasingly creative locations",
+        "speciesId": "8c18b960-10ad-5a68-9585-898657ea3f70",
+        "speciesCommonName": "Surinam Toad",
+        "speciesScientificName": "Pipa pipa",
+        "sizeClass": "small",
+        "ownerName": "Kestrel",
+        "shelterId": "a80124a7-0a88-582c-9362-e5c7aecd90d2",
+        "shelterName": "The Peculiar Menagerie of Llamaville East"
+      }
+    }
+  }
+}

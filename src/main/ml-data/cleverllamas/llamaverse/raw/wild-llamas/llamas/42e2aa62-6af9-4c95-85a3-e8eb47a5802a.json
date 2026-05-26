@@ -7,5 +7,6 @@
   "hairColor": "Brown",
   "breed": "Hybrid",
   "placeOfBirth": "Jenniferhaven, Chile",
-  "description": "Jacqueline is a amber-eyed llama with brown hair, standing 170 cm tall. Originally from Jenniferhaven, Chile, Jacqueline enjoys gardening, painting, dancing. Known for their gentle and mischievous personality, Jacqueline is a beloved member of the llama community."
+  "description": "Jacqueline is a amber-eyed llama with brown hair, standing 170 cm tall. Originally from Jenniferhaven, Chile, Jacqueline enjoys gardening, painting, dancing. Known for their gentle and mischievous personality, Jacqueline is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_andinus"
 }

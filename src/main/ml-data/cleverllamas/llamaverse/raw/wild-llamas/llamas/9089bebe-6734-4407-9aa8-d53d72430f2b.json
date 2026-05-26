@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Suri",
   "placeOfBirth": "Lake Brandi, Nigeria",
-  "description": "Michael is a brown-eyed llama with red hair, standing 113 cm tall. Originally from Lake Brandi, Nigeria, Michael enjoys hiking, painting, singing. Known for their gentle and energetic personality, Michael is a beloved member of the llama community."
+  "description": "Michael is a brown-eyed llama with red hair, standing 113 cm tall. Originally from Lake Brandi, Nigeria, Michael enjoys hiking, painting, singing. Known for their gentle and energetic personality, Michael is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriensis"
 }

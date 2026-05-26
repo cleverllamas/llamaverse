@@ -1,0 +1,10 @@
+{
+  "uri": "http://cleverllamas.com/llamaverse/species/Lama_glama_silvestris",
+  "type": "Species",
+  "label": "Lama glama silvestris",
+  "description": "Forest woolly llamas with slightly darker colouring for camouflage among dappled shade.",
+  "parentUri": "http://cleverllamas.com/llamaverse/genus/Lama",
+  "phylumKey": "Lanuda",
+  "classKey": "Silvaticus",
+  "speciesKey": "Lama_glama_silvestris"
+}

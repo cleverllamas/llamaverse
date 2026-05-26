@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "d74b0e95-e853-455b-9288-89a6b0c36be0",
+        "name": "Knick",
+        "ageYears": 9,
+        "disposition": "serene",
+        "fluffiness": 5,
+        "quirk": "sings exactly one note whenever startled",
+        "speciesId": "9caae520-fba2-54d7-ad50-e3e7e17c9d96",
+        "speciesCommonName": "Capybara",
+        "speciesScientificName": "Hydrochoerus hydrochaeris",
+        "sizeClass": "large",
+        "ownerName": "Gwen",
+        "shelterId": "6d613241-5ad3-5197-8b01-500e8b607567",
+        "shelterName": "Fernanda's Home for Misunderstood Creatures"
+      }
+    }
+  }
+}

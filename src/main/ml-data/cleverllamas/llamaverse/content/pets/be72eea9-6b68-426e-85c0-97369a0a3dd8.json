@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "be72eea9-6b68-426e-85c0-97369a0a3dd8",
+        "name": "Gloop",
+        "ageYears": 7,
+        "disposition": "mischievous",
+        "fluffiness": 4,
+        "quirk": "judges every piece of music against a private internal standard it has never revealed",
+        "speciesId": "208c6fe2-20b6-5575-94a3-a77cf28d333e",
+        "speciesCommonName": "Tarsier",
+        "speciesScientificName": "Cephalopachus bancanus",
+        "sizeClass": "tiny",
+        "ownerName": "Ashley",
+        "shelterId": "fea3da74-6337-5053-bffe-89e75d14ef03",
+        "shelterName": "The Wandering Fleece Animal Sanctuary"
+      }
+    }
+  }
+}

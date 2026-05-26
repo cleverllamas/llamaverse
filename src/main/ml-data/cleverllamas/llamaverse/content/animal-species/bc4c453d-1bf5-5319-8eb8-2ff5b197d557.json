@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Pygmy Slow Loris",
+        "sizeClass": "tiny",
+        "fluffiness": 8,
+        "typicalDisposition": "venomous",
+        "typicalLifespanYears": 20,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Mammalia",
+          "order": "Primates",
+          "family": "Lorisidae",
+          "genus": "Xanthonycticebus",
+          "species": "Xanthonycticebus pygmaeus"
+        },
+        "description": "The only venomous primate. Looks like a soft toy. Llamas who keep them are acutely aware of this contradiction.",
+        "id": "bc4c453d-1bf5-5319-8eb8-2ff5b197d557"
+      }
+    }
+  }
+}

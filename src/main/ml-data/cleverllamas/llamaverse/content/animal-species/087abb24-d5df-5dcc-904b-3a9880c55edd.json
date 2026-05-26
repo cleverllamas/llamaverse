@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Fennec Fox",
+        "sizeClass": "small",
+        "fluffiness": 8,
+        "typicalDisposition": "alert",
+        "typicalLifespanYears": 14,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Mammalia",
+          "order": "Carnivora",
+          "family": "Canidae",
+          "genus": "Vulpes",
+          "species": "Vulpes zerda"
+        },
+        "description": "Enormous ears relative to body size, used for heat dissipation and hearing prey underground. Weighs under 1kg. Llamas find it disproportionate in the best possible sense.",
+        "id": "087abb24-d5df-5dcc-904b-3a9880c55edd"
+      }
+    }
+  }
+}

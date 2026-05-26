@@ -7,5 +7,6 @@
   "hairColor": "Brown",
   "breed": "Suri",
   "placeOfBirth": "Wigginsberg, Guatemala",
-  "description": "Regina is a brown-eyed llama with brown hair, standing 193 cm tall. Originally from Wigginsberg, Guatemala, Regina enjoys dancing, knitting, wood carving. Known for their shy and friendly personality, Regina is a beloved member of the llama community."
+  "description": "Regina is a brown-eyed llama with brown hair, standing 193 cm tall. Originally from Wigginsberg, Guatemala, Regina enjoys dancing, knitting, wood carving. Known for their shy and friendly personality, Regina is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriforest"
 }

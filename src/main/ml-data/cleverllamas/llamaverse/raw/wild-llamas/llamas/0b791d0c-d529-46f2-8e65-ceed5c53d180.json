@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Hybrid",
   "placeOfBirth": "Hullborough, Afghanistan",
-  "description": "Melissa is a gray-eyed llama with red hair, standing 113 cm tall. Originally from Hullborough, Afghanistan, Melissa enjoys dancing, wood carving, painting. Known for their energetic and energetic personality, Melissa is a beloved member of the llama community."
+  "description": "Melissa is a gray-eyed llama with red hair, standing 113 cm tall. Originally from Hullborough, Afghanistan, Melissa enjoys dancing, wood carving, painting. Known for their energetic and energetic personality, Melissa is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_silvestris"
 }

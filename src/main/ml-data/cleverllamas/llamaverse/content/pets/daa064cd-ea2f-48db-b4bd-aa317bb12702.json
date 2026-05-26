@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "daa064cd-ea2f-48db-b4bd-aa317bb12702",
+        "name": "Tangle",
+        "ageYears": 8,
+        "disposition": "theatrical",
+        "fluffiness": 1,
+        "quirk": "sleeps only in prime-numbered minutes",
+        "speciesId": "c22b5f4d-e296-54a6-b2a1-469b4a119572",
+        "speciesCommonName": "Immortal Jellyfish",
+        "speciesScientificName": "Turritopsis dohrnii",
+        "sizeClass": "microscopic",
+        "ownerName": "Ophelia",
+        "shelterId": "6d613241-5ad3-5197-8b01-500e8b607567",
+        "shelterName": "Fernanda's Home for Misunderstood Creatures"
+      }
+    }
+  }
+}

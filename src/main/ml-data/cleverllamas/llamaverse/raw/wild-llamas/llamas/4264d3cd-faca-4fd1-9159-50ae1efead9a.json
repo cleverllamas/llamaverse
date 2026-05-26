@@ -7,5 +7,6 @@
   "hairColor": "Brown",
   "breed": "Suri",
   "placeOfBirth": "Johnsonland, Micronesia",
-  "description": "Michael is a brown-eyed llama with brown hair, standing 195 cm tall. Originally from Johnsonland, Micronesia, Michael enjoys knitting, hiking, wood carving. Known for their gentle and mischievous personality, Michael is a beloved member of the llama community."
+  "description": "Michael is a brown-eyed llama with brown hair, standing 195 cm tall. Originally from Johnsonland, Micronesia, Michael enjoys knitting, hiking, wood carving. Known for their gentle and mischievous personality, Michael is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_andinus"
 }

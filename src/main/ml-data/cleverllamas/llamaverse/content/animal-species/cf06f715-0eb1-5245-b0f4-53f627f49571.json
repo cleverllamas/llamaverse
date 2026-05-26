@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Giant Isopod",
+        "sizeClass": "medium",
+        "fluffiness": 1,
+        "typicalDisposition": "stoic",
+        "typicalLifespanYears": 5,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Arthropoda",
+          "class": "Malacostraca",
+          "order": "Isopoda",
+          "family": "Cirolanidae",
+          "genus": "Bathynomus",
+          "species": "Bathynomus giganteus"
+        },
+        "description": "Deep-sea woodlouse, 50cm long. Looks mildly displeased at all times. Llamas feel seen.",
+        "id": "cf06f715-0eb1-5245-b0f4-53f627f49571"
+      }
+    }
+  }
+}

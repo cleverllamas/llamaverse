@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "c58a392f-bfad-4587-89a5-a3d7bb1ed3f3",
+        "name": "Floss",
+        "ageYears": 1,
+        "disposition": "sneaky",
+        "fluffiness": 1,
+        "quirk": "has attempted to file taxes three years in a row without opposable thumbs",
+        "speciesId": "853c256e-ac01-5775-bda6-bc49c65c02bc",
+        "speciesCommonName": "Dust Mite",
+        "speciesScientificName": "Dermatophagoides pteronyssinus",
+        "sizeClass": "microscopic",
+        "ownerName": "Bradley",
+        "shelterId": "2770733d-7079-5abc-92e8-6a21c74559c1",
+        "shelterName": "Deep Blue Creature Sanctuary"
+      }
+    }
+  }
+}

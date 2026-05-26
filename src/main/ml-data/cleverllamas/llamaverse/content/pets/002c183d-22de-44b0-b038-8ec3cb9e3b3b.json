@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "002c183d-22de-44b0-b038-8ec3cb9e3b3b",
+        "name": "Bumble",
+        "ageYears": 1,
+        "disposition": "erratic",
+        "fluffiness": 2,
+        "quirk": "knows one card trick and performs it at every possible opportunity",
+        "speciesId": "7cb9a70b-7e6e-5c08-a9c6-733ad6d71cdf",
+        "speciesCommonName": "Amano Shrimp",
+        "speciesScientificName": "Caridina multidentata",
+        "sizeClass": "tiny",
+        "ownerName": "Miranda",
+        "shelterId": "7437ed74-37ab-5121-a86c-723531fb55b3",
+        "shelterName": "The Galaxy of Small Things"
+      }
+    }
+  }
+}

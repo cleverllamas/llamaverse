@@ -1,0 +1,10 @@
+{
+  "uri": "http://cleverllamas.com/llamaverse/species/Lama_glama_suriphilus",
+  "type": "Species",
+  "label": "Lama glama suriphilus",
+  "description": "Coastal suri llamas. Their locks survive sea spray remarkably well and smell faintly of salt.",
+  "parentUri": "http://cleverllamas.com/llamaverse/genus/Lama",
+  "phylumKey": "Suri",
+  "classKey": "Litoralis",
+  "speciesKey": "Lama_glama_suriphilus"
+}

@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "02182bc6-9720-49e0-bce5-45773a43b307",
+        "name": "Twizzle",
+        "ageYears": 0,
+        "disposition": "philosophical",
+        "fluffiness": 9,
+        "quirk": "sleeps only in prime-numbered minutes",
+        "speciesId": "3a1a4376-4aee-5531-b5b6-b8c1dc52d8b4",
+        "speciesCommonName": "Sea Otter",
+        "speciesScientificName": "Enhydra lutris",
+        "sizeClass": "medium",
+        "ownerName": "Lorenzo",
+        "shelterId": "e9a0f6a9-5a3f-51a3-ae37-19773f4ac55f",
+        "shelterName": "The Archipelago Orphanage"
+      }
+    }
+  }
+}

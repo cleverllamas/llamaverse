@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Mandrill",
+        "sizeClass": "large",
+        "fluffiness": 3,
+        "typicalDisposition": "colourful",
+        "typicalLifespanYears": 20,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Mammalia",
+          "order": "Primates",
+          "family": "Cercopithecidae",
+          "genus": "Mandrillus",
+          "species": "Mandrillus sphinx"
+        },
+        "description": "Has a vivid blue and red face and multi-coloured hindquarters. The most vividly coloured mammal on earth. Llamas keep them for the visual interest.",
+        "id": "3dc7ce14-9c2a-5e33-b387-4fd40e0cbcc4"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "2a333a71-1baf-4f1c-b412-6805368f6d10",
+        "name": "Wriggle",
+        "ageYears": 7,
+        "disposition": "devoted",
+        "fluffiness": 4,
+        "quirk": "sings exactly one note whenever startled",
+        "speciesId": "208c6fe2-20b6-5575-94a3-a77cf28d333e",
+        "speciesCommonName": "Tarsier",
+        "speciesScientificName": "Cephalopachus bancanus",
+        "sizeClass": "tiny",
+        "ownerName": "Anthony",
+        "shelterId": "2b312a04-c215-5098-9433-f5aab988726c",
+        "shelterName": "Apex Companions Forever"
+      }
+    }
+  }
+}

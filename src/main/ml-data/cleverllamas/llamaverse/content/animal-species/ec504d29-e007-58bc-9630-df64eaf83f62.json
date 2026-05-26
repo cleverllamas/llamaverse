@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Peacock Spider",
+        "sizeClass": "microscopic",
+        "fluffiness": 5,
+        "typicalDisposition": "performative",
+        "typicalLifespanYears": 1,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Arthropoda",
+          "class": "Arachnida",
+          "order": "Araneae",
+          "family": "Salticidae",
+          "genus": "Maratus",
+          "species": "Maratus volans"
+        },
+        "description": "4mm long. The male fans out a vivid iridescent abdomen flap and performs an elaborate dance. Llamas keep them in observation boxes and watch the performances at great magnification. Angela has attended.",
+        "id": "ec504d29-e007-58bc-9630-df64eaf83f62"
+      }
+    }
+  }
+}

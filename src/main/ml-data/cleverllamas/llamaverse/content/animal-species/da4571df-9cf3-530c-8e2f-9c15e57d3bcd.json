@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Glow-worm",
+        "sizeClass": "tiny",
+        "fluffiness": 1,
+        "typicalDisposition": "luminous",
+        "typicalLifespanYears": 2,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Arthropoda",
+          "class": "Insecta",
+          "order": "Coleoptera",
+          "family": "Lampyridae",
+          "genus": "Lampyris",
+          "species": "Lampyris noctiluca"
+        },
+        "description": "The female glows green to attract mates, never moving. Llamas use colonies of them as ambient garden lighting.",
+        "id": "da4571df-9cf3-530c-8e2f-9c15e57d3bcd"
+      }
+    }
+  }
+}

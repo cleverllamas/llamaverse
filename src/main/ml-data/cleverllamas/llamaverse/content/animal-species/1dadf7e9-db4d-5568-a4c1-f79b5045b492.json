@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Goliath Frog",
+        "sizeClass": "medium",
+        "fluffiness": 1,
+        "typicalDisposition": "sedentary",
+        "typicalLifespanYears": 21,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Amphibia",
+          "order": "Anura",
+          "family": "Conrauidae",
+          "genus": "Conraua",
+          "species": "Conraua goliath"
+        },
+        "description": "The world's largest frog at 3.3kg. Does not croak. Llamas find its silence powerful.",
+        "id": "1dadf7e9-db4d-5568-a4c1-f79b5045b492"
+      }
+    }
+  }
+}

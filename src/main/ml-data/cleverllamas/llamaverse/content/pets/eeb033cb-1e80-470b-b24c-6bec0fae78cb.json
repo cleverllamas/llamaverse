@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "eeb033cb-1e80-470b-b24c-6bec0fae78cb",
+        "name": "Bristle",
+        "ageYears": 4,
+        "disposition": "curious",
+        "fluffiness": 1,
+        "quirk": "has been learning to juggle for three years with no progress",
+        "speciesId": "7a0a0b09-06f3-5534-8613-4da111d626fd",
+        "speciesCommonName": "Vinegaroon",
+        "speciesScientificName": "Mastigoproctus giganteus",
+        "sizeClass": "small",
+        "ownerName": "Bradley",
+        "shelterId": "24d12d56-1e48-56e1-aa51-54df3c5f003c",
+        "shelterName": "The Stillness Institute"
+      }
+    }
+  }
+}

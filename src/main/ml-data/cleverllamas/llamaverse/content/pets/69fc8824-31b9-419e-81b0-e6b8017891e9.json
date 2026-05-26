@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "69fc8824-31b9-419e-81b0-e6b8017891e9",
+        "name": "Biscuit",
+        "ageYears": 1,
+        "disposition": "curious",
+        "fluffiness": 10,
+        "quirk": "sings exactly one note whenever startled",
+        "speciesId": "3a1a4376-4aee-5531-b5b6-b8c1dc52d8b4",
+        "speciesCommonName": "Sea Otter",
+        "speciesScientificName": "Enhydra lutris",
+        "sizeClass": "medium",
+        "ownerName": "Bradley",
+        "shelterId": "a80124a7-0a88-582c-9362-e5c7aecd90d2",
+        "shelterName": "The Peculiar Menagerie of Llamaville East"
+      }
+    }
+  }
+}

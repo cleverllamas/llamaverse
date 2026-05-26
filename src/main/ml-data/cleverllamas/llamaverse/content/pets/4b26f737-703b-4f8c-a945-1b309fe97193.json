@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "4b26f737-703b-4f8c-a945-1b309fe97193",
+        "name": "Twitch",
+        "ageYears": 2,
+        "disposition": "stoic",
+        "fluffiness": 3,
+        "quirk": "has been composing the same symphony for eleven years",
+        "speciesId": "76cabc17-bbcf-5e4c-a1c7-2fd34d0442ef",
+        "speciesCommonName": "Hoatzin",
+        "speciesScientificName": "Opisthocomus hoazin",
+        "sizeClass": "medium",
+        "ownerName": "Monique",
+        "shelterId": "6d613241-5ad3-5197-8b01-500e8b607567",
+        "shelterName": "Fernanda's Home for Misunderstood Creatures"
+      }
+    }
+  }
+}

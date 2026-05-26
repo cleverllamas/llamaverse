@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Macaroni Penguin",
+        "sizeClass": "small",
+        "fluffiness": 5,
+        "typicalDisposition": "rakish",
+        "typicalLifespanYears": 20,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Aves",
+          "order": "Sphenisciformes",
+          "family": "Spheniscidae",
+          "genus": "Eudyptes",
+          "species": "Eudyptes chrysolophus"
+        },
+        "description": "Has vivid orange crest feathers. Named after the 18th-century fashion trend. Llamas find the hat-like plumage irresistible.",
+        "id": "8b4050cc-d852-535c-9736-e0280b44905c"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Freshwater Hydra",
+        "sizeClass": "microscopic",
+        "fluffiness": 1,
+        "typicalDisposition": "regenerative",
+        "typicalLifespanYears": 99,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Cnidaria",
+          "class": "Hydrozoa",
+          "order": "Anthoathecata",
+          "family": "Hydridae",
+          "genus": "Hydra",
+          "species": "Hydra vulgaris"
+        },
+        "description": "Biologically immortal under the right conditions. A symbol of hope for llamas approaching middle age.",
+        "id": "7acd6049-592a-5864-a177-72f1152e140a"
+      }
+    }
+  }
+}

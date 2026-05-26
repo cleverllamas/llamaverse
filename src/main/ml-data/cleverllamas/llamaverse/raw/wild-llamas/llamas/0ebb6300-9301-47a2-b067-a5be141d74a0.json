@@ -7,5 +7,6 @@
   "hairColor": "White",
   "breed": "Hybrid",
   "placeOfBirth": "Port Ashley, Congo",
-  "description": "Eric is a green-eyed llama with white hair, standing 157 cm tall. Originally from Port Ashley, Congo, Eric enjoys wood carving, dancing, gardening. Known for their shy and gentle personality, Eric is a beloved member of the llama community."
+  "description": "Eric is a green-eyed llama with white hair, standing 157 cm tall. Originally from Port Ashley, Congo, Eric enjoys wood carving, dancing, gardening. Known for their shy and gentle personality, Eric is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_borealis"
 }

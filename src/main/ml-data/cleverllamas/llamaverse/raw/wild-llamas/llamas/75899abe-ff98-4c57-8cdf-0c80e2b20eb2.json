@@ -7,5 +7,6 @@
   "hairColor": "Blonde",
   "breed": "Suri",
   "placeOfBirth": "Lake Sierraland, Gabon",
-  "description": "Theresa is a green-eyed llama with blonde hair, standing 197 cm tall. Originally from Lake Sierraland, Gabon, Theresa enjoys painting, cooking, singing. Known for their gentle and shy personality, Theresa is a beloved member of the llama community."
+  "description": "Theresa is a green-eyed llama with blonde hair, standing 197 cm tall. Originally from Lake Sierraland, Gabon, Theresa enjoys painting, cooking, singing. Known for their gentle and shy personality, Theresa is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriphilus"
 }

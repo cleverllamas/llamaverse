@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "eab1a852-ddb8-4c48-a3a8-f7c3ee7f4d69",
+        "name": "Waggle",
+        "ageYears": 8,
+        "disposition": "bombastic",
+        "fluffiness": 1,
+        "quirk": "stages elaborate fake emergencies to see who responds fastest",
+        "speciesId": "cc8dd1ba-f29c-56e6-8699-15f4a268b860",
+        "speciesCommonName": "Poison Dart Frog",
+        "speciesScientificName": "Dendrobates tinctorius",
+        "sizeClass": "tiny",
+        "ownerName": "Fernanda",
+        "shelterId": "24d12d56-1e48-56e1-aa51-54df3c5f003c",
+        "shelterName": "The Stillness Institute"
+      }
+    }
+  }
+}

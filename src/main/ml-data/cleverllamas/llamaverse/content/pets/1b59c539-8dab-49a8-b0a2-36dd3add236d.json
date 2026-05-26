@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "1b59c539-8dab-49a8-b0a2-36dd3add236d",
+        "name": "Bumble",
+        "ageYears": 0,
+        "disposition": "grumpy",
+        "fluffiness": 1,
+        "quirk": "is writing a novel but will not discuss the plot",
+        "speciesId": "d389fe5d-7600-5b1b-be44-d2325c69d673",
+        "speciesCommonName": "Mimic Octopus (second variant)",
+        "speciesScientificName": "Wunderpus photogenicus",
+        "sizeClass": "small",
+        "ownerName": "Boris",
+        "shelterId": "4e1e0f71-7c69-5073-ab12-27cfd4257912",
+        "shelterName": "The Old Pond Sanctuary"
+      }
+    }
+  }
+}

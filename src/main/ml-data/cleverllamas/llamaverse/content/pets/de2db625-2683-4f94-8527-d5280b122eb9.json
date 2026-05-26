@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "de2db625-2683-4f94-8527-d5280b122eb9",
+        "name": "Wriggle",
+        "ageYears": 21,
+        "disposition": "bombastic",
+        "fluffiness": 2,
+        "quirk": "has never once been surprised by anything",
+        "speciesId": "3810d075-0003-5837-a04a-661fe4fc035c",
+        "speciesCommonName": "Shoebill Stork",
+        "speciesScientificName": "Balaeniceps rex",
+        "sizeClass": "large",
+        "ownerName": "Freddie",
+        "shelterId": "e9a0f6a9-5a3f-51a3-ae37-19773f4ac55f",
+        "shelterName": "The Archipelago Orphanage"
+      }
+    }
+  }
+}

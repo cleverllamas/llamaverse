@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "f346fc63-3260-4cc5-9c92-a9df6f019b72",
+        "name": "Nudge",
+        "ageYears": 27,
+        "disposition": "philosophical",
+        "fluffiness": 3,
+        "quirk": "is writing a novel but will not discuss the plot",
+        "speciesId": "9932ed23-008b-54a4-b28a-7c56e3990260",
+        "speciesCommonName": "Bearded Vulture",
+        "speciesScientificName": "Gypaetus barbatus",
+        "sizeClass": "large",
+        "ownerName": "Reginald",
+        "shelterId": "2770733d-7079-5abc-92e8-6a21c74559c1",
+        "shelterName": "Deep Blue Creature Sanctuary"
+      }
+    }
+  }
+}

@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Suri",
   "placeOfBirth": "South Scottville, Mauritius",
-  "description": "Sarah is a gray-eyed llama with red hair, standing 160 cm tall. Originally from South Scottville, Mauritius, Sarah enjoys singing, wood carving, dancing. Known for their calm and energetic personality, Sarah is a beloved member of the llama community."
+  "description": "Sarah is a gray-eyed llama with red hair, standing 160 cm tall. Originally from South Scottville, Mauritius, Sarah enjoys singing, wood carving, dancing. Known for their calm and energetic personality, Sarah is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_vellicosta"
 }

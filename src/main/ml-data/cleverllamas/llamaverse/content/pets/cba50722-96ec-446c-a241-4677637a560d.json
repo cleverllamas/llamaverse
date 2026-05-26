@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "cba50722-96ec-446c-a241-4677637a560d",
+        "name": "Flicker",
+        "ageYears": 1,
+        "disposition": "theatrical",
+        "fluffiness": 2,
+        "quirk": "sleeps only in prime-numbered minutes",
+        "speciesId": "86740326-9afe-5c95-a5a8-c7045272e940",
+        "speciesCommonName": "Stick Insect",
+        "speciesScientificName": "Phasma gigas",
+        "sizeClass": "small",
+        "ownerName": "Reginald",
+        "shelterId": "869456e1-451e-554f-96f2-4a54e832dd46",
+        "shelterName": "Bradley's Extreme Fauna Compound"
+      }
+    }
+  }
+}

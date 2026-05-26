@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Huacaya",
   "placeOfBirth": "North Davidburgh, Brunei Darussalam",
-  "description": "Vanessa is a gray-eyed llama with red hair, standing 103 cm tall. Originally from North Davidburgh, Brunei Darussalam, Vanessa enjoys painting, gardening, dancing. Known for their shy and curious personality, Vanessa is a beloved member of the llama community."
+  "description": "Vanessa is a gray-eyed llama with red hair, standing 103 cm tall. Originally from North Davidburgh, Brunei Darussalam, Vanessa enjoys painting, gardening, dancing. Known for their shy and curious personality, Vanessa is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_deserticola"
 }

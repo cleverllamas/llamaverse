@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "5821ea91-137e-423c-a5fe-d5dfc22f1b84",
+        "name": "Tangle",
+        "ageYears": 1,
+        "disposition": "serene",
+        "fluffiness": 3,
+        "quirk": "knows one card trick and performs it at every possible opportunity",
+        "speciesId": "76cabc17-bbcf-5e4c-a1c7-2fd34d0442ef",
+        "speciesCommonName": "Hoatzin",
+        "speciesScientificName": "Opisthocomus hoazin",
+        "sizeClass": "medium",
+        "ownerName": "Ophelia",
+        "shelterId": "c8de3d2b-6e9a-5ed1-bda7-9a50f977ddb9",
+        "shelterName": "The Quiet Pool"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "a539d0e6-1b37-4518-90d7-96cc427c1d56",
+        "name": "Flicker",
+        "ageYears": 8,
+        "disposition": "philosophical",
+        "fluffiness": 10,
+        "quirk": "knows one card trick and performs it at every possible opportunity",
+        "speciesId": "f4a2908b-b359-5a03-8800-adf104dc483d",
+        "speciesCommonName": "Chinchilla",
+        "speciesScientificName": "Chinchilla lanigera",
+        "sizeClass": "small",
+        "ownerName": "Lorenzo",
+        "shelterId": "869456e1-451e-554f-96f2-4a54e832dd46",
+        "shelterName": "Bradley's Extreme Fauna Compound"
+      }
+    }
+  }
+}

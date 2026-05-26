@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "0a8a5550-bdfe-4cb4-a05f-e7519c3e4cc3",
+        "name": "Swoopington",
+        "ageYears": 4,
+        "disposition": "regal",
+        "fluffiness": 3,
+        "quirk": "has formed strong opinions about architecture",
+        "speciesId": "4f869f58-53fa-5caa-bad0-1aa47b133741",
+        "speciesCommonName": "Leafy Sea Dragon",
+        "speciesScientificName": "Phycodurus eques",
+        "sizeClass": "small",
+        "ownerName": "Ophelia",
+        "shelterId": "43593191-478d-5f0a-82ec-63ff4cc4122e",
+        "shelterName": "The Patagonian Wild Wing Refuge"
+      }
+    }
+  }
+}

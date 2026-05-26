@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Suri",
   "placeOfBirth": "North Patriciahaven, Central African Republic",
-  "description": "Sarah is a gray-eyed llama with red hair, standing 184 cm tall. Originally from North Patriciahaven, Central African Republic, Sarah enjoys gardening, painting, knitting. Known for their energetic and friendly personality, Sarah is a beloved member of the llama community."
+  "description": "Sarah is a gray-eyed llama with red hair, standing 184 cm tall. Originally from North Patriciahaven, Central African Republic, Sarah enjoys gardening, painting, knitting. Known for their energetic and friendly personality, Sarah is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriensis"
 }

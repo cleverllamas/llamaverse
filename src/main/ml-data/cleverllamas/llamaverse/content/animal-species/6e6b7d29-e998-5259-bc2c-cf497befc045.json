@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Garden Snail",
+        "sizeClass": "tiny",
+        "fluffiness": 1,
+        "typicalDisposition": "philosophical",
+        "typicalLifespanYears": 7,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Mollusca",
+          "class": "Gastropoda",
+          "order": "Stylommatophora",
+          "family": "Helicidae",
+          "genus": "Helix",
+          "species": "Helix aspersa"
+        },
+        "description": "Has been writing a very slow memoir for four years. Llamas await it eagerly.",
+        "id": "6e6b7d29-e998-5259-bc2c-cf497befc045"
+      }
+    }
+  }
+}

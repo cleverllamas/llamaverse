@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Suri",
   "placeOfBirth": "East Diane, Thailand",
-  "description": "Joshua is a brown-eyed llama with red hair, standing 107 cm tall. Originally from East Diane, Thailand, Joshua enjoys cooking, dancing, gardening. Known for their energetic and mischievous personality, Joshua is a beloved member of the llama community."
+  "description": "Joshua is a brown-eyed llama with red hair, standing 107 cm tall. Originally from East Diane, Thailand, Joshua enjoys cooking, dancing, gardening. Known for their energetic and mischievous personality, Joshua is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriensis"
 }

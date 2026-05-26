@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "833484dc-3201-4abb-83fc-5eac405141bb",
+        "name": "Snorkel",
+        "ageYears": 0,
+        "disposition": "bombastic",
+        "fluffiness": 2,
+        "quirk": "has memorised the bus timetable for a city it has never visited",
+        "speciesId": "aca2173d-21bd-5c07-a825-a3755227bd9f",
+        "speciesCommonName": "Decorator Crab",
+        "speciesScientificName": "Camposcia retusa",
+        "sizeClass": "small",
+        "ownerName": "Miranda",
+        "shelterId": "6d613241-5ad3-5197-8b01-500e8b607567",
+        "shelterName": "Fernanda's Home for Misunderstood Creatures"
+      }
+    }
+  }
+}

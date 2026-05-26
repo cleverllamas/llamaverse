@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Meerkat",
+        "sizeClass": "small",
+        "fluffiness": 3,
+        "typicalDisposition": "vigilant",
+        "typicalLifespanYears": 12,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Mammalia",
+          "order": "Carnivora",
+          "family": "Herpestidae",
+          "genus": "Suricata",
+          "species": "Suricata suricatta"
+        },
+        "description": "Immune to certain venoms. Takes turns standing guard. Llamas who keep groups of them report a significant improvement in household security awareness.",
+        "id": "b1ca06db-18c3-5651-9cb9-d3ffd7ab87e1"
+      }
+    }
+  }
+}

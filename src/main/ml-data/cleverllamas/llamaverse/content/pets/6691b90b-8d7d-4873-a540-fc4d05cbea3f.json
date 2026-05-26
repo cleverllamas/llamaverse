@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "6691b90b-8d7d-4873-a540-fc4d05cbea3f",
+        "name": "Crumple",
+        "ageYears": 1,
+        "disposition": "stoic",
+        "fluffiness": 2,
+        "quirk": "refuses to acknowledge Mondays",
+        "speciesId": "dac507fc-3d12-56d0-a957-e5e4b7ea894d",
+        "speciesCommonName": "Firefly",
+        "speciesScientificName": "Photinus pyralis",
+        "sizeClass": "tiny",
+        "ownerName": "Percy",
+        "shelterId": "869456e1-451e-554f-96f2-4a54e832dd46",
+        "shelterName": "Bradley's Extreme Fauna Compound"
+      }
+    }
+  }
+}

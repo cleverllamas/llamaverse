@@ -7,5 +7,6 @@
   "hairColor": "Brown",
   "breed": "Suri",
   "placeOfBirth": "Albertborough, Brunei Darussalam",
-  "description": "Kevin is a hazel-eyed llama with brown hair, standing 194 cm tall. Originally from Albertborough, Brunei Darussalam, Kevin enjoys cooking, reading, gardening. Known for their gentle and curious personality, Kevin is a beloved member of the llama community."
+  "description": "Kevin is a hazel-eyed llama with brown hair, standing 194 cm tall. Originally from Albertborough, Brunei Darussalam, Kevin enjoys cooking, reading, gardening. Known for their gentle and curious personality, Kevin is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_silvestris"
 }

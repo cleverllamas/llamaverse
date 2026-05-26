@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "23783809-9771-4c7b-9044-4c58f313a3ae",
+        "name": "Snapper",
+        "ageYears": 55,
+        "disposition": "hyperactive",
+        "fluffiness": 1,
+        "quirk": "stages elaborate fake emergencies to see who responds fastest",
+        "speciesId": "af3dcf5c-cb3c-5f9d-9028-c1ca22e3d06b",
+        "speciesCommonName": "Tuatara",
+        "speciesScientificName": "Sphenodon punctatus",
+        "sizeClass": "small",
+        "ownerName": "Kestrel",
+        "shelterId": "e9a0f6a9-5a3f-51a3-ae37-19773f4ac55f",
+        "shelterName": "The Archipelago Orphanage"
+      }
+    }
+  }
+}

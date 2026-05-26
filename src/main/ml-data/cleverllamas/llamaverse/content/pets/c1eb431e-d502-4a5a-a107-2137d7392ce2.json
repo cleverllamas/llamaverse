@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "c1eb431e-d502-4a5a-a107-2137d7392ce2",
+        "name": "Noodlesworth",
+        "ageYears": 12,
+        "disposition": "sneaky",
+        "fluffiness": 1,
+        "quirk": "has memorised the bus timetable for a city it has never visited",
+        "speciesId": "4385ccaa-0b0a-5332-b1a0-6e0af8d6f6b4",
+        "speciesCommonName": "Pangolin",
+        "speciesScientificName": "Manis pentadactyla",
+        "sizeClass": "medium",
+        "ownerName": "Monique",
+        "shelterId": "c8de3d2b-6e9a-5ed1-bda7-9a50f977ddb9",
+        "shelterName": "The Quiet Pool"
+      }
+    }
+  }
+}

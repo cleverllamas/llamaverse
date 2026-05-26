@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "93aef38e-d8a4-47bc-a185-630ad74b1fb4",
+        "name": "Kerfuffle",
+        "ageYears": 3,
+        "disposition": "cheerful",
+        "fluffiness": 2,
+        "quirk": "has been composing the same symphony for eleven years",
+        "speciesId": "7e276fc0-aa53-556b-8f1d-c2bd13e28c66",
+        "speciesCommonName": "Pistol Shrimp",
+        "speciesScientificName": "Alpheus heterochaelis",
+        "sizeClass": "tiny",
+        "ownerName": "Ashley",
+        "shelterId": "8d977212-e5ba-55f4-be32-882c53197b49",
+        "shelterName": "The Wool and Scales Rehabilitation Centre"
+      }
+    }
+  }
+}

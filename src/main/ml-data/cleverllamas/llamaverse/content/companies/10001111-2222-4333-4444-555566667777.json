@@ -1,0 +1,22 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "companies"
+    },
+    "instance": {
+      "companies": {
+        "id": "10001111-2222-4333-4444-555566667777",
+        "name": "Llamazone Technologies",
+        "ticker": "LLZT",
+        "sector": "Technology",
+        "headquarters": "Silicon Meadow, Andes Region",
+        "founded": 1994,
+        "ceoName": "Aaron",
+        "employees": 184000,
+        "revenueHayBalesMillions": 48000,
+        "description": "Llamazone is the llamaverse's largest technology company, operating in e-commerce, cloud infrastructure, and enterprise database services. Its flagship enterprise product \u2014 LlamaSearch \u2014 is powered by MarkLogic and serves over eight thousand corporate clients. Aaron joined as Chief Executive after his second World Chess Championship, applying the same strategic patience to corporate planning that characterises his endgame play.",
+        "marklogicUse": "Core product infrastructure; processes 4 trillion queries per quarter"
+      }
+    }
+  }
+}

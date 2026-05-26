@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Huacaya",
   "placeOfBirth": "Odomville, Colombia",
-  "description": "Christopher is a green-eyed llama with red hair, standing 108 cm tall. Originally from Odomville, Colombia, Christopher enjoys painting, singing, wood carving. Known for their gentle and friendly personality, Christopher is a beloved member of the llama community."
+  "description": "Christopher is a green-eyed llama with red hair, standing 108 cm tall. Originally from Odomville, Colombia, Christopher enjoys painting, singing, wood carving. Known for their gentle and friendly personality, Christopher is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_vellaboreas"
 }

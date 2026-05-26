@@ -7,5 +7,6 @@
   "hairColor": "Gray",
   "breed": "Suri",
   "placeOfBirth": "Danielfort, Armenia",
-  "description": "David is a hazel-eyed llama with gray hair, standing 141 cm tall. Originally from Danielfort, Armenia, David enjoys painting, dancing, singing. Known for their curious and friendly personality, David is a beloved member of the llama community."
+  "description": "David is a hazel-eyed llama with gray hair, standing 141 cm tall. Originally from Danielfort, Armenia, David enjoys painting, dancing, singing. Known for their curious and friendly personality, David is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_borealis"
 }

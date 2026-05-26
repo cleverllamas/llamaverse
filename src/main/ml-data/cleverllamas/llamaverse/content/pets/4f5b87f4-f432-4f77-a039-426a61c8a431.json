@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "4f5b87f4-f432-4f77-a039-426a61c8a431",
+        "name": "Snickerdoodle",
+        "ageYears": 22,
+        "disposition": "timid",
+        "fluffiness": 1,
+        "quirk": "maintains a written log of everything it finds interesting, which is everything",
+        "speciesId": "cc6872d7-a2bd-50c8-9beb-fff7ad0e6f7d",
+        "speciesCommonName": "Coconut Crab",
+        "speciesScientificName": "Birgus latro",
+        "sizeClass": "large",
+        "ownerName": "Gwen",
+        "shelterId": "8d977212-e5ba-55f4-be32-882c53197b49",
+        "shelterName": "The Wool and Scales Rehabilitation Centre"
+      }
+    }
+  }
+}

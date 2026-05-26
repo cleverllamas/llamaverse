@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "ad4595c1-97e7-4983-a741-676d35d317d4",
+        "name": "Waggle",
+        "ageYears": 11,
+        "disposition": "stoic",
+        "fluffiness": 8,
+        "quirk": "refuses to make eye contact but sends heartfelt letters",
+        "speciesId": "68b9b1ab-0470-5776-a87d-ca0cda7715b9",
+        "speciesCommonName": "Sugar Glider",
+        "speciesScientificName": "Petaurus breviceps",
+        "sizeClass": "tiny",
+        "ownerName": "Boris",
+        "shelterId": "43593191-478d-5f0a-82ec-63ff4cc4122e",
+        "shelterName": "The Patagonian Wild Wing Refuge"
+      }
+    }
+  }
+}

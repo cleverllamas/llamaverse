@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "2e92bfa9-7ec2-4161-a5e1-96c861f25090",
+        "name": "Crumble",
+        "ageYears": 15,
+        "disposition": "theatrical",
+        "fluffiness": 3,
+        "quirk": "constructed a scale model of the hay festival from memory",
+        "speciesId": "30169ba6-d3c1-5359-a341-c9367be9b750",
+        "speciesCommonName": "Okapi",
+        "speciesScientificName": "Okapia johnstoni",
+        "sizeClass": "large",
+        "ownerName": "Derek",
+        "shelterId": "7437ed74-37ab-5121-a86c-723531fb55b3",
+        "shelterName": "The Galaxy of Small Things"
+      }
+    }
+  }
+}

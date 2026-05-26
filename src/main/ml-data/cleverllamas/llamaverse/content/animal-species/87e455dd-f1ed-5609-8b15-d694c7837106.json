@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Dumbo Octopus",
+        "sizeClass": "small",
+        "fluffiness": 2,
+        "typicalDisposition": "buoyant",
+        "typicalLifespanYears": 3,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Mollusca",
+          "class": "Cephalopoda",
+          "order": "Octopoda",
+          "family": "Opisthoteuthidae",
+          "genus": "Grimpoteuthis",
+          "species": "Grimpoteuthis boylei"
+        },
+        "description": "Flaps ear-like fins to swim. Looks like a cartoon. Lives at extreme depth. Llamas with submersibles keep them.",
+        "id": "87e455dd-f1ed-5609-8b15-d694c7837106"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Crystal Red Shrimp",
+        "sizeClass": "tiny",
+        "fluffiness": 1,
+        "typicalDisposition": "delicate",
+        "typicalLifespanYears": 2,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Arthropoda",
+          "class": "Malacostraca",
+          "order": "Decapoda",
+          "family": "Atyidae",
+          "genus": "Caridina",
+          "species": "Caridina cantonensis"
+        },
+        "description": "A show-quality shrimp with red and white banding. Llamas enter them in national competitions.",
+        "id": "3a40829e-4250-5a56-948e-20945e6afc8e"
+      }
+    }
+  }
+}

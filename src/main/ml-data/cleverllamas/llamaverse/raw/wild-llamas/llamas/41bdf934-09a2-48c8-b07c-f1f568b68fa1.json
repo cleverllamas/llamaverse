@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Huacaya",
   "placeOfBirth": "Charlesside, Latvia",
-  "description": "Michael is a amber-eyed llama with red hair, standing 149 cm tall. Originally from Charlesside, Latvia, Michael enjoys cooking, reading, singing. Known for their mischievous and calm personality, Michael is a beloved member of the llama community."
+  "description": "Michael is a amber-eyed llama with red hair, standing 149 cm tall. Originally from Charlesside, Latvia, Michael enjoys cooking, reading, singing. Known for their mischievous and calm personality, Michael is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_andinus"
 }

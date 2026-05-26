@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "b02275a3-0795-4ed3-8a6e-bba431c980b7",
+        "name": "Squiggles",
+        "ageYears": 6,
+        "disposition": "eccentric",
+        "fluffiness": 1,
+        "quirk": "has formed strong opinions about architecture",
+        "speciesId": "8867c7bb-9643-55dc-b087-78a3f587f238",
+        "speciesCommonName": "Vampire Squid",
+        "speciesScientificName": "Vampyroteuthis infernalis",
+        "sizeClass": "small",
+        "ownerName": "Clara",
+        "shelterId": "fea3da74-6337-5053-bffe-89e75d14ef03",
+        "shelterName": "The Wandering Fleece Animal Sanctuary"
+      }
+    }
+  }
+}

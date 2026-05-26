@@ -1,0 +1,10 @@
+{
+  "uri": "http://cleverllamas.com/llamaverse/species/Lama_glama_litoralis",
+  "type": "Species",
+  "label": "Lama glama litoralis",
+  "description": "Woolly coastal llamas whose fibre has adapted a slight natural water-resistance.",
+  "parentUri": "http://cleverllamas.com/llamaverse/genus/Lama",
+  "phylumKey": "Lanuda",
+  "classKey": "Litoralis",
+  "speciesKey": "Lama_glama_litoralis"
+}

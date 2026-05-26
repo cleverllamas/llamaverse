@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "11be3d4b-d9f2-461f-a112-d8dc80b76316",
+        "name": "Gloop",
+        "ageYears": 7,
+        "disposition": "theatrical",
+        "fluffiness": 6,
+        "quirk": "stages elaborate fake emergencies to see who responds fastest",
+        "speciesId": "33dcd8b2-2120-5581-8ec0-a55573d3c3bd",
+        "speciesCommonName": "Aye-aye",
+        "speciesScientificName": "Daubentonia madagascariensis",
+        "sizeClass": "small",
+        "ownerName": "Derek",
+        "shelterId": "6d613241-5ad3-5197-8b01-500e8b607567",
+        "shelterName": "Fernanda's Home for Misunderstood Creatures"
+      }
+    }
+  }
+}

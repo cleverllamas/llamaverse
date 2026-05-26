@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Hybrid",
   "placeOfBirth": "Catherinetown, Panama",
-  "description": "Robert is a brown-eyed llama with red hair, standing 137 cm tall. Originally from Catherinetown, Panama, Robert enjoys hiking, painting, singing. Known for their gentle and calm personality, Robert is a beloved member of the llama community."
+  "description": "Robert is a brown-eyed llama with red hair, standing 137 cm tall. Originally from Catherinetown, Panama, Robert enjoys hiking, painting, singing. Known for their gentle and calm personality, Robert is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_vellifer"
 }

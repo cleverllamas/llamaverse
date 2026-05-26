@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "44d0bcf3-5b4c-4f58-aab8-dc8727f8b496",
+        "name": "Dazzle",
+        "ageYears": 0,
+        "disposition": "lazy",
+        "fluffiness": 1,
+        "quirk": "has been composing the same symphony for eleven years",
+        "speciesId": "1d5714f3-7780-56e6-a2fd-494df6fe1bb8",
+        "speciesCommonName": "Glaucus atlanticus (Blue Dragon Sea Slug)",
+        "speciesScientificName": "Glaucus atlanticus",
+        "sizeClass": "tiny",
+        "ownerName": "Anthony",
+        "shelterId": "24d12d56-1e48-56e1-aa51-54df3c5f003c",
+        "shelterName": "The Stillness Institute"
+      }
+    }
+  }
+}

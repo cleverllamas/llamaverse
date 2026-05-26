@@ -1,0 +1,10 @@
+{
+  "functionName": "handleMessage",
+  "desc": "MarkLogic MCP Server API endpoint for hello-world service",
+  "params": [],
+  "return": {
+    "datatype": "jsonDocument",
+    "desc": "The MCP protocol response message",
+    "$javaClass": "com.fasterxml.jackson.databind.JsonNode"
+  }
+}

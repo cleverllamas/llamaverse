@@ -7,5 +7,6 @@
   "hairColor": "Gray",
   "breed": "Hybrid",
   "placeOfBirth": "Kevinside, Spain",
-  "description": "Sarah is a green-eyed llama with gray hair, standing 145 cm tall. Originally from Kevinside, Spain, Sarah enjoys dancing, cooking, hiking. Known for their curious and calm personality, Sarah is a beloved member of the llama community."
+  "description": "Sarah is a green-eyed llama with gray hair, standing 145 cm tall. Originally from Kevinside, Spain, Sarah enjoys dancing, cooking, hiking. Known for their curious and calm personality, Sarah is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_andinus"
 }

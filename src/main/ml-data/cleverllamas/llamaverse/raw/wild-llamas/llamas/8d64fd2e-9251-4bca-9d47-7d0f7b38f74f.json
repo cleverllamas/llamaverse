@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Suri",
   "placeOfBirth": "Mariafort, Congo",
-  "description": "John is a blue-eyed llama with red hair, standing 153 cm tall. Originally from Mariafort, Congo, John enjoys painting, wood carving, singing. Known for their mischievous and curious personality, John is a beloved member of the llama community."
+  "description": "John is a blue-eyed llama with red hair, standing 153 cm tall. Originally from Mariafort, Congo, John enjoys painting, wood carving, singing. Known for their mischievous and curious personality, John is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriborealis"
 }

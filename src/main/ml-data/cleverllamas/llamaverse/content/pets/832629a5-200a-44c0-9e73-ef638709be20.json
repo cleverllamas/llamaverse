@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "832629a5-200a-44c0-9e73-ef638709be20",
+        "name": "Higgledy",
+        "ageYears": 0,
+        "disposition": "serene",
+        "fluffiness": 2,
+        "quirk": "refuses to acknowledge Mondays",
+        "speciesId": "2c2cbe95-1e93-5dc0-b137-87c218f395fc",
+        "speciesCommonName": "Copepod",
+        "speciesScientificName": "Calanus finmarchicus",
+        "sizeClass": "microscopic",
+        "ownerName": "Isolde",
+        "shelterId": "869456e1-451e-554f-96f2-4a54e832dd46",
+        "shelterName": "Bradley's Extreme Fauna Compound"
+      }
+    }
+  }
+}

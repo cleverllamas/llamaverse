@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Sugar Glider",
+        "sizeClass": "tiny",
+        "fluffiness": 7,
+        "typicalDisposition": "gliding",
+        "typicalLifespanYears": 15,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Mammalia",
+          "order": "Diprotodontia",
+          "family": "Petauridae",
+          "genus": "Petaurus",
+          "species": "Petaurus breviceps"
+        },
+        "description": "A palm-sized marsupial that glides between trees on skin membranes. Llamas who keep them report being occasionally startled by sudden airborne visits.",
+        "id": "68b9b1ab-0470-5776-a87d-ca0cda7715b9"
+      }
+    }
+  }
+}

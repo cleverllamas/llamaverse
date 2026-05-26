@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "4d6818b5-cb5c-459e-b156-f201cdc35686",
+        "name": "Gloop",
+        "ageYears": 15,
+        "disposition": "philosophical",
+        "fluffiness": 7,
+        "quirk": "maintains a written log of everything it finds interesting, which is everything",
+        "speciesId": "686b9835-e7a5-58b6-8e19-741d7ca27e8d",
+        "speciesCommonName": "Atlantic Puffin",
+        "speciesScientificName": "Fratercula arctica",
+        "sizeClass": "small",
+        "ownerName": "Angela",
+        "shelterId": "8d977212-e5ba-55f4-be32-882c53197b49",
+        "shelterName": "The Wool and Scales Rehabilitation Centre"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "a76398bc-79c2-4e91-8153-1d31f2650378",
+        "name": "Plonk",
+        "ageYears": 22,
+        "disposition": "mischievous",
+        "fluffiness": 2,
+        "quirk": "is training for a marathon at a very leisurely pace",
+        "speciesId": "cc882f01-70bc-59f2-9224-e7c81406e187",
+        "speciesCommonName": "Coelacanth",
+        "speciesScientificName": "Latimeria chalumnae",
+        "sizeClass": "large",
+        "ownerName": "Miranda",
+        "shelterId": "e9a0f6a9-5a3f-51a3-ae37-19773f4ac55f",
+        "shelterName": "The Archipelago Orphanage"
+      }
+    }
+  }
+}

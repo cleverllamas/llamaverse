@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "18292f77-32c6-405d-8392-6cda0875d854",
+        "name": "Razzle",
+        "ageYears": 6,
+        "disposition": "serene",
+        "fluffiness": 4,
+        "quirk": "only eats food arranged in symmetrical patterns",
+        "speciesId": "76cabc17-bbcf-5e4c-a1c7-2fd34d0442ef",
+        "speciesCommonName": "Hoatzin",
+        "speciesScientificName": "Opisthocomus hoazin",
+        "sizeClass": "medium",
+        "ownerName": "Fernanda",
+        "shelterId": "1d1ceadd-64ed-52d5-a416-b278d95c83d1",
+        "shelterName": "The Cosy Burrow Rescue and Rehoming"
+      }
+    }
+  }
+}

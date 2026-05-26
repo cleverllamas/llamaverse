@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "f6c0272f-acee-4784-b325-d173084a93ea",
+        "name": "Tintinnabulation",
+        "ageYears": 54,
+        "disposition": "lazy",
+        "fluffiness": 1,
+        "quirk": "stages elaborate fake emergencies to see who responds fastest",
+        "speciesId": "eef78078-a2a5-5e4d-952e-221fc060a90d",
+        "speciesCommonName": "Beluga Whale",
+        "speciesScientificName": "Delphinapterus leucas",
+        "sizeClass": "large",
+        "ownerName": "Freddie",
+        "shelterId": "a80124a7-0a88-582c-9362-e5c7aecd90d2",
+        "shelterName": "The Peculiar Menagerie of Llamaville East"
+      }
+    }
+  }
+}

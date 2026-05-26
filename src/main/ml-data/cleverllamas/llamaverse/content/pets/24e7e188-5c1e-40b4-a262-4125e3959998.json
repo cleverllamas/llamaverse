@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "24e7e188-5c1e-40b4-a262-4125e3959998",
+        "name": "Fidget",
+        "ageYears": 1,
+        "disposition": "philosophical",
+        "fluffiness": 2,
+        "quirk": "only eats food arranged in symmetrical patterns",
+        "speciesId": "4f869f58-53fa-5caa-bad0-1aa47b133741",
+        "speciesCommonName": "Leafy Sea Dragon",
+        "speciesScientificName": "Phycodurus eques",
+        "sizeClass": "small",
+        "ownerName": "Horatio",
+        "shelterId": "24d12d56-1e48-56e1-aa51-54df3c5f003c",
+        "shelterName": "The Stillness Institute"
+      }
+    }
+  }
+}

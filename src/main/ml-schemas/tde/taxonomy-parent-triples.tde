@@ -1,0 +1,22 @@
+{
+  "template": {
+    "description": "subClassOf triples from taxonomy nodes that have a parentUri.",
+    "context": "/parentUri",
+    "collections": [
+      "ontology"
+    ],
+    "triples": [
+      {
+        "subject": {
+          "val": "sem:iri(../uri)"
+        },
+        "predicate": {
+          "val": "sem:iri('http://cleverllamas.com/llamaverse/subClassOf')"
+        },
+        "object": {
+          "val": "sem:iri(.)"
+        }
+      }
+    ]
+  }
+}

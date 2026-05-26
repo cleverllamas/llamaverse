@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Suri",
   "placeOfBirth": "New Robert, Saint Vincent and the Grenadines",
-  "description": "Jennifer is a brown-eyed llama with red hair, standing 122 cm tall. Originally from New Robert, Saint Vincent and the Grenadines, Jennifer enjoys knitting, hiking, reading. Known for their friendly and mischievous personality, Jennifer is a beloved member of the llama community."
+  "description": "Jennifer is a brown-eyed llama with red hair, standing 122 cm tall. Originally from New Robert, Saint Vincent and the Grenadines, Jennifer enjoys knitting, hiking, reading. Known for their friendly and mischievous personality, Jennifer is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriensis"
 }

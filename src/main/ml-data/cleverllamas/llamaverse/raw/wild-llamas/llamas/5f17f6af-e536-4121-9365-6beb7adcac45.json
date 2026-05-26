@@ -7,5 +7,6 @@
   "hairColor": "Gray",
   "breed": "Hybrid",
   "placeOfBirth": "Goodhaven, Tonga",
-  "description": "Robert is a green-eyed llama with gray hair, standing 191 cm tall. Originally from Goodhaven, Tonga, Robert enjoys hiking, wood carving, painting. Known for their mischievous and playful personality, Robert is a beloved member of the llama community."
+  "description": "Robert is a green-eyed llama with gray hair, standing 191 cm tall. Originally from Goodhaven, Tonga, Robert enjoys hiking, wood carving, painting. Known for their mischievous and playful personality, Robert is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_borealis"
 }

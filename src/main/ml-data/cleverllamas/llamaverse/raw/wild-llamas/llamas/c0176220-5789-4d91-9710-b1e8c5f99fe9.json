@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Huacaya",
   "placeOfBirth": "Port Williefurt, El Salvador",
-  "description": "Benjamin is a brown-eyed llama with red hair, standing 174 cm tall. Originally from Port Williefurt, El Salvador, Benjamin enjoys gardening, cooking, knitting. Known for their shy and energetic personality, Benjamin is a beloved member of the llama community."
+  "description": "Benjamin is a brown-eyed llama with red hair, standing 174 cm tall. Originally from Port Williefurt, El Salvador, Benjamin enjoys gardening, cooking, knitting. Known for their shy and energetic personality, Benjamin is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_vellifer"
 }

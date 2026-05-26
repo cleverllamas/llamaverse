@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "e93e8184-6f6c-4abd-848a-8bc920dcb60a",
+        "name": "Burble",
+        "ageYears": 6,
+        "disposition": "bombastic",
+        "fluffiness": 10,
+        "quirk": "has never once been surprised by anything",
+        "speciesId": "1f29dee0-afc6-56d8-a400-842ac656c71e",
+        "speciesCommonName": "Red Panda",
+        "speciesScientificName": "Ailurus fulgens",
+        "sizeClass": "small",
+        "ownerName": "Isolde",
+        "shelterId": "4e1e0f71-7c69-5073-ab12-27cfd4257912",
+        "shelterName": "The Old Pond Sanctuary"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "76abc88b-0213-450f-ae6b-c34c03376ae4",
+        "name": "Twizzle",
+        "ageYears": 1,
+        "disposition": "hyperactive",
+        "fluffiness": 1,
+        "quirk": "constructed a scale model of the hay festival from memory",
+        "speciesId": "448bb2fb-6c8f-5bbe-a509-6296ebcfb91e",
+        "speciesCommonName": "Blue-ringed Octopus",
+        "speciesScientificName": "Hapalochlaena lunulata",
+        "sizeClass": "tiny",
+        "ownerName": "Gwen",
+        "shelterId": "869456e1-451e-554f-96f2-4a54e832dd46",
+        "shelterName": "Bradley's Extreme Fauna Compound"
+      }
+    }
+  }
+}

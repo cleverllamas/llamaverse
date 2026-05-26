@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "9dd042e4-07bc-49a9-871e-5d308adb867b",
+        "name": "Glimmer",
+        "ageYears": 0,
+        "disposition": "timid",
+        "fluffiness": 6,
+        "quirk": "is training for a marathon at a very leisurely pace",
+        "speciesId": "ec504d29-e007-58bc-9630-df64eaf83f62",
+        "speciesCommonName": "Peacock Spider",
+        "speciesScientificName": "Maratus volans",
+        "sizeClass": "microscopic",
+        "ownerName": "Horatio",
+        "shelterId": "4e1e0f71-7c69-5073-ab12-27cfd4257912",
+        "shelterName": "The Old Pond Sanctuary"
+      }
+    }
+  }
+}

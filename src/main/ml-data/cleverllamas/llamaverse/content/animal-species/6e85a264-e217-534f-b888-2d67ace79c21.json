@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Harlequin Shrimp",
+        "sizeClass": "tiny",
+        "fluffiness": 1,
+        "typicalDisposition": "theatrical",
+        "typicalLifespanYears": 3,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Arthropoda",
+          "class": "Malacostraca",
+          "order": "Decapoda",
+          "family": "Hymenoceridae",
+          "genus": "Hymenocera",
+          "species": "Hymenocera picta"
+        },
+        "description": "Polka-dotted predator of starfish. Llamas find its pattern more interesting than most art.",
+        "id": "6e85a264-e217-534f-b888-2d67ace79c21"
+      }
+    }
+  }
+}

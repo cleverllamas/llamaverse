@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "a2d61326-d6e3-4995-a5ef-61729287e1f0",
+        "name": "Snuffleby",
+        "ageYears": 1,
+        "disposition": "sneaky",
+        "fluffiness": 1,
+        "quirk": "only communicates using interpretive movement between 9 and 10am",
+        "speciesId": "08975a97-6b10-5b93-a485-6982350d0c27",
+        "speciesCommonName": "Crown-of-Thorns Starfish",
+        "speciesScientificName": "Acanthaster planci",
+        "sizeClass": "medium",
+        "ownerName": "Jasper",
+        "shelterId": "2b312a04-c215-5098-9433-f5aab988726c",
+        "shelterName": "Apex Companions Forever"
+      }
+    }
+  }
+}

@@ -7,5 +7,6 @@
   "hairColor": "Brown",
   "breed": "Hybrid",
   "placeOfBirth": "North Doris, Congo",
-  "description": "Sheila is a gray-eyed llama with brown hair, standing 153 cm tall. Originally from North Doris, Congo, Sheila enjoys hiking, painting, singing. Known for their curious and playful personality, Sheila is a beloved member of the llama community."
+  "description": "Sheila is a gray-eyed llama with brown hair, standing 153 cm tall. Originally from North Doris, Congo, Sheila enjoys hiking, painting, singing. Known for their curious and playful personality, Sheila is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_vellifer"
 }

@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "ef9d2a9f-bae5-4057-9176-24f9cd2c568c",
+        "name": "Boggle",
+        "ageYears": 1,
+        "disposition": "devoted",
+        "fluffiness": 2,
+        "quirk": "refuses to make eye contact but sends heartfelt letters",
+        "speciesId": "3a40829e-4250-5a56-948e-20945e6afc8e",
+        "speciesCommonName": "Crystal Red Shrimp",
+        "speciesScientificName": "Caridina cantonensis",
+        "sizeClass": "tiny",
+        "ownerName": "Derek",
+        "shelterId": "1d1ceadd-64ed-52d5-a416-b278d95c83d1",
+        "shelterName": "The Cosy Burrow Rescue and Rehoming"
+      }
+    }
+  }
+}

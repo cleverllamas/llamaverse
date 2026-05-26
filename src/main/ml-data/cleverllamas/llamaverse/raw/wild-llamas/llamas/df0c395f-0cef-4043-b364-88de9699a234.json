@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Hybrid",
   "placeOfBirth": "Smithtown, Belize",
-  "description": "Stephen is a green-eyed llama with red hair, standing 193 cm tall. Originally from Smithtown, Belize, Stephen enjoys hiking, dancing, singing. Known for their curious and mischievous personality, Stephen is a beloved member of the llama community."
+  "description": "Stephen is a green-eyed llama with red hair, standing 193 cm tall. Originally from Smithtown, Belize, Stephen enjoys hiking, dancing, singing. Known for their curious and mischievous personality, Stephen is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_vellaboreas"
 }

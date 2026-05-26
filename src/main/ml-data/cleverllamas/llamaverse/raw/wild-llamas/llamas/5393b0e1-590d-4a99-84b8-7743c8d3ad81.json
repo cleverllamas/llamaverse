@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Huacaya",
   "placeOfBirth": "Brianside, Turkmenistan",
-  "description": "Kimberly is a brown-eyed llama with red hair, standing 170 cm tall. Originally from Brianside, Turkmenistan, Kimberly enjoys dancing, knitting, hiking. Known for their energetic and energetic personality, Kimberly is a beloved member of the llama community."
+  "description": "Kimberly is a brown-eyed llama with red hair, standing 170 cm tall. Originally from Brianside, Turkmenistan, Kimberly enjoys dancing, knitting, hiking. Known for their energetic and energetic personality, Kimberly is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_andinus"
 }

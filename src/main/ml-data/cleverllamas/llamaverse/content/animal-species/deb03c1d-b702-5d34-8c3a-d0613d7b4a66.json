@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Bdelloid Rotifer",
+        "sizeClass": "microscopic",
+        "fluffiness": 1,
+        "typicalDisposition": "ancient",
+        "typicalLifespanYears": 1,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Rotifera",
+          "class": "Bdelloidea",
+          "order": "Philodinida",
+          "family": "Philodinidae",
+          "genus": "Philodina",
+          "species": "Philodina roseola"
+        },
+        "description": "Has not had sex in 80 million years and is doing perfectly fine. An inspiration to ascetic llamas everywhere.",
+        "id": "deb03c1d-b702-5d34-8c3a-d0613d7b4a66"
+      }
+    }
+  }
+}

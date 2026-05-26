@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "a9a40d17-2443-4c2c-9e75-719e82b9912d",
+        "name": "Dingleberry",
+        "ageYears": 0,
+        "disposition": "mischievous",
+        "fluffiness": 5,
+        "quirk": "has memorised all 88 Beethoven piano sonatas",
+        "speciesId": "06dc65d2-4a3f-5273-9b99-1eaffac0131a",
+        "speciesCommonName": "Wolverine",
+        "speciesScientificName": "Gulo gulo",
+        "sizeClass": "medium",
+        "ownerName": "Alice",
+        "shelterId": "43593191-478d-5f0a-82ec-63ff4cc4122e",
+        "shelterName": "The Patagonian Wild Wing Refuge"
+      }
+    }
+  }
+}

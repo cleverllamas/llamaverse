@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "afd3f57c-e0ac-4ec8-8b45-925258d9a0a4",
+        "name": "Tangle",
+        "ageYears": 14,
+        "disposition": "eccentric",
+        "fluffiness": 7,
+        "quirk": "sleeps only in prime-numbered minutes",
+        "speciesId": "686b9835-e7a5-58b6-8e19-741d7ca27e8d",
+        "speciesCommonName": "Atlantic Puffin",
+        "speciesScientificName": "Fratercula arctica",
+        "sizeClass": "small",
+        "ownerName": "Clara",
+        "shelterId": "1d1ceadd-64ed-52d5-a416-b278d95c83d1",
+        "shelterName": "The Cosy Burrow Rescue and Rehoming"
+      }
+    }
+  }
+}

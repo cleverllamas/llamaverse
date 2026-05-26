@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "cd47f873-631c-4273-bfbd-701ba3ab19d0",
+        "name": "Wriggle",
+        "ageYears": 4,
+        "disposition": "sneaky",
+        "fluffiness": 1,
+        "quirk": "is writing a novel but will not discuss the plot",
+        "speciesId": "52e97f4e-6aee-54e7-bcee-296237e2cb22",
+        "speciesCommonName": "Komodo Dragon",
+        "speciesScientificName": "Varanus komodoensis",
+        "sizeClass": "large",
+        "ownerName": "Aaron",
+        "shelterId": "43593191-478d-5f0a-82ec-63ff4cc4122e",
+        "shelterName": "The Patagonian Wild Wing Refuge"
+      }
+    }
+  }
+}

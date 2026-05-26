@@ -7,5 +7,6 @@
   "hairColor": "Brown",
   "breed": "Huacaya",
   "placeOfBirth": "Derrickfurt, Uruguay",
-  "description": "Perry is a blue-eyed llama with brown hair, standing 163 cm tall. Originally from Derrickfurt, Uruguay, Perry enjoys cooking, wood carving, dancing. Known for their playful and friendly personality, Perry is a beloved member of the llama community."
+  "description": "Perry is a blue-eyed llama with brown hair, standing 163 cm tall. Originally from Derrickfurt, Uruguay, Perry enjoys cooking, wood carving, dancing. Known for their playful and friendly personality, Perry is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_silvestris"
 }

@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Blue-ringed Octopus",
+        "sizeClass": "tiny",
+        "fluffiness": 1,
+        "typicalDisposition": "dramatic",
+        "typicalLifespanYears": 2,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Mollusca",
+          "class": "Cephalopoda",
+          "order": "Octopoda",
+          "family": "Octopodidae",
+          "genus": "Hapalochlaena",
+          "species": "Hapalochlaena lunulata"
+        },
+        "description": "Highly venomous and extremely beautiful. Llamas who keep them are considered either very brave or very silly.",
+        "id": "448bb2fb-6c8f-5bbe-a509-6296ebcfb91e"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "ff03ef99-cc53-4fdc-9a16-4aa934763f8e",
+        "name": "Shuffle",
+        "ageYears": 2,
+        "disposition": "erratic",
+        "fluffiness": 2,
+        "quirk": "has been composing the same symphony for eleven years",
+        "speciesId": "87e455dd-f1ed-5609-8b15-d694c7837106",
+        "speciesCommonName": "Dumbo Octopus",
+        "speciesScientificName": "Grimpoteuthis boylei",
+        "sizeClass": "small",
+        "ownerName": "Angela",
+        "shelterId": "869456e1-451e-554f-96f2-4a54e832dd46",
+        "shelterName": "Bradley's Extreme Fauna Compound"
+      }
+    }
+  }
+}

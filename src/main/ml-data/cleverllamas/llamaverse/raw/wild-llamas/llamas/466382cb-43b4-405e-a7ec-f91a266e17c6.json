@@ -7,5 +7,6 @@
   "hairColor": "Brown",
   "breed": "Hybrid",
   "placeOfBirth": "North Brandonland, Eritrea",
-  "description": "Erika is a blue-eyed llama with brown hair, standing 156 cm tall. Originally from North Brandonland, Eritrea, Erika enjoys gardening, cooking, knitting. Known for their gentle and curious personality, Erika is a beloved member of the llama community."
+  "description": "Erika is a blue-eyed llama with brown hair, standing 156 cm tall. Originally from North Brandonland, Eritrea, Erika enjoys gardening, cooking, knitting. Known for their gentle and curious personality, Erika is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_deserticola"
 }

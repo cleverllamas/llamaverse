@@ -7,5 +7,6 @@
   "hairColor": "Black",
   "breed": "Suri",
   "placeOfBirth": "West Penny, French Guiana",
-  "description": "Patricia is a hazel-eyed llama with black hair, standing 163 cm tall. Originally from West Penny, French Guiana, Patricia enjoys knitting, gardening, singing. Known for their calm and shy personality, Patricia is a beloved member of the llama community."
+  "description": "Patricia is a hazel-eyed llama with black hair, standing 163 cm tall. Originally from West Penny, French Guiana, Patricia enjoys knitting, gardening, singing. Known for their calm and shy personality, Patricia is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriborealis"
 }

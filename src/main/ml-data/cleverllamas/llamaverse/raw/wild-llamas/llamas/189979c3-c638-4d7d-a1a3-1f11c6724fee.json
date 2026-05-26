@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Suri",
   "placeOfBirth": "South Linda, Bolivia",
-  "description": "Andrew is a brown-eyed llama with red hair, standing 104 cm tall. Originally from South Linda, Bolivia, Andrew enjoys cooking, knitting, hiking. Known for their playful and playful personality, Andrew is a beloved member of the llama community."
+  "description": "Andrew is a brown-eyed llama with red hair, standing 104 cm tall. Originally from South Linda, Bolivia, Andrew enjoys cooking, knitting, hiking. Known for their playful and playful personality, Andrew is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_deserticola"
 }

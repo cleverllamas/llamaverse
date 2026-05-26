@@ -7,5 +7,6 @@
   "hairColor": "White",
   "breed": "Hybrid",
   "placeOfBirth": "West Genechester, Guatemala",
-  "description": "Gloria is a brown-eyed llama with white hair, standing 145 cm tall. Originally from West Genechester, Guatemala, Gloria enjoys gardening, painting, knitting. Known for their calm and shy personality, Gloria is a beloved member of the llama community."
+  "description": "Gloria is a brown-eyed llama with white hair, standing 145 cm tall. Originally from West Genechester, Guatemala, Gloria enjoys gardening, painting, knitting. Known for their calm and shy personality, Gloria is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_andinus"
 }

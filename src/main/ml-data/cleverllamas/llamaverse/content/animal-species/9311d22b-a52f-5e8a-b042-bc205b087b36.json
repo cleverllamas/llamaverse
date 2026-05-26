@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Naked Mole Rat",
+        "sizeClass": "tiny",
+        "fluffiness": 1,
+        "typicalDisposition": "eusocial",
+        "typicalLifespanYears": 32,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Mammalia",
+          "order": "Rodentia",
+          "family": "Heterocephalidae",
+          "genus": "Heterocephalus",
+          "species": "Heterocephalus glaber"
+        },
+        "description": "Cannot feel pain in its skin. Is nearly cold-blooded. Lives in colonies with a queen. Is practically immune to cancer. Llamas study it for longevity tips.",
+        "id": "9311d22b-a52f-5e8a-b042-bc205b087b36"
+      }
+    }
+  }
+}

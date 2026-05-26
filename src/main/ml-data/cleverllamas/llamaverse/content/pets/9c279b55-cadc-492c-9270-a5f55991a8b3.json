@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "9c279b55-cadc-492c-9270-a5f55991a8b3",
+        "name": "Snapper",
+        "ageYears": 6,
+        "disposition": "aloof",
+        "fluffiness": 4,
+        "quirk": "stages elaborate fake emergencies to see who responds fastest",
+        "speciesId": "208c6fe2-20b6-5575-94a3-a77cf28d333e",
+        "speciesCommonName": "Tarsier",
+        "speciesScientificName": "Cephalopachus bancanus",
+        "sizeClass": "tiny",
+        "ownerName": "Clara",
+        "shelterId": "2b312a04-c215-5098-9433-f5aab988726c",
+        "shelterName": "Apex Companions Forever"
+      }
+    }
+  }
+}

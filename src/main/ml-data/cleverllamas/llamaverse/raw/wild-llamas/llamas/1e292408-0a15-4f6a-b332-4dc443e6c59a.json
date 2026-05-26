@@ -7,5 +7,6 @@
   "hairColor": "White",
   "breed": "Huacaya",
   "placeOfBirth": "Francisberg, Timor-Leste",
-  "description": "Roger is a green-eyed llama with white hair, standing 166 cm tall. Originally from Francisberg, Timor-Leste, Roger enjoys singing, wood carving, knitting. Known for their curious and mischievous personality, Roger is a beloved member of the llama community."
+  "description": "Roger is a green-eyed llama with white hair, standing 166 cm tall. Originally from Francisberg, Timor-Leste, Roger enjoys singing, wood carving, knitting. Known for their curious and mischievous personality, Roger is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_borealis"
 }

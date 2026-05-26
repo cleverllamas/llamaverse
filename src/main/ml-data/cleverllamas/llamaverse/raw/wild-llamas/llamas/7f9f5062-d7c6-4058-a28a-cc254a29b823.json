@@ -7,5 +7,6 @@
   "hairColor": "Gray",
   "breed": "Hybrid",
   "placeOfBirth": "Lake Karenmouth, Rwanda",
-  "description": "Hannah is a gray-eyed llama with gray hair, standing 157 cm tall. Originally from Lake Karenmouth, Rwanda, Hannah enjoys cooking, hiking, painting. Known for their friendly and playful personality, Hannah is a beloved member of the llama community."
+  "description": "Hannah is a gray-eyed llama with gray hair, standing 157 cm tall. Originally from Lake Karenmouth, Rwanda, Hannah enjoys cooking, hiking, painting. Known for their friendly and playful personality, Hannah is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriborealis"
 }

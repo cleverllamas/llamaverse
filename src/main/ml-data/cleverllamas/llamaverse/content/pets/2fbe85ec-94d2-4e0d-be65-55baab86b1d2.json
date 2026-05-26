@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "2fbe85ec-94d2-4e0d-be65-55baab86b1d2",
+        "name": "Bristle",
+        "ageYears": 1,
+        "disposition": "devoted",
+        "fluffiness": 1,
+        "quirk": "only eats food arranged in symmetrical patterns",
+        "speciesId": "ae2e8ce1-dd67-555a-93b2-1d567d30adb4",
+        "speciesCommonName": "Tardigrade \u2014 Water Bear (Arctic)",
+        "speciesScientificName": "Milnesium tardigradum",
+        "sizeClass": "microscopic",
+        "ownerName": "Ashley",
+        "shelterId": "43593191-478d-5f0a-82ec-63ff4cc4122e",
+        "shelterName": "The Patagonian Wild Wing Refuge"
+      }
+    }
+  }
+}

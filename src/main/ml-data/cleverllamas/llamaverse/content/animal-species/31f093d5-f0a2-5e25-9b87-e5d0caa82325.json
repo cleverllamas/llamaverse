@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Christmas Tree Worm",
+        "sizeClass": "tiny",
+        "fluffiness": 3,
+        "typicalDisposition": "shy",
+        "typicalLifespanYears": 10,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Annelida",
+          "class": "Polychaeta",
+          "order": "Sabellida",
+          "family": "Serpulidae",
+          "genus": "Spirobranchus",
+          "species": "Spirobranchus giganteus"
+        },
+        "description": "Retractable spiral plumes in vivid colours. Disappears the instant anything approaches. Llamas find this relatable.",
+        "id": "31f093d5-f0a2-5e25-9b87-e5d0caa82325"
+      }
+    }
+  }
+}

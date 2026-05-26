@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Suri",
   "placeOfBirth": "Silvaport, Samoa",
-  "description": "Brian is a green-eyed llama with red hair, standing 185 cm tall. Originally from Silvaport, Samoa, Brian enjoys knitting, wood carving, hiking. Known for their playful and mischievous personality, Brian is a beloved member of the llama community."
+  "description": "Brian is a green-eyed llama with red hair, standing 185 cm tall. Originally from Silvaport, Samoa, Brian enjoys knitting, wood carving, hiking. Known for their playful and mischievous personality, Brian is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_surideserta"
 }

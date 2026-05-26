@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Suri",
   "placeOfBirth": "Heathershire, United States of America",
-  "description": "Brandon is a green-eyed llama with red hair, standing 180 cm tall. Originally from Heathershire, United States of America, Brandon enjoys gardening, wood carving, singing. Known for their friendly and curious personality, Brandon is a beloved member of the llama community."
+  "description": "Brandon is a green-eyed llama with red hair, standing 180 cm tall. Originally from Heathershire, United States of America, Brandon enjoys gardening, wood carving, singing. Known for their friendly and curious personality, Brandon is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_vellifer"
 }

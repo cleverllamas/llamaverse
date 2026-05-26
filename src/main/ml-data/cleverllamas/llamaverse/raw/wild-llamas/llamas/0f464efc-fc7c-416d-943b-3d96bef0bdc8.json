@@ -7,5 +7,6 @@
   "hairColor": "Black",
   "breed": "Hybrid",
   "placeOfBirth": "North Lindsayville, Faroe Islands",
-  "description": "Anna is a gray-eyed llama with black hair, standing 127 cm tall. Originally from North Lindsayville, Faroe Islands, Anna enjoys cooking, reading, painting. Known for their calm and friendly personality, Anna is a beloved member of the llama community."
+  "description": "Anna is a gray-eyed llama with black hair, standing 127 cm tall. Originally from North Lindsayville, Faroe Islands, Anna enjoys cooking, reading, painting. Known for their calm and friendly personality, Anna is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_borealis"
 }

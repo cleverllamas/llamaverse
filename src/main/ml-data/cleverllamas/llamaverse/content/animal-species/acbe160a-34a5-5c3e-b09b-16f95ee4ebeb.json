@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Mimic Octopus",
+        "sizeClass": "small",
+        "fluffiness": 1,
+        "typicalDisposition": "theatrical",
+        "typicalLifespanYears": 1,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Mollusca",
+          "class": "Cephalopoda",
+          "order": "Octopoda",
+          "family": "Octopodidae",
+          "genus": "Thaumoctopus",
+          "species": "Thaumoctopus mimicus"
+        },
+        "description": "Impersonates flatfish, lionfish, and sea snakes on demand. Llamas never quite know what they're looking at, which they find energising.",
+        "id": "acbe160a-34a5-5c3e-b09b-16f95ee4ebeb"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "cc08fb49-add1-4f3d-b450-f9e9bdd1c1db",
+        "name": "Twizzle",
+        "ageYears": 0,
+        "disposition": "earnest",
+        "fluffiness": 1,
+        "quirk": "only eats food arranged in symmetrical patterns",
+        "speciesId": "e078ed59-8084-58c0-885d-cfc5156eb559",
+        "speciesCommonName": "Sea Sparkle",
+        "speciesScientificName": "Noctiluca scintillans",
+        "sizeClass": "microscopic",
+        "ownerName": "Percy",
+        "shelterId": "2b312a04-c215-5098-9433-f5aab988726c",
+        "shelterName": "Apex Companions Forever"
+      }
+    }
+  }
+}

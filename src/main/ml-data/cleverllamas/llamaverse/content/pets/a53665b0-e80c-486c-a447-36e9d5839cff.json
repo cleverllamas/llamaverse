@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "a53665b0-e80c-486c-a447-36e9d5839cff",
+        "name": "Waggle",
+        "ageYears": 1,
+        "disposition": "stoic",
+        "fluffiness": 2,
+        "quirk": "believes it is being followed, correctly",
+        "speciesId": "aca2173d-21bd-5c07-a825-a3755227bd9f",
+        "speciesCommonName": "Decorator Crab",
+        "speciesScientificName": "Camposcia retusa",
+        "sizeClass": "small",
+        "ownerName": "Beatrice",
+        "shelterId": "fea3da74-6337-5053-bffe-89e75d14ef03",
+        "shelterName": "The Wandering Fleece Animal Sanctuary"
+      }
+    }
+  }
+}

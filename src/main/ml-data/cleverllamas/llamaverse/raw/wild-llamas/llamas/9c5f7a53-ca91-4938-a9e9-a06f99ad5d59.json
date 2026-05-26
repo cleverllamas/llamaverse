@@ -7,5 +7,6 @@
   "hairColor": "Silver",
   "breed": "Hybrid",
   "placeOfBirth": "Maxwellburgh, Christmas Island",
-  "description": "Stephen is a brown-eyed llama with silver hair, standing 145 cm tall. Originally from Maxwellburgh, Christmas Island, Stephen enjoys knitting, wood carving, hiking. Known for their calm and curious personality, Stephen is a beloved member of the llama community."
+  "description": "Stephen is a brown-eyed llama with silver hair, standing 145 cm tall. Originally from Maxwellburgh, Christmas Island, Stephen enjoys knitting, wood carving, hiking. Known for their calm and curious personality, Stephen is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriborealis"
 }

@@ -7,5 +7,6 @@
   "hairColor": "Black",
   "breed": "Hybrid",
   "placeOfBirth": "Lake Stevenborough, Argentina",
-  "description": "Ryan is a gray-eyed llama with black hair, standing 173 cm tall. Originally from Lake Stevenborough, Argentina, Ryan enjoys hiking, wood carving, knitting. Known for their gentle and mischievous personality, Ryan is a beloved member of the llama community."
+  "description": "Ryan is a gray-eyed llama with black hair, standing 173 cm tall. Originally from Lake Stevenborough, Argentina, Ryan enjoys hiking, wood carving, knitting. Known for their gentle and mischievous personality, Ryan is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_silvestris"
 }

@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "b859c12e-dd11-46ed-bf24-24fadb74d847",
+        "name": "Squelch",
+        "ageYears": 7,
+        "disposition": "theatrical",
+        "fluffiness": 1,
+        "quirk": "organises its food alphabetically before eating",
+        "speciesId": "d191c6f3-b4e9-5af5-a642-3b80b969af04",
+        "speciesCommonName": "Thorny Devil",
+        "speciesScientificName": "Moloch horridus",
+        "sizeClass": "tiny",
+        "ownerName": "Horatio",
+        "shelterId": "fea3da74-6337-5053-bffe-89e75d14ef03",
+        "shelterName": "The Wandering Fleece Animal Sanctuary"
+      }
+    }
+  }
+}

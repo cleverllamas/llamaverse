@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "9f4c7fb6-6a81-4df3-9acc-24b98d64126c",
+        "name": "Plonk",
+        "ageYears": 3,
+        "disposition": "affectionate",
+        "fluffiness": 2,
+        "quirk": "is writing a novel but will not discuss the plot",
+        "speciesId": "9311d22b-a52f-5e8a-b042-bc205b087b36",
+        "speciesCommonName": "Naked Mole Rat",
+        "speciesScientificName": "Heterocephalus glaber",
+        "sizeClass": "tiny",
+        "ownerName": "Elena",
+        "shelterId": "2770733d-7079-5abc-92e8-6a21c74559c1",
+        "shelterName": "Deep Blue Creature Sanctuary"
+      }
+    }
+  }
+}

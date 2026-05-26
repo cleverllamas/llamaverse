@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Ostracod",
+        "sizeClass": "microscopic",
+        "fluffiness": 1,
+        "typicalDisposition": "private",
+        "typicalLifespanYears": 1,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Arthropoda",
+          "class": "Ostracoda",
+          "order": "Podocopida",
+          "family": "Cyprididae",
+          "genus": "Cypris",
+          "species": "Cypris pubera"
+        },
+        "description": "A tiny crustacean that lives inside a hinged shell. Llamas appreciate its commitment to having good boundaries.",
+        "id": "4df56e07-201b-57a6-81f4-3ad89e89a46f"
+      }
+    }
+  }
+}

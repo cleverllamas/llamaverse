@@ -7,5 +7,6 @@
   "hairColor": "Brown",
   "breed": "Hybrid",
   "placeOfBirth": "North Cheryl, United Kingdom",
-  "description": "Stephanie is a hazel-eyed llama with brown hair, standing 130 cm tall. Originally from North Cheryl, United Kingdom, Stephanie enjoys cooking, hiking, painting. Known for their energetic and friendly personality, Stephanie is a beloved member of the llama community."
+  "description": "Stephanie is a hazel-eyed llama with brown hair, standing 130 cm tall. Originally from North Cheryl, United Kingdom, Stephanie enjoys cooking, hiking, painting. Known for their energetic and friendly personality, Stephanie is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_borealis"
 }

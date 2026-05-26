@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "b3608847-0d01-4a2c-854f-28548e3a83d4",
+        "name": "Knack",
+        "ageYears": 9,
+        "disposition": "serene",
+        "fluffiness": 2,
+        "quirk": "maintains a written log of everything it finds interesting, which is everything",
+        "speciesId": "b1ca06db-18c3-5651-9cb9-d3ffd7ab87e1",
+        "speciesCommonName": "Meerkat",
+        "speciesScientificName": "Suricata suricatta",
+        "sizeClass": "small",
+        "ownerName": "Freddie",
+        "shelterId": "fea3da74-6337-5053-bffe-89e75d14ef03",
+        "shelterName": "The Wandering Fleece Animal Sanctuary"
+      }
+    }
+  }
+}

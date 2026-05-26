@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "61f93ee9-4c08-47c5-b4c4-5a7225ae5211",
+        "name": "Fizzle",
+        "ageYears": 31,
+        "disposition": "philosophical",
+        "fluffiness": 2,
+        "quirk": "collects bottle caps from obscure regions",
+        "speciesId": "ac69524c-7513-5955-bdf2-126d2e06c74b",
+        "speciesCommonName": "White Rhinoceros",
+        "speciesScientificName": "Ceratotherium simum",
+        "sizeClass": "gigantic",
+        "ownerName": "Boris",
+        "shelterId": "2b312a04-c215-5098-9433-f5aab988726c",
+        "shelterName": "Apex Companions Forever"
+      }
+    }
+  }
+}

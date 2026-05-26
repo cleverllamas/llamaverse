@@ -7,5 +7,6 @@
   "hairColor": "Silver",
   "breed": "Suri",
   "placeOfBirth": "East Kimberlyhaven, Uruguay",
-  "description": "Lance is a green-eyed llama with silver hair, standing 111 cm tall. Originally from East Kimberlyhaven, Uruguay, Lance enjoys wood carving, knitting, dancing. Known for their gentle and friendly personality, Lance is a beloved member of the llama community."
+  "description": "Lance is a green-eyed llama with silver hair, standing 111 cm tall. Originally from East Kimberlyhaven, Uruguay, Lance enjoys wood carving, knitting, dancing. Known for their gentle and friendly personality, Lance is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriborealis"
 }

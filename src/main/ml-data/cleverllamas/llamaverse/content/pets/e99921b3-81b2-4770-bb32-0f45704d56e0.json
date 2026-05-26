@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "e99921b3-81b2-4770-bb32-0f45704d56e0",
+        "name": "Bafflement",
+        "ageYears": 53,
+        "disposition": "hyperactive",
+        "fluffiness": 2,
+        "quirk": "sleeps only in prime-numbered minutes",
+        "speciesId": "51224b0c-de04-59b5-bf77-14b5264c4c42",
+        "speciesCommonName": "Sperm Whale",
+        "speciesScientificName": "Physeter macrocephalus",
+        "sizeClass": "gigantic",
+        "ownerName": "Nigel",
+        "shelterId": "43593191-478d-5f0a-82ec-63ff4cc4122e",
+        "shelterName": "The Patagonian Wild Wing Refuge"
+      }
+    }
+  }
+}

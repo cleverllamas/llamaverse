@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "dae168eb-9a61-40db-be5b-0a96befce5fd",
+        "name": "Tintinnabulation",
+        "ageYears": 0,
+        "disposition": "devoted",
+        "fluffiness": 1,
+        "quirk": "constructed a scale model of the hay festival from memory",
+        "speciesId": "4df56e07-201b-57a6-81f4-3ad89e89a46f",
+        "speciesCommonName": "Ostracod",
+        "speciesScientificName": "Cypris pubera",
+        "sizeClass": "microscopic",
+        "ownerName": "Monique",
+        "shelterId": "43593191-478d-5f0a-82ec-63ff4cc4122e",
+        "shelterName": "The Patagonian Wild Wing Refuge"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Secretary Bird",
+        "sizeClass": "large",
+        "fluffiness": 5,
+        "typicalDisposition": "precise",
+        "typicalLifespanYears": 19,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Aves",
+          "order": "Accipitriformes",
+          "family": "Sagittariidae",
+          "genus": "Sagittarius",
+          "species": "Sagittarius serpentarius"
+        },
+        "description": "Stalks across grassland on long legs and stamps on snakes. Looks like it works in administration. Llamas in professional roles keep it as a spirit animal.",
+        "id": "5ac795c2-d264-5759-ac18-540698beaa0c"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "13722376-f536-4fc3-b3c4-02d66e6cd275",
+        "name": "Tangle",
+        "ageYears": 25,
+        "disposition": "earnest",
+        "fluffiness": 4,
+        "quirk": "naps in increasingly creative locations",
+        "speciesId": "4c4cb07f-a441-57c5-ac05-d70405a98f4c",
+        "speciesCommonName": "Cassowary",
+        "speciesScientificName": "Casuarius casuarius",
+        "sizeClass": "large",
+        "ownerName": "Nigel",
+        "shelterId": "8d977212-e5ba-55f4-be32-882c53197b49",
+        "shelterName": "The Wool and Scales Rehabilitation Centre"
+      }
+    }
+  }
+}

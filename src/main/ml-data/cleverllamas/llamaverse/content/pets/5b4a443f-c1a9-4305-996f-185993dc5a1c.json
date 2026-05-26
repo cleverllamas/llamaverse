@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "5b4a443f-c1a9-4305-996f-185993dc5a1c",
+        "name": "Kerfuffle Jr",
+        "ageYears": 0,
+        "disposition": "theatrical",
+        "fluffiness": 1,
+        "quirk": "believes it is being followed, correctly",
+        "speciesId": "5e293069-9326-5c4b-a7a1-eaea4e4d3449",
+        "speciesCommonName": "Mandarin Dragonet",
+        "speciesScientificName": "Synchiropus splendidus",
+        "sizeClass": "tiny",
+        "ownerName": "Angela",
+        "shelterId": "869456e1-451e-554f-96f2-4a54e832dd46",
+        "shelterName": "Bradley's Extreme Fauna Compound"
+      }
+    }
+  }
+}

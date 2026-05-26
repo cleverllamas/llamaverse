@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "f898db44-257e-43ff-89f5-1cbf1e10c359",
+        "name": "Glimmer",
+        "ageYears": 4,
+        "disposition": "hyperactive",
+        "fluffiness": 8,
+        "quirk": "has memorised all 88 Beethoven piano sonatas",
+        "speciesId": "b51959db-b66c-5ee4-9aac-8085580cba2a",
+        "speciesCommonName": "Arctic Fox",
+        "speciesScientificName": "Vulpes lagopus",
+        "sizeClass": "small",
+        "ownerName": "Derek",
+        "shelterId": "24d12d56-1e48-56e1-aa51-54df3c5f003c",
+        "shelterName": "The Stillness Institute"
+      }
+    }
+  }
+}

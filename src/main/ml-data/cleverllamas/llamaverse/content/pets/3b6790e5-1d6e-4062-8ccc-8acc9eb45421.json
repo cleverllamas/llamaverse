@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "3b6790e5-1d6e-4062-8ccc-8acc9eb45421",
+        "name": "Clatter",
+        "ageYears": 4,
+        "disposition": "aloof",
+        "fluffiness": 5,
+        "quirk": "has been learning to juggle for three years with no progress",
+        "speciesId": "33dcd8b2-2120-5581-8ec0-a55573d3c3bd",
+        "speciesCommonName": "Aye-aye",
+        "speciesScientificName": "Daubentonia madagascariensis",
+        "sizeClass": "small",
+        "ownerName": "Anthony",
+        "shelterId": "fea3da74-6337-5053-bffe-89e75d14ef03",
+        "shelterName": "The Wandering Fleece Animal Sanctuary"
+      }
+    }
+  }
+}

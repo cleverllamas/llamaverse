@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Hybrid",
   "placeOfBirth": "Port Nathan, Vanuatu",
-  "description": "Lauren is a hazel-eyed llama with red hair, standing 175 cm tall. Originally from Port Nathan, Vanuatu, Lauren enjoys knitting, reading, cooking. Known for their calm and friendly personality, Lauren is a beloved member of the llama community."
+  "description": "Lauren is a hazel-eyed llama with red hair, standing 175 cm tall. Originally from Port Nathan, Vanuatu, Lauren enjoys knitting, reading, cooking. Known for their calm and friendly personality, Lauren is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_litoralis"
 }

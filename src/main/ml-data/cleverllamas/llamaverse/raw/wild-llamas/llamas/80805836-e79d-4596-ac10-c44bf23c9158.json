@@ -7,5 +7,6 @@
   "hairColor": "Gray",
   "breed": "Suri",
   "placeOfBirth": "Griffinmouth, Saint Barthelemy",
-  "description": "Amy is a amber-eyed llama with gray hair, standing 195 cm tall. Originally from Griffinmouth, Saint Barthelemy, Amy enjoys knitting, gardening, wood carving. Known for their energetic and energetic personality, Amy is a beloved member of the llama community."
+  "description": "Amy is a amber-eyed llama with gray hair, standing 195 cm tall. Originally from Griffinmouth, Saint Barthelemy, Amy enjoys knitting, gardening, wood carving. Known for their energetic and energetic personality, Amy is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriensis"
 }

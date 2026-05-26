@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "0dd91cb2-5665-4519-ab29-94e967cdc815",
+        "name": "Rumpus",
+        "ageYears": 2,
+        "disposition": "dignified",
+        "fluffiness": 2,
+        "quirk": "is training for a marathon at a very leisurely pace",
+        "speciesId": "e9e29def-6d52-5e28-af9a-aabe79bc7d33",
+        "speciesCommonName": "Giant African Land Snail",
+        "speciesScientificName": "Achatina fulica",
+        "sizeClass": "small",
+        "ownerName": "Isolde",
+        "shelterId": "c8de3d2b-6e9a-5ed1-bda7-9a50f977ddb9",
+        "shelterName": "The Quiet Pool"
+      }
+    }
+  }
+}

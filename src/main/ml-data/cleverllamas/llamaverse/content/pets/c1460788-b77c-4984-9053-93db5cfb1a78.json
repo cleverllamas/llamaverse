@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "c1460788-b77c-4984-9053-93db5cfb1a78",
+        "name": "Wobblesworth",
+        "ageYears": 3,
+        "disposition": "eccentric",
+        "fluffiness": 1,
+        "quirk": "maintains a written log of everything it finds interesting, which is everything",
+        "speciesId": "e9e29def-6d52-5e28-af9a-aabe79bc7d33",
+        "speciesCommonName": "Giant African Land Snail",
+        "speciesScientificName": "Achatina fulica",
+        "sizeClass": "small",
+        "ownerName": "Percy",
+        "shelterId": "a80124a7-0a88-582c-9362-e5c7aecd90d2",
+        "shelterName": "The Peculiar Menagerie of Llamaville East"
+      }
+    }
+  }
+}

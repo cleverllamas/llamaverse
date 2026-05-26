@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "8984177f-a7b3-4e17-a083-0cfc067073c5",
+        "name": "Jangle",
+        "ageYears": 0,
+        "disposition": "timid",
+        "fluffiness": 10,
+        "quirk": "is training for a marathon at a very leisurely pace",
+        "speciesId": "f4a2908b-b359-5a03-8800-adf104dc483d",
+        "speciesCommonName": "Chinchilla",
+        "speciesScientificName": "Chinchilla lanigera",
+        "sizeClass": "small",
+        "ownerName": "Alice",
+        "shelterId": "6d613241-5ad3-5197-8b01-500e8b607567",
+        "shelterName": "Fernanda's Home for Misunderstood Creatures"
+      }
+    }
+  }
+}

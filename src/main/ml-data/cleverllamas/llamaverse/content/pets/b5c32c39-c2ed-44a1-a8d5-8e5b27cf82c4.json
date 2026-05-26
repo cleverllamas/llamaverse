@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "b5c32c39-c2ed-44a1-a8d5-8e5b27cf82c4",
+        "name": "Blorpington",
+        "ageYears": 3,
+        "disposition": "lazy",
+        "fluffiness": 3,
+        "quirk": "sings exactly one note whenever startled",
+        "speciesId": "826bb5ba-ae06-53d7-a1cc-2956b8f8e5c5",
+        "speciesCommonName": "Aardvark",
+        "speciesScientificName": "Orycteropus afer",
+        "sizeClass": "large",
+        "ownerName": "Miranda",
+        "shelterId": "e9a0f6a9-5a3f-51a3-ae37-19773f4ac55f",
+        "shelterName": "The Archipelago Orphanage"
+      }
+    }
+  }
+}

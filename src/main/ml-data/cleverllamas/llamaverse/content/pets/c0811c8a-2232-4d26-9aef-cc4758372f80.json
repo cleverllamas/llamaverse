@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "c0811c8a-2232-4d26-9aef-cc4758372f80",
+        "name": "Wriggle",
+        "ageYears": 0,
+        "disposition": "regal",
+        "fluffiness": 3,
+        "quirk": "maintains a written log of everything it finds interesting, which is everything",
+        "speciesId": "a370af67-78f3-5985-9ff5-12f2ca1e001d",
+        "speciesCommonName": "Pygmy Seahorse",
+        "speciesScientificName": "Hippocampus bargibanti",
+        "sizeClass": "microscopic",
+        "ownerName": "Freddie",
+        "shelterId": "8d977212-e5ba-55f4-be32-882c53197b49",
+        "shelterName": "The Wool and Scales Rehabilitation Centre"
+      }
+    }
+  }
+}

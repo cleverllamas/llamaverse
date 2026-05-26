@@ -7,5 +7,6 @@
   "hairColor": "Gray",
   "breed": "Hybrid",
   "placeOfBirth": "West Marcushaven, Timor-Leste",
-  "description": "Mark is a blue-eyed llama with gray hair, standing 142 cm tall. Originally from West Marcushaven, Timor-Leste, Mark enjoys painting, dancing, singing. Known for their calm and friendly personality, Mark is a beloved member of the llama community."
+  "description": "Mark is a blue-eyed llama with gray hair, standing 142 cm tall. Originally from West Marcushaven, Timor-Leste, Mark enjoys painting, dancing, singing. Known for their calm and friendly personality, Mark is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_vellaridus"
 }

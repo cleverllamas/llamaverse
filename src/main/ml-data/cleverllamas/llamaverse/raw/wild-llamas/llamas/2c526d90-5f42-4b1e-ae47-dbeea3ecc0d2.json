@@ -7,5 +7,6 @@
   "hairColor": "Blonde",
   "breed": "Huacaya",
   "placeOfBirth": "Kimberlymouth, Sao Tome and Principe",
-  "description": "Emily is a green-eyed llama with blonde hair, standing 120 cm tall. Originally from Kimberlymouth, Sao Tome and Principe, Emily enjoys cooking, knitting, dancing. Known for their gentle and calm personality, Emily is a beloved member of the llama community."
+  "description": "Emily is a green-eyed llama with blonde hair, standing 120 cm tall. Originally from Kimberlymouth, Sao Tome and Principe, Emily enjoys cooking, knitting, dancing. Known for their gentle and calm personality, Emily is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_borealis"
 }

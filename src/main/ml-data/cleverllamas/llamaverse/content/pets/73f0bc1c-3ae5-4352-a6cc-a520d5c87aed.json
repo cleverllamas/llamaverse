@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "73f0bc1c-3ae5-4352-a6cc-a520d5c87aed",
+        "name": "Shimmer",
+        "ageYears": 4,
+        "disposition": "philosophical",
+        "fluffiness": 6,
+        "quirk": "sleeps only in prime-numbered minutes",
+        "speciesId": "dd3c34c0-42a2-5716-b11c-936fd620b648",
+        "speciesCommonName": "Tawny Frogmouth",
+        "speciesScientificName": "Podargus strigoides",
+        "sizeClass": "small",
+        "ownerName": "Miranda",
+        "shelterId": "2770733d-7079-5abc-92e8-6a21c74559c1",
+        "shelterName": "Deep Blue Creature Sanctuary"
+      }
+    }
+  }
+}

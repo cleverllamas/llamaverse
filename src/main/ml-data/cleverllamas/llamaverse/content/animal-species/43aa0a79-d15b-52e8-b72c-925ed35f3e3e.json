@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Giant Clam",
+        "sizeClass": "gigantic",
+        "fluffiness": 1,
+        "typicalDisposition": "immovable",
+        "typicalLifespanYears": 100,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Mollusca",
+          "class": "Bivalvia",
+          "order": "Cardiida",
+          "family": "Cardiidae",
+          "genus": "Tridacna",
+          "species": "Tridacna gigas"
+        },
+        "description": "Up to 1.2 metres across and 200kg. Filters hundreds of litres of water daily. Never moves after settling. Llamas find this level of commitment to a single location deeply calming.",
+        "id": "43aa0a79-d15b-52e8-b72c-925ed35f3e3e"
+      }
+    }
+  }
+}

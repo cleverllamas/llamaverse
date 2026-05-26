@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "f4a8624d-e190-48ed-91a8-bed900476f2f",
+        "name": "Zippy",
+        "ageYears": 0,
+        "disposition": "devoted",
+        "fluffiness": 1,
+        "quirk": "judges every piece of music against a private internal standard it has never revealed",
+        "speciesId": "a27d03fc-4ac2-530a-a350-bae0d6c38aac",
+        "speciesCommonName": "Bombardier Beetle",
+        "speciesScientificName": "Brachinus crepitans",
+        "sizeClass": "tiny",
+        "ownerName": "Monique",
+        "shelterId": "e9a0f6a9-5a3f-51a3-ae37-19773f4ac55f",
+        "shelterName": "The Archipelago Orphanage"
+      }
+    }
+  }
+}

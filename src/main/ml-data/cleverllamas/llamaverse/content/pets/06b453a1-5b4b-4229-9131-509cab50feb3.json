@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "06b453a1-5b4b-4229-9131-509cab50feb3",
+        "name": "Swoopington",
+        "ageYears": 24,
+        "disposition": "philosophical",
+        "fluffiness": 3,
+        "quirk": "refuses to make eye contact but sends heartfelt letters",
+        "speciesId": "3810d075-0003-5837-a04a-661fe4fc035c",
+        "speciesCommonName": "Shoebill Stork",
+        "speciesScientificName": "Balaeniceps rex",
+        "sizeClass": "large",
+        "ownerName": "Aaron",
+        "shelterId": "c8de3d2b-6e9a-5ed1-bda7-9a50f977ddb9",
+        "shelterName": "The Quiet Pool"
+      }
+    }
+  }
+}

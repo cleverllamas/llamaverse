@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Sea Sparkle",
+        "sizeClass": "microscopic",
+        "fluffiness": 1,
+        "typicalDisposition": "luminous",
+        "typicalLifespanYears": 1,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Dinoflagellata",
+          "class": "Noctiluciphyceae",
+          "order": "Noctilucales",
+          "family": "Noctilucaceae",
+          "genus": "Noctiluca",
+          "species": "Noctiluca scintillans"
+        },
+        "description": "Bioluminescent single-celled organism. Llamas keep entire tanks of them in darkened rooms for parties.",
+        "id": "e078ed59-8084-58c0-885d-cfc5156eb559"
+      }
+    }
+  }
+}

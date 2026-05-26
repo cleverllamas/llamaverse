@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "e8118730-4164-4832-aa88-6e419f824a6d",
+        "name": "Tipple",
+        "ageYears": 7,
+        "disposition": "cheerful",
+        "fluffiness": 5,
+        "quirk": "sings exactly one note whenever startled",
+        "speciesId": "76cabc17-bbcf-5e4c-a1c7-2fd34d0442ef",
+        "speciesCommonName": "Hoatzin",
+        "speciesScientificName": "Opisthocomus hoazin",
+        "sizeClass": "medium",
+        "ownerName": "Lorenzo",
+        "shelterId": "43593191-478d-5f0a-82ec-63ff4cc4122e",
+        "shelterName": "The Patagonian Wild Wing Refuge"
+      }
+    }
+  }
+}

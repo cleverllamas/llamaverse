@@ -1,0 +1,10 @@
+{
+  "uri": "http://cleverllamas.com/llamaverse/species/Lama_glama_vellicosta",
+  "type": "Species",
+  "label": "Lama glama vellicosta",
+  "description": "Coastal fluffy llamas. Require windbreaks to prevent spontaneous relocation.",
+  "parentUri": "http://cleverllamas.com/llamaverse/genus/Lama",
+  "phylumKey": "Vellosa",
+  "classKey": "Litoralis",
+  "speciesKey": "Lama_glama_vellicosta"
+}

@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Arctic Fox",
+        "sizeClass": "small",
+        "fluffiness": 9,
+        "typicalDisposition": "resourceful",
+        "typicalLifespanYears": 14,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Mammalia",
+          "order": "Carnivora",
+          "family": "Canidae",
+          "genus": "Vulpes",
+          "species": "Vulpes lagopus"
+        },
+        "description": "Changes coat from brown to white in winter. The densest fur of any arctic mammal. Llamas in cold regions keep them and the coat synchronisation is considered beautiful.",
+        "id": "b51959db-b66c-5ee4-9aac-8085580cba2a"
+      }
+    }
+  }
+}

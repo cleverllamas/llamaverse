@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "c1d689c9-51a5-4562-8fee-819a0ec6139b",
+        "name": "Stumble",
+        "ageYears": 6,
+        "disposition": "regal",
+        "fluffiness": 1,
+        "quirk": "judges every piece of music against a private internal standard it has never revealed",
+        "speciesId": "08975a97-6b10-5b93-a485-6982350d0c27",
+        "speciesCommonName": "Crown-of-Thorns Starfish",
+        "speciesScientificName": "Acanthaster planci",
+        "sizeClass": "medium",
+        "ownerName": "Isolde",
+        "shelterId": "6d613241-5ad3-5197-8b01-500e8b607567",
+        "shelterName": "Fernanda's Home for Misunderstood Creatures"
+      }
+    }
+  }
+}

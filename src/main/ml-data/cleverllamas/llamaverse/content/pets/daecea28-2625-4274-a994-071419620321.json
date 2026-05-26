@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "daecea28-2625-4274-a994-071419620321",
+        "name": "Wriggle",
+        "ageYears": 3,
+        "disposition": "philosophical",
+        "fluffiness": 1,
+        "quirk": "sings exactly one note whenever startled",
+        "speciesId": "b101d7c8-5027-59ec-9ce4-4f84b8d08328",
+        "speciesCommonName": "Clownfish",
+        "speciesScientificName": "Amphiprion ocellaris",
+        "sizeClass": "tiny",
+        "ownerName": "Fernanda",
+        "shelterId": "1d1ceadd-64ed-52d5-a416-b278d95c83d1",
+        "shelterName": "The Cosy Burrow Rescue and Rehoming"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "1afdbeb1-acca-4895-a007-604cd22219b8",
+        "name": "Flicker",
+        "ageYears": 1,
+        "disposition": "mischievous",
+        "fluffiness": 1,
+        "quirk": "organises its food alphabetically before eating",
+        "speciesId": "e9be7d46-a699-577d-8254-16ede509068b",
+        "speciesCommonName": "Acorn Barnacle",
+        "speciesScientificName": "Semibalanus balanoides",
+        "sizeClass": "microscopic",
+        "ownerName": "Monique",
+        "shelterId": "869456e1-451e-554f-96f2-4a54e832dd46",
+        "shelterName": "Bradley's Extreme Fauna Compound"
+      }
+    }
+  }
+}

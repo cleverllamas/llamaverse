@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Suri",
   "placeOfBirth": "Carolport, Kenya",
-  "description": "Teresa is a green-eyed llama with red hair, standing 200 cm tall. Originally from Carolport, Kenya, Teresa enjoys painting, cooking, gardening. Known for their gentle and shy personality, Teresa is a beloved member of the llama community."
+  "description": "Teresa is a green-eyed llama with red hair, standing 200 cm tall. Originally from Carolport, Kenya, Teresa enjoys painting, cooking, gardening. Known for their gentle and shy personality, Teresa is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_litoralis"
 }

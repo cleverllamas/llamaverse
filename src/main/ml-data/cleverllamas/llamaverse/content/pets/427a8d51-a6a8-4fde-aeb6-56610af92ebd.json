@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "427a8d51-a6a8-4fde-aeb6-56610af92ebd",
+        "name": "Floss",
+        "ageYears": 1,
+        "disposition": "regal",
+        "fluffiness": 1,
+        "quirk": "judges every piece of music against a private internal standard it has never revealed",
+        "speciesId": "832c436c-2009-5a0d-9129-44da183292f1",
+        "speciesCommonName": "Satanic Leaf-tailed Gecko",
+        "speciesScientificName": "Uroplatus phantasticus",
+        "sizeClass": "tiny",
+        "ownerName": "Angela",
+        "shelterId": "c8de3d2b-6e9a-5ed1-bda7-9a50f977ddb9",
+        "shelterName": "The Quiet Pool"
+      }
+    }
+  }
+}

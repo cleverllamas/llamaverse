@@ -7,5 +7,6 @@
   "hairColor": "Black",
   "breed": "Suri",
   "placeOfBirth": "Hunterport, Swaziland",
-  "description": "Anna is a green-eyed llama with black hair, standing 155 cm tall. Originally from Hunterport, Swaziland, Anna enjoys singing, cooking, painting. Known for their gentle and shy personality, Anna is a beloved member of the llama community."
+  "description": "Anna is a green-eyed llama with black hair, standing 155 cm tall. Originally from Hunterport, Swaziland, Anna enjoys singing, cooking, painting. Known for their gentle and shy personality, Anna is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_litoralis"
 }

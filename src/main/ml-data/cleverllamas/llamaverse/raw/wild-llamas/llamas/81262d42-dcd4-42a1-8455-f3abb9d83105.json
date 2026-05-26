@@ -7,5 +7,6 @@
   "hairColor": "White",
   "breed": "Hybrid",
   "placeOfBirth": "Port Diana, Benin",
-  "description": "Miguel is a gray-eyed llama with white hair, standing 139 cm tall. Originally from Port Diana, Benin, Miguel enjoys dancing, singing, wood carving. Known for their gentle and curious personality, Miguel is a beloved member of the llama community."
+  "description": "Miguel is a gray-eyed llama with white hair, standing 139 cm tall. Originally from Port Diana, Benin, Miguel enjoys dancing, singing, wood carving. Known for their gentle and curious personality, Miguel is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriensis"
 }

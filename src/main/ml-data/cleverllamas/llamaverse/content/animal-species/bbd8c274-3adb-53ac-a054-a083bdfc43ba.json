@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Gal\u00e1pagos Tortoise",
+        "sizeClass": "gigantic",
+        "fluffiness": 1,
+        "typicalDisposition": "venerable",
+        "typicalLifespanYears": 177,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Reptilia",
+          "order": "Testudines",
+          "family": "Testudinidae",
+          "genus": "Chelonoidis",
+          "species": "Chelonoidis niger"
+        },
+        "description": "Weighs up to 400kg and lives 177 years. A tortoise alive today hatched before MarkLogic existed. Llamas keep them for perspective.",
+        "id": "bbd8c274-3adb-53ac-a054-a083bdfc43ba"
+      }
+    }
+  }
+}

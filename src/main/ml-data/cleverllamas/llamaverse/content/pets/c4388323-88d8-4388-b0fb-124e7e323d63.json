@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "c4388323-88d8-4388-b0fb-124e7e323d63",
+        "name": "Widdershins",
+        "ageYears": 13,
+        "disposition": "dignified",
+        "fluffiness": 7,
+        "quirk": "collects bottle caps from obscure regions",
+        "speciesId": "7c65a493-b712-5936-a711-75affb2377f9",
+        "speciesCommonName": "Resplendent Quetzal",
+        "speciesScientificName": "Pharomachrus mocinno",
+        "sizeClass": "small",
+        "ownerName": "Ashley",
+        "shelterId": "a80124a7-0a88-582c-9362-e5c7aecd90d2",
+        "shelterName": "The Peculiar Menagerie of Llamaville East"
+      }
+    }
+  }
+}

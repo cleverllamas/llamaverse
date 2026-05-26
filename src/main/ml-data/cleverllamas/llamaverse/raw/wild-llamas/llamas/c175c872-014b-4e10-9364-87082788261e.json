@@ -7,5 +7,6 @@
   "hairColor": "Blonde",
   "breed": "Huacaya",
   "placeOfBirth": "New Lisaborough, Sri Lanka",
-  "description": "Barbara is a hazel-eyed llama with blonde hair, standing 170 cm tall. Originally from New Lisaborough, Sri Lanka, Barbara enjoys wood carving, hiking, reading. Known for their calm and energetic personality, Barbara is a beloved member of the llama community."
+  "description": "Barbara is a hazel-eyed llama with blonde hair, standing 170 cm tall. Originally from New Lisaborough, Sri Lanka, Barbara enjoys wood carving, hiking, reading. Known for their calm and energetic personality, Barbara is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_vellifer"
 }

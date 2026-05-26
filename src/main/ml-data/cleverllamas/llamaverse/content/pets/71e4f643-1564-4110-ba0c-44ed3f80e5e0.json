@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "71e4f643-1564-4110-ba0c-44ed3f80e5e0",
+        "name": "Skitter",
+        "ageYears": 1,
+        "disposition": "grumpy",
+        "fluffiness": 4,
+        "quirk": "insists on a bedtime story every night",
+        "speciesId": "9998af61-5369-5a12-bf9b-f90997e4bbc3",
+        "speciesCommonName": "African Pygmy Hedgehog",
+        "speciesScientificName": "Atelerix albiventris",
+        "sizeClass": "tiny",
+        "ownerName": "Nigel",
+        "shelterId": "2770733d-7079-5abc-92e8-6a21c74559c1",
+        "shelterName": "Deep Blue Creature Sanctuary"
+      }
+    }
+  }
+}

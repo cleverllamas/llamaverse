@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "04114e46-9b39-4e23-9a0b-d8192d8c3b26",
+        "name": "Boggle",
+        "ageYears": 5,
+        "disposition": "cheerful",
+        "fluffiness": 1,
+        "quirk": "has been learning to juggle for three years with no progress",
+        "speciesId": "cc8dd1ba-f29c-56e6-8699-15f4a268b860",
+        "speciesCommonName": "Poison Dart Frog",
+        "speciesScientificName": "Dendrobates tinctorius",
+        "sizeClass": "tiny",
+        "ownerName": "Percy",
+        "shelterId": "869456e1-451e-554f-96f2-4a54e832dd46",
+        "shelterName": "Bradley's Extreme Fauna Compound"
+      }
+    }
+  }
+}

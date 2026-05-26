@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "a3cbd428-ec93-4c58-8809-0a69227bb57c",
+        "name": "Crumple",
+        "ageYears": 0,
+        "disposition": "affectionate",
+        "fluffiness": 2,
+        "quirk": "only eats food arranged in symmetrical patterns",
+        "speciesId": "88d765fb-8f09-5dd8-b63c-ed660541bea5",
+        "speciesCommonName": "Chameleon",
+        "speciesScientificName": "Chamaeleo calyptratus",
+        "sizeClass": "small",
+        "ownerName": "Angela",
+        "shelterId": "6d613241-5ad3-5197-8b01-500e8b607567",
+        "shelterName": "Fernanda's Home for Misunderstood Creatures"
+      }
+    }
+  }
+}

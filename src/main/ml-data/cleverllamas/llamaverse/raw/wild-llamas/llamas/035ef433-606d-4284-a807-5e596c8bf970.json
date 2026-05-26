@@ -7,5 +7,6 @@
   "hairColor": "Gray",
   "breed": "Hybrid",
   "placeOfBirth": "Williamchester, Pitcairn Islands",
-  "description": "Jeremy is a hazel-eyed llama with gray hair, standing 114 cm tall. Originally from Williamchester, Pitcairn Islands, Jeremy enjoys cooking, hiking, gardening. Known for their energetic and playful personality, Jeremy is a beloved member of the llama community."
+  "description": "Jeremy is a hazel-eyed llama with gray hair, standing 114 cm tall. Originally from Williamchester, Pitcairn Islands, Jeremy enjoys cooking, hiking, gardening. Known for their energetic and playful personality, Jeremy is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_andinus"
 }

@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "152e5e87-ed64-48b3-93dd-06772dbd4814",
+        "name": "Freckles",
+        "ageYears": 0,
+        "disposition": "earnest",
+        "fluffiness": 3,
+        "quirk": "only communicates using interpretive movement between 9 and 10am",
+        "speciesId": "bda1985c-57f7-5c9f-b344-5c7fe15f25b5",
+        "speciesCommonName": "Giraffe",
+        "speciesScientificName": "Giraffa camelopardalis",
+        "sizeClass": "gigantic",
+        "ownerName": "Isolde",
+        "shelterId": "c8de3d2b-6e9a-5ed1-bda7-9a50f977ddb9",
+        "shelterName": "The Quiet Pool"
+      }
+    }
+  }
+}

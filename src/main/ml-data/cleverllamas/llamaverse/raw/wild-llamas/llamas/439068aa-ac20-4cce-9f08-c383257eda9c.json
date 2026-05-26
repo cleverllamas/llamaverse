@@ -7,5 +7,6 @@
   "hairColor": "Brown",
   "breed": "Hybrid",
   "placeOfBirth": "North Williamchester, New Zealand",
-  "description": "Taylor is a hazel-eyed llama with brown hair, standing 133 cm tall. Originally from North Williamchester, New Zealand, Taylor enjoys gardening, hiking, knitting. Known for their shy and playful personality, Taylor is a beloved member of the llama community."
+  "description": "Taylor is a hazel-eyed llama with brown hair, standing 133 cm tall. Originally from North Williamchester, New Zealand, Taylor enjoys gardening, hiking, knitting. Known for their shy and playful personality, Taylor is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_andinus"
 }

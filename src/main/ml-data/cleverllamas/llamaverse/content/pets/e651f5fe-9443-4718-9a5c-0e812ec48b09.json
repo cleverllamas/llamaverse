@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "e651f5fe-9443-4718-9a5c-0e812ec48b09",
+        "name": "Pebble",
+        "ageYears": 30,
+        "disposition": "serene",
+        "fluffiness": 2,
+        "quirk": "collects bottle caps from obscure regions",
+        "speciesId": "d199e379-f3cc-52af-8af8-0b61d7653216",
+        "speciesCommonName": "Pygmy Hippopotamus",
+        "speciesScientificName": "Choeropsis liberiensis",
+        "sizeClass": "medium",
+        "ownerName": "Kestrel",
+        "shelterId": "6d613241-5ad3-5197-8b01-500e8b607567",
+        "shelterName": "Fernanda's Home for Misunderstood Creatures"
+      }
+    }
+  }
+}

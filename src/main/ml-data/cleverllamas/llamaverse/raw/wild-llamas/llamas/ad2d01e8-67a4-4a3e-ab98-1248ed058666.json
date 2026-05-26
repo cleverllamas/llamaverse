@@ -7,5 +7,6 @@
   "hairColor": "Gray",
   "breed": "Suri",
   "placeOfBirth": "Lake Kathleenburgh, Guam",
-  "description": "John is a hazel-eyed llama with gray hair, standing 142 cm tall. Originally from Lake Kathleenburgh, Guam, John enjoys hiking, wood carving, cooking. Known for their calm and friendly personality, John is a beloved member of the llama community."
+  "description": "John is a hazel-eyed llama with gray hair, standing 142 cm tall. Originally from Lake Kathleenburgh, Guam, John enjoys hiking, wood carving, cooking. Known for their calm and friendly personality, John is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriborealis"
 }

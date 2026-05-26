@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "70b8c2d7-796e-4b3c-b732-38543b4695d8",
+        "name": "Wobblesworth",
+        "ageYears": 20,
+        "disposition": "regal",
+        "fluffiness": 1,
+        "quirk": "has memorised the bus timetable for a city it has never visited",
+        "speciesId": "16b1975b-35a4-56f7-9e1e-1a6b54f998fe",
+        "speciesCommonName": "African Elephant",
+        "speciesScientificName": "Loxodonta africana",
+        "sizeClass": "gigantic",
+        "ownerName": "Isolde",
+        "shelterId": "24d12d56-1e48-56e1-aa51-54df3c5f003c",
+        "shelterName": "The Stillness Institute"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "1a1f8aa7-bd23-48d3-bbb9-1d03f1dd25f8",
+        "name": "Wobblesworth",
+        "ageYears": 1,
+        "disposition": "eccentric",
+        "fluffiness": 1,
+        "quirk": "refuses to make eye contact but sends heartfelt letters",
+        "speciesId": "35e2d451-c968-5861-9de3-d10f8d8e6ff1",
+        "speciesCommonName": "Praying Mantis",
+        "speciesScientificName": "Mantis religiosa",
+        "sizeClass": "small",
+        "ownerName": "Monique",
+        "shelterId": "4e1e0f71-7c69-5073-ab12-27cfd4257912",
+        "shelterName": "The Old Pond Sanctuary"
+      }
+    }
+  }
+}

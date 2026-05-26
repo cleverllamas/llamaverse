@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Orca",
+        "sizeClass": "gigantic",
+        "fluffiness": 2,
+        "typicalDisposition": "strategic",
+        "typicalLifespanYears": 90,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Mammalia",
+          "order": "Artiodactyla",
+          "family": "Delphinidae",
+          "genus": "Orcinus",
+          "species": "Orcinus orca"
+        },
+        "description": "Has regional dialects. Teaches its young coordinated hunting techniques. Lives in matriarchal family groups. Llamas find the family dynamics familiar.",
+        "id": "7e172705-39a5-5fb7-adfb-8228eeb1856e"
+      }
+    }
+  }
+}

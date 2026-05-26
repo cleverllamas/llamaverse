@@ -7,5 +7,6 @@
   "hairColor": "Gray",
   "breed": "Hybrid",
   "placeOfBirth": "Brewerton, Angola",
-  "description": "Michelle is a blue-eyed llama with gray hair, standing 107 cm tall. Originally from Brewerton, Angola, Michelle enjoys hiking, painting, dancing. Known for their playful and energetic personality, Michelle is a beloved member of the llama community."
+  "description": "Michelle is a blue-eyed llama with gray hair, standing 107 cm tall. Originally from Brewerton, Angola, Michelle enjoys hiking, painting, dancing. Known for their playful and energetic personality, Michelle is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriphilus"
 }

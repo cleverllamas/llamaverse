@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "87ee04c6-ee16-4e4d-a31e-af31a805953d",
+        "name": "Grumble",
+        "ageYears": 57,
+        "disposition": "bombastic",
+        "fluffiness": 2,
+        "quirk": "organises its food alphabetically before eating",
+        "speciesId": "1520e2a9-f4e6-511c-8e08-d0a5c220b9f7",
+        "speciesCommonName": "Mata Mata Turtle",
+        "speciesScientificName": "Chelus fimbriata",
+        "sizeClass": "medium",
+        "ownerName": "Angela",
+        "shelterId": "6d613241-5ad3-5197-8b01-500e8b607567",
+        "shelterName": "Fernanda's Home for Misunderstood Creatures"
+      }
+    }
+  }
+}

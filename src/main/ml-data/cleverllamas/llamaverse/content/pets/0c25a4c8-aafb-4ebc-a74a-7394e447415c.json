@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "0c25a4c8-aafb-4ebc-a74a-7394e447415c",
+        "name": "Shimmer",
+        "ageYears": 0,
+        "disposition": "devoted",
+        "fluffiness": 2,
+        "quirk": "knows one card trick and performs it at every possible opportunity",
+        "speciesId": "cd1b4734-fd17-53fa-9eef-0f1cf776f93d",
+        "speciesCommonName": "Red-eyed Tree Frog",
+        "speciesScientificName": "Agalychnis callidryas",
+        "sizeClass": "tiny",
+        "ownerName": "Fernanda",
+        "shelterId": "4e1e0f71-7c69-5073-ab12-27cfd4257912",
+        "shelterName": "The Old Pond Sanctuary"
+      }
+    }
+  }
+}

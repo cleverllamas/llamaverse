@@ -1,0 +1,30 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "schools"
+    },
+    "instance": {
+      "schools": {
+        "id": "bb22cc33-dd44-4e55-ff66-778899001122",
+        "name": "The Andes Business School",
+        "abbreviation": "ABS",
+        "location": "Llamaville Central District",
+        "founded": 1973,
+        "type": "Business School",
+        "specialisms": [
+          "Investment Banking",
+          "Corporate Finance",
+          "Hay Commodity Trading",
+          "Data-Driven Strategy"
+        ],
+        "enrolment": 4200,
+        "tuitionHayBalesPerYear": 2800,
+        "description": "The Andes Business School is the llamaverse's most prestigious management institution. Its alumni network controls an estimated 34 percent of llamaverse corporate M&A activity. The school is famous for its intensive first year, known colloquially as the 'Bale Gauntlet', which requires students to complete live consulting projects for three real organisations in twelve weeks. Graduates have an average starting salary of 78,000 hay-bale equivalents.",
+        "notableAlumni": [
+          "Aaron (attended two terms)",
+          "WoolStreet founders"
+        ]
+      }
+    }
+  }
+}

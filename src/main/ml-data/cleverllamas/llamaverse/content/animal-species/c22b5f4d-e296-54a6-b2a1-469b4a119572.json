@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Immortal Jellyfish",
+        "sizeClass": "microscopic",
+        "fluffiness": 1,
+        "typicalDisposition": "cyclical",
+        "typicalLifespanYears": 99,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Cnidaria",
+          "class": "Hydrozoa",
+          "order": "Anthoathecata",
+          "family": "Oceaniidae",
+          "genus": "Turritopsis",
+          "species": "Turritopsis dohrnii"
+        },
+        "description": "Can revert to its juvenile state when stressed. Technically immortal. Llamas keep them as philosophical objects.",
+        "id": "c22b5f4d-e296-54a6-b2a1-469b4a119572"
+      }
+    }
+  }
+}

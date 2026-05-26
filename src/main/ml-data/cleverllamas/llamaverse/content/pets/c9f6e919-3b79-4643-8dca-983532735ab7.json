@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "c9f6e919-3b79-4643-8dca-983532735ab7",
+        "name": "Skitter",
+        "ageYears": 4,
+        "disposition": "curious",
+        "fluffiness": 1,
+        "quirk": "knows one card trick and performs it at every possible opportunity",
+        "speciesId": "ee5a309a-b82e-55d8-9188-c88eb7e32cdd",
+        "speciesCommonName": "Olm",
+        "speciesScientificName": "Proteus anguinus",
+        "sizeClass": "small",
+        "ownerName": "Kestrel",
+        "shelterId": "e9a0f6a9-5a3f-51a3-ae37-19773f4ac55f",
+        "shelterName": "The Archipelago Orphanage"
+      }
+    }
+  }
+}

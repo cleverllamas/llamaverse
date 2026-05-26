@@ -7,5 +7,6 @@
   "hairColor": "Blonde",
   "breed": "Hybrid",
   "placeOfBirth": "Jenkinsville, Bulgaria",
-  "description": "Nicholas is a brown-eyed llama with blonde hair, standing 123 cm tall. Originally from Jenkinsville, Bulgaria, Nicholas enjoys knitting, dancing, gardening. Known for their curious and calm personality, Nicholas is a beloved member of the llama community."
+  "description": "Nicholas is a brown-eyed llama with blonde hair, standing 123 cm tall. Originally from Jenkinsville, Bulgaria, Nicholas enjoys knitting, dancing, gardening. Known for their curious and calm personality, Nicholas is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriensis"
 }

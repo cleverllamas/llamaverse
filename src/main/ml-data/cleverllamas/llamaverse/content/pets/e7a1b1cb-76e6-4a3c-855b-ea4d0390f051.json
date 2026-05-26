@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "e7a1b1cb-76e6-4a3c-855b-ea4d0390f051",
+        "name": "Pudding",
+        "ageYears": 13,
+        "disposition": "dignified",
+        "fluffiness": 9,
+        "quirk": "refuses to make eye contact but sends heartfelt letters",
+        "speciesId": "f9f424a2-3b5f-51b0-935e-5b903d8be114",
+        "speciesCommonName": "Snow Leopard",
+        "speciesScientificName": "Panthera uncia",
+        "sizeClass": "large",
+        "ownerName": "Isolde",
+        "shelterId": "2b312a04-c215-5098-9433-f5aab988726c",
+        "shelterName": "Apex Companions Forever"
+      }
+    }
+  }
+}

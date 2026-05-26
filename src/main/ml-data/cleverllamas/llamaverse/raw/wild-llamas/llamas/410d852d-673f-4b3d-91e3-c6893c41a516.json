@@ -7,5 +7,6 @@
   "hairColor": "Gray",
   "breed": "Huacaya",
   "placeOfBirth": "Brownport, Tunisia",
-  "description": "James is a green-eyed llama with gray hair, standing 101 cm tall. Originally from Brownport, Tunisia, James enjoys hiking, reading, knitting. Known for their gentle and friendly personality, James is a beloved member of the llama community."
+  "description": "James is a green-eyed llama with gray hair, standing 101 cm tall. Originally from Brownport, Tunisia, James enjoys hiking, reading, knitting. Known for their gentle and friendly personality, James is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_andinus"
 }

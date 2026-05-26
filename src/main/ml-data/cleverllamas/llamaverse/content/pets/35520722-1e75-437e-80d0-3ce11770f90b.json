@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "35520722-1e75-437e-80d0-3ce11770f90b",
+        "name": "Kerfuffle",
+        "ageYears": 0,
+        "disposition": "sneaky",
+        "fluffiness": 1,
+        "quirk": "sings exactly one note whenever startled",
+        "speciesId": "bdd7992a-2a0d-598f-889c-eab1ec052b31",
+        "speciesCommonName": "Dwarf Cherry Shrimp",
+        "speciesScientificName": "Neocaridina davidi",
+        "sizeClass": "tiny",
+        "ownerName": "Freddie",
+        "shelterId": "a80124a7-0a88-582c-9362-e5c7aecd90d2",
+        "shelterName": "The Peculiar Menagerie of Llamaville East"
+      }
+    }
+  }
+}

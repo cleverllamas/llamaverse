@@ -7,5 +7,6 @@
   "hairColor": "Silver",
   "breed": "Suri",
   "placeOfBirth": "Watsonborough, Ecuador",
-  "description": "Robert is a amber-eyed llama with silver hair, standing 107 cm tall. Originally from Watsonborough, Ecuador, Robert enjoys hiking, singing, painting. Known for their friendly and shy personality, Robert is a beloved member of the llama community."
+  "description": "Robert is a amber-eyed llama with silver hair, standing 107 cm tall. Originally from Watsonborough, Ecuador, Robert enjoys hiking, singing, painting. Known for their friendly and shy personality, Robert is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriborealis"
 }

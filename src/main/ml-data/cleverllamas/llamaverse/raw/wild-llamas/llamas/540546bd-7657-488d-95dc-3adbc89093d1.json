@@ -7,5 +7,6 @@
   "hairColor": "Black",
   "breed": "Suri",
   "placeOfBirth": "Brianville, Guyana",
-  "description": "Tina is a green-eyed llama with black hair, standing 156 cm tall. Originally from Brianville, Guyana, Tina enjoys dancing, cooking, singing. Known for their playful and gentle personality, Tina is a beloved member of the llama community."
+  "description": "Tina is a green-eyed llama with black hair, standing 156 cm tall. Originally from Brianville, Guyana, Tina enjoys dancing, cooking, singing. Known for their playful and gentle personality, Tina is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_litoralis"
 }

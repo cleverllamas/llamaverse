@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Huacaya",
   "placeOfBirth": "New Sheila, Fiji",
-  "description": "Crystal is a blue-eyed llama with red hair, standing 117 cm tall. Originally from New Sheila, Fiji, Crystal enjoys reading, painting, hiking. Known for their mischievous and energetic personality, Crystal is a beloved member of the llama community."
+  "description": "Crystal is a blue-eyed llama with red hair, standing 117 cm tall. Originally from New Sheila, Fiji, Crystal enjoys reading, painting, hiking. Known for their mischievous and energetic personality, Crystal is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_deserticola"
 }

@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Hybrid",
   "placeOfBirth": "Lake Dustinview, Mozambique",
-  "description": "Melissa is a gray-eyed llama with red hair, standing 169 cm tall. Originally from Lake Dustinview, Mozambique, Melissa enjoys gardening, reading, painting. Known for their playful and mischievous personality, Melissa is a beloved member of the llama community."
+  "description": "Melissa is a gray-eyed llama with red hair, standing 169 cm tall. Originally from Lake Dustinview, Mozambique, Melissa enjoys gardening, reading, painting. Known for their playful and mischievous personality, Melissa is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_borealis"
 }

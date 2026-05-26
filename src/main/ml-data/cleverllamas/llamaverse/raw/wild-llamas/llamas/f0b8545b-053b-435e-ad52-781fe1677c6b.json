@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Suri",
   "placeOfBirth": "Brentside, Namibia",
-  "description": "David is a brown-eyed llama with red hair, standing 134 cm tall. Originally from Brentside, Namibia, David enjoys gardening, cooking, singing. Known for their shy and playful personality, David is a beloved member of the llama community."
+  "description": "David is a brown-eyed llama with red hair, standing 134 cm tall. Originally from Brentside, Namibia, David enjoys gardening, cooking, singing. Known for their shy and playful personality, David is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_vellifer"
 }

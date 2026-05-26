@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Huacaya",
   "placeOfBirth": "South Matthew, Nauru",
-  "description": "Benjamin is a blue-eyed llama with red hair, standing 132 cm tall. Originally from South Matthew, Nauru, Benjamin enjoys reading, wood carving, hiking. Known for their shy and mischievous personality, Benjamin is a beloved member of the llama community."
+  "description": "Benjamin is a blue-eyed llama with red hair, standing 132 cm tall. Originally from South Matthew, Nauru, Benjamin enjoys reading, wood carving, hiking. Known for their shy and mischievous personality, Benjamin is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_silvestris"
 }

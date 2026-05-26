@@ -7,5 +7,6 @@
   "hairColor": "Gray",
   "breed": "Huacaya",
   "placeOfBirth": "Melissaville, Guernsey",
-  "description": "Caleb is a blue-eyed llama with gray hair, standing 159 cm tall. Originally from Melissaville, Guernsey, Caleb enjoys reading, singing, cooking. Known for their curious and energetic personality, Caleb is a beloved member of the llama community."
+  "description": "Caleb is a blue-eyed llama with gray hair, standing 159 cm tall. Originally from Melissaville, Guernsey, Caleb enjoys reading, singing, cooking. Known for their curious and energetic personality, Caleb is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_deserticola"
 }

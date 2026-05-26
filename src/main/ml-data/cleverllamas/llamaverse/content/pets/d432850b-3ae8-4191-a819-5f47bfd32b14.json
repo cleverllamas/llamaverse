@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "d432850b-3ae8-4191-a819-5f47bfd32b14",
+        "name": "Turvy",
+        "ageYears": 0,
+        "disposition": "mischievous",
+        "fluffiness": 4,
+        "quirk": "only communicates using interpretive movement between 9 and 10am",
+        "speciesId": "8f774c69-2270-5765-9bdb-98a0a85802ec",
+        "speciesCommonName": "Proboscis Monkey",
+        "speciesScientificName": "Nasalis larvatus",
+        "sizeClass": "medium",
+        "ownerName": "Freddie",
+        "shelterId": "2b312a04-c215-5098-9433-f5aab988726c",
+        "shelterName": "Apex Companions Forever"
+      }
+    }
+  }
+}

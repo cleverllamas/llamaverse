@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "c8c9a2e0-1483-4532-86b1-19c2b5cfd8b6",
+        "name": "Tangle",
+        "ageYears": 4,
+        "disposition": "devoted",
+        "fluffiness": 2,
+        "quirk": "has been composing the same symphony for eleven years",
+        "speciesId": "6b8519c0-d1ab-5198-9236-58904d054b84",
+        "speciesCommonName": "Tapir",
+        "speciesScientificName": "Tapirus terrestris",
+        "sizeClass": "large",
+        "ownerName": "Elena",
+        "shelterId": "869456e1-451e-554f-96f2-4a54e832dd46",
+        "shelterName": "Bradley's Extreme Fauna Compound"
+      }
+    }
+  }
+}

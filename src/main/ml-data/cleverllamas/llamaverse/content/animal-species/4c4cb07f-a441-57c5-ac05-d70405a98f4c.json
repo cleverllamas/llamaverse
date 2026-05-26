@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Cassowary",
+        "sizeClass": "large",
+        "fluffiness": 3,
+        "typicalDisposition": "dangerous",
+        "typicalLifespanYears": 40,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Aves",
+          "order": "Casuariiformes",
+          "family": "Casuariidae",
+          "genus": "Casuarius",
+          "species": "Casuarius casuarius"
+        },
+        "description": "The most dangerous bird in the world. A 5cm dagger claw on each foot. Llamas who keep them do so in a very large enclosure and have signed extensive waivers.",
+        "id": "4c4cb07f-a441-57c5-ac05-d70405a98f4c"
+      }
+    }
+  }
+}

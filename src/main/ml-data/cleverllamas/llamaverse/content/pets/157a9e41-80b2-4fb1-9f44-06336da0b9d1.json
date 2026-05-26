@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "157a9e41-80b2-4fb1-9f44-06336da0b9d1",
+        "name": "Skitter",
+        "ageYears": 9,
+        "disposition": "devoted",
+        "fluffiness": 6,
+        "quirk": "has formed strong opinions about architecture",
+        "speciesId": "33dd6c2d-a777-52a8-b14d-6b7d81c32a7d",
+        "speciesCommonName": "Slow Loris",
+        "speciesScientificName": "Nycticebus coucang",
+        "sizeClass": "small",
+        "ownerName": "Percy",
+        "shelterId": "2770733d-7079-5abc-92e8-6a21c74559c1",
+        "shelterName": "Deep Blue Creature Sanctuary"
+      }
+    }
+  }
+}

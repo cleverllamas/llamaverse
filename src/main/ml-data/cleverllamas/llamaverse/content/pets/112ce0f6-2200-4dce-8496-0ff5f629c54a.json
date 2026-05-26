@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "112ce0f6-2200-4dce-8496-0ff5f629c54a",
+        "name": "Gurgle",
+        "ageYears": 9,
+        "disposition": "timid",
+        "fluffiness": 7,
+        "quirk": "naps in increasingly creative locations",
+        "speciesId": "7c65a493-b712-5936-a711-75affb2377f9",
+        "speciesCommonName": "Resplendent Quetzal",
+        "speciesScientificName": "Pharomachrus mocinno",
+        "sizeClass": "small",
+        "ownerName": "Clara",
+        "shelterId": "6d613241-5ad3-5197-8b01-500e8b607567",
+        "shelterName": "Fernanda's Home for Misunderstood Creatures"
+      }
+    }
+  }
+}

@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Suri",
   "placeOfBirth": "Lake Seanside, Congo",
-  "description": "Andrea is a green-eyed llama with red hair, standing 191 cm tall. Originally from Lake Seanside, Congo, Andrea enjoys gardening, dancing, painting. Known for their shy and playful personality, Andrea is a beloved member of the llama community."
+  "description": "Andrea is a green-eyed llama with red hair, standing 191 cm tall. Originally from Lake Seanside, Congo, Andrea enjoys gardening, dancing, painting. Known for their shy and playful personality, Andrea is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriborealis"
 }

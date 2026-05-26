@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "6e814b69-a05c-4079-995f-8a6bc29926e1",
+        "name": "Freckles",
+        "ageYears": 6,
+        "disposition": "bombastic",
+        "fluffiness": 4,
+        "quirk": "has never once been surprised by anything",
+        "speciesId": "3dc7ce14-9c2a-5e33-b387-4fd40e0cbcc4",
+        "speciesCommonName": "Mandrill",
+        "speciesScientificName": "Mandrillus sphinx",
+        "sizeClass": "large",
+        "ownerName": "Percy",
+        "shelterId": "fea3da74-6337-5053-bffe-89e75d14ef03",
+        "shelterName": "The Wandering Fleece Animal Sanctuary"
+      }
+    }
+  }
+}

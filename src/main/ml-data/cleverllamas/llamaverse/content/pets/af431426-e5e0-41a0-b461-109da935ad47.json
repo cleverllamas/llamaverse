@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "af431426-e5e0-41a0-b461-109da935ad47",
+        "name": "Pringle",
+        "ageYears": 2,
+        "disposition": "theatrical",
+        "fluffiness": 1,
+        "quirk": "constructed a scale model of the hay festival from memory",
+        "speciesId": "ce9431b4-718d-5339-a62d-8e30a0146993",
+        "speciesCommonName": "Giant Pacific Octopus",
+        "speciesScientificName": "Enteroctopus dofleini",
+        "sizeClass": "large",
+        "ownerName": "Percy",
+        "shelterId": "1d1ceadd-64ed-52d5-a416-b278d95c83d1",
+        "shelterName": "The Cosy Burrow Rescue and Rehoming"
+      }
+    }
+  }
+}

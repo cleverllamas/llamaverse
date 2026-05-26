@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "7c29fb5c-c873-4194-b255-b230803a5a65",
+        "name": "Knick",
+        "ageYears": 26,
+        "disposition": "cheerful",
+        "fluffiness": 5,
+        "quirk": "organises its food alphabetically before eating",
+        "speciesId": "9932ed23-008b-54a4-b28a-7c56e3990260",
+        "speciesCommonName": "Bearded Vulture",
+        "speciesScientificName": "Gypaetus barbatus",
+        "sizeClass": "large",
+        "ownerName": "Beatrice",
+        "shelterId": "e9a0f6a9-5a3f-51a3-ae37-19773f4ac55f",
+        "shelterName": "The Archipelago Orphanage"
+      }
+    }
+  }
+}

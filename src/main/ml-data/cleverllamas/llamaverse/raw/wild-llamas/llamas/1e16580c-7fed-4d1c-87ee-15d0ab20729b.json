@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Suri",
   "placeOfBirth": "Port Rubenberg, Russian Federation",
-  "description": "John is a blue-eyed llama with red hair, standing 200 cm tall. Originally from Port Rubenberg, Russian Federation, John enjoys dancing, hiking, painting. Known for their friendly and playful personality, John is a beloved member of the llama community."
+  "description": "John is a blue-eyed llama with red hair, standing 200 cm tall. Originally from Port Rubenberg, Russian Federation, John enjoys dancing, hiking, painting. Known for their friendly and playful personality, John is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_borealis"
 }

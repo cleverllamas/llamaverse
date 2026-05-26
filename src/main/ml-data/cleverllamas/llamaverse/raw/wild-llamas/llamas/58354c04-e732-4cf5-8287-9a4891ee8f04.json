@@ -7,5 +7,6 @@
   "hairColor": "Gray",
   "breed": "Suri",
   "placeOfBirth": "Berryview, Luxembourg",
-  "description": "Jonathan is a amber-eyed llama with gray hair, standing 124 cm tall. Originally from Berryview, Luxembourg, Jonathan enjoys wood carving, hiking, painting. Known for their mischievous and shy personality, Jonathan is a beloved member of the llama community."
+  "description": "Jonathan is a amber-eyed llama with gray hair, standing 124 cm tall. Originally from Berryview, Luxembourg, Jonathan enjoys wood carving, hiking, painting. Known for their mischievous and shy personality, Jonathan is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_deserticola"
 }

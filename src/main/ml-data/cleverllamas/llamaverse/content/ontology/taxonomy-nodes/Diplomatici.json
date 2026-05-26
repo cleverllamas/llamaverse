@@ -1,0 +1,7 @@
+{
+  "uri": "http://cleverllamas.com/llamaverse/order/Diplomatici",
+  "type": "Order",
+  "label": "Diplomatici",
+  "description": "Civic and diplomatic llamas who hold public office, negotiate inter-herd treaties, and write the legislation other llamas complain about.",
+  "parentUri": "http://cleverllamas.com/llamaverse/kingdom/Llamalia"
+}

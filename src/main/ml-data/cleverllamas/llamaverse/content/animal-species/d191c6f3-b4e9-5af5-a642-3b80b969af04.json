@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Thorny Devil",
+        "sizeClass": "tiny",
+        "fluffiness": 1,
+        "typicalDisposition": "armoured",
+        "typicalLifespanYears": 20,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Reptilia",
+          "order": "Squamata",
+          "family": "Agamidae",
+          "genus": "Moloch",
+          "species": "Moloch horridus"
+        },
+        "description": "Channels dew from its skin to its mouth through capillary action. Llamas find this technically impressive. The spines are also notable.",
+        "id": "d191c6f3-b4e9-5af5-a642-3b80b969af04"
+      }
+    }
+  }
+}

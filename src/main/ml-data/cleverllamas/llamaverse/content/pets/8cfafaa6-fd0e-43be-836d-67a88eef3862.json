@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "8cfafaa6-fd0e-43be-836d-67a88eef3862",
+        "name": "Gloop",
+        "ageYears": 0,
+        "disposition": "hyperactive",
+        "fluffiness": 2,
+        "quirk": "only communicates using interpretive movement between 9 and 10am",
+        "speciesId": "ca4dc0c3-4cac-5f51-b512-5b1c824b286b",
+        "speciesCommonName": "Bioluminescent Jellyfish",
+        "speciesScientificName": "Mastigias papua",
+        "sizeClass": "small",
+        "ownerName": "Clara",
+        "shelterId": "4e1e0f71-7c69-5073-ab12-27cfd4257912",
+        "shelterName": "The Old Pond Sanctuary"
+      }
+    }
+  }
+}

@@ -7,5 +7,6 @@
   "hairColor": "White",
   "breed": "Hybrid",
   "placeOfBirth": "New Elizabeth, Marshall Islands",
-  "description": "George is a green-eyed llama with white hair, standing 115 cm tall. Originally from New Elizabeth, Marshall Islands, George enjoys hiking, wood carving, reading. Known for their calm and curious personality, George is a beloved member of the llama community."
+  "description": "George is a green-eyed llama with white hair, standing 115 cm tall. Originally from New Elizabeth, Marshall Islands, George enjoys hiking, wood carving, reading. Known for their calm and curious personality, George is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriphilus"
 }

@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "6420e4f2-b69f-4f79-9603-043bd007136b",
+        "name": "Knack",
+        "ageYears": 18,
+        "disposition": "curious",
+        "fluffiness": 7,
+        "quirk": "naps in increasingly creative locations",
+        "speciesId": "f6646897-59bd-5e40-840c-8c5bd0324137",
+        "speciesCommonName": "Goliath Birdeater Tarantula",
+        "speciesScientificName": "Theraphosa blondi",
+        "sizeClass": "medium",
+        "ownerName": "Jasper",
+        "shelterId": "4e1e0f71-7c69-5073-ab12-27cfd4257912",
+        "shelterName": "The Old Pond Sanctuary"
+      }
+    }
+  }
+}

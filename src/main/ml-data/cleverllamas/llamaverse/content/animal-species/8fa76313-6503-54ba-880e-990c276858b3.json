@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Clouded Leopard",
+        "sizeClass": "medium",
+        "fluffiness": 6,
+        "typicalDisposition": "elusive",
+        "typicalLifespanYears": 17,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Mammalia",
+          "order": "Carnivora",
+          "family": "Felidae",
+          "genus": "Neofelis",
+          "species": "Neofelis nebulosa"
+        },
+        "description": "The longest canine teeth relative to body size of any living cat. Can rotate its ankles 180 degrees. Llamas who manage to keep them report the cats' presence as an excellent test of nerve.",
+        "id": "8fa76313-6503-54ba-880e-990c276858b3"
+      }
+    }
+  }
+}

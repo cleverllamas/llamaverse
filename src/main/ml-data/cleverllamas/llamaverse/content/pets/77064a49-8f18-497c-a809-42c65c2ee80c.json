@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "77064a49-8f18-497c-a809-42c65c2ee80c",
+        "name": "Turvy",
+        "ageYears": 6,
+        "disposition": "cheerful",
+        "fluffiness": 2,
+        "quirk": "has formed strong opinions about architecture",
+        "speciesId": "9685c463-34e2-53b7-b6c9-1be449c42eb0",
+        "speciesCommonName": "Hellbender Salamander",
+        "speciesScientificName": "Cryptobranchus alleganiensis",
+        "sizeClass": "medium",
+        "ownerName": "Ashley",
+        "shelterId": "43593191-478d-5f0a-82ec-63ff4cc4122e",
+        "shelterName": "The Patagonian Wild Wing Refuge"
+      }
+    }
+  }
+}

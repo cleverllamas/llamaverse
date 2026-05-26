@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "5dfb8ff7-215d-47e7-bb94-2f7be5a47b6e",
+        "name": "Shimmer",
+        "ageYears": 6,
+        "disposition": "cheerful",
+        "fluffiness": 1,
+        "quirk": "believes it is being followed, correctly",
+        "speciesId": "88d765fb-8f09-5dd8-b63c-ed660541bea5",
+        "speciesCommonName": "Chameleon",
+        "speciesScientificName": "Chamaeleo calyptratus",
+        "sizeClass": "small",
+        "ownerName": "Derek",
+        "shelterId": "869456e1-451e-554f-96f2-4a54e832dd46",
+        "shelterName": "Bradley's Extreme Fauna Compound"
+      }
+    }
+  }
+}

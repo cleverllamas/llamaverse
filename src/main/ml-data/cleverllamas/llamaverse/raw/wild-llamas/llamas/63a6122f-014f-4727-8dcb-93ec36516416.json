@@ -7,5 +7,6 @@
   "hairColor": "Silver",
   "breed": "Hybrid",
   "placeOfBirth": "Herreratown, China",
-  "description": "Janet is a amber-eyed llama with silver hair, standing 200 cm tall. Originally from Herreratown, China, Janet enjoys gardening, painting, reading. Known for their mischievous and playful personality, Janet is a beloved member of the llama community."
+  "description": "Janet is a amber-eyed llama with silver hair, standing 200 cm tall. Originally from Herreratown, China, Janet enjoys gardening, painting, reading. Known for their mischievous and playful personality, Janet is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriensis"
 }

@@ -7,5 +7,6 @@
   "hairColor": "White",
   "breed": "Huacaya",
   "placeOfBirth": "Briggsside, Sao Tome and Principe",
-  "description": "Audrey is a hazel-eyed llama with white hair, standing 105 cm tall. Originally from Briggsside, Sao Tome and Principe, Audrey enjoys knitting, reading, gardening. Known for their gentle and energetic personality, Audrey is a beloved member of the llama community."
+  "description": "Audrey is a hazel-eyed llama with white hair, standing 105 cm tall. Originally from Briggsside, Sao Tome and Principe, Audrey enjoys knitting, reading, gardening. Known for their gentle and energetic personality, Audrey is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriensis"
 }

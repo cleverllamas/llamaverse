@@ -7,5 +7,6 @@
   "hairColor": "Black",
   "breed": "Hybrid",
   "placeOfBirth": "New Jose, Italy",
-  "description": "Keith is a gray-eyed llama with black hair, standing 194 cm tall. Originally from New Jose, Italy, Keith enjoys dancing, knitting, painting. Known for their gentle and energetic personality, Keith is a beloved member of the llama community."
+  "description": "Keith is a gray-eyed llama with black hair, standing 194 cm tall. Originally from New Jose, Italy, Keith enjoys dancing, knitting, painting. Known for their gentle and energetic personality, Keith is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriphilus"
 }

@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "52a66548-d42d-46a4-9b51-699b093dfcfd",
+        "name": "Boggle",
+        "ageYears": 7,
+        "disposition": "devoted",
+        "fluffiness": 2,
+        "quirk": "is training for a marathon at a very leisurely pace",
+        "speciesId": "e9e29def-6d52-5e28-af9a-aabe79bc7d33",
+        "speciesCommonName": "Giant African Land Snail",
+        "speciesScientificName": "Achatina fulica",
+        "sizeClass": "small",
+        "ownerName": "Elena",
+        "shelterId": "4e1e0f71-7c69-5073-ab12-27cfd4257912",
+        "shelterName": "The Old Pond Sanctuary"
+      }
+    }
+  }
+}

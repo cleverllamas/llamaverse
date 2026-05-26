@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "f6bb5978-65d3-409a-ab7e-fb8ff2b7ad00",
+        "name": "Noodle",
+        "ageYears": 5,
+        "disposition": "sneaky",
+        "fluffiness": 7,
+        "quirk": "has been composing the same symphony for eleven years",
+        "speciesId": "f6646897-59bd-5e40-840c-8c5bd0324137",
+        "speciesCommonName": "Goliath Birdeater Tarantula",
+        "speciesScientificName": "Theraphosa blondi",
+        "sizeClass": "medium",
+        "ownerName": "Freddie",
+        "shelterId": "e9a0f6a9-5a3f-51a3-ae37-19773f4ac55f",
+        "shelterName": "The Archipelago Orphanage"
+      }
+    }
+  }
+}

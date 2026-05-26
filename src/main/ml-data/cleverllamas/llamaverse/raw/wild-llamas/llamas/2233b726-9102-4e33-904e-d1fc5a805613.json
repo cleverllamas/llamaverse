@@ -7,5 +7,6 @@
   "hairColor": "White",
   "breed": "Hybrid",
   "placeOfBirth": "Simpsonland, Gambia",
-  "description": "Wanda is a blue-eyed llama with white hair, standing 120 cm tall. Originally from Simpsonland, Gambia, Wanda enjoys reading, gardening, singing. Known for their shy and shy personality, Wanda is a beloved member of the llama community."
+  "description": "Wanda is a blue-eyed llama with white hair, standing 120 cm tall. Originally from Simpsonland, Gambia, Wanda enjoys reading, gardening, singing. Known for their shy and shy personality, Wanda is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_andinus"
 }

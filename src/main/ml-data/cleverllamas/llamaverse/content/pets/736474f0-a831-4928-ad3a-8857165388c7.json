@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "736474f0-a831-4928-ad3a-8857165388c7",
+        "name": "Blorpington",
+        "ageYears": 5,
+        "disposition": "affectionate",
+        "fluffiness": 1,
+        "quirk": "is training for a marathon at a very leisurely pace",
+        "speciesId": "8c18b960-10ad-5a68-9585-898657ea3f70",
+        "speciesCommonName": "Surinam Toad",
+        "speciesScientificName": "Pipa pipa",
+        "sizeClass": "small",
+        "ownerName": "Percy",
+        "shelterId": "6d613241-5ad3-5197-8b01-500e8b607567",
+        "shelterName": "Fernanda's Home for Misunderstood Creatures"
+      }
+    }
+  }
+}

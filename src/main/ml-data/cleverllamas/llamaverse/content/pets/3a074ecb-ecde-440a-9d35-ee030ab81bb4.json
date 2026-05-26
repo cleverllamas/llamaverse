@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "3a074ecb-ecde-440a-9d35-ee030ab81bb4",
+        "name": "Splodge",
+        "ageYears": 7,
+        "disposition": "curious",
+        "fluffiness": 8,
+        "quirk": "sings exactly one note whenever startled",
+        "speciesId": "087abb24-d5df-5dcc-904b-3a9880c55edd",
+        "speciesCommonName": "Fennec Fox",
+        "speciesScientificName": "Vulpes zerda",
+        "sizeClass": "small",
+        "ownerName": "Fernanda",
+        "shelterId": "1d1ceadd-64ed-52d5-a416-b278d95c83d1",
+        "shelterName": "The Cosy Burrow Rescue and Rehoming"
+      }
+    }
+  }
+}

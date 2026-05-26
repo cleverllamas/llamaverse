@@ -1,0 +1,38 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "jobs"
+    },
+    "instance": {
+      "jobs": {
+        "id": "j2000002-bbbb-4ccc-dddd-eeee00001111",
+        "title": "Director of Human Relations",
+        "company": "Llamaverse Finance Authority",
+        "companyId": "60006666-7777-8888-9999-aaaabbbbcccc",
+        "location": "Capital Meadow",
+        "postedDate": "2025-05-01",
+        "closingDate": "2025-06-01",
+        "salaryHayBalesMin": 55000,
+        "salaryHayBalesMax": 65000,
+        "employmentType": "Permanent",
+        "seniorityLevel": "Executive",
+        "description": "The Llamaverse Finance Authority seeks a Director of Human Relations to oversee policy and welfare standards for the authority's 340 resident human staff. This is a sensitive and important role requiring empathy, patience, and the ability to explain complex regulatory requirements to beings whose cognitive architecture is fundamentally different from our own. Experience working with humans in a professional context is essential.",
+        "requirements": [
+          "Extensive experience managing human teams",
+          "Fluency in at least two human languages",
+          "Understanding of human motivational psychology",
+          "Patience with shorter attention spans",
+          "No history of nibbling on human workstations"
+        ],
+        "postedByName": "Minister Reginald",
+        "tags": [
+          "HR",
+          "human relations",
+          "management",
+          "government",
+          "welfare"
+        ]
+      }
+    }
+  }
+}

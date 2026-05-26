@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Platypus",
+        "sizeClass": "small",
+        "fluffiness": 7,
+        "typicalDisposition": "improbable",
+        "typicalLifespanYears": 17,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Mammalia",
+          "order": "Monotremata",
+          "family": "Ornithorhynchidae",
+          "genus": "Ornithorhynchus",
+          "species": "Ornithorhynchus anatinus"
+        },
+        "description": "A venomous, duck-billed, egg-laying, electrosensing, semi-aquatic mammal. When first described to European scientists they assumed it was a hoax. Llamas find this attitude uncharitable.",
+        "id": "2ef097b8-1657-5dd9-8208-6894c49f32ab"
+      }
+    }
+  }
+}

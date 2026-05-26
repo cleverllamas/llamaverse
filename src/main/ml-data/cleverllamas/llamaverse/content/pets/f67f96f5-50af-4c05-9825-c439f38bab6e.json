@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "f67f96f5-50af-4c05-9825-c439f38bab6e",
+        "name": "Jangle",
+        "ageYears": 25,
+        "disposition": "affectionate",
+        "fluffiness": 3,
+        "quirk": "sleeps only in prime-numbered minutes",
+        "speciesId": "7e172705-39a5-5fb7-adfb-8228eeb1856e",
+        "speciesCommonName": "Orca",
+        "speciesScientificName": "Orcinus orca",
+        "sizeClass": "gigantic",
+        "ownerName": "Alice",
+        "shelterId": "2b312a04-c215-5098-9433-f5aab988726c",
+        "shelterName": "Apex Companions Forever"
+      }
+    }
+  }
+}

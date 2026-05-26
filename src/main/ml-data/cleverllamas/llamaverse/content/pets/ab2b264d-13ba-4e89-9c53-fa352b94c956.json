@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "ab2b264d-13ba-4e89-9c53-fa352b94c956",
+        "name": "Hullabaloo",
+        "ageYears": 8,
+        "disposition": "devoted",
+        "fluffiness": 10,
+        "quirk": "sleeps only in prime-numbered minutes",
+        "speciesId": "f9f424a2-3b5f-51b0-935e-5b903d8be114",
+        "speciesCommonName": "Snow Leopard",
+        "speciesScientificName": "Panthera uncia",
+        "sizeClass": "large",
+        "ownerName": "Bradley",
+        "shelterId": "a80124a7-0a88-582c-9362-e5c7aecd90d2",
+        "shelterName": "The Peculiar Menagerie of Llamaville East"
+      }
+    }
+  }
+}

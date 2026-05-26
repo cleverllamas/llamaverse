@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "4762e9fc-7e3a-4453-b369-935519e58cdc",
+        "name": "Splodge",
+        "ageYears": 1,
+        "disposition": "mischievous",
+        "fluffiness": 2,
+        "quirk": "has formed strong opinions about architecture",
+        "speciesId": "3a40829e-4250-5a56-948e-20945e6afc8e",
+        "speciesCommonName": "Crystal Red Shrimp",
+        "speciesScientificName": "Caridina cantonensis",
+        "sizeClass": "tiny",
+        "ownerName": "Horatio",
+        "shelterId": "1acdd953-9df4-5cad-ab5a-eb612f2e855c",
+        "shelterName": "Primate House of the Andes"
+      }
+    }
+  }
+}

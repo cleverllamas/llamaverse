@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "0705a4a9-bdf0-4052-b803-db37d1cb3c78",
+        "name": "Wobblesworth",
+        "ageYears": 0,
+        "disposition": "earnest",
+        "fluffiness": 1,
+        "quirk": "has been composing the same symphony for eleven years",
+        "speciesId": "e078ed59-8084-58c0-885d-cfc5156eb559",
+        "speciesCommonName": "Sea Sparkle",
+        "speciesScientificName": "Noctiluca scintillans",
+        "sizeClass": "microscopic",
+        "ownerName": "Alice",
+        "shelterId": "1d1ceadd-64ed-52d5-a416-b278d95c83d1",
+        "shelterName": "The Cosy Burrow Rescue and Rehoming"
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "uri": "http://cleverllamas.com/llamaverse/species/Lama_glama_surideserta",
+  "type": "Species",
+  "label": "Lama glama surideserta",
+  "description": "Desert suri llamas who trap air in their long fibres to provide insulation against temperature extremes.",
+  "parentUri": "http://cleverllamas.com/llamaverse/genus/Lama",
+  "phylumKey": "Suri",
+  "classKey": "Aridus",
+  "speciesKey": "Lama_glama_surideserta"
+}

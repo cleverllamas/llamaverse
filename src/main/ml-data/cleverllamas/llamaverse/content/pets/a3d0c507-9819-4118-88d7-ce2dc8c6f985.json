@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "a3d0c507-9819-4118-88d7-ce2dc8c6f985",
+        "name": "Squiggles",
+        "ageYears": 1,
+        "disposition": "affectionate",
+        "fluffiness": 1,
+        "quirk": "sings exactly one note whenever startled",
+        "speciesId": "a370af67-78f3-5985-9ff5-12f2ca1e001d",
+        "speciesCommonName": "Pygmy Seahorse",
+        "speciesScientificName": "Hippocampus bargibanti",
+        "sizeClass": "microscopic",
+        "ownerName": "Angela",
+        "shelterId": "2770733d-7079-5abc-92e8-6a21c74559c1",
+        "shelterName": "Deep Blue Creature Sanctuary"
+      }
+    }
+  }
+}

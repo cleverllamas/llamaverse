@@ -1,0 +1,22 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "companies"
+    },
+    "instance": {
+      "companies": {
+        "id": "60006666-7777-8888-9999-aaaabbbbcccc",
+        "name": "Llamaverse Finance Authority",
+        "ticker": "government",
+        "sector": "Public Finance",
+        "headquarters": "Capital Meadow, Financial District",
+        "founded": 1948,
+        "ceoName": "Minister Reginald",
+        "employees": 8200,
+        "revenueHayBalesMillions": null,
+        "description": "The Llamaverse Finance Authority is the central body responsible for public financial records, tax administration, and regulatory oversight of the llamaverse financial sector. It made headlines in February 2025 after a misconfigured document permissions issue exposed 1.2 million citizen records. Following the incident, the authority became a vocal advocate for permission-query based validation in document ingest pipelines.",
+        "marklogicUse": "Central financial records store; now implements permission-query validation gates"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Olm",
+        "sizeClass": "small",
+        "fluffiness": 1,
+        "typicalDisposition": "pale",
+        "typicalLifespanYears": 100,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Amphibia",
+          "order": "Urodela",
+          "family": "Proteidae",
+          "genus": "Proteus",
+          "species": "Proteus anguinus"
+        },
+        "description": "Blind cave salamander, lives 100 years, never sees daylight. Llamas who keep them create specially darkened cave tanks and leave them entirely alone, which is apparently what the olm wants.",
+        "id": "ee5a309a-b82e-55d8-9188-c88eb7e32cdd"
+      }
+    }
+  }
+}

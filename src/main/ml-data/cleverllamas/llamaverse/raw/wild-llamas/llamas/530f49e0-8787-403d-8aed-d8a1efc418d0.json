@@ -7,5 +7,6 @@
   "hairColor": "Gray",
   "breed": "Huacaya",
   "placeOfBirth": "Saundersmouth, Brazil",
-  "description": "Joshua is a hazel-eyed llama with gray hair, standing 144 cm tall. Originally from Saundersmouth, Brazil, Joshua enjoys cooking, gardening, singing. Known for their gentle and calm personality, Joshua is a beloved member of the llama community."
+  "description": "Joshua is a hazel-eyed llama with gray hair, standing 144 cm tall. Originally from Saundersmouth, Brazil, Joshua enjoys cooking, gardening, singing. Known for their gentle and calm personality, Joshua is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_andinus"
 }

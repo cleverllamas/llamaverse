@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "64e10105-3d3c-4a86-a22c-543045961447",
+        "name": "Shimmer",
+        "ageYears": 1,
+        "disposition": "mischievous",
+        "fluffiness": 1,
+        "quirk": "has never once been surprised by anything",
+        "speciesId": "deb03c1d-b702-5d34-8c3a-d0613d7b4a66",
+        "speciesCommonName": "Bdelloid Rotifer",
+        "speciesScientificName": "Philodina roseola",
+        "sizeClass": "microscopic",
+        "ownerName": "Isolde",
+        "shelterId": "fea3da74-6337-5053-bffe-89e75d14ef03",
+        "shelterName": "The Wandering Fleece Animal Sanctuary"
+      }
+    }
+  }
+}

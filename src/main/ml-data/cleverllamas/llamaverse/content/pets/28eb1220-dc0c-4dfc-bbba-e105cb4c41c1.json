@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "28eb1220-dc0c-4dfc-bbba-e105cb4c41c1",
+        "name": "Flibbertigibbet",
+        "ageYears": 16,
+        "disposition": "serene",
+        "fluffiness": 1,
+        "quirk": "believes it is being followed, correctly",
+        "speciesId": "0af44b1d-a59e-5eb3-9f38-bca9dd702317",
+        "speciesCommonName": "Nautilus",
+        "speciesScientificName": "Nautilus pompilius",
+        "sizeClass": "small",
+        "ownerName": "Anthony",
+        "shelterId": "fea3da74-6337-5053-bffe-89e75d14ef03",
+        "shelterName": "The Wandering Fleece Animal Sanctuary"
+      }
+    }
+  }
+}

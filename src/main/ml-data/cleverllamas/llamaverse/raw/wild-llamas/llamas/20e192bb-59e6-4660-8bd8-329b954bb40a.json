@@ -7,5 +7,6 @@
   "hairColor": "Black",
   "breed": "Suri",
   "placeOfBirth": "Lake Robertburgh, Greenland",
-  "description": "Robert is a green-eyed llama with black hair, standing 131 cm tall. Originally from Lake Robertburgh, Greenland, Robert enjoys cooking, knitting, gardening. Known for their shy and curious personality, Robert is a beloved member of the llama community."
+  "description": "Robert is a green-eyed llama with black hair, standing 131 cm tall. Originally from Lake Robertburgh, Greenland, Robert enjoys cooking, knitting, gardening. Known for their shy and curious personality, Robert is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_andinus"
 }

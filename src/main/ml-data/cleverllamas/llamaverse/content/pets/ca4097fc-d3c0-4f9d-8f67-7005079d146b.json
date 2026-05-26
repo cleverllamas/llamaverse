@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "ca4097fc-d3c0-4f9d-8f67-7005079d146b",
+        "name": "Shuffle",
+        "ageYears": 9,
+        "disposition": "curious",
+        "fluffiness": 5,
+        "quirk": "sleeps only in prime-numbered minutes",
+        "speciesId": "9caae520-fba2-54d7-ad50-e3e7e17c9d96",
+        "speciesCommonName": "Capybara",
+        "speciesScientificName": "Hydrochoerus hydrochaeris",
+        "sizeClass": "large",
+        "ownerName": "Clara",
+        "shelterId": "43593191-478d-5f0a-82ec-63ff4cc4122e",
+        "shelterName": "The Patagonian Wild Wing Refuge"
+      }
+    }
+  }
+}

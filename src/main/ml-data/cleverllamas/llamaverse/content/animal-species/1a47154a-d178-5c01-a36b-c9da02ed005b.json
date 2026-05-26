@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Bombardier Beetle (Electric Blue)",
+        "sizeClass": "tiny",
+        "fluffiness": 1,
+        "typicalDisposition": "incandescent",
+        "typicalLifespanYears": 2,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Arthropoda",
+          "class": "Insecta",
+          "order": "Coleoptera",
+          "family": "Carabidae",
+          "genus": "Pheropsophus",
+          "species": "Pheropsophus jessoensis"
+        },
+        "description": "Asian variant of the bombardier beetle with vivid metallic blue elytra. Still fires boiling spray. The aesthetic upgrade makes llamas no less cautious.",
+        "id": "1a47154a-d178-5c01-a36b-c9da02ed005b"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "fe3b56c2-8887-458e-b8ca-306c066d0f7c",
+        "name": "Kerfuffle Jr",
+        "ageYears": 9,
+        "disposition": "erratic",
+        "fluffiness": 2,
+        "quirk": "sleeps only in prime-numbered minutes",
+        "speciesId": "f8bde832-614a-5966-8152-f899cf3af853",
+        "speciesCommonName": "Axolotl",
+        "speciesScientificName": "Ambystoma mexicanum",
+        "sizeClass": "small",
+        "ownerName": "Anthony",
+        "shelterId": "fea3da74-6337-5053-bffe-89e75d14ef03",
+        "shelterName": "The Wandering Fleece Animal Sanctuary"
+      }
+    }
+  }
+}

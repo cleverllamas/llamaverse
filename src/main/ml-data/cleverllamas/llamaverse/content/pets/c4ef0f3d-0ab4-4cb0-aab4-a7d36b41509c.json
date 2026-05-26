@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "c4ef0f3d-0ab4-4cb0-aab4-a7d36b41509c",
+        "name": "Waggle",
+        "ageYears": 9,
+        "disposition": "regal",
+        "fluffiness": 2,
+        "quirk": "only eats food arranged in symmetrical patterns",
+        "speciesId": "0af44b1d-a59e-5eb3-9f38-bca9dd702317",
+        "speciesCommonName": "Nautilus",
+        "speciesScientificName": "Nautilus pompilius",
+        "sizeClass": "small",
+        "ownerName": "Kestrel",
+        "shelterId": "1d1ceadd-64ed-52d5-a416-b278d95c83d1",
+        "shelterName": "The Cosy Burrow Rescue and Rehoming"
+      }
+    }
+  }
+}

@@ -7,5 +7,6 @@
   "hairColor": "Gray",
   "breed": "Hybrid",
   "placeOfBirth": "Port Davidbury, Fiji",
-  "description": "Jose is a hazel-eyed llama with gray hair, standing 147 cm tall. Originally from Port Davidbury, Fiji, Jose enjoys dancing, painting, gardening. Known for their mischievous and curious personality, Jose is a beloved member of the llama community."
+  "description": "Jose is a hazel-eyed llama with gray hair, standing 147 cm tall. Originally from Port Davidbury, Fiji, Jose enjoys dancing, painting, gardening. Known for their mischievous and curious personality, Jose is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriensis"
 }

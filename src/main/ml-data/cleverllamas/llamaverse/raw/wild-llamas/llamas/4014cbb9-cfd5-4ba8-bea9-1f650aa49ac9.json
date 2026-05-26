@@ -7,5 +7,6 @@
   "hairColor": "Gray",
   "breed": "Hybrid",
   "placeOfBirth": "Davidborough, Pitcairn Islands",
-  "description": "Rebekah is a blue-eyed llama with gray hair, standing 192 cm tall. Originally from Davidborough, Pitcairn Islands, Rebekah enjoys painting, dancing, hiking. Known for their curious and calm personality, Rebekah is a beloved member of the llama community."
+  "description": "Rebekah is a blue-eyed llama with gray hair, standing 192 cm tall. Originally from Davidborough, Pitcairn Islands, Rebekah enjoys painting, dancing, hiking. Known for their curious and calm personality, Rebekah is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_andinus"
 }

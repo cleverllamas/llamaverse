@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "fea5ca2d-9ab7-419c-a2df-2b7926912ec9",
+        "name": "Widdershins",
+        "ageYears": 1,
+        "disposition": "serene",
+        "fluffiness": 2,
+        "quirk": "naps in increasingly creative locations",
+        "speciesId": "9311d22b-a52f-5e8a-b042-bc205b087b36",
+        "speciesCommonName": "Naked Mole Rat",
+        "speciesScientificName": "Heterocephalus glaber",
+        "sizeClass": "tiny",
+        "ownerName": "Ashley",
+        "shelterId": "e9a0f6a9-5a3f-51a3-ae37-19773f4ac55f",
+        "shelterName": "The Archipelago Orphanage"
+      }
+    }
+  }
+}

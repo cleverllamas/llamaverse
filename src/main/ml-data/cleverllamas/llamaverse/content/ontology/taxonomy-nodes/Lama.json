@@ -1,0 +1,7 @@
+{
+  "uri": "http://cleverllamas.com/llamaverse/genus/Lama",
+  "type": "Genus",
+  "label": "Lama",
+  "description": "The single genus of the llamaverse. All known llamas belong here. There was briefly a second genus proposed in 2019 but the paper was retracted.",
+  "parentUri": "http://cleverllamas.com/llamaverse/kingdom/Llamalia"
+}

@@ -7,5 +7,6 @@
   "hairColor": "Blonde",
   "breed": "Hybrid",
   "placeOfBirth": "West Caitlin, Aruba",
-  "description": "Thomas is a hazel-eyed llama with blonde hair, standing 191 cm tall. Originally from West Caitlin, Aruba, Thomas enjoys wood carving, dancing, gardening. Known for their gentle and friendly personality, Thomas is a beloved member of the llama community."
+  "description": "Thomas is a hazel-eyed llama with blonde hair, standing 191 cm tall. Originally from West Caitlin, Aruba, Thomas enjoys wood carving, dancing, gardening. Known for their gentle and friendly personality, Thomas is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_silvestris"
 }

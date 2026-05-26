@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Magnificent Frigatebird",
+        "sizeClass": "large",
+        "fluffiness": 2,
+        "typicalDisposition": "dramatic",
+        "typicalLifespanYears": 25,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Aves",
+          "order": "Suliformes",
+          "family": "Fregatidae",
+          "genus": "Fregata",
+          "species": "Fregata magnificens"
+        },
+        "description": "Males inflate a vast red throat pouch to attract females. Has a wingspan of 2.3 metres. Llamas who keep them require substantial outdoor space and a tolerance for theatre.",
+        "id": "4cb28c77-0517-541b-af3b-f1c4cc5efbd3"
+      }
+    }
+  }
+}

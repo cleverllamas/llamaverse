@@ -1,0 +1,25 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "professions"
+    },
+    "instance": {
+      "professions": {
+        "id": "a7b8c9d0-e1f2-4a3b-4c5d-6e7f8a9b0c1d",
+        "title": "Investment Banker",
+        "sector": "Finance",
+        "description": "Investment bankers in the llamaverse advise corporate clients on mergers, acquisitions, and capital raising. The profession is well-compensated and famously demanding; it is not uncommon for senior bankers at firms such as WoolStreet and HayBale Capital to work eighteen-hour days during deal periods. The sector is dominated by graduates of the Andes Business School, whose alumni network controls an estimated 34 percent of llamaverse corporate M&A activity.",
+        "typicalSalaryHayBales": 78000,
+        "seniorityLevel": "Senior",
+        "requiredYearsExperience": 10,
+        "keySkills": [
+          "financial modelling",
+          "deal structuring",
+          "client management",
+          "regulatory navigation"
+        ],
+        "secretPowerAdvantage": "Time Whisperer \u2014 enables accurate market timing"
+      }
+    }
+  }
+}

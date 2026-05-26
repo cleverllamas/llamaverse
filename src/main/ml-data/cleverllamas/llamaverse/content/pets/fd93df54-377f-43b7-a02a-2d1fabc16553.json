@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "fd93df54-377f-43b7-a02a-2d1fabc16553",
+        "name": "Freckles",
+        "ageYears": 5,
+        "disposition": "philosophical",
+        "fluffiness": 6,
+        "quirk": "sleeps only in prime-numbered minutes",
+        "speciesId": "f6646897-59bd-5e40-840c-8c5bd0324137",
+        "speciesCommonName": "Goliath Birdeater Tarantula",
+        "speciesScientificName": "Theraphosa blondi",
+        "sizeClass": "medium",
+        "ownerName": "Gwen",
+        "shelterId": "e9a0f6a9-5a3f-51a3-ae37-19773f4ac55f",
+        "shelterName": "The Archipelago Orphanage"
+      }
+    }
+  }
+}

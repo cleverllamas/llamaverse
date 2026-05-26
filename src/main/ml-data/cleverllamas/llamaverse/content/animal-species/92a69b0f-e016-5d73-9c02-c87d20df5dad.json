@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Snowy Owl",
+        "sizeClass": "medium",
+        "fluffiness": 10,
+        "typicalDisposition": "regal",
+        "typicalLifespanYears": 25,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Aves",
+          "order": "Strigiformes",
+          "family": "Strigidae",
+          "genus": "Bubo",
+          "species": "Bubo scandiacus"
+        },
+        "description": "White as fresh snow, yellow-eyed, and profoundly dignified. Llamas in the northern territories keep them as companions and they are worth every scrap of effort involved.",
+        "id": "92a69b0f-e016-5d73-9c02-c87d20df5dad"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "34a4a52f-42db-42c7-a855-1aca9b1bc990",
+        "name": "Dimple",
+        "ageYears": 0,
+        "disposition": "devoted",
+        "fluffiness": 1,
+        "quirk": "organises its food alphabetically before eating",
+        "speciesId": "ca4dc0c3-4cac-5f51-b512-5b1c824b286b",
+        "speciesCommonName": "Bioluminescent Jellyfish",
+        "speciesScientificName": "Mastigias papua",
+        "sizeClass": "small",
+        "ownerName": "Freddie",
+        "shelterId": "fea3da74-6337-5053-bffe-89e75d14ef03",
+        "shelterName": "The Wandering Fleece Animal Sanctuary"
+      }
+    }
+  }
+}

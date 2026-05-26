@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "df6026dc-dc71-41f0-95d8-1ba7b4b75b7f",
+        "name": "Shuffle",
+        "ageYears": 1,
+        "disposition": "theatrical",
+        "fluffiness": 1,
+        "quirk": "organises its food alphabetically before eating",
+        "speciesId": "da4571df-9cf3-530c-8e2f-9c15e57d3bcd",
+        "speciesCommonName": "Glow-worm",
+        "speciesScientificName": "Lampyris noctiluca",
+        "sizeClass": "tiny",
+        "ownerName": "Derek",
+        "shelterId": "1d1ceadd-64ed-52d5-a416-b278d95c83d1",
+        "shelterName": "The Cosy Burrow Rescue and Rehoming"
+      }
+    }
+  }
+}

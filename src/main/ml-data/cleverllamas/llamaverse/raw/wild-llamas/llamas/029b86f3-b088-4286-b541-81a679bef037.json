@@ -7,5 +7,6 @@
   "hairColor": "Brown",
   "breed": "Suri",
   "placeOfBirth": "Davisberg, Cyprus",
-  "description": "Laurie is a hazel-eyed llama with brown hair, standing 195 cm tall. Originally from Davisberg, Cyprus, Laurie enjoys dancing, knitting, wood carving. Known for their mischievous and gentle personality, Laurie is a beloved member of the llama community."
+  "description": "Laurie is a hazel-eyed llama with brown hair, standing 195 cm tall. Originally from Davisberg, Cyprus, Laurie enjoys dancing, knitting, wood carving. Known for their mischievous and gentle personality, Laurie is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_andinus"
 }

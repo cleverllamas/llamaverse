@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Mandarin Dragonet",
+        "sizeClass": "tiny",
+        "fluffiness": 1,
+        "typicalDisposition": "flamboyant",
+        "typicalLifespanYears": 5,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Actinopterygii",
+          "order": "Gobiiformes",
+          "family": "Callionymidae",
+          "genus": "Synchiropus",
+          "species": "Synchiropus splendidus"
+        },
+        "description": "Electric blue and orange. The most colourful fish in the sea. Llamas keep them as living art installations.",
+        "id": "5e293069-9326-5c4b-a7a1-eaea4e4d3449"
+      }
+    }
+  }
+}

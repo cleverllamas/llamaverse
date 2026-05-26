@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "46af100a-8ee6-466c-b8b5-ccef5c8c77c3",
+        "name": "Gloop",
+        "ageYears": 1,
+        "disposition": "theatrical",
+        "fluffiness": 2,
+        "quirk": "has memorised the bus timetable for a city it has never visited",
+        "speciesId": "b101d7c8-5027-59ec-9ce4-4f84b8d08328",
+        "speciesCommonName": "Clownfish",
+        "speciesScientificName": "Amphiprion ocellaris",
+        "sizeClass": "tiny",
+        "ownerName": "Lorenzo",
+        "shelterId": "2b312a04-c215-5098-9433-f5aab988726c",
+        "shelterName": "Apex Companions Forever"
+      }
+    }
+  }
+}

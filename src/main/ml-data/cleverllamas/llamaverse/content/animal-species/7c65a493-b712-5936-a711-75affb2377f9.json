@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Resplendent Quetzal",
+        "sizeClass": "small",
+        "fluffiness": 7,
+        "typicalDisposition": "elusive",
+        "typicalLifespanYears": 25,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Aves",
+          "order": "Trogoniformes",
+          "family": "Trogonidae",
+          "genus": "Pharomachrus",
+          "species": "Pharomachrus mocinno"
+        },
+        "description": "Considered the most beautiful bird in the world by several independent surveys. Its tail feathers are 1 metre long. Dies in captivity unless conditions are perfect. Llamas who succeed are deeply respected.",
+        "id": "7c65a493-b712-5936-a711-75affb2377f9"
+      }
+    }
+  }
+}

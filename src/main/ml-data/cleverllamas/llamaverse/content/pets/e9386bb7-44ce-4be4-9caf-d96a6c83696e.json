@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "e9386bb7-44ce-4be4-9caf-d96a6c83696e",
+        "name": "Flapdoodle",
+        "ageYears": 20,
+        "disposition": "grumpy",
+        "fluffiness": 3,
+        "quirk": "has been learning to juggle for three years with no progress",
+        "speciesId": "6a69d414-a2ee-51b0-ad9a-c198d8b43be5",
+        "speciesCommonName": "Sun Bear",
+        "speciesScientificName": "Helarctos malayanus",
+        "sizeClass": "medium",
+        "ownerName": "Nigel",
+        "shelterId": "4e1e0f71-7c69-5073-ab12-27cfd4257912",
+        "shelterName": "The Old Pond Sanctuary"
+      }
+    }
+  }
+}

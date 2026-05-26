@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "1d02bf8a-419d-4131-bd78-02f4304a2960",
+        "name": "Splodge",
+        "ageYears": 11,
+        "disposition": "dignified",
+        "fluffiness": 5,
+        "quirk": "naps in increasingly creative locations",
+        "speciesId": "6a69d414-a2ee-51b0-ad9a-c198d8b43be5",
+        "speciesCommonName": "Sun Bear",
+        "speciesScientificName": "Helarctos malayanus",
+        "sizeClass": "medium",
+        "ownerName": "Ophelia",
+        "shelterId": "1d1ceadd-64ed-52d5-a416-b278d95c83d1",
+        "shelterName": "The Cosy Burrow Rescue and Rehoming"
+      }
+    }
+  }
+}

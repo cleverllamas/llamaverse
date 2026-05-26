@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "6e931d19-ae1f-42ff-858d-7462b3ff7c42",
+        "name": "Skitter",
+        "ageYears": 9,
+        "disposition": "aloof",
+        "fluffiness": 6,
+        "quirk": "is training for a marathon at a very leisurely pace",
+        "speciesId": "6b5d256d-571b-5c64-b036-4667040eef2e",
+        "speciesCommonName": "Lyrebird",
+        "speciesScientificName": "Menura novaehollandiae",
+        "sizeClass": "medium",
+        "ownerName": "Monique",
+        "shelterId": "4e1e0f71-7c69-5073-ab12-27cfd4257912",
+        "shelterName": "The Old Pond Sanctuary"
+      }
+    }
+  }
+}

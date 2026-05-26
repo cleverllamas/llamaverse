@@ -7,5 +7,6 @@
   "hairColor": "Brown",
   "breed": "Hybrid",
   "placeOfBirth": "West Robert, Tanzania",
-  "description": "Tyrone is a brown-eyed llama with brown hair, standing 153 cm tall. Originally from West Robert, Tanzania, Tyrone enjoys hiking, cooking, dancing. Known for their curious and energetic personality, Tyrone is a beloved member of the llama community."
+  "description": "Tyrone is a brown-eyed llama with brown hair, standing 153 cm tall. Originally from West Robert, Tanzania, Tyrone enjoys hiking, cooking, dancing. Known for their curious and energetic personality, Tyrone is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_andinus"
 }

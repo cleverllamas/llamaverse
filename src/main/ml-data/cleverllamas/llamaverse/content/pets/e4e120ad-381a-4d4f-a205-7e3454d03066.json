@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "e4e120ad-381a-4d4f-a205-7e3454d03066",
+        "name": "Fringe",
+        "ageYears": 0,
+        "disposition": "erratic",
+        "fluffiness": 1,
+        "quirk": "sleeps only in prime-numbered minutes",
+        "speciesId": "cd1b4734-fd17-53fa-9eef-0f1cf776f93d",
+        "speciesCommonName": "Red-eyed Tree Frog",
+        "speciesScientificName": "Agalychnis callidryas",
+        "sizeClass": "tiny",
+        "ownerName": "Gwen",
+        "shelterId": "2770733d-7079-5abc-92e8-6a21c74559c1",
+        "shelterName": "Deep Blue Creature Sanctuary"
+      }
+    }
+  }
+}

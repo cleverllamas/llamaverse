@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "fb3512ae-e1bd-4444-a95b-0107ac1e1620",
+        "name": "Skitter",
+        "ageYears": 0,
+        "disposition": "hyperactive",
+        "fluffiness": 1,
+        "quirk": "sleeps only in prime-numbered minutes",
+        "speciesId": "cf06f715-0eb1-5245-b0f4-53f627f49571",
+        "speciesCommonName": "Giant Isopod",
+        "speciesScientificName": "Bathynomus giganteus",
+        "sizeClass": "medium",
+        "ownerName": "Alice",
+        "shelterId": "2b312a04-c215-5098-9433-f5aab988726c",
+        "shelterName": "Apex Companions Forever"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "424a9cb3-7cff-463b-948b-3e4b4cefa577",
+        "name": "Crinkle",
+        "ageYears": 2,
+        "disposition": "mischievous",
+        "fluffiness": 2,
+        "quirk": "organises its food alphabetically before eating",
+        "speciesId": "ce9431b4-718d-5339-a62d-8e30a0146993",
+        "speciesCommonName": "Giant Pacific Octopus",
+        "speciesScientificName": "Enteroctopus dofleini",
+        "sizeClass": "large",
+        "ownerName": "Derek",
+        "shelterId": "2b312a04-c215-5098-9433-f5aab988726c",
+        "shelterName": "Apex Companions Forever"
+      }
+    }
+  }
+}

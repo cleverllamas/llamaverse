@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "a9e134ba-85a5-4833-9e7e-0788668b6e38",
+        "name": "Biscuit",
+        "ageYears": 6,
+        "disposition": "sneaky",
+        "fluffiness": 4,
+        "quirk": "has been learning to juggle for three years with no progress",
+        "speciesId": "8b4050cc-d852-535c-9736-e0280b44905c",
+        "speciesCommonName": "Macaroni Penguin",
+        "speciesScientificName": "Eudyptes chrysolophus",
+        "sizeClass": "small",
+        "ownerName": "Jasper",
+        "shelterId": "43593191-478d-5f0a-82ec-63ff4cc4122e",
+        "shelterName": "The Patagonian Wild Wing Refuge"
+      }
+    }
+  }
+}

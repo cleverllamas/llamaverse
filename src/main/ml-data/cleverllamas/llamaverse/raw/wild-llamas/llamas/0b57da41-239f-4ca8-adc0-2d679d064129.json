@@ -7,5 +7,6 @@
   "hairColor": "Black",
   "breed": "Suri",
   "placeOfBirth": "Waynefurt, Monaco",
-  "description": "Robert is a hazel-eyed llama with black hair, standing 134 cm tall. Originally from Waynefurt, Monaco, Robert enjoys hiking, singing, knitting. Known for their friendly and mischievous personality, Robert is a beloved member of the llama community."
+  "description": "Robert is a hazel-eyed llama with black hair, standing 134 cm tall. Originally from Waynefurt, Monaco, Robert enjoys hiking, singing, knitting. Known for their friendly and mischievous personality, Robert is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_silvestris"
 }

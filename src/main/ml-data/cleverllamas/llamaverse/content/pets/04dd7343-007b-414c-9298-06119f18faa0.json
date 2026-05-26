@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "04dd7343-007b-414c-9298-06119f18faa0",
+        "name": "Pebble",
+        "ageYears": 10,
+        "disposition": "curious",
+        "fluffiness": 2,
+        "quirk": "has memorised the bus timetable for a city it has never visited",
+        "speciesId": "9311d22b-a52f-5e8a-b042-bc205b087b36",
+        "speciesCommonName": "Naked Mole Rat",
+        "speciesScientificName": "Heterocephalus glaber",
+        "sizeClass": "tiny",
+        "ownerName": "Ophelia",
+        "shelterId": "1d1ceadd-64ed-52d5-a416-b278d95c83d1",
+        "shelterName": "The Cosy Burrow Rescue and Rehoming"
+      }
+    }
+  }
+}

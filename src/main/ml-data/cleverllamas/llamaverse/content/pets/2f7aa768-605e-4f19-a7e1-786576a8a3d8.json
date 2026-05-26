@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "2f7aa768-605e-4f19-a7e1-786576a8a3d8",
+        "name": "Tintinnabulation",
+        "ageYears": 2,
+        "disposition": "sneaky",
+        "fluffiness": 1,
+        "quirk": "believes it is being followed, correctly",
+        "speciesId": "86740326-9afe-5c95-a5a8-c7045272e940",
+        "speciesCommonName": "Stick Insect",
+        "speciesScientificName": "Phasma gigas",
+        "sizeClass": "small",
+        "ownerName": "Isolde",
+        "shelterId": "c8de3d2b-6e9a-5ed1-bda7-9a50f977ddb9",
+        "shelterName": "The Quiet Pool"
+      }
+    }
+  }
+}

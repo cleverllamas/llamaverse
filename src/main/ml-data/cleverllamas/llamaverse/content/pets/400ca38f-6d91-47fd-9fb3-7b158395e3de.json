@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "400ca38f-6d91-47fd-9fb3-7b158395e3de",
+        "name": "Dimple",
+        "ageYears": 1,
+        "disposition": "aloof",
+        "fluffiness": 4,
+        "quirk": "knows one card trick and performs it at every possible opportunity",
+        "speciesId": "30169ba6-d3c1-5359-a341-c9367be9b750",
+        "speciesCommonName": "Okapi",
+        "speciesScientificName": "Okapia johnstoni",
+        "sizeClass": "large",
+        "ownerName": "Miranda",
+        "shelterId": "4e1e0f71-7c69-5073-ab12-27cfd4257912",
+        "shelterName": "The Old Pond Sanctuary"
+      }
+    }
+  }
+}

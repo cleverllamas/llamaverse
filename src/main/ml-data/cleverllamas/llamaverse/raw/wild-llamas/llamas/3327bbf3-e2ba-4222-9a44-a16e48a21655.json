@@ -7,5 +7,6 @@
   "hairColor": "Brown",
   "breed": "Hybrid",
   "placeOfBirth": "Kimberlyland, Tanzania",
-  "description": "Sandra is a green-eyed llama with brown hair, standing 190 cm tall. Originally from Kimberlyland, Tanzania, Sandra enjoys wood carving, hiking, cooking. Known for their gentle and calm personality, Sandra is a beloved member of the llama community."
+  "description": "Sandra is a green-eyed llama with brown hair, standing 190 cm tall. Originally from Kimberlyland, Tanzania, Sandra enjoys wood carving, hiking, cooking. Known for their gentle and calm personality, Sandra is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_andinus"
 }

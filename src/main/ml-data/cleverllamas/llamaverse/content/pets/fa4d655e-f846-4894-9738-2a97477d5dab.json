@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "fa4d655e-f846-4894-9738-2a97477d5dab",
+        "name": "Razzle",
+        "ageYears": 57,
+        "disposition": "dignified",
+        "fluffiness": 2,
+        "quirk": "knows one card trick and performs it at every possible opportunity",
+        "speciesId": "152066e5-2b54-5b7d-b63f-cea101ace1f5",
+        "speciesCommonName": "Blue Whale",
+        "speciesScientificName": "Balaenoptera musculus",
+        "sizeClass": "gigantic",
+        "ownerName": "Horatio",
+        "shelterId": "1d1ceadd-64ed-52d5-a416-b278d95c83d1",
+        "shelterName": "The Cosy Burrow Rescue and Rehoming"
+      }
+    }
+  }
+}

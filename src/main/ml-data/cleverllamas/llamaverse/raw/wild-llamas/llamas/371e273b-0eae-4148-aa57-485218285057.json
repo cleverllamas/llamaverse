@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Hybrid",
   "placeOfBirth": "Thomasland, Gabon",
-  "description": "Natasha is a green-eyed llama with red hair, standing 183 cm tall. Originally from Thomasland, Gabon, Natasha enjoys reading, knitting, painting. Known for their playful and mischievous personality, Natasha is a beloved member of the llama community."
+  "description": "Natasha is a green-eyed llama with red hair, standing 183 cm tall. Originally from Thomasland, Gabon, Natasha enjoys reading, knitting, painting. Known for their playful and mischievous personality, Natasha is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_deserticola"
 }

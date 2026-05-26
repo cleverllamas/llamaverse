@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "a3cda278-b30b-4165-84f2-568b1c077ff8",
+        "name": "Burble",
+        "ageYears": 5,
+        "disposition": "devoted",
+        "fluffiness": 2,
+        "quirk": "has memorised the bus timetable for a city it has never visited",
+        "speciesId": "52e97f4e-6aee-54e7-bcee-296237e2cb22",
+        "speciesCommonName": "Komodo Dragon",
+        "speciesScientificName": "Varanus komodoensis",
+        "sizeClass": "large",
+        "ownerName": "Elena",
+        "shelterId": "e9a0f6a9-5a3f-51a3-ae37-19773f4ac55f",
+        "shelterName": "The Archipelago Orphanage"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "00b6010d-2fef-4651-9c9c-772ce6629f1e",
+        "name": "Grumble",
+        "ageYears": 5,
+        "disposition": "aloof",
+        "fluffiness": 6,
+        "quirk": "has been composing the same symphony for eleven years",
+        "speciesId": "f6646897-59bd-5e40-840c-8c5bd0324137",
+        "speciesCommonName": "Goliath Birdeater Tarantula",
+        "speciesScientificName": "Theraphosa blondi",
+        "sizeClass": "medium",
+        "ownerName": "Gwen",
+        "shelterId": "8d977212-e5ba-55f4-be32-882c53197b49",
+        "shelterName": "The Wool and Scales Rehabilitation Centre"
+      }
+    }
+  }
+}

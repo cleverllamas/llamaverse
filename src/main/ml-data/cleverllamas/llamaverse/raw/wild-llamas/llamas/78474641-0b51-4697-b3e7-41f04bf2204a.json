@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Suri",
   "placeOfBirth": "Port Gregory, South Georgia and the South Sandwich Islands",
-  "description": "Thomas is a brown-eyed llama with red hair, standing 166 cm tall. Originally from Port Gregory, South Georgia and the South Sandwich Islands, Thomas enjoys dancing, knitting, wood carving. Known for their mischievous and curious personality, Thomas is a beloved member of the llama community."
+  "description": "Thomas is a brown-eyed llama with red hair, standing 166 cm tall. Originally from Port Gregory, South Georgia and the South Sandwich Islands, Thomas enjoys dancing, knitting, wood carving. Known for their mischievous and curious personality, Thomas is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_surideserta"
 }

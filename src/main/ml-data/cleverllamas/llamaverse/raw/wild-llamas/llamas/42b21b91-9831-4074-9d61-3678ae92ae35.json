@@ -7,5 +7,6 @@
   "hairColor": "White",
   "breed": "Suri",
   "placeOfBirth": "Levifort, New Zealand",
-  "description": "Tracy is a hazel-eyed llama with white hair, standing 109 cm tall. Originally from Levifort, New Zealand, Tracy enjoys cooking, knitting, wood carving. Known for their calm and mischievous personality, Tracy is a beloved member of the llama community."
+  "description": "Tracy is a hazel-eyed llama with white hair, standing 109 cm tall. Originally from Levifort, New Zealand, Tracy enjoys cooking, knitting, wood carving. Known for their calm and mischievous personality, Tracy is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_andinus"
 }

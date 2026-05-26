@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Suri",
   "placeOfBirth": "North Roger, Malta",
-  "description": "David is a brown-eyed llama with red hair, standing 129 cm tall. Originally from North Roger, Malta, David enjoys wood carving, gardening, dancing. Known for their playful and calm personality, David is a beloved member of the llama community."
+  "description": "David is a brown-eyed llama with red hair, standing 129 cm tall. Originally from North Roger, Malta, David enjoys wood carving, gardening, dancing. Known for their playful and calm personality, David is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriborealis"
 }

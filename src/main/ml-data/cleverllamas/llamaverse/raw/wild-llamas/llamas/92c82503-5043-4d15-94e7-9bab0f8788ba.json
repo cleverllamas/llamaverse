@@ -7,5 +7,6 @@
   "hairColor": "Blonde",
   "breed": "Suri",
   "placeOfBirth": "South Austin, Falkland Islands (Malvinas)",
-  "description": "Tommy is a blue-eyed llama with blonde hair, standing 160 cm tall. Originally from South Austin, Falkland Islands (Malvinas), Tommy enjoys singing, gardening, painting. Known for their shy and curious personality, Tommy is a beloved member of the llama community."
+  "description": "Tommy is a blue-eyed llama with blonde hair, standing 160 cm tall. Originally from South Austin, Falkland Islands (Malvinas), Tommy enjoys singing, gardening, painting. Known for their shy and curious personality, Tommy is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriensis"
 }

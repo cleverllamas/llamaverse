@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "be5df318-644c-4892-9c06-2f67eb1cc2c5",
+        "name": "Twitch",
+        "ageYears": 19,
+        "disposition": "lazy",
+        "fluffiness": 1,
+        "quirk": "sleeps only in prime-numbered minutes",
+        "speciesId": "009bdfed-da73-562e-8331-6af5a48a2bb9",
+        "speciesCommonName": "Pygmy Elephant",
+        "speciesScientificName": "Elephas maximus borneensis",
+        "sizeClass": "large",
+        "ownerName": "Monique",
+        "shelterId": "c8de3d2b-6e9a-5ed1-bda7-9a50f977ddb9",
+        "shelterName": "The Quiet Pool"
+      }
+    }
+  }
+}

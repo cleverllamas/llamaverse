@@ -7,5 +7,6 @@
   "hairColor": "Blonde",
   "breed": "Hybrid",
   "placeOfBirth": "Lake Taratown, Bahamas",
-  "description": "Betty is a gray-eyed llama with blonde hair, standing 157 cm tall. Originally from Lake Taratown, Bahamas, Betty enjoys wood carving, painting, cooking. Known for their gentle and calm personality, Betty is a beloved member of the llama community."
+  "description": "Betty is a gray-eyed llama with blonde hair, standing 157 cm tall. Originally from Lake Taratown, Bahamas, Betty enjoys wood carving, painting, cooking. Known for their gentle and calm personality, Betty is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_borealis"
 }

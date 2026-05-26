@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "59040895-43e0-4a17-a50f-922f5480c3df",
+        "name": "Grumble",
+        "ageYears": 1,
+        "disposition": "theatrical",
+        "fluffiness": 9,
+        "quirk": "is training for a marathon at a very leisurely pace",
+        "speciesId": "f4a2908b-b359-5a03-8800-adf104dc483d",
+        "speciesCommonName": "Chinchilla",
+        "speciesScientificName": "Chinchilla lanigera",
+        "sizeClass": "small",
+        "ownerName": "Miranda",
+        "shelterId": "a80124a7-0a88-582c-9362-e5c7aecd90d2",
+        "shelterName": "The Peculiar Menagerie of Llamaville East"
+      }
+    }
+  }
+}

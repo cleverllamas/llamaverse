@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "schools"
+    },
+    "instance": {
+      "schools": {
+        "id": "ee55ff66-0077-4188-2299-001122334455",
+        "name": "Global School of Wool Sciences",
+        "abbreviation": "GSWS",
+        "location": "WoolWorks Campus, Northern Highlands",
+        "founded": 2001,
+        "type": "Specialist University",
+        "specialisms": [
+          "Fibre Engineering",
+          "Sustainable Textile Systems",
+          "Wool Genomics",
+          "Fashion Architecture"
+        ],
+        "enrolment": 3100,
+        "tuitionHayBalesPerYear": 1050,
+        "description": "The Global School of Wool Sciences is the newest of the major institutions, founded as a partnership between WoolWorks International and the Llamaverse Ministry of Textile Innovation. Its fibre engineering graduates are sought by every major fashion house. The school's genomics lab recently sequenced the complete wool genome of all twenty named llamas in the llamaverse registry, a dataset stored in MarkLogic and queried daily by researchers across fourteen partner institutions.",
+        "notableAlumni": []
+      }
+    }
+  }
+}

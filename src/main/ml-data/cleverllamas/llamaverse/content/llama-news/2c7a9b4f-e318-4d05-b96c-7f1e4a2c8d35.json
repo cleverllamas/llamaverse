@@ -1,0 +1,25 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "llama-news"
+    },
+    "instance": {
+      "llama-news": {
+        "id": "2c7a9b4f-e318-4d05-b96c-7f1e4a2c8d35",
+        "headline": "Mount Andes Expedition Reaches Summit: All-Llama Team Makes History",
+        "byline": "Angela",
+        "publishedDate": "2025-01-30",
+        "section": "Adventure",
+        "tags": [
+          "expedition",
+          "Mount Andes",
+          "summit",
+          "geospatial",
+          "GPS tracking"
+        ],
+        "summary": "Five llamas became the first team to summit Mount Andes via an uncharted eastern ridge, carrying full scientific instrumentation.",
+        "body": "BASE CAMP ANDES \u2014 A five-llama expedition has reached the summit of Mount Andes via an uncharted eastern ridge, becoming the first team to complete the route carrying full scientific instrumentation.\n\nThe team \u2014 Bradley, Ashley, Angela, Anthony, and first-timer 'Permafrost' \u2014 spent forty-two days on the mountain recording temperature gradients, atmospheric samples, and geological data.\n\n'We were not there to be the first,' said Bradley, expedition leader. 'We were there to understand the mountain. The record was incidental.'\n\nThe expedition's GPS tracking data was stored in a MarkLogic database and queried in real time by analysts at the Llamaverse Geographic Institute. Geospatial circle-region queries were used to trigger alerts whenever any team member's coordinates fell outside defined safe zones \u2014 a technique the institute's data team said worked flawlessly across seventy-one days in the field."
+      }
+    }
+  }
+}

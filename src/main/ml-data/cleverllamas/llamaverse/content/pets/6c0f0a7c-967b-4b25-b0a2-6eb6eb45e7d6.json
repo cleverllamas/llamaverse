@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "6c0f0a7c-967b-4b25-b0a2-6eb6eb45e7d6",
+        "name": "Stumble",
+        "ageYears": 8,
+        "disposition": "timid",
+        "fluffiness": 3,
+        "quirk": "is training for a marathon at a very leisurely pace",
+        "speciesId": "b1ca06db-18c3-5651-9cb9-d3ffd7ab87e1",
+        "speciesCommonName": "Meerkat",
+        "speciesScientificName": "Suricata suricatta",
+        "sizeClass": "small",
+        "ownerName": "Elena",
+        "shelterId": "e9a0f6a9-5a3f-51a3-ae37-19773f4ac55f",
+        "shelterName": "The Archipelago Orphanage"
+      }
+    }
+  }
+}

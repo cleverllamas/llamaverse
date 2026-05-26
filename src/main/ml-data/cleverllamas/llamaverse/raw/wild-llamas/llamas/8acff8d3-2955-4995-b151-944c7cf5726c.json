@@ -7,5 +7,6 @@
   "hairColor": "White",
   "breed": "Suri",
   "placeOfBirth": "Port Dylan, Latvia",
-  "description": "Penny is a brown-eyed llama with white hair, standing 101 cm tall. Originally from Port Dylan, Latvia, Penny enjoys knitting, gardening, reading. Known for their curious and friendly personality, Penny is a beloved member of the llama community."
+  "description": "Penny is a brown-eyed llama with white hair, standing 101 cm tall. Originally from Port Dylan, Latvia, Penny enjoys knitting, gardening, reading. Known for their curious and friendly personality, Penny is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriforest"
 }

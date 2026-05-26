@@ -7,5 +7,6 @@
   "hairColor": "White",
   "breed": "Huacaya",
   "placeOfBirth": "Port Kevinshire, Montserrat",
-  "description": "Kevin is a brown-eyed llama with white hair, standing 166 cm tall. Originally from Port Kevinshire, Montserrat, Kevin enjoys knitting, dancing, reading. Known for their playful and friendly personality, Kevin is a beloved member of the llama community."
+  "description": "Kevin is a brown-eyed llama with white hair, standing 166 cm tall. Originally from Port Kevinshire, Montserrat, Kevin enjoys knitting, dancing, reading. Known for their playful and friendly personality, Kevin is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_borealis"
 }

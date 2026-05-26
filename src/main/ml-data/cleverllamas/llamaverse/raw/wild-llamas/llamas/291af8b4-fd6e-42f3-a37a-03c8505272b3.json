@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Hybrid",
   "placeOfBirth": "Ronaldville, Bhutan",
-  "description": "Ryan is a hazel-eyed llama with red hair, standing 143 cm tall. Originally from Ronaldville, Bhutan, Ryan enjoys wood carving, painting, singing. Known for their mischievous and shy personality, Ryan is a beloved member of the llama community."
+  "description": "Ryan is a hazel-eyed llama with red hair, standing 143 cm tall. Originally from Ronaldville, Bhutan, Ryan enjoys wood carving, painting, singing. Known for their mischievous and shy personality, Ryan is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_silvestris"
 }

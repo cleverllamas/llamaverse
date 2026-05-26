@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "d58f9abe-9a6c-42f2-b688-d9fa89080c85",
+        "name": "Blorpington",
+        "ageYears": 7,
+        "disposition": "timid",
+        "fluffiness": 3,
+        "quirk": "naps in increasingly creative locations",
+        "speciesId": "0c133273-8237-50b2-8b8d-eb636e709559",
+        "speciesCommonName": "Giant Anteater",
+        "speciesScientificName": "Myrmecophaga tridactyla",
+        "sizeClass": "large",
+        "ownerName": "Lorenzo",
+        "shelterId": "2b312a04-c215-5098-9433-f5aab988726c",
+        "shelterName": "Apex Companions Forever"
+      }
+    }
+  }
+}

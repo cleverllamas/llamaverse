@@ -7,5 +7,6 @@
   "hairColor": "Brown",
   "breed": "Huacaya",
   "placeOfBirth": "East Kylemouth, United Kingdom",
-  "description": "Charles is a gray-eyed llama with brown hair, standing 157 cm tall. Originally from East Kylemouth, United Kingdom, Charles enjoys reading, painting, wood carving. Known for their energetic and friendly personality, Charles is a beloved member of the llama community."
+  "description": "Charles is a gray-eyed llama with brown hair, standing 157 cm tall. Originally from East Kylemouth, United Kingdom, Charles enjoys reading, painting, wood carving. Known for their energetic and friendly personality, Charles is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_borealis"
 }

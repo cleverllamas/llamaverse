@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Suri",
   "placeOfBirth": "Troyville, Russian Federation",
-  "description": "William is a amber-eyed llama with red hair, standing 180 cm tall. Originally from Troyville, Russian Federation, William enjoys hiking, singing, dancing. Known for their calm and curious personality, William is a beloved member of the llama community."
+  "description": "William is a amber-eyed llama with red hair, standing 180 cm tall. Originally from Troyville, Russian Federation, William enjoys hiking, singing, dancing. Known for their calm and curious personality, William is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_vellaridus"
 }

@@ -7,5 +7,6 @@
   "hairColor": "Gray",
   "breed": "Suri",
   "placeOfBirth": "North Amanda, Montenegro",
-  "description": "John is a brown-eyed llama with gray hair, standing 155 cm tall. Originally from North Amanda, Montenegro, John enjoys reading, wood carving, hiking. Known for their friendly and curious personality, John is a beloved member of the llama community."
+  "description": "John is a brown-eyed llama with gray hair, standing 155 cm tall. Originally from North Amanda, Montenegro, John enjoys reading, wood carving, hiking. Known for their friendly and curious personality, John is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_vellifer"
 }

@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Suri",
   "placeOfBirth": "Williamland, Guatemala",
-  "description": "Matthew is a amber-eyed llama with red hair, standing 123 cm tall. Originally from Williamland, Guatemala, Matthew enjoys wood carving, cooking, gardening. Known for their curious and mischievous personality, Matthew is a beloved member of the llama community."
+  "description": "Matthew is a amber-eyed llama with red hair, standing 123 cm tall. Originally from Williamland, Guatemala, Matthew enjoys wood carving, cooking, gardening. Known for their curious and mischievous personality, Matthew is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_vellaridus"
 }

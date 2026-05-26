@@ -7,5 +7,6 @@
   "hairColor": "Brown",
   "breed": "Huacaya",
   "placeOfBirth": "Timothyton, Peru",
-  "description": "Joshua is a amber-eyed llama with brown hair, standing 150 cm tall. Originally from Timothyton, Peru, Joshua enjoys gardening, hiking, dancing. Known for their friendly and playful personality, Joshua is a beloved member of the llama community."
+  "description": "Joshua is a amber-eyed llama with brown hair, standing 150 cm tall. Originally from Timothyton, Peru, Joshua enjoys gardening, hiking, dancing. Known for their friendly and playful personality, Joshua is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_borealis"
 }

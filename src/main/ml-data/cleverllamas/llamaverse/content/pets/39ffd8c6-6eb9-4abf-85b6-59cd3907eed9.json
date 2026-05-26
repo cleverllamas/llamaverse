@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "39ffd8c6-6eb9-4abf-85b6-59cd3907eed9",
+        "name": "Zippy",
+        "ageYears": 46,
+        "disposition": "earnest",
+        "fluffiness": 1,
+        "quirk": "refuses to make eye contact but sends heartfelt letters",
+        "speciesId": "c22b5f4d-e296-54a6-b2a1-469b4a119572",
+        "speciesCommonName": "Immortal Jellyfish",
+        "speciesScientificName": "Turritopsis dohrnii",
+        "sizeClass": "microscopic",
+        "ownerName": "Miranda",
+        "shelterId": "fea3da74-6337-5053-bffe-89e75d14ef03",
+        "shelterName": "The Wandering Fleece Animal Sanctuary"
+      }
+    }
+  }
+}

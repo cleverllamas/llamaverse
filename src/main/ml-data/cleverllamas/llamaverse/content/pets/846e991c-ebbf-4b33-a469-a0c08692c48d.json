@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "846e991c-ebbf-4b33-a469-a0c08692c48d",
+        "name": "Flibbertigibbet",
+        "ageYears": 0,
+        "disposition": "theatrical",
+        "fluffiness": 1,
+        "quirk": "collects bottle caps from obscure regions",
+        "speciesId": "88d765fb-8f09-5dd8-b63c-ed660541bea5",
+        "speciesCommonName": "Chameleon",
+        "speciesScientificName": "Chamaeleo calyptratus",
+        "sizeClass": "small",
+        "ownerName": "Percy",
+        "shelterId": "1d1ceadd-64ed-52d5-a416-b278d95c83d1",
+        "shelterName": "The Cosy Burrow Rescue and Rehoming"
+      }
+    }
+  }
+}

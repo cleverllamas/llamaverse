@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "88eb9ec0-3fb9-4244-8ce1-5ef94637447f",
+        "name": "Tipple",
+        "ageYears": 1,
+        "disposition": "earnest",
+        "fluffiness": 2,
+        "quirk": "constructed a scale model of the hay festival from memory",
+        "speciesId": "2c2cbe95-1e93-5dc0-b137-87c218f395fc",
+        "speciesCommonName": "Copepod",
+        "speciesScientificName": "Calanus finmarchicus",
+        "sizeClass": "microscopic",
+        "ownerName": "Miranda",
+        "shelterId": "c8de3d2b-6e9a-5ed1-bda7-9a50f977ddb9",
+        "shelterName": "The Quiet Pool"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "25bb78c2-a1cc-4c86-b100-cc133267afe6",
+        "name": "Tangle",
+        "ageYears": 15,
+        "disposition": "cheerful",
+        "fluffiness": 6,
+        "quirk": "stages elaborate fake emergencies to see who responds fastest",
+        "speciesId": "f6646897-59bd-5e40-840c-8c5bd0324137",
+        "speciesCommonName": "Goliath Birdeater Tarantula",
+        "speciesScientificName": "Theraphosa blondi",
+        "sizeClass": "medium",
+        "ownerName": "Boris",
+        "shelterId": "1d1ceadd-64ed-52d5-a416-b278d95c83d1",
+        "shelterName": "The Cosy Burrow Rescue and Rehoming"
+      }
+    }
+  }
+}

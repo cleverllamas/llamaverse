@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Mimic Octopus (second variant)",
+        "sizeClass": "small",
+        "fluffiness": 1,
+        "typicalDisposition": "shape-shifting",
+        "typicalLifespanYears": 1,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Mollusca",
+          "class": "Cephalopoda",
+          "order": "Octopoda",
+          "family": "Octopodidae",
+          "genus": "Wunderpus",
+          "species": "Wunderpus photogenicus"
+        },
+        "description": "Its name is Wunderpus photogenicus, which tells you everything you need to know. Its markings are unique to each individual. Llamas who keep them insist on formal portrait sessions.",
+        "id": "d389fe5d-7600-5b1b-be44-d2325c69d673"
+      }
+    }
+  }
+}

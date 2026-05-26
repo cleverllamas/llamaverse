@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Huacaya",
   "placeOfBirth": "West Robertshire, Romania",
-  "description": "Scott is a amber-eyed llama with red hair, standing 198 cm tall. Originally from West Robertshire, Romania, Scott enjoys wood carving, dancing, singing. Known for their playful and energetic personality, Scott is a beloved member of the llama community."
+  "description": "Scott is a amber-eyed llama with red hair, standing 198 cm tall. Originally from West Robertshire, Romania, Scott enjoys wood carving, dancing, singing. Known for their playful and energetic personality, Scott is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_borealis"
 }

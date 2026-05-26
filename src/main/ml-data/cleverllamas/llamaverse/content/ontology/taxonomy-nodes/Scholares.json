@@ -1,0 +1,7 @@
+{
+  "uri": "http://cleverllamas.com/llamaverse/order/Scholares",
+  "type": "Order",
+  "label": "Scholares",
+  "description": "Academic and research-oriented llamas who account for 80% of MarkLogic database administrators in the llamaverse.",
+  "parentUri": "http://cleverllamas.com/llamaverse/kingdom/Llamalia"
+}

@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "4efc28fd-4f4f-4975-9b55-3e10129f51ea",
+        "name": "Gurgle",
+        "ageYears": 1,
+        "disposition": "aloof",
+        "fluffiness": 2,
+        "quirk": "collects bottle caps from obscure regions",
+        "speciesId": "a27d03fc-4ac2-530a-a350-bae0d6c38aac",
+        "speciesCommonName": "Bombardier Beetle",
+        "speciesScientificName": "Brachinus crepitans",
+        "sizeClass": "tiny",
+        "ownerName": "Beatrice",
+        "shelterId": "8d977212-e5ba-55f4-be32-882c53197b49",
+        "shelterName": "The Wool and Scales Rehabilitation Centre"
+      }
+    }
+  }
+}

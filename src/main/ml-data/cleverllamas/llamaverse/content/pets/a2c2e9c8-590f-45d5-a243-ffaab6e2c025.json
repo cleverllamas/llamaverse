@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "a2c2e9c8-590f-45d5-a243-ffaab6e2c025",
+        "name": "Boggle",
+        "ageYears": 4,
+        "disposition": "hyperactive",
+        "fluffiness": 4,
+        "quirk": "knows one card trick and performs it at every possible opportunity",
+        "speciesId": "9998af61-5369-5a12-bf9b-f90997e4bbc3",
+        "speciesCommonName": "African Pygmy Hedgehog",
+        "speciesScientificName": "Atelerix albiventris",
+        "sizeClass": "tiny",
+        "ownerName": "Anthony",
+        "shelterId": "1d1ceadd-64ed-52d5-a416-b278d95c83d1",
+        "shelterName": "The Cosy Burrow Rescue and Rehoming"
+      }
+    }
+  }
+}

@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Suri",
   "placeOfBirth": "East Andre, Uganda",
-  "description": "Robert is a hazel-eyed llama with red hair, standing 149 cm tall. Originally from East Andre, Uganda, Robert enjoys singing, hiking, reading. Known for their curious and playful personality, Robert is a beloved member of the llama community."
+  "description": "Robert is a hazel-eyed llama with red hair, standing 149 cm tall. Originally from East Andre, Uganda, Robert enjoys singing, hiking, reading. Known for their curious and playful personality, Robert is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriphilus"
 }

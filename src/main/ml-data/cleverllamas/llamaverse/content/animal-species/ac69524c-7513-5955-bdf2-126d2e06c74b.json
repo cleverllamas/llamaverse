@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "White Rhinoceros",
+        "sizeClass": "gigantic",
+        "fluffiness": 1,
+        "typicalDisposition": "stoic",
+        "typicalLifespanYears": 50,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Mammalia",
+          "order": "Perissodactyla",
+          "family": "Rhinocerotidae",
+          "genus": "Ceratotherium",
+          "species": "Ceratotherium simum"
+        },
+        "description": "The second largest land animal. Near-sighted. Surprisingly fast. Its horn is made of keratin \u2014 essentially compressed wool. Llamas find this connection profound.",
+        "id": "ac69524c-7513-5955-bdf2-126d2e06c74b"
+      }
+    }
+  }
+}

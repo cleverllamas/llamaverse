@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "e67372ce-dc5f-43cc-a797-5abb9da8b879",
+        "name": "Zippy",
+        "ageYears": 59,
+        "disposition": "philosophical",
+        "fluffiness": 1,
+        "quirk": "sings exactly one note whenever startled",
+        "speciesId": "1520e2a9-f4e6-511c-8e08-d0a5c220b9f7",
+        "speciesCommonName": "Mata Mata Turtle",
+        "speciesScientificName": "Chelus fimbriata",
+        "sizeClass": "medium",
+        "ownerName": "Jasper",
+        "shelterId": "1d1ceadd-64ed-52d5-a416-b278d95c83d1",
+        "shelterName": "The Cosy Burrow Rescue and Rehoming"
+      }
+    }
+  }
+}

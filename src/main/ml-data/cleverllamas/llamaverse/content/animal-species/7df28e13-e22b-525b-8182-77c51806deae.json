@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Frilled Lizard",
+        "sizeClass": "medium",
+        "fluffiness": 1,
+        "typicalDisposition": "theatrical",
+        "typicalLifespanYears": 20,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Reptilia",
+          "order": "Squamata",
+          "family": "Agamidae",
+          "genus": "Chlamydosaurus",
+          "species": "Chlamydosaurus kingii"
+        },
+        "description": "Fans out a large neck frill when threatened, then runs away on two legs. Llamas consider this the correct response to most situations.",
+        "id": "7df28e13-e22b-525b-8182-77c51806deae"
+      }
+    }
+  }
+}

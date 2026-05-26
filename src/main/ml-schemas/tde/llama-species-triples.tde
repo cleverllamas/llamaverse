@@ -1,0 +1,22 @@
+{
+  "template": {
+    "description": "lv:hasSpecies triple from each wild-llama document.",
+    "context": "/classificationSpeciesKey",
+    "collections": [
+      "wild-llamas"
+    ],
+    "triples": [
+      {
+        "subject": {
+          "val": "sem:iri(concat('http://cleverllamas.com/llamaverse/llama/', ../id))"
+        },
+        "predicate": {
+          "val": "sem:iri('http://cleverllamas.com/llamaverse/hasSpecies')"
+        },
+        "object": {
+          "val": "sem:iri(concat('http://cleverllamas.com/llamaverse/species/', .))"
+        }
+      }
+    ]
+  }
+}

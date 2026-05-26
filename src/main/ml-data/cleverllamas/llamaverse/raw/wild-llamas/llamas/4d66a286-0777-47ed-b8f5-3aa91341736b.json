@@ -7,5 +7,6 @@
   "hairColor": "Brown",
   "breed": "Huacaya",
   "placeOfBirth": "Griffithshire, Singapore",
-  "description": "David is a amber-eyed llama with brown hair, standing 188 cm tall. Originally from Griffithshire, Singapore, David enjoys knitting, hiking, painting. Known for their curious and calm personality, David is a beloved member of the llama community."
+  "description": "David is a amber-eyed llama with brown hair, standing 188 cm tall. Originally from Griffithshire, Singapore, David enjoys knitting, hiking, painting. Known for their curious and calm personality, David is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_borealis"
 }

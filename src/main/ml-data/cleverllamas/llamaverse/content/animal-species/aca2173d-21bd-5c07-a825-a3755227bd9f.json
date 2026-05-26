@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Decorator Crab",
+        "sizeClass": "small",
+        "fluffiness": 2,
+        "typicalDisposition": "creative",
+        "typicalLifespanYears": 3,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Arthropoda",
+          "class": "Malacostraca",
+          "order": "Decapoda",
+          "family": "Majidae",
+          "genus": "Camposcia",
+          "species": "Camposcia retusa"
+        },
+        "description": "Attaches living sponges, algae, and other organisms to its shell as both camouflage and fashion. Llamas consider it the original bespoke couturier of the sea.",
+        "id": "aca2173d-21bd-5c07-a825-a3755227bd9f"
+      }
+    }
+  }
+}

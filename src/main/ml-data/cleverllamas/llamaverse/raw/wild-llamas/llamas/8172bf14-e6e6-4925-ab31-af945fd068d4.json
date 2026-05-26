@@ -7,5 +7,6 @@
   "hairColor": "Blonde",
   "breed": "Suri",
   "placeOfBirth": "West Matthew, Montserrat",
-  "description": "Wendy is a gray-eyed llama with blonde hair, standing 162 cm tall. Originally from West Matthew, Montserrat, Wendy enjoys gardening, cooking, hiking. Known for their playful and mischievous personality, Wendy is a beloved member of the llama community."
+  "description": "Wendy is a gray-eyed llama with blonde hair, standing 162 cm tall. Originally from West Matthew, Montserrat, Wendy enjoys gardening, cooking, hiking. Known for their playful and mischievous personality, Wendy is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriensis"
 }

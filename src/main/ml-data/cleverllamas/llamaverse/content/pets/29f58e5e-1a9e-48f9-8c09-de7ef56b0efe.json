@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "29f58e5e-1a9e-48f9-8c09-de7ef56b0efe",
+        "name": "Freckles",
+        "ageYears": 42,
+        "disposition": "theatrical",
+        "fluffiness": 1,
+        "quirk": "has been composing the same symphony for eleven years",
+        "speciesId": "ee5a309a-b82e-55d8-9188-c88eb7e32cdd",
+        "speciesCommonName": "Olm",
+        "speciesScientificName": "Proteus anguinus",
+        "sizeClass": "small",
+        "ownerName": "Isolde",
+        "shelterId": "fea3da74-6337-5053-bffe-89e75d14ef03",
+        "shelterName": "The Wandering Fleece Animal Sanctuary"
+      }
+    }
+  }
+}

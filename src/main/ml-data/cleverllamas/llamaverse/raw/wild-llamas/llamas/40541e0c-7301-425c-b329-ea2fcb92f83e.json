@@ -7,5 +7,6 @@
   "hairColor": "Gray",
   "breed": "Suri",
   "placeOfBirth": "Port Andrew, Senegal",
-  "description": "Devon is a hazel-eyed llama with gray hair, standing 194 cm tall. Originally from Port Andrew, Senegal, Devon enjoys reading, painting, gardening. Known for their energetic and shy personality, Devon is a beloved member of the llama community."
+  "description": "Devon is a hazel-eyed llama with gray hair, standing 194 cm tall. Originally from Port Andrew, Senegal, Devon enjoys reading, painting, gardening. Known for their energetic and shy personality, Devon is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_andinus"
 }

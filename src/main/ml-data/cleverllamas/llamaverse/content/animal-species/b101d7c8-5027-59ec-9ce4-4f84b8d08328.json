@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Clownfish",
+        "sizeClass": "tiny",
+        "fluffiness": 1,
+        "typicalDisposition": "territorial",
+        "typicalLifespanYears": 10,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Actinopterygii",
+          "order": "Perciformes",
+          "family": "Pomacentridae",
+          "genus": "Amphiprion",
+          "species": "Amphiprion ocellaris"
+        },
+        "description": "Immune to anemone stings. All clownfish are born male; the dominant one becomes female. Llamas find this arrangement admirably practical.",
+        "id": "b101d7c8-5027-59ec-9ce4-4f84b8d08328"
+      }
+    }
+  }
+}

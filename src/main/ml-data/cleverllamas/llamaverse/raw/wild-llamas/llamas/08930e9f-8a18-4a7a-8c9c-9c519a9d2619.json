@@ -7,5 +7,6 @@
   "hairColor": "Silver",
   "breed": "Hybrid",
   "placeOfBirth": "North Sarashire, French Guiana",
-  "description": "Vanessa is a blue-eyed llama with silver hair, standing 105 cm tall. Originally from North Sarashire, French Guiana, Vanessa enjoys knitting, hiking, singing. Known for their calm and shy personality, Vanessa is a beloved member of the llama community."
+  "description": "Vanessa is a blue-eyed llama with silver hair, standing 105 cm tall. Originally from North Sarashire, French Guiana, Vanessa enjoys knitting, hiking, singing. Known for their calm and shy personality, Vanessa is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_deserticola"
 }

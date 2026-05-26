@@ -7,5 +7,6 @@
   "hairColor": "Black",
   "breed": "Suri",
   "placeOfBirth": "Port Joel, Reunion",
-  "description": "Amy is a hazel-eyed llama with black hair, standing 117 cm tall. Originally from Port Joel, Reunion, Amy enjoys painting, hiking, reading. Known for their playful and friendly personality, Amy is a beloved member of the llama community."
+  "description": "Amy is a hazel-eyed llama with black hair, standing 117 cm tall. Originally from Port Joel, Reunion, Amy enjoys painting, hiking, reading. Known for their playful and friendly personality, Amy is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_andinus"
 }

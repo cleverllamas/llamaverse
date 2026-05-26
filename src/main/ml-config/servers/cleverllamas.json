@@ -1,9 +1,11 @@
 {
     "server-name": "%%mlAppName%%",
+    "content-database": "%%mlAppName%%-content",
+    "modules-database": "%%mlAppName%%-modules",
     "server-type": "http",
     "enabled": true,
     "root": "/",
-    "port": 8015,
+    "port": 8010,
     "public-port": false,
     "webDAV": false,
     "execute": true,

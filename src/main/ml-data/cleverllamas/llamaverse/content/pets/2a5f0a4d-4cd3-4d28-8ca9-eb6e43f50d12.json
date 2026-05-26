@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "2a5f0a4d-4cd3-4d28-8ca9-eb6e43f50d12",
+        "name": "Knick",
+        "ageYears": 2,
+        "disposition": "devoted",
+        "fluffiness": 1,
+        "quirk": "organises its food alphabetically before eating",
+        "speciesId": "459749d4-228c-50c3-8c79-94280270dad7",
+        "speciesCommonName": "Mantis Shrimp",
+        "speciesScientificName": "Gonodactylus smithii",
+        "sizeClass": "small",
+        "ownerName": "Derek",
+        "shelterId": "43593191-478d-5f0a-82ec-63ff4cc4122e",
+        "shelterName": "The Patagonian Wild Wing Refuge"
+      }
+    }
+  }
+}

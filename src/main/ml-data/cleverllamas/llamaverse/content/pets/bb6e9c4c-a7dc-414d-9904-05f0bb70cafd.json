@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "bb6e9c4c-a7dc-414d-9904-05f0bb70cafd",
+        "name": "Piggledy",
+        "ageYears": 8,
+        "disposition": "timid",
+        "fluffiness": 2,
+        "quirk": "stages elaborate fake emergencies to see who responds fastest",
+        "speciesId": "b101d7c8-5027-59ec-9ce4-4f84b8d08328",
+        "speciesCommonName": "Clownfish",
+        "speciesScientificName": "Amphiprion ocellaris",
+        "sizeClass": "tiny",
+        "ownerName": "Percy",
+        "shelterId": "2b312a04-c215-5098-9433-f5aab988726c",
+        "shelterName": "Apex Companions Forever"
+      }
+    }
+  }
+}

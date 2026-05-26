@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "55aa14c5-e676-4ade-adb1-2c2e81a076ca",
+        "name": "Twitch",
+        "ageYears": 31,
+        "disposition": "aloof",
+        "fluffiness": 2,
+        "quirk": "only communicates using interpretive movement between 9 and 10am",
+        "speciesId": "eef78078-a2a5-5e4d-952e-221fc060a90d",
+        "speciesCommonName": "Beluga Whale",
+        "speciesScientificName": "Delphinapterus leucas",
+        "sizeClass": "large",
+        "ownerName": "Ashley",
+        "shelterId": "869456e1-451e-554f-96f2-4a54e832dd46",
+        "shelterName": "Bradley's Extreme Fauna Compound"
+      }
+    }
+  }
+}

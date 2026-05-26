@@ -7,5 +7,6 @@
   "hairColor": "Gray",
   "breed": "Suri",
   "placeOfBirth": "Jenniferville, Somalia",
-  "description": "Patrick is a gray-eyed llama with gray hair, standing 137 cm tall. Originally from Jenniferville, Somalia, Patrick enjoys singing, hiking, reading. Known for their shy and friendly personality, Patrick is a beloved member of the llama community."
+  "description": "Patrick is a gray-eyed llama with gray hair, standing 137 cm tall. Originally from Jenniferville, Somalia, Patrick enjoys singing, hiking, reading. Known for their shy and friendly personality, Patrick is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_litoralis"
 }

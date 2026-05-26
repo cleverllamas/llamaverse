@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "f3588126-6038-4de5-bbf5-e5039b04f28f",
+        "name": "Pudding",
+        "ageYears": 1,
+        "disposition": "theatrical",
+        "fluffiness": 1,
+        "quirk": "has memorised all 88 Beethoven piano sonatas",
+        "speciesId": "2c2cbe95-1e93-5dc0-b137-87c218f395fc",
+        "speciesCommonName": "Copepod",
+        "speciesScientificName": "Calanus finmarchicus",
+        "sizeClass": "microscopic",
+        "ownerName": "Fernanda",
+        "shelterId": "e9a0f6a9-5a3f-51a3-ae37-19773f4ac55f",
+        "shelterName": "The Archipelago Orphanage"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "74ad6642-aa93-43a2-9e77-385ac9b86447",
+        "name": "Floss",
+        "ageYears": 5,
+        "disposition": "grumpy",
+        "fluffiness": 2,
+        "quirk": "has attempted to file taxes three years in a row without opposable thumbs",
+        "speciesId": "6565f20e-3b20-5609-906d-eb3327ea541c",
+        "speciesCommonName": "Giant Millipede",
+        "speciesScientificName": "Archispirostreptus gigas",
+        "sizeClass": "small",
+        "ownerName": "Aaron",
+        "shelterId": "fea3da74-6337-5053-bffe-89e75d14ef03",
+        "shelterName": "The Wandering Fleece Animal Sanctuary"
+      }
+    }
+  }
+}

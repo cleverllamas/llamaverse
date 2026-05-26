@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "b8be9663-93be-4fc4-968b-3e16f73a4c74",
+        "name": "Kerfuffle",
+        "ageYears": 5,
+        "disposition": "serene",
+        "fluffiness": 10,
+        "quirk": "has formed strong opinions about architecture",
+        "speciesId": "92a69b0f-e016-5d73-9c02-c87d20df5dad",
+        "speciesCommonName": "Snowy Owl",
+        "speciesScientificName": "Bubo scandiacus",
+        "sizeClass": "medium",
+        "ownerName": "Reginald",
+        "shelterId": "fea3da74-6337-5053-bffe-89e75d14ef03",
+        "shelterName": "The Wandering Fleece Animal Sanctuary"
+      }
+    }
+  }
+}

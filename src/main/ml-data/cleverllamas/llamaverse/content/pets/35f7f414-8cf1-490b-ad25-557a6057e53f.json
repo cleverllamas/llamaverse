@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "35f7f414-8cf1-490b-ad25-557a6057e53f",
+        "name": "Zippy",
+        "ageYears": 30,
+        "disposition": "aloof",
+        "fluffiness": 2,
+        "quirk": "only communicates using interpretive movement between 9 and 10am",
+        "speciesId": "bd2fdee3-46e5-56ce-820d-196cc31184ab",
+        "speciesCommonName": "Hippopotamus",
+        "speciesScientificName": "Hippopotamus amphibius",
+        "sizeClass": "gigantic",
+        "ownerName": "Clara",
+        "shelterId": "869456e1-451e-554f-96f2-4a54e832dd46",
+        "shelterName": "Bradley's Extreme Fauna Compound"
+      }
+    }
+  }
+}

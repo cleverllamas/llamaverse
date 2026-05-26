@@ -1,0 +1,10 @@
+{
+  "uri": "http://cleverllamas.com/llamaverse/species/Lama_glama_suriborealis",
+  "type": "Species",
+  "label": "Lama glama suriborealis",
+  "description": "Tundra suri llamas whose locks freeze into impressive icicle formations in winter, which they claim to enjoy.",
+  "parentUri": "http://cleverllamas.com/llamaverse/genus/Lama",
+  "phylumKey": "Suri",
+  "classKey": "Boreus",
+  "speciesKey": "Lama_glama_suriborealis"
+}

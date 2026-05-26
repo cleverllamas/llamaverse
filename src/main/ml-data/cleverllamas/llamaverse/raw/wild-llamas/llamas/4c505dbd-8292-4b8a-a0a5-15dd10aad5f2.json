@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Hybrid",
   "placeOfBirth": "New Madeline, Estonia",
-  "description": "Patricia is a gray-eyed llama with red hair, standing 101 cm tall. Originally from New Madeline, Estonia, Patricia enjoys reading, singing, knitting. Known for their calm and playful personality, Patricia is a beloved member of the llama community."
+  "description": "Patricia is a gray-eyed llama with red hair, standing 101 cm tall. Originally from New Madeline, Estonia, Patricia enjoys reading, singing, knitting. Known for their calm and playful personality, Patricia is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_borealis"
 }

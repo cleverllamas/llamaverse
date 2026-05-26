@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Hybrid",
   "placeOfBirth": "Lucasland, Mauritius",
-  "description": "April is a blue-eyed llama with red hair, standing 175 cm tall. Originally from Lucasland, Mauritius, April enjoys wood carving, painting, hiking. Known for their curious and shy personality, April is a beloved member of the llama community."
+  "description": "April is a blue-eyed llama with red hair, standing 175 cm tall. Originally from Lucasland, Mauritius, April enjoys wood carving, painting, hiking. Known for their curious and shy personality, April is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_vellasilva"
 }

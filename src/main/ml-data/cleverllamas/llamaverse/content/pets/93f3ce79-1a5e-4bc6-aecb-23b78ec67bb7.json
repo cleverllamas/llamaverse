@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "93f3ce79-1a5e-4bc6-aecb-23b78ec67bb7",
+        "name": "Sprocket",
+        "ageYears": 3,
+        "disposition": "bombastic",
+        "fluffiness": 2,
+        "quirk": "refuses to acknowledge Mondays",
+        "speciesId": "459749d4-228c-50c3-8c79-94280270dad7",
+        "speciesCommonName": "Mantis Shrimp",
+        "speciesScientificName": "Gonodactylus smithii",
+        "sizeClass": "small",
+        "ownerName": "Beatrice",
+        "shelterId": "6d613241-5ad3-5197-8b01-500e8b607567",
+        "shelterName": "Fernanda's Home for Misunderstood Creatures"
+      }
+    }
+  }
+}

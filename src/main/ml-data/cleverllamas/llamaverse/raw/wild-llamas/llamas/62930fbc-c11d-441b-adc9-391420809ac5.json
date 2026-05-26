@@ -7,5 +7,6 @@
   "hairColor": "Gray",
   "breed": "Suri",
   "placeOfBirth": "Thomasfort, Vanuatu",
-  "description": "Leah is a green-eyed llama with gray hair, standing 112 cm tall. Originally from Thomasfort, Vanuatu, Leah enjoys hiking, knitting, wood carving. Known for their curious and mischievous personality, Leah is a beloved member of the llama community."
+  "description": "Leah is a green-eyed llama with gray hair, standing 112 cm tall. Originally from Thomasfort, Vanuatu, Leah enjoys hiking, knitting, wood carving. Known for their curious and mischievous personality, Leah is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriensis"
 }

@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Hybrid",
   "placeOfBirth": "Port Angelicaborough, Iceland",
-  "description": "Anthony is a green-eyed llama with red hair, standing 145 cm tall. Originally from Port Angelicaborough, Iceland, Anthony enjoys painting, singing, gardening. Known for their shy and friendly personality, Anthony is a beloved member of the llama community."
+  "description": "Anthony is a green-eyed llama with red hair, standing 145 cm tall. Originally from Port Angelicaborough, Iceland, Anthony enjoys painting, singing, gardening. Known for their shy and friendly personality, Anthony is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_litoralis"
 }

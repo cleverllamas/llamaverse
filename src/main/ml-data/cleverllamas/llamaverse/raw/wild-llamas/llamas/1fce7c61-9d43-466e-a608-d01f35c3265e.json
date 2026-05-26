@@ -7,5 +7,6 @@
   "hairColor": "Black",
   "breed": "Suri",
   "placeOfBirth": "East Martinshire, Saint Kitts and Nevis",
-  "description": "Jesse is a brown-eyed llama with black hair, standing 100 cm tall. Originally from East Martinshire, Saint Kitts and Nevis, Jesse enjoys hiking, cooking, dancing. Known for their friendly and mischievous personality, Jesse is a beloved member of the llama community."
+  "description": "Jesse is a brown-eyed llama with black hair, standing 100 cm tall. Originally from East Martinshire, Saint Kitts and Nevis, Jesse enjoys hiking, cooking, dancing. Known for their friendly and mischievous personality, Jesse is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_borealis"
 }

@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "9134ba42-0eeb-4441-afe3-166ae82b1668",
+        "name": "Fizzle",
+        "ageYears": 18,
+        "disposition": "mischievous",
+        "fluffiness": 7,
+        "quirk": "has been learning to juggle for three years with no progress",
+        "speciesId": "33dcd8b2-2120-5581-8ec0-a55573d3c3bd",
+        "speciesCommonName": "Aye-aye",
+        "speciesScientificName": "Daubentonia madagascariensis",
+        "sizeClass": "small",
+        "ownerName": "Lorenzo",
+        "shelterId": "e9a0f6a9-5a3f-51a3-ae37-19773f4ac55f",
+        "shelterName": "The Archipelago Orphanage"
+      }
+    }
+  }
+}

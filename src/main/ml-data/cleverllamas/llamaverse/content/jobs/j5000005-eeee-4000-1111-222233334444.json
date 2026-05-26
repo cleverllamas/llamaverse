@@ -1,0 +1,36 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "jobs"
+    },
+    "instance": {
+      "jobs": {
+        "id": "j5000005-eeee-4000-1111-222233334444",
+        "title": "Secret Power Instructor (Advanced)",
+        "company": "Institute of Secret Power Development",
+        "companyId": null,
+        "location": "Undisclosed",
+        "postedDate": "2025-03-01",
+        "closingDate": "Rolling",
+        "salaryHayBalesMin": null,
+        "salaryHayBalesMax": null,
+        "employmentType": "Tenured",
+        "seniorityLevel": "Expert",
+        "description": "The Institute of Secret Power Development is not advertising this position. If you are reading this, you were meant to. We are seeking an instructor in advanced power application for Category Four and above practitioners. The role involves one-to-one mentorship, curriculum development, and occasional field supervision. Remuneration is not in hay-bale equivalents and is not discussed in advance. The successful candidate will already know whether they are suitable.",
+        "requirements": [
+          "Category Four or above secret power",
+          "Minimum fifteen years active practice",
+          "Discretion",
+          "Further requirements are known to those who qualify"
+        ],
+        "postedByName": "Classified",
+        "tags": [
+          "secret power",
+          "instruction",
+          "ISPD",
+          "advanced"
+        ]
+      }
+    }
+  }
+}

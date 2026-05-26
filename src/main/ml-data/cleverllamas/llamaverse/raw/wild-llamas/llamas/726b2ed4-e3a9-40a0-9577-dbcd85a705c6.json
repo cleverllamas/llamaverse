@@ -7,5 +7,6 @@
   "hairColor": "Brown",
   "breed": "Suri",
   "placeOfBirth": "Melissaton, Samoa",
-  "description": "Christopher is a gray-eyed llama with brown hair, standing 176 cm tall. Originally from Melissaton, Samoa, Christopher enjoys painting, gardening, dancing. Known for their calm and shy personality, Christopher is a beloved member of the llama community."
+  "description": "Christopher is a gray-eyed llama with brown hair, standing 176 cm tall. Originally from Melissaton, Samoa, Christopher enjoys painting, gardening, dancing. Known for their calm and shy personality, Christopher is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriensis"
 }

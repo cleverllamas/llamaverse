@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "1ce9cced-d69b-4da0-8b3e-81949a4e5d6a",
+        "name": "Snapper",
+        "ageYears": 1,
+        "disposition": "curious",
+        "fluffiness": 2,
+        "quirk": "collects bottle caps from obscure regions",
+        "speciesId": "cd1b4734-fd17-53fa-9eef-0f1cf776f93d",
+        "speciesCommonName": "Red-eyed Tree Frog",
+        "speciesScientificName": "Agalychnis callidryas",
+        "sizeClass": "tiny",
+        "ownerName": "Elena",
+        "shelterId": "c8de3d2b-6e9a-5ed1-bda7-9a50f977ddb9",
+        "shelterName": "The Quiet Pool"
+      }
+    }
+  }
+}

@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Hybrid",
   "placeOfBirth": "North Sarahville, Zimbabwe",
-  "description": "Megan is a green-eyed llama with red hair, standing 192 cm tall. Originally from North Sarahville, Zimbabwe, Megan enjoys knitting, hiking, wood carving. Known for their gentle and shy personality, Megan is a beloved member of the llama community."
+  "description": "Megan is a green-eyed llama with red hair, standing 192 cm tall. Originally from North Sarahville, Zimbabwe, Megan enjoys knitting, hiking, wood carving. Known for their gentle and shy personality, Megan is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_litoralis"
 }

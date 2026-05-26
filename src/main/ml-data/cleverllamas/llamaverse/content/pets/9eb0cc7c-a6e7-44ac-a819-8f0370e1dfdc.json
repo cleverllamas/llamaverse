@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "9eb0cc7c-a6e7-44ac-a819-8f0370e1dfdc",
+        "name": "Dimple",
+        "ageYears": 2,
+        "disposition": "cheerful",
+        "fluffiness": 9,
+        "quirk": "only communicates using interpretive movement between 9 and 10am",
+        "speciesId": "b51959db-b66c-5ee4-9aac-8085580cba2a",
+        "speciesCommonName": "Arctic Fox",
+        "speciesScientificName": "Vulpes lagopus",
+        "sizeClass": "small",
+        "ownerName": "Beatrice",
+        "shelterId": "8d977212-e5ba-55f4-be32-882c53197b49",
+        "shelterName": "The Wool and Scales Rehabilitation Centre"
+      }
+    }
+  }
+}

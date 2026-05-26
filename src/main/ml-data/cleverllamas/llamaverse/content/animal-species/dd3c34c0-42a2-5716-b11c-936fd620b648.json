@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Tawny Frogmouth",
+        "sizeClass": "small",
+        "fluffiness": 5,
+        "typicalDisposition": "disguised",
+        "typicalLifespanYears": 14,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Aves",
+          "order": "Podargiformes",
+          "family": "Podargidae",
+          "genus": "Podargus",
+          "species": "Podargus strigoides"
+        },
+        "description": "Not an owl. Freezes with its beak pointed up to look like a broken branch. Llamas find its commitment to the bit admirable.",
+        "id": "dd3c34c0-42a2-5716-b11c-936fd620b648"
+      }
+    }
+  }
+}

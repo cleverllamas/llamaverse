@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Giant Pacific Octopus",
+        "sizeClass": "large",
+        "fluffiness": 1,
+        "typicalDisposition": "curious",
+        "typicalLifespanYears": 5,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Mollusca",
+          "class": "Cephalopoda",
+          "order": "Octopoda",
+          "family": "Enteroctopodidae",
+          "genus": "Enteroctopus",
+          "species": "Enteroctopus dofleini"
+        },
+        "description": "Arm span up to 6 metres. Can open jars, recognise individual llamas, and escape from any enclosure it finds uninteresting.",
+        "id": "ce9431b4-718d-5339-a62d-8e30a0146993"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "48221d14-35d9-4120-994f-c4062f4f85d0",
+        "name": "Twizzle",
+        "ageYears": 0,
+        "disposition": "philosophical",
+        "fluffiness": 1,
+        "quirk": "knows one card trick and performs it at every possible opportunity",
+        "speciesId": "2c2cbe95-1e93-5dc0-b137-87c218f395fc",
+        "speciesCommonName": "Copepod",
+        "speciesScientificName": "Calanus finmarchicus",
+        "sizeClass": "microscopic",
+        "ownerName": "Isolde",
+        "shelterId": "4e1e0f71-7c69-5073-ab12-27cfd4257912",
+        "shelterName": "The Old Pond Sanctuary"
+      }
+    }
+  }
+}

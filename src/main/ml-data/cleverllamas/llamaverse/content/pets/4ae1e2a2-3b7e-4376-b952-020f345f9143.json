@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "4ae1e2a2-3b7e-4376-b952-020f345f9143",
+        "name": "Clatter",
+        "ageYears": 3,
+        "disposition": "mischievous",
+        "fluffiness": 2,
+        "quirk": "is writing a novel but will not discuss the plot",
+        "speciesId": "cf06f715-0eb1-5245-b0f4-53f627f49571",
+        "speciesCommonName": "Giant Isopod",
+        "speciesScientificName": "Bathynomus giganteus",
+        "sizeClass": "medium",
+        "ownerName": "Lorenzo",
+        "shelterId": "e9a0f6a9-5a3f-51a3-ae37-19773f4ac55f",
+        "shelterName": "The Archipelago Orphanage"
+      }
+    }
+  }
+}

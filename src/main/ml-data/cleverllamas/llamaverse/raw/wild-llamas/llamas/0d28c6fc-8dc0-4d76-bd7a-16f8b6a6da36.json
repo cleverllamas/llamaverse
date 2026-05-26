@@ -7,5 +7,6 @@
   "hairColor": "White",
   "breed": "Huacaya",
   "placeOfBirth": "Angelaside, Kenya",
-  "description": "Ana is a brown-eyed llama with white hair, standing 166 cm tall. Originally from Angelaside, Kenya, Ana enjoys painting, singing, cooking. Known for their calm and energetic personality, Ana is a beloved member of the llama community."
+  "description": "Ana is a brown-eyed llama with white hair, standing 166 cm tall. Originally from Angelaside, Kenya, Ana enjoys painting, singing, cooking. Known for their calm and energetic personality, Ana is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_borealis"
 }

@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "f432c228-f531-4998-bb7b-794121fe918f",
+        "name": "Fringe",
+        "ageYears": 1,
+        "disposition": "theatrical",
+        "fluffiness": 1,
+        "quirk": "judges every piece of music against a private internal standard it has never revealed",
+        "speciesId": "da4571df-9cf3-530c-8e2f-9c15e57d3bcd",
+        "speciesCommonName": "Glow-worm",
+        "speciesScientificName": "Lampyris noctiluca",
+        "sizeClass": "tiny",
+        "ownerName": "Clara",
+        "shelterId": "4e1e0f71-7c69-5073-ab12-27cfd4257912",
+        "shelterName": "The Old Pond Sanctuary"
+      }
+    }
+  }
+}

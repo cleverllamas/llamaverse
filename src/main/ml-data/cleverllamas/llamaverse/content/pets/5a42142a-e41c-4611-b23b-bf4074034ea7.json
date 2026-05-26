@@ -1,0 +1,22 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "5a42142a-e41c-4611-b23b-bf4074034ea7",
+        "name": "Crinkleworth",
+        "ageYears": 23,
+        "disposition": "earnest",
+        "fluffiness": 1,
+        "quirk": "organises its food alphabetically before eating",
+        "speciesId": "cc6872d7-a2bd-50c8-9beb-fff7ad0e6f7d",
+        "speciesCommonName": "Coconut Crab",
+        "speciesScientificName": "Birgus latro",
+        "sizeClass": "large",
+        "ownerName": "Fernanda"
+      }
+    }
+  }
+}

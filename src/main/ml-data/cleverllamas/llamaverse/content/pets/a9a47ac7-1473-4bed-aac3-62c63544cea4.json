@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "a9a47ac7-1473-4bed-aac3-62c63544cea4",
+        "name": "Dazzle",
+        "ageYears": 7,
+        "disposition": "earnest",
+        "fluffiness": 4,
+        "quirk": "maintains a written log of everything it finds interesting, which is everything",
+        "speciesId": "9caae520-fba2-54d7-ad50-e3e7e17c9d96",
+        "speciesCommonName": "Capybara",
+        "speciesScientificName": "Hydrochoerus hydrochaeris",
+        "sizeClass": "large",
+        "ownerName": "Jasper",
+        "shelterId": "2b312a04-c215-5098-9433-f5aab988726c",
+        "shelterName": "Apex Companions Forever"
+      }
+    }
+  }
+}

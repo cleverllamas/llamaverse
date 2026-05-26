@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "7708241a-3027-47cf-a4d0-3e1225b28391",
+        "name": "Zippy",
+        "ageYears": 7,
+        "disposition": "mischievous",
+        "fluffiness": 2,
+        "quirk": "is training for a marathon at a very leisurely pace",
+        "speciesId": "e9be7d46-a699-577d-8254-16ede509068b",
+        "speciesCommonName": "Acorn Barnacle",
+        "speciesScientificName": "Semibalanus balanoides",
+        "sizeClass": "microscopic",
+        "ownerName": "Freddie",
+        "shelterId": "6d613241-5ad3-5197-8b01-500e8b607567",
+        "shelterName": "Fernanda's Home for Misunderstood Creatures"
+      }
+    }
+  }
+}

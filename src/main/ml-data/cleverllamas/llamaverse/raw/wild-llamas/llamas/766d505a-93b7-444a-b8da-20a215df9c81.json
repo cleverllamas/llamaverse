@@ -7,5 +7,6 @@
   "hairColor": "Brown",
   "breed": "Hybrid",
   "placeOfBirth": "Clarkburgh, Zambia",
-  "description": "Victor is a green-eyed llama with brown hair, standing 110 cm tall. Originally from Clarkburgh, Zambia, Victor enjoys painting, singing, reading. Known for their calm and mischievous personality, Victor is a beloved member of the llama community."
+  "description": "Victor is a green-eyed llama with brown hair, standing 110 cm tall. Originally from Clarkburgh, Zambia, Victor enjoys painting, singing, reading. Known for their calm and mischievous personality, Victor is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_surideserta"
 }

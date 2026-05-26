@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "e1a45732-0207-43b6-9051-959254d57540",
+        "name": "Freckles",
+        "ageYears": 0,
+        "disposition": "aloof",
+        "fluffiness": 1,
+        "quirk": "has memorised all 88 Beethoven piano sonatas",
+        "speciesId": "7e6b0565-9435-55ff-abf9-405adc099f7b",
+        "speciesCommonName": "Water Bear",
+        "speciesScientificName": "Ramazzottius oberhaeuseri",
+        "sizeClass": "microscopic",
+        "ownerName": "Aaron",
+        "shelterId": "fea3da74-6337-5053-bffe-89e75d14ef03",
+        "shelterName": "The Wandering Fleece Animal Sanctuary"
+      }
+    }
+  }
+}

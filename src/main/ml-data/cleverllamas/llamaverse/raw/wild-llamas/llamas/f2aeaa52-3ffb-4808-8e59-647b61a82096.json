@@ -7,5 +7,6 @@
   "hairColor": "White",
   "breed": "Hybrid",
   "placeOfBirth": "West Thomasside, Bhutan",
-  "description": "Thomas is a hazel-eyed llama with white hair, standing 154 cm tall. Originally from West Thomasside, Bhutan, Thomas enjoys painting, singing, dancing. Known for their gentle and shy personality, Thomas is a beloved member of the llama community."
+  "description": "Thomas is a hazel-eyed llama with white hair, standing 154 cm tall. Originally from West Thomasside, Bhutan, Thomas enjoys painting, singing, dancing. Known for their gentle and shy personality, Thomas is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_vellifer"
 }

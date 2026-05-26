@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Hybrid",
   "placeOfBirth": "Port Jerryfurt, Portugal",
-  "description": "Jennifer is a hazel-eyed llama with red hair, standing 105 cm tall. Originally from Port Jerryfurt, Portugal, Jennifer enjoys dancing, gardening, cooking. Known for their friendly and shy personality, Jennifer is a beloved member of the llama community."
+  "description": "Jennifer is a hazel-eyed llama with red hair, standing 105 cm tall. Originally from Port Jerryfurt, Portugal, Jennifer enjoys dancing, gardening, cooking. Known for their friendly and shy personality, Jennifer is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_litoralis"
 }

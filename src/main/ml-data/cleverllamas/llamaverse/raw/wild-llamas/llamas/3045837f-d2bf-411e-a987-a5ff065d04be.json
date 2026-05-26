@@ -7,5 +7,6 @@
   "hairColor": "Brown",
   "breed": "Hybrid",
   "placeOfBirth": "East Samantha, Guatemala",
-  "description": "Jennifer is a brown-eyed llama with brown hair, standing 118 cm tall. Originally from East Samantha, Guatemala, Jennifer enjoys gardening, reading, painting. Known for their curious and playful personality, Jennifer is a beloved member of the llama community."
+  "description": "Jennifer is a brown-eyed llama with brown hair, standing 118 cm tall. Originally from East Samantha, Guatemala, Jennifer enjoys gardening, reading, painting. Known for their curious and playful personality, Jennifer is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_andinus"
 }

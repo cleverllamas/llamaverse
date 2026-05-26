@@ -1,0 +1,22 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "c5fe7878-8009-43fb-aa50-ddcf5be0ea67",
+        "name": "Noodle",
+        "ageYears": 2,
+        "disposition": "affectionate",
+        "fluffiness": 2,
+        "quirk": "has never once been surprised by anything",
+        "speciesId": "7df28e13-e22b-525b-8182-77c51806deae",
+        "speciesCommonName": "Frilled Lizard",
+        "speciesScientificName": "Chlamydosaurus kingii",
+        "sizeClass": "medium",
+        "ownerName": "Monique"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "eebe9045-5a83-403c-b8a4-23bff70b2e03",
+        "name": "Dimple",
+        "ageYears": 4,
+        "disposition": "bombastic",
+        "fluffiness": 6,
+        "quirk": "has memorised all 88 Beethoven piano sonatas",
+        "speciesId": "4a07b520-de06-59f0-ba05-52546879b434",
+        "speciesCommonName": "Sloth",
+        "speciesScientificName": "Bradypus tridactylus",
+        "sizeClass": "medium",
+        "ownerName": "Aaron",
+        "shelterId": "8d977212-e5ba-55f4-be32-882c53197b49",
+        "shelterName": "The Wool and Scales Rehabilitation Centre"
+      }
+    }
+  }
+}

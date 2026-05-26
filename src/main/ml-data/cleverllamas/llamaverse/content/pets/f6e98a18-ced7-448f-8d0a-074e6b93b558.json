@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "f6e98a18-ced7-448f-8d0a-074e6b93b558",
+        "name": "Topsy",
+        "ageYears": 55,
+        "disposition": "aloof",
+        "fluffiness": 1,
+        "quirk": "is training for a marathon at a very leisurely pace",
+        "speciesId": "152066e5-2b54-5b7d-b63f-cea101ace1f5",
+        "speciesCommonName": "Blue Whale",
+        "speciesScientificName": "Balaenoptera musculus",
+        "sizeClass": "gigantic",
+        "ownerName": "Percy",
+        "shelterId": "6d613241-5ad3-5197-8b01-500e8b607567",
+        "shelterName": "Fernanda's Home for Misunderstood Creatures"
+      }
+    }
+  }
+}

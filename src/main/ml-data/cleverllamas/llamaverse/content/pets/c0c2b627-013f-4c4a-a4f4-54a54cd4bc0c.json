@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "c0c2b627-013f-4c4a-a4f4-54a54cd4bc0c",
+        "name": "Turvy",
+        "ageYears": 1,
+        "disposition": "cheerful",
+        "fluffiness": 1,
+        "quirk": "constructed a scale model of the hay festival from memory",
+        "speciesId": "1d5714f3-7780-56e6-a2fd-494df6fe1bb8",
+        "speciesCommonName": "Glaucus atlanticus (Blue Dragon Sea Slug)",
+        "speciesScientificName": "Glaucus atlanticus",
+        "sizeClass": "tiny",
+        "ownerName": "Anthony",
+        "shelterId": "24d12d56-1e48-56e1-aa51-54df3c5f003c",
+        "shelterName": "The Stillness Institute"
+      }
+    }
+  }
+}

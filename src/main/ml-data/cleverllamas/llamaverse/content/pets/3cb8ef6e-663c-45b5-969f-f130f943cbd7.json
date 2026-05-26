@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "3cb8ef6e-663c-45b5-969f-f130f943cbd7",
+        "name": "Pebble",
+        "ageYears": 6,
+        "disposition": "affectionate",
+        "fluffiness": 2,
+        "quirk": "refuses to make eye contact but sends heartfelt letters",
+        "speciesId": "7df28e13-e22b-525b-8182-77c51806deae",
+        "speciesCommonName": "Frilled Lizard",
+        "speciesScientificName": "Chlamydosaurus kingii",
+        "sizeClass": "medium",
+        "ownerName": "Ophelia",
+        "shelterId": "2b312a04-c215-5098-9433-f5aab988726c",
+        "shelterName": "Apex Companions Forever"
+      }
+    }
+  }
+}

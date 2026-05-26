@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "2dfabcf4-a032-452a-a396-00468e70554d",
+        "name": "Crinkleworth",
+        "ageYears": 2,
+        "disposition": "aloof",
+        "fluffiness": 7,
+        "quirk": "has memorised all 88 Beethoven piano sonatas",
+        "speciesId": "33dcd8b2-2120-5581-8ec0-a55573d3c3bd",
+        "speciesCommonName": "Aye-aye",
+        "speciesScientificName": "Daubentonia madagascariensis",
+        "sizeClass": "small",
+        "ownerName": "Elena",
+        "shelterId": "2b312a04-c215-5098-9433-f5aab988726c",
+        "shelterName": "Apex Companions Forever"
+      }
+    }
+  }
+}

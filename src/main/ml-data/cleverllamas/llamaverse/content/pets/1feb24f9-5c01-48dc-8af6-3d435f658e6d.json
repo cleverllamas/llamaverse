@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "1feb24f9-5c01-48dc-8af6-3d435f658e6d",
+        "name": "Fidget",
+        "ageYears": 2,
+        "disposition": "earnest",
+        "fluffiness": 2,
+        "quirk": "collects bottle caps from obscure regions",
+        "speciesId": "0af44b1d-a59e-5eb3-9f38-bca9dd702317",
+        "speciesCommonName": "Nautilus",
+        "speciesScientificName": "Nautilus pompilius",
+        "sizeClass": "small",
+        "ownerName": "Angela",
+        "shelterId": "6d613241-5ad3-5197-8b01-500e8b607567",
+        "shelterName": "Fernanda's Home for Misunderstood Creatures"
+      }
+    }
+  }
+}

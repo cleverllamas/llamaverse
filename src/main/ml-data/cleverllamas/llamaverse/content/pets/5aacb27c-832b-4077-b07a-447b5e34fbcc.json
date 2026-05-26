@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "5aacb27c-832b-4077-b07a-447b5e34fbcc",
+        "name": "Shuffle",
+        "ageYears": 0,
+        "disposition": "hyperactive",
+        "fluffiness": 2,
+        "quirk": "refuses to make eye contact but sends heartfelt letters",
+        "speciesId": "2558e851-a3d6-51e7-9fd9-38aa2a8d795e",
+        "speciesCommonName": "Vorticella",
+        "speciesScientificName": "Vorticella convallaria",
+        "sizeClass": "microscopic",
+        "ownerName": "Clara",
+        "shelterId": "a80124a7-0a88-582c-9362-e5c7aecd90d2",
+        "shelterName": "The Peculiar Menagerie of Llamaville East"
+      }
+    }
+  }
+}

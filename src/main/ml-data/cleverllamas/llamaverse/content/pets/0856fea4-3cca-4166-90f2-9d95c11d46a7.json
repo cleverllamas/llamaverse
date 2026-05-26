@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "0856fea4-3cca-4166-90f2-9d95c11d46a7",
+        "name": "Topsy",
+        "ageYears": 0,
+        "disposition": "affectionate",
+        "fluffiness": 1,
+        "quirk": "organises its food alphabetically before eating",
+        "speciesId": "3a40829e-4250-5a56-948e-20945e6afc8e",
+        "speciesCommonName": "Crystal Red Shrimp",
+        "speciesScientificName": "Caridina cantonensis",
+        "sizeClass": "tiny",
+        "ownerName": "Derek",
+        "shelterId": "43593191-478d-5f0a-82ec-63ff4cc4122e",
+        "shelterName": "The Patagonian Wild Wing Refuge"
+      }
+    }
+  }
+}

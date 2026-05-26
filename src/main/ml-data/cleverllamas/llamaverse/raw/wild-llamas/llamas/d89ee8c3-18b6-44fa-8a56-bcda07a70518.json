@@ -7,5 +7,6 @@
   "hairColor": "Blonde",
   "breed": "Huacaya",
   "placeOfBirth": "New Elizabeth, Pitcairn Islands",
-  "description": "John is a blue-eyed llama with blonde hair, standing 169 cm tall. Originally from New Elizabeth, Pitcairn Islands, John enjoys wood carving, reading, cooking. Known for their playful and curious personality, John is a beloved member of the llama community."
+  "description": "John is a blue-eyed llama with blonde hair, standing 169 cm tall. Originally from New Elizabeth, Pitcairn Islands, John enjoys wood carving, reading, cooking. Known for their playful and curious personality, John is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_vellaridus"
 }

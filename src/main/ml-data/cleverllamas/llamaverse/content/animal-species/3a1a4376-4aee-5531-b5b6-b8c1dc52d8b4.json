@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Sea Otter",
+        "sizeClass": "medium",
+        "fluffiness": 10,
+        "typicalDisposition": "cheerful",
+        "typicalLifespanYears": 15,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Mammalia",
+          "order": "Carnivora",
+          "family": "Mustelidae",
+          "genus": "Enhydra",
+          "species": "Enhydra lutris"
+        },
+        "description": "The fluffiest marine mammal and the most universally beloved pet in the llamaverse. Holds hands with its companion while sleeping. Llamas find this unbearably sweet.",
+        "id": "3a1a4376-4aee-5531-b5b6-b8c1dc52d8b4"
+      }
+    }
+  }
+}

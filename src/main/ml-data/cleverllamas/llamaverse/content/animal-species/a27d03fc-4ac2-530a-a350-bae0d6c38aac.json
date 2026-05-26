@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Bombardier Beetle",
+        "sizeClass": "tiny",
+        "fluffiness": 1,
+        "typicalDisposition": "defensive",
+        "typicalLifespanYears": 2,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Arthropoda",
+          "class": "Insecta",
+          "order": "Coleoptera",
+          "family": "Carabidae",
+          "genus": "Brachinus",
+          "species": "Brachinus crepitans"
+        },
+        "description": "Fires a boiling chemical spray from its abdomen. Llamas keep them in sealed terrariums with great respect.",
+        "id": "a27d03fc-4ac2-530a-a350-bae0d6c38aac"
+      }
+    }
+  }
+}

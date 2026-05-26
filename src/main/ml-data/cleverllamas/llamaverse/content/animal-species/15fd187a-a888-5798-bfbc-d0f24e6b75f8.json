@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Rotifer",
+        "sizeClass": "microscopic",
+        "fluffiness": 1,
+        "typicalDisposition": "frantic",
+        "typicalLifespanYears": 1,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Rotifera",
+          "class": "Bdelloidea",
+          "order": "Adinetida",
+          "family": "Adinetidae",
+          "genus": "Adineta",
+          "species": "Adineta vaga"
+        },
+        "description": "Spins its wheel-like feeding apparatus at astonishing speed. Llamas find them meditative to observe under a microscope.",
+        "id": "15fd187a-a888-5798-bfbc-d0f24e6b75f8"
+      }
+    }
+  }
+}

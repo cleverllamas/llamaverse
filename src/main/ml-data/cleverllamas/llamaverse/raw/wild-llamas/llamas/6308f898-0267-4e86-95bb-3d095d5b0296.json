@@ -7,5 +7,6 @@
   "hairColor": "White",
   "breed": "Suri",
   "placeOfBirth": "New Kenneth, Bolivia",
-  "description": "Hannah is a gray-eyed llama with white hair, standing 175 cm tall. Originally from New Kenneth, Bolivia, Hannah enjoys singing, reading, cooking. Known for their playful and calm personality, Hannah is a beloved member of the llama community."
+  "description": "Hannah is a gray-eyed llama with white hair, standing 175 cm tall. Originally from New Kenneth, Bolivia, Hannah enjoys singing, reading, cooking. Known for their playful and calm personality, Hannah is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_suriensis"
 }

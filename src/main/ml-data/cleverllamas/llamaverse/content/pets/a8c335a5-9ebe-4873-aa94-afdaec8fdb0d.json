@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "a8c335a5-9ebe-4873-aa94-afdaec8fdb0d",
+        "name": "Piggledy",
+        "ageYears": 24,
+        "disposition": "hyperactive",
+        "fluffiness": 1,
+        "quirk": "insists on a bedtime story every night",
+        "speciesId": "9311d22b-a52f-5e8a-b042-bc205b087b36",
+        "speciesCommonName": "Naked Mole Rat",
+        "speciesScientificName": "Heterocephalus glaber",
+        "sizeClass": "tiny",
+        "ownerName": "Elena",
+        "shelterId": "869456e1-451e-554f-96f2-4a54e832dd46",
+        "shelterName": "Bradley's Extreme Fauna Compound"
+      }
+    }
+  }
+}

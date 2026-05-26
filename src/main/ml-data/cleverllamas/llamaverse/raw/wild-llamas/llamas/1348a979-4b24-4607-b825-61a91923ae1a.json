@@ -7,5 +7,6 @@
   "hairColor": "Blonde",
   "breed": "Suri",
   "placeOfBirth": "Port Loritown, Togo",
-  "description": "John is a gray-eyed llama with blonde hair, standing 164 cm tall. Originally from Port Loritown, Togo, John enjoys wood carving, cooking, knitting. Known for their mischievous and shy personality, John is a beloved member of the llama community."
+  "description": "John is a gray-eyed llama with blonde hair, standing 164 cm tall. Originally from Port Loritown, Togo, John enjoys wood carving, cooking, knitting. Known for their mischievous and shy personality, John is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_andinus"
 }

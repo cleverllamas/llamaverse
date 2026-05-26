@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Lyrebird",
+        "sizeClass": "medium",
+        "fluffiness": 6,
+        "typicalDisposition": "mimetic",
+        "typicalLifespanYears": 30,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Aves",
+          "order": "Passeriformes",
+          "family": "Menuridae",
+          "genus": "Menura",
+          "species": "Menura novaehollandiae"
+        },
+        "description": "Can perfectly mimic any sound it hears, including chain saws, camera shutters, and other llamas. Llamas keep them and are regularly unsettled by the results.",
+        "id": "6b5d256d-571b-5c64-b036-4667040eef2e"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "906b0087-e033-417d-8f19-50067d4fd6c5",
+        "name": "Noodle",
+        "ageYears": 0,
+        "disposition": "serene",
+        "fluffiness": 5,
+        "quirk": "has been composing the same symphony for eleven years",
+        "speciesId": "6a69d414-a2ee-51b0-ad9a-c198d8b43be5",
+        "speciesCommonName": "Sun Bear",
+        "speciesScientificName": "Helarctos malayanus",
+        "sizeClass": "medium",
+        "ownerName": "Beatrice",
+        "shelterId": "869456e1-451e-554f-96f2-4a54e832dd46",
+        "shelterName": "Bradley's Extreme Fauna Compound"
+      }
+    }
+  }
+}

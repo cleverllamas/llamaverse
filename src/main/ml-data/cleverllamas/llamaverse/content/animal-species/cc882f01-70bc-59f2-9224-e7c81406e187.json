@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Coelacanth",
+        "sizeClass": "large",
+        "fluffiness": 1,
+        "typicalDisposition": "ancient",
+        "typicalLifespanYears": 60,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Actinistia",
+          "order": "Coelacanthiformes",
+          "family": "Latimeriidae",
+          "genus": "Latimeria",
+          "species": "Latimeria chalumnae"
+        },
+        "description": "A fish from 400 million years ago, still living. Requires a very deep and expensive tank. Owned by only four llamas in the llamaverse, all of whom are absurdly wealthy.",
+        "id": "cc882f01-70bc-59f2-9224-e7c81406e187"
+      }
+    }
+  }
+}

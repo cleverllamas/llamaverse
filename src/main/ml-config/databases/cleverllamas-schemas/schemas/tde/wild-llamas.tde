@@ -1,6 +1,6 @@
 {
   "template": {
-    "context": "/",
+    "context": "/eyeColor",
     "collections": ["wild-llamas"],
     "rows": [
       {
@@ -10,57 +10,57 @@
           {
             "name": "id",
             "scalarType": "string",
-            "val": "id"
+            "val": "../id"
           },
           {
             "name": "name",
             "scalarType": "string",
-            "val": "name"
+            "val": "../name"
           },
           {
             "name": "heightCm",
             "scalarType": "int",
-            "val": "heightCm"
+            "val": "../heightCm"
           },
           {
             "name": "weightKg",
             "scalarType": "int",
-            "val": "weightKg"
+            "val": "../weightKg"
           },
           {
             "name": "eyeColor",
             "scalarType": "string",
-            "val": "eyeColor"
+            "val": "../eyeColor"
           },
           {
             "name": "hairColor",
             "scalarType": "string",
-            "val": "hairColor"
+            "val": "../hairColor"
           },
           {
             "name": "breed",
             "scalarType": "string",
-            "val": "breed"
+            "val": "../breed"
           },
           {
             "name": "placeOfBirth",
             "scalarType": "string",
-            "val": "placeOfBirth"
+            "val": "../placeOfBirth"
           },
           {
             "name": "medicalCondition",
             "scalarType": "string",
-            "val": "(medicalCondition/name, 'none')[last()]"
+            "val": "(../medicalCondition/name, 'none')[last()]"
           },
           {
             "name": "description",
             "scalarType": "string",
-            "val": "description"
+            "val": "../description"
           },
           {
             "name": "relatedTo",
             "scalarType": "string",
-            "val": "relatedTo/id"
+            "val": "(../relatedTo/id, 'none')[last()]"
           }
         ]
       }

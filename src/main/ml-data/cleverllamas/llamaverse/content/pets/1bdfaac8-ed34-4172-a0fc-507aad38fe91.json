@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "1bdfaac8-ed34-4172-a0fc-507aad38fe91",
+        "name": "Shimmer",
+        "ageYears": 0,
+        "disposition": "eccentric",
+        "fluffiness": 2,
+        "quirk": "has memorised all 88 Beethoven piano sonatas",
+        "speciesId": "38f8892b-60ac-5c16-b857-5aebc8b1dd83",
+        "speciesCommonName": "Hissing Cockroach",
+        "speciesScientificName": "Gromphadorhina portentosa",
+        "sizeClass": "small",
+        "ownerName": "Alice",
+        "shelterId": "2770733d-7079-5abc-92e8-6a21c74559c1",
+        "shelterName": "Deep Blue Creature Sanctuary"
+      }
+    }
+  }
+}

@@ -7,5 +7,6 @@
   "hairColor": "Red",
   "breed": "Huacaya",
   "placeOfBirth": "Jonesberg, Ethiopia",
-  "description": "Kelly is a green-eyed llama with red hair, standing 124 cm tall. Originally from Jonesberg, Ethiopia, Kelly enjoys singing, painting, dancing. Known for their energetic and shy personality, Kelly is a beloved member of the llama community."
+  "description": "Kelly is a green-eyed llama with red hair, standing 124 cm tall. Originally from Jonesberg, Ethiopia, Kelly enjoys singing, painting, dancing. Known for their energetic and shy personality, Kelly is a beloved member of the llama community.",
+  "classificationSpeciesKey": "Lama_glama_vellaridus"
 }

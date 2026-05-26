@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "975e7e6d-c37c-4260-9115-1d24c877c56d",
+        "name": "Snuffleby",
+        "ageYears": 1,
+        "disposition": "lazy",
+        "fluffiness": 1,
+        "quirk": "sings exactly one note whenever startled",
+        "speciesId": "15fd187a-a888-5798-bfbc-d0f24e6b75f8",
+        "speciesCommonName": "Rotifer",
+        "speciesScientificName": "Adineta vaga",
+        "sizeClass": "microscopic",
+        "ownerName": "Percy",
+        "shelterId": "e9a0f6a9-5a3f-51a3-ae37-19773f4ac55f",
+        "shelterName": "The Archipelago Orphanage"
+      }
+    }
+  }
+}

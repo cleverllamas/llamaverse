@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Wolverine",
+        "sizeClass": "medium",
+        "fluffiness": 6,
+        "typicalDisposition": "tenacious",
+        "typicalLifespanYears": 13,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Mammalia",
+          "order": "Carnivora",
+          "family": "Mustelidae",
+          "genus": "Gulo",
+          "species": "Gulo gulo"
+        },
+        "description": "Has been documented driving bears off carcasses. Radiates absolute refusal. Llamas who keep them report a subtle improvement in their own personal boundaries.",
+        "id": "06dc65d2-4a3f-5273-9b99-1eaffac0131a"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "animal-species"
+    },
+    "instance": {
+      "animal-species": {
+        "commonName": "Narwhal",
+        "sizeClass": "gigantic",
+        "fluffiness": 2,
+        "typicalDisposition": "regal",
+        "typicalLifespanYears": 50,
+        "classification": {
+          "kingdom": "Animalia",
+          "phylum": "Chordata",
+          "class": "Mammalia",
+          "order": "Artiodactyla",
+          "family": "Monodontidae",
+          "genus": "Monodon",
+          "species": "Monodon monoceros"
+        },
+        "description": "Has a tusk up to 3 metres long used for sensing ocean temperature. Owned only by coastal llamas with exceptionally large private fjords.",
+        "id": "a2ed5be3-68fd-57c7-bb40-cae87ba09f37"
+      }
+    }
+  }
+}

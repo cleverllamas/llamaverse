@@ -1,0 +1,24 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "pets"
+    },
+    "instance": {
+      "pets": {
+        "id": "7441360e-0621-40bd-889f-2fcb669a2c9a",
+        "name": "Plonk",
+        "ageYears": 1,
+        "disposition": "philosophical",
+        "fluffiness": 1,
+        "quirk": "sleeps only in prime-numbered minutes",
+        "speciesId": "3a40829e-4250-5a56-948e-20945e6afc8e",
+        "speciesCommonName": "Crystal Red Shrimp",
+        "speciesScientificName": "Caridina cantonensis",
+        "sizeClass": "tiny",
+        "ownerName": "Alice",
+        "shelterId": "4e1e0f71-7c69-5073-ab12-27cfd4257912",
+        "shelterName": "The Old Pond Sanctuary"
+      }
+    }
+  }
+}
