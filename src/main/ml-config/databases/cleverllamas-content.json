@@ -1,7 +1,7 @@
 {
-	"database-name": "%%mlAppName%%-content",
-	"schema-database": "%%mlAppName%%-schemas",
-    "enabled": true,
+  "database-name": "%%mlAppName%%-content",
+  "schema-database": "%%mlAppName%%-schemas",
+  "enabled": true,
   "data-encryption": "off",
   "backup-encryption-key": "cluster-key",
   "encryption-key-id": "",
@@ -69,7 +69,7 @@
   "merge-min-ratio": 3,
   "merge-timestamp": 0,
   "retain-until-backup": false,
-	  "range-element-index": [
+  "range-element-index": [
     {
       "scalar-type": "string",
       "collation": "http://marklogic.com/collation/",
@@ -79,10 +79,31 @@
       "invalid-values": "reject"
     }
   ],
-	"range-path-index": [
+  "range-path-index": [
     {
       "scalar-type": "string",
       "path-expression": "/id",
+      "collation": "http://marklogic.com/collation/",
+      "range-value-positions": false,
+      "invalid-values": "reject"
+    },
+    {
+      "scalar-type": "int",
+      "path-expression": "/heightCm",
+      "collation": "",
+      "range-value-positions": false,
+      "invalid-values": "reject"
+    },
+    {
+      "scalar-type": "int",
+      "path-expression": "/weightKg",
+      "collation": "",
+      "range-value-positions": false,
+      "invalid-values": "reject"
+    },
+    {
+      "scalar-type": "string",
+      "path-expression": "/name",
       "collation": "http://marklogic.com/collation/",
       "range-value-positions": false,
       "invalid-values": "reject"
