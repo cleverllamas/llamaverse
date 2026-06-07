@@ -17,7 +17,8 @@
         "sizeClass": "microscopic",
         "ownerName": "Isolde",
         "shelterId": "c8de3d2b-6e9a-5ed1-bda7-9a50f977ddb9",
-        "shelterName": "The Quiet Pool"
+        "shelterName": "The Quiet Pool",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#ae2e8ce1-dd67-555a-93b2-1d567d30adb4"
       }
     }
   }

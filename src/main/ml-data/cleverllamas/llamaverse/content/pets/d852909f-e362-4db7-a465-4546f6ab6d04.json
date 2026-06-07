@@ -17,7 +17,8 @@
         "sizeClass": "tiny",
         "ownerName": "Bradley",
         "shelterId": "4e1e0f71-7c69-5073-ab12-27cfd4257912",
-        "shelterName": "The Old Pond Sanctuary"
+        "shelterName": "The Old Pond Sanctuary",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#c53d8a11-eed9-5fa6-9707-f538f88860a2"
       }
     }
   }

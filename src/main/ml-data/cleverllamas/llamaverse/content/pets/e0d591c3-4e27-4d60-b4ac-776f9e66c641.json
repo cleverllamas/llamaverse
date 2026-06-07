@@ -15,7 +15,8 @@
         "speciesCommonName": "Giant Millipede",
         "speciesScientificName": "Archispirostreptus gigas",
         "sizeClass": "small",
-        "ownerName": "Alice"
+        "ownerName": "Alice",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#6565f20e-3b20-5609-906d-eb3327ea541c"
       }
     }
   }

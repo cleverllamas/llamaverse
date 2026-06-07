@@ -17,7 +17,8 @@
         "sizeClass": "microscopic",
         "ownerName": "Lorenzo",
         "shelterId": "6d613241-5ad3-5197-8b01-500e8b607567",
-        "shelterName": "Fernanda's Home for Misunderstood Creatures"
+        "shelterName": "Fernanda's Home for Misunderstood Creatures",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#ec504d29-e007-58bc-9630-df64eaf83f62"
       }
     }
   }

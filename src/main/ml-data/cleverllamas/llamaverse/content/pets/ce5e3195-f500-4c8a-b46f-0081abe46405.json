@@ -17,7 +17,8 @@
         "sizeClass": "small",
         "ownerName": "Horatio",
         "shelterId": "8d977212-e5ba-55f4-be32-882c53197b49",
-        "shelterName": "The Wool and Scales Rehabilitation Centre"
+        "shelterName": "The Wool and Scales Rehabilitation Centre",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#acbe160a-34a5-5c3e-b09b-16f95ee4ebeb"
       }
     }
   }

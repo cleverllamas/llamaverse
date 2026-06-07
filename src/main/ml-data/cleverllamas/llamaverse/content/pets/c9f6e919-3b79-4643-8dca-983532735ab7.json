@@ -17,7 +17,8 @@
         "sizeClass": "small",
         "ownerName": "Kestrel",
         "shelterId": "e9a0f6a9-5a3f-51a3-ae37-19773f4ac55f",
-        "shelterName": "The Archipelago Orphanage"
+        "shelterName": "The Archipelago Orphanage",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#ee5a309a-b82e-55d8-9188-c88eb7e32cdd"
       }
     }
   }

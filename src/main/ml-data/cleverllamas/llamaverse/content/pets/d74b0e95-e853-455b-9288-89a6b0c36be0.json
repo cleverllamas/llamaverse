@@ -17,7 +17,8 @@
         "sizeClass": "large",
         "ownerName": "Gwen",
         "shelterId": "6d613241-5ad3-5197-8b01-500e8b607567",
-        "shelterName": "Fernanda's Home for Misunderstood Creatures"
+        "shelterName": "Fernanda's Home for Misunderstood Creatures",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#9caae520-fba2-54d7-ad50-e3e7e17c9d96"
       }
     }
   }

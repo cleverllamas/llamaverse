@@ -17,7 +17,8 @@
         "sizeClass": "tiny",
         "ownerName": "Isolde",
         "shelterId": "fea3da74-6337-5053-bffe-89e75d14ef03",
-        "shelterName": "The Wandering Fleece Animal Sanctuary"
+        "shelterName": "The Wandering Fleece Animal Sanctuary",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#1d5714f3-7780-56e6-a2fd-494df6fe1bb8"
       }
     }
   }

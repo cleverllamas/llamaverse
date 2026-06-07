@@ -17,7 +17,8 @@
         "sizeClass": "microscopic",
         "ownerName": "Ophelia",
         "shelterId": "c8de3d2b-6e9a-5ed1-bda7-9a50f977ddb9",
-        "shelterName": "The Quiet Pool"
+        "shelterName": "The Quiet Pool",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#ec504d29-e007-58bc-9630-df64eaf83f62"
       }
     }
   }

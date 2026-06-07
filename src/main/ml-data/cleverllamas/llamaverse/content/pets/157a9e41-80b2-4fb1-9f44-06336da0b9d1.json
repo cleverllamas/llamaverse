@@ -17,7 +17,8 @@
         "sizeClass": "small",
         "ownerName": "Percy",
         "shelterId": "2770733d-7079-5abc-92e8-6a21c74559c1",
-        "shelterName": "Deep Blue Creature Sanctuary"
+        "shelterName": "Deep Blue Creature Sanctuary",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#33dd6c2d-a777-52a8-b14d-6b7d81c32a7d"
       }
     }
   }

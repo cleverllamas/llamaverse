@@ -17,7 +17,8 @@
         "sizeClass": "small",
         "ownerName": "Gwen",
         "shelterId": "24d12d56-1e48-56e1-aa51-54df3c5f003c",
-        "shelterName": "The Stillness Institute"
+        "shelterName": "The Stillness Institute",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#33dd6c2d-a777-52a8-b14d-6b7d81c32a7d"
       }
     }
   }

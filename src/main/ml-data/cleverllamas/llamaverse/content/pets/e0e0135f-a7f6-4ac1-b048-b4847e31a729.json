@@ -17,7 +17,8 @@
         "sizeClass": "gigantic",
         "ownerName": "Boris",
         "shelterId": "2770733d-7079-5abc-92e8-6a21c74559c1",
-        "shelterName": "Deep Blue Creature Sanctuary"
+        "shelterName": "Deep Blue Creature Sanctuary",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#51224b0c-de04-59b5-bf77-14b5264c4c42"
       }
     }
   }

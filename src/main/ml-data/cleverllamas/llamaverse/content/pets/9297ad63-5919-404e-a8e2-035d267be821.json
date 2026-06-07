@@ -17,7 +17,8 @@
         "sizeClass": "tiny",
         "ownerName": "Ophelia",
         "shelterId": "4e1e0f71-7c69-5073-ab12-27cfd4257912",
-        "shelterName": "The Old Pond Sanctuary"
+        "shelterName": "The Old Pond Sanctuary",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#832c436c-2009-5a0d-9129-44da183292f1"
       }
     }
   }

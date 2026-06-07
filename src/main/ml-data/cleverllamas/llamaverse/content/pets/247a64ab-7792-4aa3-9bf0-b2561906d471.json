@@ -17,7 +17,8 @@
         "sizeClass": "microscopic",
         "ownerName": "Jasper",
         "shelterId": "2b312a04-c215-5098-9433-f5aab988726c",
-        "shelterName": "Apex Companions Forever"
+        "shelterName": "Apex Companions Forever",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#ae752e8e-5741-575f-8293-97abe1393e0e"
       }
     }
   }

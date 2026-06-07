@@ -17,7 +17,8 @@
         "sizeClass": "tiny",
         "ownerName": "Percy",
         "shelterId": "fea3da74-6337-5053-bffe-89e75d14ef03",
-        "shelterName": "The Wandering Fleece Animal Sanctuary"
+        "shelterName": "The Wandering Fleece Animal Sanctuary",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#7cb9a70b-7e6e-5c08-a9c6-733ad6d71cdf"
       }
     }
   }

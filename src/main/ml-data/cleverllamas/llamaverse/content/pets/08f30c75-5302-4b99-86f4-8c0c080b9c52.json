@@ -17,7 +17,8 @@
         "sizeClass": "medium",
         "ownerName": "Boris",
         "shelterId": "1acdd953-9df4-5cad-ab5a-eb612f2e855c",
-        "shelterName": "Primate House of the Andes"
+        "shelterName": "Primate House of the Andes",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#080a7a98-42c2-5b89-a2bb-13861f22dd58"
       }
     }
   }

@@ -1,20 +1,75 @@
 {
   "template": {
-    "description": "subClassOf triples from taxonomy nodes that have a parentUri.",
-    "context": "/parentUri",
+    "description": "Classification hierarchy triples from animal-species classification blocks.",
+    "context": "/envelope/instance/animal-species[id and classification/kingdom and classification/phylum and classification/class and classification/order and classification/family and classification/genus and classification/species]",
     "collections": [
-      "ontology"
+      "animal-species"
     ],
     "triples": [
       {
         "subject": {
-          "val": "sem:iri(../uri)"
+          "val": "sem:iri(fn:concat('http://cleverllamas.llamaverse/ontology/kingdom#', fn:replace(classification/kingdom, ' ', '_')))"
         },
         "predicate": {
-          "val": "sem:iri('http://cleverllamas.com/llamaverse/subClassOf')"
+          "val": "sem:iri('http://cleverllamas.llamaverse/ontology/containsPhylum')"
         },
         "object": {
-          "val": "sem:iri(.)"
+          "val": "sem:iri(fn:concat('http://cleverllamas.llamaverse/ontology/phylum#', fn:replace(classification/phylum, ' ', '_')))"
+        }
+      },
+      {
+        "subject": {
+          "val": "sem:iri(fn:concat('http://cleverllamas.llamaverse/ontology/phylum#', fn:replace(classification/phylum, ' ', '_')))"
+        },
+        "predicate": {
+          "val": "sem:iri('http://cleverllamas.llamaverse/ontology/containsClass')"
+        },
+        "object": {
+          "val": "sem:iri(fn:concat('http://cleverllamas.llamaverse/ontology/class#', fn:replace(classification/class, ' ', '_')))"
+        }
+      },
+      {
+        "subject": {
+          "val": "sem:iri(fn:concat('http://cleverllamas.llamaverse/ontology/class#', fn:replace(classification/class, ' ', '_')))"
+        },
+        "predicate": {
+          "val": "sem:iri('http://cleverllamas.llamaverse/ontology/containsOrder')"
+        },
+        "object": {
+          "val": "sem:iri(fn:concat('http://cleverllamas.llamaverse/ontology/order#', fn:replace(classification/order, ' ', '_')))"
+        }
+      },
+      {
+        "subject": {
+          "val": "sem:iri(fn:concat('http://cleverllamas.llamaverse/ontology/order#', fn:replace(classification/order, ' ', '_')))"
+        },
+        "predicate": {
+          "val": "sem:iri('http://cleverllamas.llamaverse/ontology/containsFamily')"
+        },
+        "object": {
+          "val": "sem:iri(fn:concat('http://cleverllamas.llamaverse/ontology/family#', fn:replace(classification/family, ' ', '_')))"
+        }
+      },
+      {
+        "subject": {
+          "val": "sem:iri(fn:concat('http://cleverllamas.llamaverse/ontology/family#', fn:replace(classification/family, ' ', '_')))"
+        },
+        "predicate": {
+          "val": "sem:iri('http://cleverllamas.llamaverse/ontology/containsGenus')"
+        },
+        "object": {
+          "val": "sem:iri(fn:concat('http://cleverllamas.llamaverse/ontology/genus#', fn:replace(classification/genus, ' ', '_')))"
+        }
+      },
+      {
+        "subject": {
+          "val": "sem:iri(fn:concat('http://cleverllamas.llamaverse/ontology/genus#', fn:replace(classification/genus, ' ', '_')))"
+        },
+        "predicate": {
+          "val": "sem:iri('http://cleverllamas.llamaverse/ontology/containsSpecies')"
+        },
+        "object": {
+          "val": "sem:iri(fn:concat('http://cleverllamas.llamaverse/ontology/species#', id))"
         }
       }
     ]

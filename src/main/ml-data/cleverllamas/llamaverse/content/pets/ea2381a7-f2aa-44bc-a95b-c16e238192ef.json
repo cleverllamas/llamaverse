@@ -17,7 +17,8 @@
         "sizeClass": "microscopic",
         "ownerName": "Monique",
         "shelterId": "c8de3d2b-6e9a-5ed1-bda7-9a50f977ddb9",
-        "shelterName": "The Quiet Pool"
+        "shelterName": "The Quiet Pool",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#a370af67-78f3-5985-9ff5-12f2ca1e001d"
       }
     }
   }

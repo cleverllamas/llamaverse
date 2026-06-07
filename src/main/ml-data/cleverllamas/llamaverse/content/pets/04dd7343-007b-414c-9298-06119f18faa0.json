@@ -17,7 +17,8 @@
         "sizeClass": "tiny",
         "ownerName": "Ophelia",
         "shelterId": "1d1ceadd-64ed-52d5-a416-b278d95c83d1",
-        "shelterName": "The Cosy Burrow Rescue and Rehoming"
+        "shelterName": "The Cosy Burrow Rescue and Rehoming",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#9311d22b-a52f-5e8a-b042-bc205b087b36"
       }
     }
   }

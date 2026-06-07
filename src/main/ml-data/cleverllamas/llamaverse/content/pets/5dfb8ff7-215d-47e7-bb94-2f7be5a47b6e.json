@@ -17,7 +17,8 @@
         "sizeClass": "small",
         "ownerName": "Derek",
         "shelterId": "869456e1-451e-554f-96f2-4a54e832dd46",
-        "shelterName": "Bradley's Extreme Fauna Compound"
+        "shelterName": "Bradley's Extreme Fauna Compound",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#88d765fb-8f09-5dd8-b63c-ed660541bea5"
       }
     }
   }

@@ -17,7 +17,8 @@
         "sizeClass": "tiny",
         "ownerName": "Kestrel",
         "shelterId": "4e1e0f71-7c69-5073-ab12-27cfd4257912",
-        "shelterName": "The Old Pond Sanctuary"
+        "shelterName": "The Old Pond Sanctuary",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#8caf5f47-d6f0-5244-9dfc-3e271a0023b0"
       }
     }
   }

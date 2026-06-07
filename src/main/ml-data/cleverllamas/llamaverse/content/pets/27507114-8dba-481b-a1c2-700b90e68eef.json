@@ -17,7 +17,8 @@
         "sizeClass": "microscopic",
         "ownerName": "Kestrel",
         "shelterId": "869456e1-451e-554f-96f2-4a54e832dd46",
-        "shelterName": "Bradley's Extreme Fauna Compound"
+        "shelterName": "Bradley's Extreme Fauna Compound",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#ec504d29-e007-58bc-9630-df64eaf83f62"
       }
     }
   }

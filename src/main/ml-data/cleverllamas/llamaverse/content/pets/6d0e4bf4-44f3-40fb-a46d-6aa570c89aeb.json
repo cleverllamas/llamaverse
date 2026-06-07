@@ -17,7 +17,8 @@
         "sizeClass": "small",
         "ownerName": "Beatrice",
         "shelterId": "2770733d-7079-5abc-92e8-6a21c74559c1",
-        "shelterName": "Deep Blue Creature Sanctuary"
+        "shelterName": "Deep Blue Creature Sanctuary",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#1f29dee0-afc6-56d8-a400-842ac656c71e"
       }
     }
   }

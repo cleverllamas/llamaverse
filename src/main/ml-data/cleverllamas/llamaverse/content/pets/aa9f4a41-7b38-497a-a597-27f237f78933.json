@@ -17,7 +17,8 @@
         "sizeClass": "medium",
         "ownerName": "Beatrice",
         "shelterId": "6d613241-5ad3-5197-8b01-500e8b607567",
-        "shelterName": "Fernanda's Home for Misunderstood Creatures"
+        "shelterName": "Fernanda's Home for Misunderstood Creatures",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#92a69b0f-e016-5d73-9c02-c87d20df5dad"
       }
     }
   }

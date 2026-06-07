@@ -17,7 +17,8 @@
         "sizeClass": "microscopic",
         "ownerName": "Beatrice",
         "shelterId": "fea3da74-6337-5053-bffe-89e75d14ef03",
-        "shelterName": "The Wandering Fleece Animal Sanctuary"
+        "shelterName": "The Wandering Fleece Animal Sanctuary",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#ec504d29-e007-58bc-9630-df64eaf83f62"
       }
     }
   }

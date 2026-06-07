@@ -17,7 +17,8 @@
         "sizeClass": "medium",
         "ownerName": "Miranda",
         "shelterId": "7437ed74-37ab-5121-a86c-723531fb55b3",
-        "shelterName": "The Galaxy of Small Things"
+        "shelterName": "The Galaxy of Small Things",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#1520e2a9-f4e6-511c-8e08-d0a5c220b9f7"
       }
     }
   }

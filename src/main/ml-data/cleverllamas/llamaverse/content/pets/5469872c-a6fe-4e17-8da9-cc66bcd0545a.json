@@ -17,7 +17,8 @@
         "sizeClass": "small",
         "ownerName": "Isolde",
         "shelterId": "a80124a7-0a88-582c-9362-e5c7aecd90d2",
-        "shelterName": "The Peculiar Menagerie of Llamaville East"
+        "shelterName": "The Peculiar Menagerie of Llamaville East",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#b51959db-b66c-5ee4-9aac-8085580cba2a"
       }
     }
   }

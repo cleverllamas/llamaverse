@@ -15,7 +15,8 @@
         "speciesCommonName": "Komodo Dragon",
         "speciesScientificName": "Varanus komodoensis",
         "sizeClass": "large",
-        "ownerName": "Angela"
+        "ownerName": "Angela",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#52e97f4e-6aee-54e7-bcee-296237e2cb22"
       }
     }
   }

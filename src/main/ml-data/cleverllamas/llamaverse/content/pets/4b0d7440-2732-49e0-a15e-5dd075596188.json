@@ -17,7 +17,8 @@
         "sizeClass": "medium",
         "ownerName": "Ashley",
         "shelterId": "869456e1-451e-554f-96f2-4a54e832dd46",
-        "shelterName": "Bradley's Extreme Fauna Compound"
+        "shelterName": "Bradley's Extreme Fauna Compound",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#4a07b520-de06-59f0-ba05-52546879b434"
       }
     }
   }

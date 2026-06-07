@@ -17,7 +17,8 @@
         "sizeClass": "small",
         "ownerName": "Derek",
         "shelterId": "2770733d-7079-5abc-92e8-6a21c74559c1",
-        "shelterName": "Deep Blue Creature Sanctuary"
+        "shelterName": "Deep Blue Creature Sanctuary",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#88d765fb-8f09-5dd8-b63c-ed660541bea5"
       }
     }
   }

@@ -17,7 +17,8 @@
         "sizeClass": "medium",
         "ownerName": "Kestrel",
         "shelterId": "a80124a7-0a88-582c-9362-e5c7aecd90d2",
-        "shelterName": "The Peculiar Menagerie of Llamaville East"
+        "shelterName": "The Peculiar Menagerie of Llamaville East",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#080a7a98-42c2-5b89-a2bb-13861f22dd58"
       }
     }
   }

@@ -17,7 +17,8 @@
         "sizeClass": "large",
         "ownerName": "Miranda",
         "shelterId": "e9a0f6a9-5a3f-51a3-ae37-19773f4ac55f",
-        "shelterName": "The Archipelago Orphanage"
+        "shelterName": "The Archipelago Orphanage",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#cc882f01-70bc-59f2-9224-e7c81406e187"
       }
     }
   }

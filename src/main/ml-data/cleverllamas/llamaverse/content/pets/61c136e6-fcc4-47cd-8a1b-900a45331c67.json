@@ -17,7 +17,8 @@
         "sizeClass": "large",
         "ownerName": "Elena",
         "shelterId": "1d1ceadd-64ed-52d5-a416-b278d95c83d1",
-        "shelterName": "The Cosy Burrow Rescue and Rehoming"
+        "shelterName": "The Cosy Burrow Rescue and Rehoming",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#cc882f01-70bc-59f2-9224-e7c81406e187"
       }
     }
   }

@@ -17,7 +17,8 @@
         "sizeClass": "medium",
         "ownerName": "Bradley",
         "shelterId": "a80124a7-0a88-582c-9362-e5c7aecd90d2",
-        "shelterName": "The Peculiar Menagerie of Llamaville East"
+        "shelterName": "The Peculiar Menagerie of Llamaville East",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#3a1a4376-4aee-5531-b5b6-b8c1dc52d8b4"
       }
     }
   }

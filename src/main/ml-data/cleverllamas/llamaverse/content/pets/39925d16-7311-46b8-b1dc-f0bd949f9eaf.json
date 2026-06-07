@@ -17,7 +17,8 @@
         "sizeClass": "medium",
         "ownerName": "Horatio",
         "shelterId": "1d1ceadd-64ed-52d5-a416-b278d95c83d1",
-        "shelterName": "The Cosy Burrow Rescue and Rehoming"
+        "shelterName": "The Cosy Burrow Rescue and Rehoming",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#8fa76313-6503-54ba-880e-990c276858b3"
       }
     }
   }

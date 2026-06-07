@@ -17,7 +17,8 @@
         "sizeClass": "small",
         "ownerName": "Horatio",
         "shelterId": "43593191-478d-5f0a-82ec-63ff4cc4122e",
-        "shelterName": "The Patagonian Wild Wing Refuge"
+        "shelterName": "The Patagonian Wild Wing Refuge",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#38f8892b-60ac-5c16-b857-5aebc8b1dd83"
       }
     }
   }

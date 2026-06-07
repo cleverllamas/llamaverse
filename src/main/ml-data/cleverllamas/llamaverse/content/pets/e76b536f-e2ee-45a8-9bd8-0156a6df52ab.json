@@ -17,7 +17,8 @@
         "sizeClass": "medium",
         "ownerName": "Miranda",
         "shelterId": "43593191-478d-5f0a-82ec-63ff4cc4122e",
-        "shelterName": "The Patagonian Wild Wing Refuge"
+        "shelterName": "The Patagonian Wild Wing Refuge",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#1dadf7e9-db4d-5568-a4c1-f79b5045b492"
       }
     }
   }

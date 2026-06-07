@@ -17,7 +17,8 @@
         "sizeClass": "microscopic",
         "ownerName": "Fernanda",
         "shelterId": "2770733d-7079-5abc-92e8-6a21c74559c1",
-        "shelterName": "Deep Blue Creature Sanctuary"
+        "shelterName": "Deep Blue Creature Sanctuary",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#2c2cbe95-1e93-5dc0-b137-87c218f395fc"
       }
     }
   }

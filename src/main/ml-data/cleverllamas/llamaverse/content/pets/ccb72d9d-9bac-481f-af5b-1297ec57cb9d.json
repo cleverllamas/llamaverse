@@ -17,7 +17,8 @@
         "sizeClass": "gigantic",
         "ownerName": "Clara",
         "shelterId": "1acdd953-9df4-5cad-ab5a-eb612f2e855c",
-        "shelterName": "Primate House of the Andes"
+        "shelterName": "Primate House of the Andes",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#a2ed5be3-68fd-57c7-bb40-cae87ba09f37"
       }
     }
   }

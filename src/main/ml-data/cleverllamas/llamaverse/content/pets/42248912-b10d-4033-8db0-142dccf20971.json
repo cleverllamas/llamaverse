@@ -17,7 +17,8 @@
         "sizeClass": "tiny",
         "ownerName": "Kestrel",
         "shelterId": "c8de3d2b-6e9a-5ed1-bda7-9a50f977ddb9",
-        "shelterName": "The Quiet Pool"
+        "shelterName": "The Quiet Pool",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#9557eccc-7ecb-5ab8-ae03-b9e328e55a11"
       }
     }
   }

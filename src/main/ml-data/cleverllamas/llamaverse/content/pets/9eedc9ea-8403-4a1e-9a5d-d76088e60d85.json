@@ -17,7 +17,8 @@
         "sizeClass": "small",
         "ownerName": "Derek",
         "shelterId": "fea3da74-6337-5053-bffe-89e75d14ef03",
-        "shelterName": "The Wandering Fleece Animal Sanctuary"
+        "shelterName": "The Wandering Fleece Animal Sanctuary",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#d389fe5d-7600-5b1b-be44-d2325c69d673"
       }
     }
   }

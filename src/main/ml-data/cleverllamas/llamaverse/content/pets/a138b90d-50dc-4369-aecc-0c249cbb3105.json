@@ -17,7 +17,8 @@
         "sizeClass": "gigantic",
         "ownerName": "Jasper",
         "shelterId": "8d977212-e5ba-55f4-be32-882c53197b49",
-        "shelterName": "The Wool and Scales Rehabilitation Centre"
+        "shelterName": "The Wool and Scales Rehabilitation Centre",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#16b1975b-35a4-56f7-9e1e-1a6b54f998fe"
       }
     }
   }

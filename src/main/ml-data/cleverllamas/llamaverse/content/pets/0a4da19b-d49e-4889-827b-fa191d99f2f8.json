@@ -17,7 +17,8 @@
         "sizeClass": "small",
         "ownerName": "Monique",
         "shelterId": "4e1e0f71-7c69-5073-ab12-27cfd4257912",
-        "shelterName": "The Old Pond Sanctuary"
+        "shelterName": "The Old Pond Sanctuary",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#5b5b57d6-344d-5913-bf87-dac3a883d652"
       }
     }
   }

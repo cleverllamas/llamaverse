@@ -17,7 +17,8 @@
         "sizeClass": "tiny",
         "ownerName": "Bradley",
         "shelterId": "6d613241-5ad3-5197-8b01-500e8b607567",
-        "shelterName": "Fernanda's Home for Misunderstood Creatures"
+        "shelterName": "Fernanda's Home for Misunderstood Creatures",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#7cb9a70b-7e6e-5c08-a9c6-733ad6d71cdf"
       }
     }
   }

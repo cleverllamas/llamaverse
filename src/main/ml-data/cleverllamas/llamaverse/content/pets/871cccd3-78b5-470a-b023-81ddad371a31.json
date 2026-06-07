@@ -17,7 +17,8 @@
         "sizeClass": "small",
         "ownerName": "Reginald",
         "shelterId": "6d613241-5ad3-5197-8b01-500e8b607567",
-        "shelterName": "Fernanda's Home for Misunderstood Creatures"
+        "shelterName": "Fernanda's Home for Misunderstood Creatures",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#c3459914-3500-52fc-869a-f401325f49c7"
       }
     }
   }

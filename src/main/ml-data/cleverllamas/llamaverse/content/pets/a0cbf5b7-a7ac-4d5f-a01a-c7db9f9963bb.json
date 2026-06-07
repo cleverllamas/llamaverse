@@ -17,7 +17,8 @@
         "sizeClass": "small",
         "ownerName": "Kestrel",
         "shelterId": "8d977212-e5ba-55f4-be32-882c53197b49",
-        "shelterName": "The Wool and Scales Rehabilitation Centre"
+        "shelterName": "The Wool and Scales Rehabilitation Centre",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#dd3c34c0-42a2-5716-b11c-936fd620b648"
       }
     }
   }

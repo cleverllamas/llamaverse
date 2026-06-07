@@ -17,7 +17,8 @@
         "sizeClass": "gigantic",
         "ownerName": "Monique",
         "shelterId": "7437ed74-37ab-5121-a86c-723531fb55b3",
-        "shelterName": "The Galaxy of Small Things"
+        "shelterName": "The Galaxy of Small Things",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#51224b0c-de04-59b5-bf77-14b5264c4c42"
       }
     }
   }

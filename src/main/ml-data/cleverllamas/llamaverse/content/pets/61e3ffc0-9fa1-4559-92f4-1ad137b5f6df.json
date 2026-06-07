@@ -17,7 +17,8 @@
         "sizeClass": "small",
         "ownerName": "Horatio",
         "shelterId": "2770733d-7079-5abc-92e8-6a21c74559c1",
-        "shelterName": "Deep Blue Creature Sanctuary"
+        "shelterName": "Deep Blue Creature Sanctuary",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#8c18b960-10ad-5a68-9585-898657ea3f70"
       }
     }
   }

@@ -17,7 +17,8 @@
         "sizeClass": "tiny",
         "ownerName": "Anthony",
         "shelterId": "1d1ceadd-64ed-52d5-a416-b278d95c83d1",
-        "shelterName": "The Cosy Burrow Rescue and Rehoming"
+        "shelterName": "The Cosy Burrow Rescue and Rehoming",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#9998af61-5369-5a12-bf9b-f90997e4bbc3"
       }
     }
   }

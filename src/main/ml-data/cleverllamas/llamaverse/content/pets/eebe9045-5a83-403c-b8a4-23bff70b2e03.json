@@ -17,7 +17,8 @@
         "sizeClass": "medium",
         "ownerName": "Aaron",
         "shelterId": "8d977212-e5ba-55f4-be32-882c53197b49",
-        "shelterName": "The Wool and Scales Rehabilitation Centre"
+        "shelterName": "The Wool and Scales Rehabilitation Centre",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#4a07b520-de06-59f0-ba05-52546879b434"
       }
     }
   }

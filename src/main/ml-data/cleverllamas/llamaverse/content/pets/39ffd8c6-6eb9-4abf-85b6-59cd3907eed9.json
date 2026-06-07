@@ -17,7 +17,8 @@
         "sizeClass": "microscopic",
         "ownerName": "Miranda",
         "shelterId": "fea3da74-6337-5053-bffe-89e75d14ef03",
-        "shelterName": "The Wandering Fleece Animal Sanctuary"
+        "shelterName": "The Wandering Fleece Animal Sanctuary",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#c22b5f4d-e296-54a6-b2a1-469b4a119572"
       }
     }
   }

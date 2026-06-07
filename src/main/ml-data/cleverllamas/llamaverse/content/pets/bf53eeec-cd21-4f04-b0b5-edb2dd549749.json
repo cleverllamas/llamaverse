@@ -17,7 +17,8 @@
         "sizeClass": "large",
         "ownerName": "Percy",
         "shelterId": "e9a0f6a9-5a3f-51a3-ae37-19773f4ac55f",
-        "shelterName": "The Archipelago Orphanage"
+        "shelterName": "The Archipelago Orphanage",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#4c4cb07f-a441-57c5-ac05-d70405a98f4c"
       }
     }
   }

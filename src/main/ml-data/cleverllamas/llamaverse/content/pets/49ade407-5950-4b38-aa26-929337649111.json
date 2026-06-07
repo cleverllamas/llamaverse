@@ -17,7 +17,8 @@
         "sizeClass": "large",
         "ownerName": "Gwen",
         "shelterId": "43593191-478d-5f0a-82ec-63ff4cc4122e",
-        "shelterName": "The Patagonian Wild Wing Refuge"
+        "shelterName": "The Patagonian Wild Wing Refuge",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#3dc7ce14-9c2a-5e33-b387-4fd40e0cbcc4"
       }
     }
   }

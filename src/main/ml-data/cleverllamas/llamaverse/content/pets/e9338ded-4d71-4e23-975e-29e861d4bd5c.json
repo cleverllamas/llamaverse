@@ -17,7 +17,8 @@
         "sizeClass": "gigantic",
         "ownerName": "Percy",
         "shelterId": "1d1ceadd-64ed-52d5-a416-b278d95c83d1",
-        "shelterName": "The Cosy Burrow Rescue and Rehoming"
+        "shelterName": "The Cosy Burrow Rescue and Rehoming",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#16b1975b-35a4-56f7-9e1e-1a6b54f998fe"
       }
     }
   }

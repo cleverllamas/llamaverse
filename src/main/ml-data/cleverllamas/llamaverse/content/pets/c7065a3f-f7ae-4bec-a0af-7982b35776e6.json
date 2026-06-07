@@ -17,7 +17,8 @@
         "sizeClass": "gigantic",
         "ownerName": "Angela",
         "shelterId": "c8de3d2b-6e9a-5ed1-bda7-9a50f977ddb9",
-        "shelterName": "The Quiet Pool"
+        "shelterName": "The Quiet Pool",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#bd2fdee3-46e5-56ce-820d-196cc31184ab"
       }
     }
   }

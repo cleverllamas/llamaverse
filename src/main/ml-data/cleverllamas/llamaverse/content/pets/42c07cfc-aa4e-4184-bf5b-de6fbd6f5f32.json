@@ -17,7 +17,8 @@
         "sizeClass": "microscopic",
         "ownerName": "Isolde",
         "shelterId": "4e1e0f71-7c69-5073-ab12-27cfd4257912",
-        "shelterName": "The Old Pond Sanctuary"
+        "shelterName": "The Old Pond Sanctuary",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#ae752e8e-5741-575f-8293-97abe1393e0e"
       }
     }
   }

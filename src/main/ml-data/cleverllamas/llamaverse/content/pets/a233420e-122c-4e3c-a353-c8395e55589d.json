@@ -17,7 +17,8 @@
         "sizeClass": "gigantic",
         "ownerName": "Isolde",
         "shelterId": "24d12d56-1e48-56e1-aa51-54df3c5f003c",
-        "shelterName": "The Stillness Institute"
+        "shelterName": "The Stillness Institute",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#7e172705-39a5-5fb7-adfb-8228eeb1856e"
       }
     }
   }

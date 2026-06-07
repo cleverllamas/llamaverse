@@ -17,7 +17,8 @@
         "sizeClass": "medium",
         "ownerName": "Jasper",
         "shelterId": "1d1ceadd-64ed-52d5-a416-b278d95c83d1",
-        "shelterName": "The Cosy Burrow Rescue and Rehoming"
+        "shelterName": "The Cosy Burrow Rescue and Rehoming",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#1520e2a9-f4e6-511c-8e08-d0a5c220b9f7"
       }
     }
   }

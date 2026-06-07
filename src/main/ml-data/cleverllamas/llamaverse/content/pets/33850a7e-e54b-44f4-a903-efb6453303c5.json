@@ -17,7 +17,8 @@
         "sizeClass": "microscopic",
         "ownerName": "Nigel",
         "shelterId": "4e1e0f71-7c69-5073-ab12-27cfd4257912",
-        "shelterName": "The Old Pond Sanctuary"
+        "shelterName": "The Old Pond Sanctuary",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#4df56e07-201b-57a6-81f4-3ad89e89a46f"
       }
     }
   }

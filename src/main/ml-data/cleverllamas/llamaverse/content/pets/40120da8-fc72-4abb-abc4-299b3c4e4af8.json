@@ -17,7 +17,8 @@
         "sizeClass": "gigantic",
         "ownerName": "Aaron",
         "shelterId": "a80124a7-0a88-582c-9362-e5c7aecd90d2",
-        "shelterName": "The Peculiar Menagerie of Llamaville East"
+        "shelterName": "The Peculiar Menagerie of Llamaville East",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#7e172705-39a5-5fb7-adfb-8228eeb1856e"
       }
     }
   }

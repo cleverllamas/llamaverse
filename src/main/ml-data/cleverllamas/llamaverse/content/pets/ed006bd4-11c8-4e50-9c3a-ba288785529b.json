@@ -17,7 +17,8 @@
         "sizeClass": "large",
         "ownerName": "Monique",
         "shelterId": "43593191-478d-5f0a-82ec-63ff4cc4122e",
-        "shelterName": "The Patagonian Wild Wing Refuge"
+        "shelterName": "The Patagonian Wild Wing Refuge",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#cc882f01-70bc-59f2-9224-e7c81406e187"
       }
     }
   }

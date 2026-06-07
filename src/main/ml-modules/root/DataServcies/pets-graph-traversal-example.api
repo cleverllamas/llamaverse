@@ -1,0 +1,17 @@
+{
+  "functionName": "traversePetClassification",
+  "desc": "Example endpoint that traverses the pets graph from pet to species and taxonomy hierarchy.",
+  "params": [
+    {
+      "name": "petId",
+      "datatype": "string",
+      "required": true,
+      "desc": "Pet UUID used to construct the pet ontology IRI."
+    }
+  ],
+  "return": {
+    "datatype": "jsonDocument",
+    "desc": "Traversal result containing species->kingdom chain for the pet.",
+    "$javaClass": "com.fasterxml.jackson.databind.JsonNode"
+  }
+}

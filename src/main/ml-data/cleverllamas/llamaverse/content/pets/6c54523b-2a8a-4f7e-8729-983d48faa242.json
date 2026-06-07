@@ -17,7 +17,8 @@
         "sizeClass": "medium",
         "ownerName": "Reginald",
         "shelterId": "2770733d-7079-5abc-92e8-6a21c74559c1",
-        "shelterName": "Deep Blue Creature Sanctuary"
+        "shelterName": "Deep Blue Creature Sanctuary",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#d199e379-f3cc-52af-8af8-0b61d7653216"
       }
     }
   }

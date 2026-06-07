@@ -1,6 +1,7 @@
 {
   "template": {
-    "description": "lv:hasSpecies triple from each wild-llama document.",
+    "description": "Legacy llama hasSpecies template (disabled; superseded by pet-species-triples and taxonomy-parent-triples).",
+    "enabled": false,
     "context": "/classificationSpeciesKey",
     "collections": [
       "wild-llamas"

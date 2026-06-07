@@ -15,7 +15,8 @@
         "speciesCommonName": "Frilled Lizard",
         "speciesScientificName": "Chlamydosaurus kingii",
         "sizeClass": "medium",
-        "ownerName": "Monique"
+        "ownerName": "Monique",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#7df28e13-e22b-525b-8182-77c51806deae"
       }
     }
   }

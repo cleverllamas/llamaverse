@@ -17,7 +17,8 @@
         "sizeClass": "large",
         "ownerName": "Kestrel",
         "shelterId": "1d1ceadd-64ed-52d5-a416-b278d95c83d1",
-        "shelterName": "The Cosy Burrow Rescue and Rehoming"
+        "shelterName": "The Cosy Burrow Rescue and Rehoming",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#4cb28c77-0517-541b-af3b-f1c4cc5efbd3"
       }
     }
   }

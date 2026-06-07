@@ -17,7 +17,8 @@
         "sizeClass": "tiny",
         "ownerName": "Percy",
         "shelterId": "8d977212-e5ba-55f4-be32-882c53197b49",
-        "shelterName": "The Wool and Scales Rehabilitation Centre"
+        "shelterName": "The Wool and Scales Rehabilitation Centre",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#8caf5f47-d6f0-5244-9dfc-3e271a0023b0"
       }
     }
   }

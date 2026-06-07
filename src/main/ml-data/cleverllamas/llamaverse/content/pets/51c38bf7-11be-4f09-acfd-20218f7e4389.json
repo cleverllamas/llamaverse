@@ -17,7 +17,8 @@
         "sizeClass": "small",
         "ownerName": "Gwen",
         "shelterId": "2770733d-7079-5abc-92e8-6a21c74559c1",
-        "shelterName": "Deep Blue Creature Sanctuary"
+        "shelterName": "Deep Blue Creature Sanctuary",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#7a0a0b09-06f3-5534-8613-4da111d626fd"
       }
     }
   }

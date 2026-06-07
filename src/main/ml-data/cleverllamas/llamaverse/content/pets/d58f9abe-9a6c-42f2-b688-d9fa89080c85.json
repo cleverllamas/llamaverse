@@ -17,7 +17,8 @@
         "sizeClass": "large",
         "ownerName": "Lorenzo",
         "shelterId": "2b312a04-c215-5098-9433-f5aab988726c",
-        "shelterName": "Apex Companions Forever"
+        "shelterName": "Apex Companions Forever",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#0c133273-8237-50b2-8b8d-eb636e709559"
       }
     }
   }

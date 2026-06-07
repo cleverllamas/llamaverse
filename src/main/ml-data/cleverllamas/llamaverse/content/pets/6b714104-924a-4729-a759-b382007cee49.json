@@ -17,7 +17,8 @@
         "sizeClass": "small",
         "ownerName": "Jasper",
         "shelterId": "24d12d56-1e48-56e1-aa51-54df3c5f003c",
-        "shelterName": "The Stillness Institute"
+        "shelterName": "The Stillness Institute",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#acbe160a-34a5-5c3e-b09b-16f95ee4ebeb"
       }
     }
   }

@@ -17,7 +17,8 @@
         "sizeClass": "small",
         "ownerName": "Jasper",
         "shelterId": "6d613241-5ad3-5197-8b01-500e8b607567",
-        "shelterName": "Fernanda's Home for Misunderstood Creatures"
+        "shelterName": "Fernanda's Home for Misunderstood Creatures",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#acbe160a-34a5-5c3e-b09b-16f95ee4ebeb"
       }
     }
   }

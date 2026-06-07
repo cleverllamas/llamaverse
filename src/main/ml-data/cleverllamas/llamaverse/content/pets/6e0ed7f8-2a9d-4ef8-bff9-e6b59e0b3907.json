@@ -17,7 +17,8 @@
         "sizeClass": "tiny",
         "ownerName": "Ophelia",
         "shelterId": "6d613241-5ad3-5197-8b01-500e8b607567",
-        "shelterName": "Fernanda's Home for Misunderstood Creatures"
+        "shelterName": "Fernanda's Home for Misunderstood Creatures",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#c53d8a11-eed9-5fa6-9707-f538f88860a2"
       }
     }
   }

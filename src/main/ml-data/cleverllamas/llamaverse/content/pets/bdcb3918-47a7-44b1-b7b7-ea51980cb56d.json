@@ -17,7 +17,8 @@
         "sizeClass": "microscopic",
         "ownerName": "Bradley",
         "shelterId": "1d1ceadd-64ed-52d5-a416-b278d95c83d1",
-        "shelterName": "The Cosy Burrow Rescue and Rehoming"
+        "shelterName": "The Cosy Burrow Rescue and Rehoming",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#2558e851-a3d6-51e7-9fd9-38aa2a8d795e"
       }
     }
   }

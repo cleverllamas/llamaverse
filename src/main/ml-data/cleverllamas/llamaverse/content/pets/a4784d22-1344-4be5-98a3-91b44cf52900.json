@@ -17,7 +17,8 @@
         "sizeClass": "large",
         "ownerName": "Bradley",
         "shelterId": "c8de3d2b-6e9a-5ed1-bda7-9a50f977ddb9",
-        "shelterName": "The Quiet Pool"
+        "shelterName": "The Quiet Pool",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#f10a2a25-b64d-5f51-bef7-d2d25f12028e"
       }
     }
   }

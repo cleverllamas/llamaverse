@@ -17,7 +17,8 @@
         "sizeClass": "medium",
         "ownerName": "Ophelia",
         "shelterId": "43593191-478d-5f0a-82ec-63ff4cc4122e",
-        "shelterName": "The Patagonian Wild Wing Refuge"
+        "shelterName": "The Patagonian Wild Wing Refuge",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#08975a97-6b10-5b93-a485-6982350d0c27"
       }
     }
   }

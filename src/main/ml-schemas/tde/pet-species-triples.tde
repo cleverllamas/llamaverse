@@ -1,0 +1,22 @@
+{
+  "template": {
+    "description": "Projects pet-to-species ontology triples from pet documents.",
+    "context": "/envelope/instance/pets[id and speciesOntologyIri]",
+    "collections": [
+      "pets"
+    ],
+    "triples": [
+      {
+        "subject": {
+          "val": "sem:iri(fn:concat('http://cleverllamas.llamaverse/ontology/pet#', id))"
+        },
+        "predicate": {
+          "val": "sem:iri('http://cleverllamas.llamaverse/ontology/hasSpecies')"
+        },
+        "object": {
+          "val": "sem:iri(speciesOntologyIri)"
+        }
+      }
+    ]
+  }
+}

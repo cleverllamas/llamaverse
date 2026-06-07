@@ -17,7 +17,8 @@
         "sizeClass": "small",
         "ownerName": "Elena",
         "shelterId": "e9a0f6a9-5a3f-51a3-ae37-19773f4ac55f",
-        "shelterName": "The Archipelago Orphanage"
+        "shelterName": "The Archipelago Orphanage",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#c3459914-3500-52fc-869a-f401325f49c7"
       }
     }
   }

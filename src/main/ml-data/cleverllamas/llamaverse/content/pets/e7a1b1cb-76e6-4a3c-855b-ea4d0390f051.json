@@ -17,7 +17,8 @@
         "sizeClass": "large",
         "ownerName": "Isolde",
         "shelterId": "2b312a04-c215-5098-9433-f5aab988726c",
-        "shelterName": "Apex Companions Forever"
+        "shelterName": "Apex Companions Forever",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#f9f424a2-3b5f-51b0-935e-5b903d8be114"
       }
     }
   }

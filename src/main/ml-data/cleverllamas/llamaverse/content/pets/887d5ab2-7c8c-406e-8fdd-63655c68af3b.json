@@ -15,7 +15,8 @@
         "speciesCommonName": "Leaf Insect",
         "speciesScientificName": "Phyllium giganteum",
         "sizeClass": "tiny",
-        "ownerName": "Lorenzo"
+        "ownerName": "Lorenzo",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#0d0586d7-02c8-59e4-bf65-dcb62dac406b"
       }
     }
   }

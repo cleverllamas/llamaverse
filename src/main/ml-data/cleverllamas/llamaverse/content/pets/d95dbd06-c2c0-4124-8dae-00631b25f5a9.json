@@ -17,7 +17,8 @@
         "sizeClass": "tiny",
         "ownerName": "Alice",
         "shelterId": "fea3da74-6337-5053-bffe-89e75d14ef03",
-        "shelterName": "The Wandering Fleece Animal Sanctuary"
+        "shelterName": "The Wandering Fleece Animal Sanctuary",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#3a40829e-4250-5a56-948e-20945e6afc8e"
       }
     }
   }

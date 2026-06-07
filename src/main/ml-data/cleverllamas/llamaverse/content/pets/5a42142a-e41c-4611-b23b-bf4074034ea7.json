@@ -15,7 +15,8 @@
         "speciesCommonName": "Coconut Crab",
         "speciesScientificName": "Birgus latro",
         "sizeClass": "large",
-        "ownerName": "Fernanda"
+        "ownerName": "Fernanda",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#cc6872d7-a2bd-50c8-9beb-fff7ad0e6f7d"
       }
     }
   }

@@ -17,7 +17,8 @@
         "sizeClass": "small",
         "ownerName": "Boris",
         "shelterId": "e9a0f6a9-5a3f-51a3-ae37-19773f4ac55f",
-        "shelterName": "The Archipelago Orphanage"
+        "shelterName": "The Archipelago Orphanage",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#33dd6c2d-a777-52a8-b14d-6b7d81c32a7d"
       }
     }
   }

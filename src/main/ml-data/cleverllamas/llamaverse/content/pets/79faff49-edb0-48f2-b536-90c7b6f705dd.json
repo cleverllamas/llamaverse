@@ -17,7 +17,8 @@
         "sizeClass": "small",
         "ownerName": "Ophelia",
         "shelterId": "fea3da74-6337-5053-bffe-89e75d14ef03",
-        "shelterName": "The Wandering Fleece Animal Sanctuary"
+        "shelterName": "The Wandering Fleece Animal Sanctuary",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#35e2d451-c968-5861-9de3-d10f8d8e6ff1"
       }
     }
   }

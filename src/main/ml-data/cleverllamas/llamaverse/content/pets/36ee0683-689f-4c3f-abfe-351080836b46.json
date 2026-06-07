@@ -17,7 +17,8 @@
         "sizeClass": "gigantic",
         "ownerName": "Kestrel",
         "shelterId": "6d613241-5ad3-5197-8b01-500e8b607567",
-        "shelterName": "Fernanda's Home for Misunderstood Creatures"
+        "shelterName": "Fernanda's Home for Misunderstood Creatures",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#a2ed5be3-68fd-57c7-bb40-cae87ba09f37"
       }
     }
   }

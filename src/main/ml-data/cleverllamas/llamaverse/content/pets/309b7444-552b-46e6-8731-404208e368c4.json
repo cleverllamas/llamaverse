@@ -17,7 +17,8 @@
         "sizeClass": "small",
         "ownerName": "Percy",
         "shelterId": "2b312a04-c215-5098-9433-f5aab988726c",
-        "shelterName": "Apex Companions Forever"
+        "shelterName": "Apex Companions Forever",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#7a0a0b09-06f3-5534-8613-4da111d626fd"
       }
     }
   }

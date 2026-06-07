@@ -17,7 +17,8 @@
         "sizeClass": "tiny",
         "ownerName": "Ophelia",
         "shelterId": "8d977212-e5ba-55f4-be32-882c53197b49",
-        "shelterName": "The Wool and Scales Rehabilitation Centre"
+        "shelterName": "The Wool and Scales Rehabilitation Centre",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#c53d8a11-eed9-5fa6-9707-f538f88860a2"
       }
     }
   }

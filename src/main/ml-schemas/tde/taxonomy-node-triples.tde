@@ -1,6 +1,7 @@
 {
   "template": {
     "description": "Hierarchy triples from llamaverse taxonomy node documents.",
+    "enabled": false,
     "context": "/uri",
     "collections": [
       "ontology"

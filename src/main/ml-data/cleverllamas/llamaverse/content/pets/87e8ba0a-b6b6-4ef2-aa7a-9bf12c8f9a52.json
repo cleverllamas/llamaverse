@@ -17,7 +17,8 @@
         "sizeClass": "large",
         "ownerName": "Jasper",
         "shelterId": "c8de3d2b-6e9a-5ed1-bda7-9a50f977ddb9",
-        "shelterName": "The Quiet Pool"
+        "shelterName": "The Quiet Pool",
+        "speciesOntologyIri": "http://cleverllamas.llamaverse/ontology/species#0c133273-8237-50b2-8b8d-eb636e709559"
       }
     }
   }
