@@ -40,6 +40,11 @@ echo ""
 echo "Step 3: Final cleanup of internal-only files..."
 rm -f "$PUBLIC_DIR"/*.py "$PUBLIC_DIR"/gradle*.properties "$PUBLIC_DIR"/gradlew "$PUBLIC_DIR"/gradlew.bat 2>/dev/null || true
 rm -rf "$PUBLIC_DIR"/build "$PUBLIC_DIR"/.gradle "$PUBLIC_DIR"/gradle 2>/dev/null || true
+
+# Enforce the public README canonical content on every release
+cat > "$PUBLIC_DIR/README.md" <<'EOF'
+For information about this repo, plesae visit https://cleverllamas.com/articles/llamaverse
+EOF
 echo "✓ Internal files removed"
 
 # Step 4: Commit cleaned version to public local
@@ -57,13 +62,18 @@ echo "✓ Committed"
 # Step 5: Tag the release in public local
 echo ""
 echo "Step 5: Tagging version $VERSION in public repo..."
-git tag -a "$VERSION" -m "Release version $VERSION" 2>/dev/null || echo "Tag already exists, overwriting..." && git tag -d "$VERSION" && git tag -a "$VERSION" -m "Release version $VERSION"
+if git rev-parse "$VERSION" >/dev/null 2>&1; then
+  echo "Tag already exists, overwriting..."
+  git tag -d "$VERSION"
+fi
+git tag -a "$VERSION" -m "Release version $VERSION"
 echo "✓ Tagged"
 
 # Step 6: Push to public remote
 echo ""
 echo "Step 6: Pushing main and tag to public remote..."
 git push origin main --force
+git push origin :refs/tags/"$VERSION" 2>/dev/null || true
 git push origin "$VERSION"
 echo "✓ Pushed to public remote"
 

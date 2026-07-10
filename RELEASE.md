@@ -12,6 +12,11 @@ Releases follow a clean private-to-public workflow where internal files are filt
 - Build scripts: `gradlew`, `gradlew.bat`
 - Gradle config: `gradle/` directory
 
+## Required Public README Content
+For every public release, `README.md` must be exactly:
+
+`For information about this repo, plesae visit https://cleverllamas.com/articles/llamaverse`
+
 ## Prerequisites
 - Private repo has all changes committed and pushed
 - Public repo local checkout exists at `../../public/llamaverse`
@@ -57,6 +62,11 @@ rsync -av --delete /home/david/work/cl2/llamaverse/private/llamaverse-internal/ 
 # Final cleanup
 rm -f *.py gradle*.properties gradlew gradlew.bat
 rm -rf build .gradle gradle
+
+# Force README to canonical public text
+cat > README.md <<'EOF'
+For information about this repo, plesae visit https://cleverllamas.com/articles/llamaverse
+EOF
 ```
 
 ### Step 3: Commit Cleaned Version
