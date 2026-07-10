@@ -1,0 +1,18 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "llama-farm"
+    },
+    "instance": {
+      "llama-farm": {
+        "id": "farm-sunny-ranch",
+        "name": "Sunny Llama Ranch",
+        "county": "Galway",
+        "location": {
+          "lat": 53.5414,
+          "lon": -9.1374
+        }
+      }
+    }
+  }
+}

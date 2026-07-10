@@ -1,0 +1,22 @@
+# Files and directories to exclude from public release sync
+# These remain internal-only in the private repo
+
+# Python scripts and data generation tools
+*.py
+
+# Gradle configuration with passwords
+gradle.properties
+gradle-ml12.properties
+
+# Build files and artifacts
+build.gradle
+gradlew
+gradlew.bat
+gradle/
+build/
+.gradle/
+
+# Internal release tooling (only release.sh and RELEASE.md are for internal docs)
+# Public gets release artifacts only, not the automation scripts
+release.sh
+RELEASE.md

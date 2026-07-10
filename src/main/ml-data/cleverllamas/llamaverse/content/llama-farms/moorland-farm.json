@@ -1,0 +1,18 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "llama-farm"
+    },
+    "instance": {
+      "llama-farm": {
+        "id": "farm-moorland",
+        "name": "Moorland Llama Farm",
+        "county": "Mayo",
+        "location": {
+          "lat": 53.7563,
+          "lon": -9.3908
+        }
+      }
+    }
+  }
+}

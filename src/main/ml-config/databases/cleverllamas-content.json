@@ -32,6 +32,33 @@
   "one-character-searches": false,
   "uri-lexicon": true,
   "collection-lexicon": true,
+  "field": [
+    {
+      "field-name": "",
+      "include-root": true
+    },
+    {
+      "field-name": "llama-species-unified",
+      "include-root": true,
+      "included-element": [
+        {
+          "namespace-uri": "",
+          "localname": "breed",
+          "weight": 1.0
+        },
+        {
+          "namespace-uri": "",
+          "localname": "species",
+          "weight": 1.0
+        },
+        {
+          "namespace-uri": "http://marklogic.com/xdmp/property",
+          "localname": "species",
+          "weight": 1.0
+        }
+      ]
+    }
+  ],
   "reindexer-enable": true,
   "reindexer-throttle": 5,
   "reindexer-timestamp": 0,
@@ -106,6 +133,37 @@
       "path-expression": "/name",
       "collation": "http://marklogic.com/collation/",
       "range-value-positions": false,
+      "invalid-values": "reject"
+    }
+  ],
+  "range-field-index": [
+    {
+      "scalar-type": "string",
+      "field-name": "llama-species-unified",
+      "collation": "http://marklogic.com/collation/",
+      "range-value-positions": false,
+      "invalid-values": "reject"
+    }
+  ],
+  "geospatial-element-pair-index": [
+    {
+      "parent-namespace-uri": "",
+      "parent-localname": "location",
+      "latitude-namespace-uri": "",
+      "latitude-localname": "lat",
+      "longitude-namespace-uri": "",
+      "longitude-localname": "lon",
+      "coordinate-system": "wgs84",
+      "range-value-positions": false,
+      "invalid-values": "reject"
+    }
+  ],
+  "geospatial-region-path-index": [
+    {
+      "path-expression": "/envelope/instance/grazing-zone/boundary",
+      "coordinate-system": "wgs84",
+      "units": "miles",
+      "geohash-precision": 6,
       "invalid-values": "reject"
     }
   ]

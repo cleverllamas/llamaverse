@@ -1,0 +1,40 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "grazing-zone"
+    },
+    "instance": {
+      "grazing-zone": {
+        "id": "zone-coastal",
+        "name": "Coastal Grazing Zone",
+        "boundary": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -9.42,
+                53.70
+              ],
+              [
+                -9.14,
+                53.70
+              ],
+              [
+                -9.14,
+                53.84
+              ],
+              [
+                -9.42,
+                53.84
+              ],
+              [
+                -9.42,
+                53.70
+              ]
+            ]
+          ]
+        }
+      }
+    }
+  }
+}
