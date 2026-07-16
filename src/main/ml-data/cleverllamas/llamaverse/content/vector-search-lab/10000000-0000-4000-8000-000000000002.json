@@ -1,0 +1,21 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "vector-search-lab",
+      "version": "2.3"
+    },
+    "instance": {
+      "vectorKnowledgeChunk": {
+        "id": "10000000-0000-4000-8000-000000000002",
+        "topic": "fleece-quality",
+        "title": "Carding readiness and humidity windows",
+        "llamaIds": [
+          "3496742f-0c74-4ccb-9770-82b5bb6ea9d8"
+        ],
+        "keywords": ["fleece", "humidity", "carding", "processing"],
+        "text": "Carding outcomes improved when fleece batches were stabilized between forty-five and fifty percent humidity before separation. Above that threshold, fibre clumping increased and grading confidence dropped.",
+        "embedding": [0.785, 0.752, 0.719, 0.688, 0.109, 0.098, 0.087, 0.092, 0.101, 0.094, 0.076, 0.081, 0.062, 0.057, 0.055, 0.049]
+      }
+    }
+  }
+}

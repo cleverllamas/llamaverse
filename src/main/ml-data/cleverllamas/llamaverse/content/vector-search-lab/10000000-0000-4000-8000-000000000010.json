@@ -1,0 +1,45 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "vector-search-lab",
+      "version": "2.3"
+    },
+    "instance": {
+      "vectorKnowledgeChunk": {
+        "id": "10000000-0000-4000-8000-000000000010",
+        "topic": "fleece-quality",
+        "title": "Staple alignment after rotational paddock changes (2)",
+        "llamaIds": [
+          "92d7dc75-953d-4a28-8516-3467198516b8",
+          "47063877-0841-4adc-8a77-32703130aa68"
+        ],
+        "keywords": [
+          "fleece",
+          "micron",
+          "shearing",
+          "humidity"
+        ],
+        "text": "Operational review for fleece-quality showed measurable change in cohort 2. Analysts linked outcomes to fleece and micron controls, with secondary effects from shearing planning and humidity safeguards.",
+        "hardNegative": false,
+        "embedding": [
+          0.811,
+          0.755,
+          0.729,
+          0.705,
+          0.1,
+          0.121,
+          0.088,
+          0.085,
+          0.119,
+          0.079,
+          0.09,
+          0.09,
+          0.057,
+          0.077,
+          0.044,
+          0.059
+        ]
+      }
+    }
+  }
+}

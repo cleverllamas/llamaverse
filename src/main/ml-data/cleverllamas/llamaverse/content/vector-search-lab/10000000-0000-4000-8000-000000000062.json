@@ -1,0 +1,45 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "vector-search-lab",
+      "version": "2.3"
+    },
+    "instance": {
+      "vectorKnowledgeChunk": {
+        "id": "10000000-0000-4000-8000-000000000062",
+        "topic": "movement-risk",
+        "title": "Path rotation impact on evening recovery (10)",
+        "llamaIds": [
+          "92d7dc75-953d-4a28-8516-3467198516b8",
+          "47063877-0841-4adc-8a77-32703130aa68"
+        ],
+        "keywords": [
+          "movement",
+          "route",
+          "fatigue",
+          "slope"
+        ],
+        "text": "Operational review for movement-risk showed measurable change in cohort 10. Analysts linked outcomes to movement and route controls, with secondary effects from fatigue planning and slope safeguards.",
+        "hardNegative": false,
+        "embedding": [
+          0.093,
+          0.081,
+          0.058,
+          0.079,
+          0.114,
+          0.103,
+          0.116,
+          0.085,
+          0.82,
+          0.798,
+          0.743,
+          0.738,
+          0.086,
+          0.063,
+          0.08,
+          0.052
+        ]
+      }
+    }
+  }
+}

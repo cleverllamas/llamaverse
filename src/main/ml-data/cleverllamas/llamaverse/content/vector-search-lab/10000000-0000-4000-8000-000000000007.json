@@ -1,0 +1,21 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "vector-search-lab",
+      "version": "2.3"
+    },
+    "instance": {
+      "vectorKnowledgeChunk": {
+        "id": "10000000-0000-4000-8000-000000000007",
+        "topic": "behaviour-stability",
+        "title": "Feeding-order stress in mixed-age groups",
+        "llamaIds": [
+          "8e0c1bfb-a867-44b0-9345-7194154e5c1e"
+        ],
+        "keywords": ["behaviour", "stress", "feeding", "group-dynamics"],
+        "text": "Mixed-age feeding lines triggered repeated dominance contests near trough entries. Separating adolescent cohorts for first feeding pass improved intake consistency and reduced handler intervention.",
+        "embedding": [0.074, 0.069, 0.063, 0.058, 0.129, 0.117, 0.109, 0.098, 0.136, 0.124, 0.113, 0.107, 0.801, 0.776, 0.748, 0.721]
+      }
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "vector-search-lab",
+      "version": "2.3"
+    },
+    "instance": {
+      "vectorKnowledgeChunk": {
+        "id": "10000000-0000-4000-8000-000000000013",
+        "topic": "fleece-quality",
+        "title": "Fleece break risk under abrupt forage shifts (5)",
+        "llamaIds": [
+          "92d7dc75-953d-4a28-8516-3467198516b8",
+          "47063877-0841-4adc-8a77-32703130aa68"
+        ],
+        "keywords": [
+          "fleece",
+          "micron",
+          "shearing",
+          "humidity"
+        ],
+        "text": "Operational review for fleece-quality showed measurable change in cohort 5. Analysts linked outcomes to fleece and micron controls, with secondary effects from shearing planning and humidity safeguards.",
+        "hardNegative": false,
+        "embedding": [
+          0.812,
+          0.772,
+          0.735,
+          0.691,
+          0.103,
+          0.096,
+          0.079,
+          0.083,
+          0.108,
+          0.1,
+          0.093,
+          0.105,
+          0.074,
+          0.067,
+          0.053,
+          0.041
+        ]
+      }
+    }
+  }
+}

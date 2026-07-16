@@ -1,0 +1,45 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "vector-search-lab",
+      "version": "2.3"
+    },
+    "instance": {
+      "vectorKnowledgeChunk": {
+        "id": "10000000-0000-4000-8000-000000000023",
+        "topic": "fleece-quality",
+        "title": "Shearing window variance in late spring (15)",
+        "llamaIds": [
+          "47063877-0841-4adc-8a77-32703130aa68",
+          "9c14f3e1-b8c5-4a09-b6da-2f9414ad9130"
+        ],
+        "keywords": [
+          "fleece",
+          "micron",
+          "shearing",
+          "humidity"
+        ],
+        "text": "Operational review for fleece-quality showed measurable change in cohort 15. Analysts linked outcomes to fleece and micron controls, with secondary effects from shearing planning and humidity safeguards.",
+        "hardNegative": false,
+        "embedding": [
+          0.812,
+          0.75,
+          0.738,
+          0.696,
+          0.106,
+          0.122,
+          0.078,
+          0.101,
+          0.102,
+          0.091,
+          0.089,
+          0.078,
+          0.078,
+          0.053,
+          0.062,
+          0.054
+        ]
+      }
+    }
+  }
+}

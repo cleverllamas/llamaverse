@@ -1,0 +1,45 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "vector-search-lab",
+      "version": "2.3"
+    },
+    "instance": {
+      "vectorKnowledgeChunk": {
+        "id": "10000000-0000-4000-8000-000000000086",
+        "topic": "behaviour-stability",
+        "title": "Social mixing effects in mixed-age cohorts (12)",
+        "llamaIds": [
+          "47063877-0841-4adc-8a77-32703130aa68",
+          "9c14f3e1-b8c5-4a09-b6da-2f9414ad9130"
+        ],
+        "keywords": [
+          "behaviour",
+          "stress",
+          "transport",
+          "group"
+        ],
+        "text": "Operational review for behaviour-stability showed measurable change in cohort 12. Analysts linked outcomes to behaviour and stress controls, with secondary effects from transport planning and group safeguards.",
+        "hardNegative": false,
+        "embedding": [
+          0.083,
+          0.062,
+          0.054,
+          0.068,
+          0.112,
+          0.121,
+          0.107,
+          0.085,
+          0.146,
+          0.111,
+          0.112,
+          0.11,
+          0.779,
+          0.78,
+          0.735,
+          0.71
+        ]
+      }
+    }
+  }
+}

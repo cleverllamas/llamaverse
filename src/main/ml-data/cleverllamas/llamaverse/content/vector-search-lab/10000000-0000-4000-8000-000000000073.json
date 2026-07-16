@@ -1,0 +1,46 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "vector-search-lab",
+      "version": "2.3"
+    },
+    "instance": {
+      "vectorKnowledgeChunk": {
+        "id": "10000000-0000-4000-8000-000000000073",
+        "topic": "movement-risk",
+        "title": "Route gradient fatigue accumulation hard-negative (5)",
+        "llamaIds": [
+          "0c8bdb0d-ac62-49b7-ac74-94dbba46efa5",
+          "a6c69bb3-fa75-4327-bed6-1f0623ae2c6c"
+        ],
+        "keywords": [
+          "movement",
+          "route",
+          "respiratory",
+          "dust"
+        ],
+        "text": "This movement-risk note intentionally includes lexical bait terms like respiratory and dust while remaining a movement-risk case. It documents movement controls and fatigue remediation with no true respiratory-care incident.",
+        "hardNegative": true,
+        "hardNegativeForTopic": "respiratory-care",
+        "embedding": [
+          0.089,
+          0.062,
+          0.079,
+          0.074,
+          0.103,
+          0.115,
+          0.114,
+          0.081,
+          0.82,
+          0.803,
+          0.743,
+          0.726,
+          0.099,
+          0.065,
+          0.059,
+          0.074
+        ]
+      }
+    }
+  }
+}

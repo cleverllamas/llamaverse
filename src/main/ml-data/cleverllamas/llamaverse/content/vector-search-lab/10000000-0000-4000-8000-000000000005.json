@@ -1,0 +1,22 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "vector-search-lab",
+      "version": "2.3"
+    },
+    "instance": {
+      "vectorKnowledgeChunk": {
+        "id": "10000000-0000-4000-8000-000000000005",
+        "topic": "movement-risk",
+        "title": "Slope fatigue pattern from GPS history",
+        "llamaIds": [
+          "0c8bdb0d-ac62-49b7-ac74-94dbba46efa5",
+          "47063877-0841-4adc-8a77-32703130aa68"
+        ],
+        "keywords": ["movement", "geospatial", "fatigue", "risk"],
+        "text": "Steep return paths above eleven percent grade correlated with elevated fatigue markers by evening checks. Route rotation every third day lowered cumulative strain and reduced overnight restlessness.",
+        "embedding": [0.088, 0.079, 0.071, 0.069, 0.117, 0.108, 0.102, 0.095, 0.832, 0.801, 0.768, 0.739, 0.082, 0.076, 0.064, 0.059]
+      }
+    }
+  }
+}

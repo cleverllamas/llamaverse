@@ -1,0 +1,45 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "vector-search-lab",
+      "version": "2.3"
+    },
+    "instance": {
+      "vectorKnowledgeChunk": {
+        "id": "10000000-0000-4000-8000-000000000079",
+        "topic": "behaviour-stability",
+        "title": "Noise events and herd composure (5)",
+        "llamaIds": [
+          "92d7dc75-953d-4a28-8516-3467198516b8",
+          "47063877-0841-4adc-8a77-32703130aa68"
+        ],
+        "keywords": [
+          "behaviour",
+          "stress",
+          "transport",
+          "group"
+        ],
+        "text": "Operational review for behaviour-stability showed measurable change in cohort 5. Analysts linked outcomes to behaviour and stress controls, with secondary effects from transport planning and group safeguards.",
+        "hardNegative": false,
+        "embedding": [
+          0.085,
+          0.069,
+          0.047,
+          0.05,
+          0.138,
+          0.12,
+          0.093,
+          0.088,
+          0.144,
+          0.13,
+          0.1,
+          0.092,
+          0.801,
+          0.779,
+          0.733,
+          0.702
+        ]
+      }
+    }
+  }
+}

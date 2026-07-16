@@ -1,0 +1,46 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "vector-search-lab",
+      "version": "2.3"
+    },
+    "instance": {
+      "vectorKnowledgeChunk": {
+        "id": "10000000-0000-4000-8000-000000000050",
+        "topic": "respiratory-care",
+        "title": "Humidity spikes and breathing effort patterns hard-negative (4)",
+        "llamaIds": [
+          "0c8bdb0d-ac62-49b7-ac74-94dbba46efa5",
+          "a6c69bb3-fa75-4327-bed6-1f0623ae2c6c"
+        ],
+        "keywords": [
+          "respiratory",
+          "dust",
+          "movement",
+          "route"
+        ],
+        "text": "This respiratory-care note intentionally includes lexical bait terms like movement and route while remaining a respiratory-care case. It documents respiratory controls and airflow remediation with no true movement-risk incident.",
+        "hardNegative": true,
+        "hardNegativeForTopic": "movement-risk",
+        "embedding": [
+          0.082,
+          0.083,
+          0.088,
+          0.09,
+          0.831,
+          0.797,
+          0.761,
+          0.726,
+          0.119,
+          0.104,
+          0.09,
+          0.09,
+          0.084,
+          0.083,
+          0.076,
+          0.063
+        ]
+      }
+    }
+  }
+}

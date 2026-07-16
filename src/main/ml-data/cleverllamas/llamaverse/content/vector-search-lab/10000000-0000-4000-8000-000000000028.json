@@ -1,0 +1,46 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "vector-search-lab",
+      "version": "2.3"
+    },
+    "instance": {
+      "vectorKnowledgeChunk": {
+        "id": "10000000-0000-4000-8000-000000000028",
+        "topic": "fleece-quality",
+        "title": "Micron consistency after shelter relocation hard-negative (4)",
+        "llamaIds": [
+          "a6c69bb3-fa75-4327-bed6-1f0623ae2c6c",
+          "87128167-3fbf-4f18-8eab-a77d44eb5fc8"
+        ],
+        "keywords": [
+          "fleece",
+          "micron",
+          "behaviour",
+          "stress"
+        ],
+        "text": "This fleece-quality note intentionally includes lexical bait terms like behaviour and stress while remaining a fleece-quality case. It documents fleece controls and shearing remediation with no true behaviour-stability incident.",
+        "hardNegative": true,
+        "hardNegativeForTopic": "behaviour-stability",
+        "embedding": [
+          0.799,
+          0.775,
+          0.717,
+          0.697,
+          0.126,
+          0.095,
+          0.095,
+          0.102,
+          0.092,
+          0.096,
+          0.092,
+          0.076,
+          0.068,
+          0.075,
+          0.041,
+          0.057
+        ]
+      }
+    }
+  }
+}

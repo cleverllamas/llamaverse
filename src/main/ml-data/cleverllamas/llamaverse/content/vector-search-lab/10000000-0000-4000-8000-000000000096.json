@@ -1,0 +1,46 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "vector-search-lab",
+      "version": "2.3"
+    },
+    "instance": {
+      "vectorKnowledgeChunk": {
+        "id": "10000000-0000-4000-8000-000000000096",
+        "topic": "behaviour-stability",
+        "title": "Handler transition and agitation signals hard-negative (6)",
+        "llamaIds": [
+          "0c8bdb0d-ac62-49b7-ac74-94dbba46efa5",
+          "a6c69bb3-fa75-4327-bed6-1f0623ae2c6c"
+        ],
+        "keywords": [
+          "behaviour",
+          "stress",
+          "fleece",
+          "micron"
+        ],
+        "text": "This behaviour-stability note intentionally includes lexical bait terms like fleece and micron while remaining a behaviour-stability case. It documents behaviour controls and transport remediation with no true fleece-quality incident.",
+        "hardNegative": true,
+        "hardNegativeForTopic": "fleece-quality",
+        "embedding": [
+          0.08,
+          0.055,
+          0.073,
+          0.04,
+          0.141,
+          0.098,
+          0.121,
+          0.081,
+          0.146,
+          0.109,
+          0.119,
+          0.096,
+          0.796,
+          0.767,
+          0.738,
+          0.72
+        ]
+      }
+    }
+  }
+}

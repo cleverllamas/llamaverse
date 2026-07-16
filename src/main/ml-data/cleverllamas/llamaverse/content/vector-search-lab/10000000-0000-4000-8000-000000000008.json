@@ -1,0 +1,21 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "vector-search-lab",
+      "version": "2.3"
+    },
+    "instance": {
+      "vectorKnowledgeChunk": {
+        "id": "10000000-0000-4000-8000-000000000008",
+        "topic": "behaviour-stability",
+        "title": "Noise desensitisation before transport",
+        "llamaIds": [
+          "a7f7886c-9843-4ddc-b76b-126b8b817fbf"
+        ],
+        "keywords": ["behaviour", "transport", "conditioning", "noise"],
+        "text": "Transport-day agitation fell when trailer-noise conditioning sessions were introduced over ten days. Controlled exposure paired with calm handling improved loading flow and reduced pacing episodes.",
+        "embedding": [0.068, 0.063, 0.057, 0.052, 0.121, 0.111, 0.101, 0.093, 0.129, 0.118, 0.107, 0.098, 0.784, 0.759, 0.733, 0.708]
+      }
+    }
+  }
+}

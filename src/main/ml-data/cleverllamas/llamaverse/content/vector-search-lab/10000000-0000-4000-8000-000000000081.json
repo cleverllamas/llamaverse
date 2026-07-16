@@ -1,0 +1,45 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "vector-search-lab",
+      "version": "2.3"
+    },
+    "instance": {
+      "vectorKnowledgeChunk": {
+        "id": "10000000-0000-4000-8000-000000000081",
+        "topic": "behaviour-stability",
+        "title": "Group tension during feeding order changes (7)",
+        "llamaIds": [
+          "9c14f3e1-b8c5-4a09-b6da-2f9414ad9130",
+          "92d7dc75-953d-4a28-8516-3467198516b8"
+        ],
+        "keywords": [
+          "behaviour",
+          "stress",
+          "transport",
+          "group"
+        ],
+        "text": "Operational review for behaviour-stability showed measurable change in cohort 7. Analysts linked outcomes to behaviour and stress controls, with secondary effects from transport planning and group safeguards.",
+        "hardNegative": false,
+        "embedding": [
+          0.059,
+          0.058,
+          0.07,
+          0.067,
+          0.119,
+          0.101,
+          0.106,
+          0.109,
+          0.136,
+          0.108,
+          0.103,
+          0.113,
+          0.803,
+          0.76,
+          0.727,
+          0.717
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "vector-search-lab",
+      "version": "2.3"
+    },
+    "instance": {
+      "vectorKnowledgeChunk": {
+        "id": "10000000-0000-4000-8000-000000000042",
+        "topic": "respiratory-care",
+        "title": "Humidity spikes and breathing effort patterns (12)",
+        "llamaIds": [
+          "92d7dc75-953d-4a28-8516-3467198516b8",
+          "47063877-0841-4adc-8a77-32703130aa68"
+        ],
+        "keywords": [
+          "respiratory",
+          "dust",
+          "airflow",
+          "barn"
+        ],
+        "text": "Operational review for respiratory-care showed measurable change in cohort 12. Analysts linked outcomes to respiratory and dust controls, with secondary effects from airflow planning and barn safeguards.",
+        "hardNegative": false,
+        "embedding": [
+          0.084,
+          0.097,
+          0.094,
+          0.067,
+          0.808,
+          0.798,
+          0.762,
+          0.72,
+          0.135,
+          0.133,
+          0.094,
+          0.077,
+          0.082,
+          0.077,
+          0.05,
+          0.051
+        ]
+      }
+    }
+  }
+}

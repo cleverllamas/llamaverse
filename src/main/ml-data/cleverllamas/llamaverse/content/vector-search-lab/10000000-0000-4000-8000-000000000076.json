@@ -1,0 +1,45 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "vector-search-lab",
+      "version": "2.3"
+    },
+    "instance": {
+      "vectorKnowledgeChunk": {
+        "id": "10000000-0000-4000-8000-000000000076",
+        "topic": "behaviour-stability",
+        "title": "Handler transition and agitation signals (2)",
+        "llamaIds": [
+          "92d7dc75-953d-4a28-8516-3467198516b8",
+          "47063877-0841-4adc-8a77-32703130aa68"
+        ],
+        "keywords": [
+          "behaviour",
+          "stress",
+          "transport",
+          "group"
+        ],
+        "text": "Operational review for behaviour-stability showed measurable change in cohort 2. Analysts linked outcomes to behaviour and stress controls, with secondary effects from transport planning and group safeguards.",
+        "hardNegative": false,
+        "embedding": [
+          0.084,
+          0.08,
+          0.073,
+          0.065,
+          0.13,
+          0.114,
+          0.1,
+          0.086,
+          0.12,
+          0.107,
+          0.097,
+          0.092,
+          0.787,
+          0.767,
+          0.746,
+          0.724
+        ]
+      }
+    }
+  }
+}

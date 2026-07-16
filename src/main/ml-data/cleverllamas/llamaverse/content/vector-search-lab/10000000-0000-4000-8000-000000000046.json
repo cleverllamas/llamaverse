@@ -1,0 +1,45 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "vector-search-lab",
+      "version": "2.3"
+    },
+    "instance": {
+      "vectorKnowledgeChunk": {
+        "id": "10000000-0000-4000-8000-000000000046",
+        "topic": "respiratory-care",
+        "title": "Airflow zoning near feeding lanes (16)",
+        "llamaIds": [
+          "47063877-0841-4adc-8a77-32703130aa68",
+          "9c14f3e1-b8c5-4a09-b6da-2f9414ad9130"
+        ],
+        "keywords": [
+          "respiratory",
+          "dust",
+          "airflow",
+          "barn"
+        ],
+        "text": "Operational review for respiratory-care showed measurable change in cohort 16. Analysts linked outcomes to respiratory and dust controls, with secondary effects from airflow planning and barn safeguards.",
+        "hardNegative": false,
+        "embedding": [
+          0.088,
+          0.077,
+          0.085,
+          0.091,
+          0.821,
+          0.774,
+          0.746,
+          0.736,
+          0.147,
+          0.124,
+          0.088,
+          0.078,
+          0.078,
+          0.081,
+          0.066,
+          0.045
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "vector-search-lab",
+      "version": "2.3"
+    },
+    "instance": {
+      "vectorKnowledgeChunk": {
+        "id": "10000000-0000-4000-8000-000000000001",
+        "topic": "fleece-quality",
+        "title": "Micron drift after wet spring grazing",
+        "llamaIds": [
+          "0c8bdb0d-ac62-49b7-ac74-94dbba46efa5",
+          "a6c69bb3-fa75-4327-bed6-1f0623ae2c6c"
+        ],
+        "keywords": ["fleece", "micron", "nutrition", "pasture"],
+        "text": "Late spring rain increased pasture sugar spikes, and fleece micron drifted upward in older huacaya males. Corrective feeding with controlled-energy hay and copper-balanced minerals restored consistency within three shearing cycles.",
+        "embedding": [0.812, 0.771, 0.744, 0.702, 0.118, 0.121, 0.097, 0.088, 0.114, 0.091, 0.084, 0.102, 0.066, 0.071, 0.059, 0.054]
+      }
+    }
+  }
+}

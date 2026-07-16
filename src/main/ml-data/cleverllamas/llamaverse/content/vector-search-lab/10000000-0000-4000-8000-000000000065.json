@@ -1,0 +1,45 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "vector-search-lab",
+      "version": "2.3"
+    },
+    "instance": {
+      "vectorKnowledgeChunk": {
+        "id": "10000000-0000-4000-8000-000000000065",
+        "topic": "movement-risk",
+        "title": "Route gradient fatigue accumulation (13)",
+        "llamaIds": [
+          "92d7dc75-953d-4a28-8516-3467198516b8",
+          "47063877-0841-4adc-8a77-32703130aa68"
+        ],
+        "keywords": [
+          "movement",
+          "route",
+          "fatigue",
+          "slope"
+        ],
+        "text": "Operational review for movement-risk showed measurable change in cohort 13. Analysts linked outcomes to movement and route controls, with secondary effects from fatigue planning and slope safeguards.",
+        "hardNegative": false,
+        "embedding": [
+          0.098,
+          0.091,
+          0.083,
+          0.076,
+          0.124,
+          0.11,
+          0.097,
+          0.086,
+          0.806,
+          0.775,
+          0.743,
+          0.719,
+          0.078,
+          0.075,
+          0.071,
+          0.068
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "vector-search-lab",
+      "version": "2.3"
+    },
+    "instance": {
+      "vectorKnowledgeChunk": {
+        "id": "10000000-0000-4000-8000-000000000054",
+        "topic": "movement-risk",
+        "title": "Detour load under water-point crowding (2)",
+        "llamaIds": [
+          "47063877-0841-4adc-8a77-32703130aa68",
+          "9c14f3e1-b8c5-4a09-b6da-2f9414ad9130"
+        ],
+        "keywords": [
+          "movement",
+          "route",
+          "fatigue",
+          "slope"
+        ],
+        "text": "Operational review for movement-risk showed measurable change in cohort 2. Analysts linked outcomes to movement and route controls, with secondary effects from fatigue planning and slope safeguards.",
+        "hardNegative": false,
+        "embedding": [
+          0.083,
+          0.08,
+          0.067,
+          0.069,
+          0.115,
+          0.114,
+          0.098,
+          0.101,
+          0.813,
+          0.795,
+          0.75,
+          0.736,
+          0.076,
+          0.083,
+          0.057,
+          0.067
+        ]
+      }
+    }
+  }
+}

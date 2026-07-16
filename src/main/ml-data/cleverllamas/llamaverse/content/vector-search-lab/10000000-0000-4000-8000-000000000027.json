@@ -1,0 +1,46 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "vector-search-lab",
+      "version": "2.3"
+    },
+    "instance": {
+      "vectorKnowledgeChunk": {
+        "id": "10000000-0000-4000-8000-000000000027",
+        "topic": "fleece-quality",
+        "title": "Fleece break risk under abrupt forage shifts hard-negative (3)",
+        "llamaIds": [
+          "0c8bdb0d-ac62-49b7-ac74-94dbba46efa5",
+          "a6c69bb3-fa75-4327-bed6-1f0623ae2c6c"
+        ],
+        "keywords": [
+          "fleece",
+          "micron",
+          "behaviour",
+          "stress"
+        ],
+        "text": "This fleece-quality note intentionally includes lexical bait terms like behaviour and stress while remaining a fleece-quality case. It documents fleece controls and shearing remediation with no true behaviour-stability incident.",
+        "hardNegative": true,
+        "hardNegativeForTopic": "behaviour-stability",
+        "embedding": [
+          0.813,
+          0.77,
+          0.73,
+          0.684,
+          0.098,
+          0.096,
+          0.086,
+          0.094,
+          0.12,
+          0.108,
+          0.093,
+          0.096,
+          0.058,
+          0.05,
+          0.041,
+          0.04
+        ]
+      }
+    }
+  }
+}

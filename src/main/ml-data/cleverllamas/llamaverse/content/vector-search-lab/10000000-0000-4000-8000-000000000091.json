@@ -1,0 +1,46 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "vector-search-lab",
+      "version": "2.3"
+    },
+    "instance": {
+      "vectorKnowledgeChunk": {
+        "id": "10000000-0000-4000-8000-000000000091",
+        "topic": "behaviour-stability",
+        "title": "Pre-transport desensitisation routines hard-negative (1)",
+        "llamaIds": [
+          "a6c69bb3-fa75-4327-bed6-1f0623ae2c6c",
+          "87128167-3fbf-4f18-8eab-a77d44eb5fc8"
+        ],
+        "keywords": [
+          "behaviour",
+          "stress",
+          "fleece",
+          "micron"
+        ],
+        "text": "This behaviour-stability note intentionally includes lexical bait terms like fleece and micron while remaining a behaviour-stability case. It documents behaviour controls and transport remediation with no true fleece-quality incident.",
+        "hardNegative": true,
+        "hardNegativeForTopic": "fleece-quality",
+        "embedding": [
+          0.063,
+          0.082,
+          0.056,
+          0.042,
+          0.138,
+          0.118,
+          0.089,
+          0.102,
+          0.144,
+          0.106,
+          0.109,
+          0.118,
+          0.783,
+          0.759,
+          0.756,
+          0.712
+        ]
+      }
+    }
+  }
+}

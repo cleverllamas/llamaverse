@@ -1,0 +1,45 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "vector-search-lab",
+      "version": "2.3"
+    },
+    "instance": {
+      "vectorKnowledgeChunk": {
+        "id": "10000000-0000-4000-8000-000000000018",
+        "topic": "fleece-quality",
+        "title": "Protein balance and fibre diameter stability (10)",
+        "llamaIds": [
+          "9c14f3e1-b8c5-4a09-b6da-2f9414ad9130",
+          "92d7dc75-953d-4a28-8516-3467198516b8"
+        ],
+        "keywords": [
+          "fleece",
+          "micron",
+          "shearing",
+          "humidity"
+        ],
+        "text": "Operational review for fleece-quality showed measurable change in cohort 10. Analysts linked outcomes to fleece and micron controls, with secondary effects from shearing planning and humidity safeguards.",
+        "hardNegative": false,
+        "embedding": [
+          0.785,
+          0.763,
+          0.745,
+          0.693,
+          0.1,
+          0.112,
+          0.106,
+          0.087,
+          0.094,
+          0.096,
+          0.094,
+          0.088,
+          0.051,
+          0.068,
+          0.07,
+          0.047
+        ]
+      }
+    }
+  }
+}

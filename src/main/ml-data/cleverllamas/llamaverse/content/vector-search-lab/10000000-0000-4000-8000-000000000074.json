@@ -1,0 +1,46 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "vector-search-lab",
+      "version": "2.3"
+    },
+    "instance": {
+      "vectorKnowledgeChunk": {
+        "id": "10000000-0000-4000-8000-000000000074",
+        "topic": "movement-risk",
+        "title": "Detour load under water-point crowding hard-negative (6)",
+        "llamaIds": [
+          "a6c69bb3-fa75-4327-bed6-1f0623ae2c6c",
+          "87128167-3fbf-4f18-8eab-a77d44eb5fc8"
+        ],
+        "keywords": [
+          "movement",
+          "route",
+          "respiratory",
+          "dust"
+        ],
+        "text": "This movement-risk note intentionally includes lexical bait terms like respiratory and dust while remaining a movement-risk case. It documents movement controls and fatigue remediation with no true respiratory-care incident.",
+        "hardNegative": true,
+        "hardNegativeForTopic": "respiratory-care",
+        "embedding": [
+          0.069,
+          0.064,
+          0.064,
+          0.068,
+          0.129,
+          0.125,
+          0.118,
+          0.108,
+          0.823,
+          0.785,
+          0.745,
+          0.713,
+          0.069,
+          0.065,
+          0.064,
+          0.065
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "vector-search-lab",
+      "version": "2.3"
+    },
+    "instance": {
+      "vectorKnowledgeChunk": {
+        "id": "10000000-0000-4000-8000-000000000047",
+        "topic": "respiratory-care",
+        "title": "Respiratory recovery after transport stress hard-negative (1)",
+        "llamaIds": [
+          "0c8bdb0d-ac62-49b7-ac74-94dbba46efa5",
+          "a6c69bb3-fa75-4327-bed6-1f0623ae2c6c"
+        ],
+        "keywords": [
+          "respiratory",
+          "dust",
+          "movement",
+          "route"
+        ],
+        "text": "This respiratory-care note intentionally includes lexical bait terms like movement and route while remaining a respiratory-care case. It documents respiratory controls and airflow remediation with no true movement-risk incident.",
+        "hardNegative": true,
+        "hardNegativeForTopic": "movement-risk",
+        "embedding": [
+          0.088,
+          0.074,
+          0.082,
+          0.092,
+          0.827,
+          0.779,
+          0.743,
+          0.729,
+          0.146,
+          0.132,
+          0.095,
+          0.074,
+          0.066,
+          0.079,
+          0.077,
+          0.056
+        ]
+      }
+    }
+  }
+}

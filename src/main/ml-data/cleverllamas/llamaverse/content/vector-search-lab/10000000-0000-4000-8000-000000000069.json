@@ -1,0 +1,46 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "vector-search-lab",
+      "version": "2.3"
+    },
+    "instance": {
+      "vectorKnowledgeChunk": {
+        "id": "10000000-0000-4000-8000-000000000069",
+        "topic": "movement-risk",
+        "title": "Stride variance after weather shifts hard-negative (1)",
+        "llamaIds": [
+          "87128167-3fbf-4f18-8eab-a77d44eb5fc8",
+          "0c8bdb0d-ac62-49b7-ac74-94dbba46efa5"
+        ],
+        "keywords": [
+          "movement",
+          "route",
+          "respiratory",
+          "dust"
+        ],
+        "text": "This movement-risk note intentionally includes lexical bait terms like respiratory and dust while remaining a movement-risk case. It documents movement controls and fatigue remediation with no true respiratory-care incident.",
+        "hardNegative": true,
+        "hardNegativeForTopic": "respiratory-care",
+        "embedding": [
+          0.101,
+          0.078,
+          0.054,
+          0.065,
+          0.135,
+          0.111,
+          0.087,
+          0.095,
+          0.835,
+          0.79,
+          0.741,
+          0.727,
+          0.1,
+          0.077,
+          0.05,
+          0.056
+        ]
+      }
+    }
+  }
+}

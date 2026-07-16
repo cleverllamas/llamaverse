@@ -1,0 +1,45 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "vector-search-lab",
+      "version": "2.3"
+    },
+    "instance": {
+      "vectorKnowledgeChunk": {
+        "id": "10000000-0000-4000-8000-000000000083",
+        "topic": "behaviour-stability",
+        "title": "Pre-transport desensitisation routines (9)",
+        "llamaIds": [
+          "47063877-0841-4adc-8a77-32703130aa68",
+          "9c14f3e1-b8c5-4a09-b6da-2f9414ad9130"
+        ],
+        "keywords": [
+          "behaviour",
+          "stress",
+          "transport",
+          "group"
+        ],
+        "text": "Operational review for behaviour-stability showed measurable change in cohort 9. Analysts linked outcomes to behaviour and stress controls, with secondary effects from transport planning and group safeguards.",
+        "hardNegative": false,
+        "embedding": [
+          0.077,
+          0.052,
+          0.065,
+          0.065,
+          0.112,
+          0.113,
+          0.118,
+          0.086,
+          0.126,
+          0.135,
+          0.106,
+          0.092,
+          0.805,
+          0.769,
+          0.727,
+          0.723
+        ]
+      }
+    }
+  }
+}

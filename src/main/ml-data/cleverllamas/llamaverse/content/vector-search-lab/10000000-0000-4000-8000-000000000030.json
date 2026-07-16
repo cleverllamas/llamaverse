@@ -1,0 +1,46 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "vector-search-lab",
+      "version": "2.3"
+    },
+    "instance": {
+      "vectorKnowledgeChunk": {
+        "id": "10000000-0000-4000-8000-000000000030",
+        "topic": "fleece-quality",
+        "title": "Staple alignment after rotational paddock changes hard-negative (6)",
+        "llamaIds": [
+          "0c8bdb0d-ac62-49b7-ac74-94dbba46efa5",
+          "a6c69bb3-fa75-4327-bed6-1f0623ae2c6c"
+        ],
+        "keywords": [
+          "fleece",
+          "micron",
+          "behaviour",
+          "stress"
+        ],
+        "text": "This fleece-quality note intentionally includes lexical bait terms like behaviour and stress while remaining a fleece-quality case. It documents fleece controls and shearing remediation with no true behaviour-stability incident.",
+        "hardNegative": true,
+        "hardNegativeForTopic": "behaviour-stability",
+        "embedding": [
+          0.808,
+          0.777,
+          0.732,
+          0.68,
+          0.104,
+          0.118,
+          0.107,
+          0.091,
+          0.093,
+          0.082,
+          0.088,
+          0.107,
+          0.065,
+          0.049,
+          0.046,
+          0.06
+        ]
+      }
+    }
+  }
+}

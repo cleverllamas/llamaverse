@@ -1,0 +1,45 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "vector-search-lab",
+      "version": "2.3"
+    },
+    "instance": {
+      "vectorKnowledgeChunk": {
+        "id": "10000000-0000-4000-8000-000000000038",
+        "topic": "respiratory-care",
+        "title": "Morning cough markers after dust events (8)",
+        "llamaIds": [
+          "9c14f3e1-b8c5-4a09-b6da-2f9414ad9130",
+          "92d7dc75-953d-4a28-8516-3467198516b8"
+        ],
+        "keywords": [
+          "respiratory",
+          "dust",
+          "airflow",
+          "barn"
+        ],
+        "text": "Operational review for respiratory-care showed measurable change in cohort 8. Analysts linked outcomes to respiratory and dust controls, with secondary effects from airflow planning and barn safeguards.",
+        "hardNegative": false,
+        "embedding": [
+          0.099,
+          0.099,
+          0.07,
+          0.083,
+          0.822,
+          0.771,
+          0.767,
+          0.738,
+          0.12,
+          0.129,
+          0.101,
+          0.077,
+          0.086,
+          0.067,
+          0.051,
+          0.07
+        ]
+      }
+    }
+  }
+}

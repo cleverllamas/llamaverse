@@ -1,0 +1,45 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "vector-search-lab",
+      "version": "2.3"
+    },
+    "instance": {
+      "vectorKnowledgeChunk": {
+        "id": "10000000-0000-4000-8000-000000000067",
+        "topic": "movement-risk",
+        "title": "Stride variance after weather shifts (15)",
+        "llamaIds": [
+          "9c14f3e1-b8c5-4a09-b6da-2f9414ad9130",
+          "92d7dc75-953d-4a28-8516-3467198516b8"
+        ],
+        "keywords": [
+          "movement",
+          "route",
+          "fatigue",
+          "slope"
+        ],
+        "text": "Operational review for movement-risk showed measurable change in cohort 15. Analysts linked outcomes to movement and route controls, with secondary effects from fatigue planning and slope safeguards.",
+        "hardNegative": false,
+        "embedding": [
+          0.078,
+          0.086,
+          0.059,
+          0.078,
+          0.106,
+          0.124,
+          0.089,
+          0.11,
+          0.806,
+          0.802,
+          0.745,
+          0.739,
+          0.076,
+          0.081,
+          0.062,
+          0.059
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "vector-search-lab",
+      "version": "2.3"
+    },
+    "instance": {
+      "vectorKnowledgeChunk": {
+        "id": "10000000-0000-4000-8000-000000000025",
+        "topic": "fleece-quality",
+        "title": "Shearing window variance in late spring hard-negative (1)",
+        "llamaIds": [
+          "a6c69bb3-fa75-4327-bed6-1f0623ae2c6c",
+          "87128167-3fbf-4f18-8eab-a77d44eb5fc8"
+        ],
+        "keywords": [
+          "fleece",
+          "micron",
+          "behaviour",
+          "stress"
+        ],
+        "text": "This fleece-quality note intentionally includes lexical bait terms like behaviour and stress while remaining a fleece-quality case. It documents fleece controls and shearing remediation with no true behaviour-stability incident.",
+        "hardNegative": true,
+        "hardNegativeForTopic": "behaviour-stability",
+        "embedding": [
+          0.791,
+          0.756,
+          0.747,
+          0.681,
+          0.116,
+          0.12,
+          0.076,
+          0.1,
+          0.11,
+          0.079,
+          0.095,
+          0.086,
+          0.056,
+          0.08,
+          0.045,
+          0.051
+        ]
+      }
+    }
+  }
+}

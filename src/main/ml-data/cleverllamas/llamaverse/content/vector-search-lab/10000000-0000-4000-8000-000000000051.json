@@ -1,0 +1,46 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "vector-search-lab",
+      "version": "2.3"
+    },
+    "instance": {
+      "vectorKnowledgeChunk": {
+        "id": "10000000-0000-4000-8000-000000000051",
+        "topic": "respiratory-care",
+        "title": "Ventilation tuning for enclosed barns hard-negative (5)",
+        "llamaIds": [
+          "a6c69bb3-fa75-4327-bed6-1f0623ae2c6c",
+          "87128167-3fbf-4f18-8eab-a77d44eb5fc8"
+        ],
+        "keywords": [
+          "respiratory",
+          "dust",
+          "movement",
+          "route"
+        ],
+        "text": "This respiratory-care note intentionally includes lexical bait terms like movement and route while remaining a respiratory-care case. It documents respiratory controls and airflow remediation with no true movement-risk incident.",
+        "hardNegative": true,
+        "hardNegativeForTopic": "movement-risk",
+        "embedding": [
+          0.108,
+          0.09,
+          0.073,
+          0.062,
+          0.803,
+          0.784,
+          0.77,
+          0.749,
+          0.145,
+          0.12,
+          0.088,
+          0.074,
+          0.062,
+          0.067,
+          0.073,
+          0.073
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "vector-search-lab",
+      "version": "2.3"
+    },
+    "instance": {
+      "vectorKnowledgeChunk": {
+        "id": "10000000-0000-4000-8000-000000000009",
+        "topic": "fleece-quality",
+        "title": "Lanolin retention during humid nights (1)",
+        "llamaIds": [
+          "9c14f3e1-b8c5-4a09-b6da-2f9414ad9130",
+          "92d7dc75-953d-4a28-8516-3467198516b8"
+        ],
+        "keywords": [
+          "fleece",
+          "micron",
+          "shearing",
+          "humidity"
+        ],
+        "text": "Operational review for fleece-quality showed measurable change in cohort 1. Analysts linked outcomes to fleece and micron controls, with secondary effects from shearing planning and humidity safeguards.",
+        "hardNegative": false,
+        "embedding": [
+          0.8,
+          0.75,
+          0.718,
+          0.692,
+          0.124,
+          0.123,
+          0.096,
+          0.081,
+          0.094,
+          0.088,
+          0.088,
+          0.105,
+          0.07,
+          0.057,
+          0.043,
+          0.044
+        ]
+      }
+    }
+  }
+}

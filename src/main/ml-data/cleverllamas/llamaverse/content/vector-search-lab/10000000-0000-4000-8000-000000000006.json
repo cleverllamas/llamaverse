@@ -1,0 +1,21 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "vector-search-lab",
+      "version": "2.3"
+    },
+    "instance": {
+      "vectorKnowledgeChunk": {
+        "id": "10000000-0000-4000-8000-000000000006",
+        "topic": "movement-risk",
+        "title": "Water-point congestion and detour behaviour",
+        "llamaIds": [
+          "1024fa02-cd67-44f2-8d8c-0c5f16ccb7d1"
+        ],
+        "keywords": ["movement", "water-access", "behaviour", "routes"],
+        "text": "Midday congestion around two shared water points produced repeated detour loops and extra travel distance. Staggered access windows and a temporary third trough cut unnecessary movement overhead.",
+        "embedding": [0.082, 0.076, 0.069, 0.063, 0.121, 0.112, 0.103, 0.097, 0.806, 0.777, 0.745, 0.719, 0.086, 0.074, 0.068, 0.057]
+      }
+    }
+  }
+}

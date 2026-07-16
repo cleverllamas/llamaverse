@@ -1,0 +1,46 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "vector-search-lab",
+      "version": "2.3"
+    },
+    "instance": {
+      "vectorKnowledgeChunk": {
+        "id": "10000000-0000-4000-8000-000000000094",
+        "topic": "behaviour-stability",
+        "title": "Social mixing effects in mixed-age cohorts hard-negative (4)",
+        "llamaIds": [
+          "a6c69bb3-fa75-4327-bed6-1f0623ae2c6c",
+          "87128167-3fbf-4f18-8eab-a77d44eb5fc8"
+        ],
+        "keywords": [
+          "behaviour",
+          "stress",
+          "fleece",
+          "micron"
+        ],
+        "text": "This behaviour-stability note intentionally includes lexical bait terms like fleece and micron while remaining a behaviour-stability case. It documents behaviour controls and transport remediation with no true fleece-quality incident.",
+        "hardNegative": true,
+        "hardNegativeForTopic": "fleece-quality",
+        "embedding": [
+          0.072,
+          0.068,
+          0.062,
+          0.058,
+          0.128,
+          0.117,
+          0.109,
+          0.1,
+          0.137,
+          0.126,
+          0.115,
+          0.108,
+          0.799,
+          0.774,
+          0.748,
+          0.722
+        ]
+      }
+    }
+  }
+}

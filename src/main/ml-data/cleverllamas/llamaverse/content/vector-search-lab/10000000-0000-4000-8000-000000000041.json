@@ -1,0 +1,45 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "vector-search-lab",
+      "version": "2.3"
+    },
+    "instance": {
+      "vectorKnowledgeChunk": {
+        "id": "10000000-0000-4000-8000-000000000041",
+        "topic": "respiratory-care",
+        "title": "Fine particulate controls in winter housing (11)",
+        "llamaIds": [
+          "9c14f3e1-b8c5-4a09-b6da-2f9414ad9130",
+          "92d7dc75-953d-4a28-8516-3467198516b8"
+        ],
+        "keywords": [
+          "respiratory",
+          "dust",
+          "airflow",
+          "barn"
+        ],
+        "text": "Operational review for respiratory-care showed measurable change in cohort 11. Analysts linked outcomes to respiratory and dust controls, with secondary effects from airflow planning and barn safeguards.",
+        "hardNegative": false,
+        "embedding": [
+          0.106,
+          0.102,
+          0.098,
+          0.091,
+          0.829,
+          0.797,
+          0.768,
+          0.741,
+          0.137,
+          0.119,
+          0.096,
+          0.083,
+          0.064,
+          0.055,
+          0.049,
+          0.043
+        ]
+      }
+    }
+  }
+}

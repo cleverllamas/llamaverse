@@ -1,0 +1,46 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "vector-search-lab",
+      "version": "2.3"
+    },
+    "instance": {
+      "vectorKnowledgeChunk": {
+        "id": "10000000-0000-4000-8000-000000000029",
+        "topic": "fleece-quality",
+        "title": "Lanolin retention during humid nights hard-negative (5)",
+        "llamaIds": [
+          "87128167-3fbf-4f18-8eab-a77d44eb5fc8",
+          "0c8bdb0d-ac62-49b7-ac74-94dbba46efa5"
+        ],
+        "keywords": [
+          "fleece",
+          "micron",
+          "behaviour",
+          "stress"
+        ],
+        "text": "This fleece-quality note intentionally includes lexical bait terms like behaviour and stress while remaining a fleece-quality case. It documents fleece controls and shearing remediation with no true behaviour-stability incident.",
+        "hardNegative": true,
+        "hardNegativeForTopic": "behaviour-stability",
+        "embedding": [
+          0.783,
+          0.777,
+          0.718,
+          0.703,
+          0.111,
+          0.105,
+          0.103,
+          0.075,
+          0.123,
+          0.078,
+          0.09,
+          0.087,
+          0.061,
+          0.073,
+          0.043,
+          0.067
+        ]
+      }
+    }
+  }
+}

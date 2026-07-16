@@ -1,0 +1,45 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "vector-search-lab",
+      "version": "2.3"
+    },
+    "instance": {
+      "vectorKnowledgeChunk": {
+        "id": "10000000-0000-4000-8000-000000000014",
+        "topic": "fleece-quality",
+        "title": "Micron consistency after shelter relocation (6)",
+        "llamaIds": [
+          "47063877-0841-4adc-8a77-32703130aa68",
+          "9c14f3e1-b8c5-4a09-b6da-2f9414ad9130"
+        ],
+        "keywords": [
+          "fleece",
+          "micron",
+          "shearing",
+          "humidity"
+        ],
+        "text": "Operational review for fleece-quality showed measurable change in cohort 6. Analysts linked outcomes to fleece and micron controls, with secondary effects from shearing planning and humidity safeguards.",
+        "hardNegative": false,
+        "embedding": [
+          0.796,
+          0.775,
+          0.722,
+          0.69,
+          0.127,
+          0.102,
+          0.085,
+          0.104,
+          0.102,
+          0.083,
+          0.094,
+          0.089,
+          0.053,
+          0.077,
+          0.057,
+          0.039
+        ]
+      }
+    }
+  }
+}
