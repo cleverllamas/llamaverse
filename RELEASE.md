@@ -1,4 +1,4 @@
-# Llamaverse Release Process (Version 2.0+)
+# Llamaverse Release Process (Version 2.3.1+)
 
 ## Overview
 Releases follow a clean private-to-public workflow where internal files are filtered out:
@@ -27,7 +27,7 @@ For every public release, `README.md` must be exactly:
 
 ```bash
 cd /home/david/work/cl2/llamaverse/private/llamaverse-internal
-./release.sh 2.0
+./release.sh 2.3.1
 ```
 
 The script automates all steps below.
@@ -37,8 +37,8 @@ The script automates all steps below.
 ### Step 1: Tag the Private Repo
 ```bash
 cd /home/david/work/cl2/llamaverse/private/llamaverse-internal
-git tag -a 2.0 -m "Release version 2.0"
-git push origin 2.0
+git tag -a 2.3.1 -m "Release version 2.3.1"
+git push origin 2.3.1
 ```
 
 ### Step 2: Copy Private HEAD to Public Local (Cleaned)
@@ -72,19 +72,19 @@ EOF
 ### Step 3: Commit Cleaned Version
 ```bash
 git add -A
-git commit -m "Release version 2.0 from private repo (cleaned)"
-git tag -a 2.0 -m "Release version 2.0"
+git commit -m "Release version 2.3.1 from private repo (cleaned)"
+git tag -a 2.3.1 -m "Release version 2.3.1"
 ```
 
 ### Step 4: Push to Public Remote
 ```bash
 git push origin main --force
-git push origin 2.0
+git push origin 2.3.1
 ```
 
 ### Step 5: Create GitHub Release
 ```bash
-gh release create 2.0 --generate-notes
+gh release create 2.3.1 --generate-notes
 ```
 
 ## Verification
@@ -94,7 +94,7 @@ After release, verify everything is clean and correct:
 ```bash
 # Check private repo has tag
 cd /home/david/work/cl2/llamaverse/private/llamaverse-internal
-git tag -l | grep 2.0
+git tag -l | grep 2.3.1
 
 # Check public repo is clean (no Python files, no gradle.properties)
 cd /home/david/work/cl2/llamaverse/public/llamaverse
@@ -103,10 +103,10 @@ find . -name "gradle.properties" -o -name "*.py"  # Should return nothing
 
 # Verify tags and commits
 git log -1 --oneline
-git tag -l | grep 2.0
+git tag -l | grep 2.3.1
 
 # Check GitHub release exists
-gh release view 2.0
+gh release view 2.3.1
 ```
 
 ## Notes

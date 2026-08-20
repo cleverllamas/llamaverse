@@ -1,0 +1,40 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "grazing-zone"
+    },
+    "instance": {
+      "grazing-zone": {
+        "id": "zone-north-ridge",
+        "name": "North Ridge Grazing Zone",
+        "boundary": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -8.98,
+                53.99
+              ],
+              [
+                -8.90,
+                53.99
+              ],
+              [
+                -8.90,
+                54.05
+              ],
+              [
+                -8.98,
+                54.05
+              ],
+              [
+                -8.98,
+                53.99
+              ]
+            ]
+          ]
+        }
+      }
+    }
+  }
+}

@@ -104,6 +104,52 @@
       "localname": "breed",
       "range-value-positions": false,
       "invalid-values": "reject"
+    },
+    {
+      "scalar-type": "int",
+      "collation": "",
+      "namespace-uri": "",
+      "localname": "heightCm",
+      "range-value-positions": false,
+      "invalid-values": "reject"
+    },
+    {
+      "scalar-type": "dateTime",
+      "collation": "",
+      "namespace-uri": "",
+      "localname": "valid-start",
+      "range-value-positions": false,
+      "invalid-values": "reject"
+    },
+    {
+      "scalar-type": "dateTime",
+      "collation": "",
+      "namespace-uri": "",
+      "localname": "valid-end",
+      "range-value-positions": false,
+      "invalid-values": "reject"
+    },
+    {
+      "scalar-type": "dateTime",
+      "collation": "",
+      "namespace-uri": "",
+      "localname": "system-start",
+      "range-value-positions": false,
+      "invalid-values": "reject"
+    },
+    {
+      "scalar-type": "dateTime",
+      "collation": "",
+      "namespace-uri": "",
+      "localname": "system-end",
+      "range-value-positions": false,
+      "invalid-values": "reject"
+    }
+  ],
+  "path-namespace": [
+    {
+      "prefix": "ll",
+      "namespace-uri": "http://example.com/llamas"
     }
   ],
   "range-path-index": [
@@ -132,6 +178,13 @@
       "scalar-type": "string",
       "path-expression": "/name",
       "collation": "http://marklogic.com/collation/",
+      "range-value-positions": false,
+      "invalid-values": "reject"
+    },
+    {
+      "scalar-type": "int",
+      "path-expression": "/ll:llama-profile/ll:height-cm",
+      "collation": "",
       "range-value-positions": false,
       "invalid-values": "reject"
     }

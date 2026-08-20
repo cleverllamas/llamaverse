@@ -1,0 +1,40 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "grazing-zone"
+    },
+    "instance": {
+      "grazing-zone": {
+        "id": "zone-west-core",
+        "name": "West Core Grazing Zone",
+        "boundary": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -9.18,
+                53.86
+              ],
+              [
+                -9.10,
+                53.86
+              ],
+              [
+                -9.10,
+                53.92
+              ],
+              [
+                -9.18,
+                53.92
+              ],
+              [
+                -9.18,
+                53.86
+              ]
+            ]
+          ]
+        }
+      }
+    }
+  }
+}

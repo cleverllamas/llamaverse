@@ -1,0 +1,40 @@
+{
+  "envelope": {
+    "headers": {
+      "type": "grazing-zone"
+    },
+    "instance": {
+      "grazing-zone": {
+        "id": "zone-south-coastal",
+        "name": "South Coastal Grazing Zone",
+        "boundary": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -9.39,
+                53.72
+              ],
+              [
+                -9.31,
+                53.72
+              ],
+              [
+                -9.31,
+                53.78
+              ],
+              [
+                -9.39,
+                53.78
+              ],
+              [
+                -9.39,
+                53.72
+              ]
+            ]
+          ]
+        }
+      }
+    }
+  }
+}
